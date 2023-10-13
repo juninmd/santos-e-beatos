@@ -1,10 +1,12 @@
 # Santos e Beatos
 
-Bem-vindo ao repositório "Santos e Beatos: Preservação da História e Inspiração". 
+![Alt text](santo.jpg)
+
+Bem-vindo ao repositório "Santos e Beatos: Preservação da História e Inspiração".
 
 Este projeto tem como objetivo preservar a rica história dos santos e beatos da Igreja Católica e proporcionar uma fonte de inspiração. Aqui, você encontrará uma coleção de imagens antigas, restauradas e colorizadas artificialmente, que mantêm viva a narrativa espiritual e cultural da Igreja Católica.
 
-## Você encontrará:
+## Você encontrará
 
 1. **Preservação da História:** Nosso objetivo é preservar a história e a herança espiritual dos santos e beatos da Igreja Católica. Apresentamos imagens históricas que capturam a essência de figuras veneradas ao longo dos séculos.
 
@@ -21,3 +23,9 @@ Este projeto tem como objetivo preservar a rica história dos santos e beatos da
 Junte-se a nós nesta jornada de preservação histórica e inspiração espiritual. Explore, colabore e celebre a rica herança visual da Igreja Católica por meio desta coleção de imagens restauradas e colorizadas.
 
 **Contribuições são bem-vindas!**
+
+## Lista de Santos e Beatos
+
+| Nome                                    | Imagem |
+|---------------------------------------------| ------- |
+| [Padre Donizetti](beatos/padre-donizetti/readme.md) | ![Alt text](beatos/padre-donizetti/imagens/padre_restaurada_colorida.jpg)        |
