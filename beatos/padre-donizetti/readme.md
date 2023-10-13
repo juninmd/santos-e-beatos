@@ -90,3 +90,5 @@ Padre Donizetti distribuía bênçãos diariamente da janela de sua casa, atrain
 |---------------------------------------------|-------------------------------------------|
 | ![Original Image 1](imagens/padre_original.jpg)       | ![Restaurada Image 1](imagens/padre_restaurada_colorida.jpg)      |
 | ![Original Image 2](imagens/padre-donizete-ao-pe-da-santa.jpeg) | ![Restaurada Image 2](imagens/padre-donizete-ao-pe-da-santa-colorida.jpg) |
+|  ![Alt text](padre_3_original.jpg) |  ![Alt text](padre_3_colorida.jpg) |
+|  ![Alt text](padre_2_original.jpg) | ![Alt text](padre_2_colorida.jpg) |
