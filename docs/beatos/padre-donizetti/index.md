@@ -42,7 +42,9 @@ Padre Donizetti de Tambaú é lembrado não apenas por seus serviços religiosos
 
 ## Milagres
 
-## Bilocação
+Ao longo de sua vida e mesmo após sua morte, diversos milagres foram atribuídos à intercessão do Padre Donizetti. Abaixo, alguns dos mais notáveis:
+
+### Bilocação
 
 - **Descrição:** Este é um fenômeno no qual uma pessoa aparece em dois lugares ao mesmo tempo. Há relatos de que o Padre Donizetti foi visto em locais diferentes ao mesmo tempo.
 - **Referência:** [Wikipedia - Donizetti Tavares de Lima](https://pt.wikipedia.org/wiki/Donizetti_Tavares_de_Lima)

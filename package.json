@@ -1,0 +1,24 @@
+{
+  "name": "santos-e-beatos",
+  "version": "1.0.0",
+  "description": "![Alt text](santo.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juninmd/santos-e-beatos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juninmd/santos-e-beatos/issues"
+  },
+  "homepage": "https://github.com/juninmd/santos-e-beatos#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
