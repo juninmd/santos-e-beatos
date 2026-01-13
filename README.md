@@ -28,6 +28,6 @@ Junte-se a nós nesta jornada de preservação histórica e inspiração espirit
 
 | Nome                                    | Imagem |
 |---------------------------------------------| ------- |
-| [Padre Donizetti](beatos/padre-donizetti/readme.md) | ![Alt text](beatos/padre-donizetti/imagens/padre_restaurada_colorida.jpg)        |
-| [São Judas Tadeu](docs/santos/sao-judas-tadeu.md) | Sem Imagem |
-| [Beata Nhá Chica](docs/beatos/nha-chica.md) | Sem Imagem |
+| [Padre Donizetti](docs/beatos/padre-donizetti/index.md) | ![Alt text](docs/beatos/padre-donizetti/imagens/padre_restaurada_colorida.jpg)        |
+| [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
+| [Beata Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/nha-chica.jpg) |

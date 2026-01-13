@@ -2,4 +2,6 @@
 
 Esta seção lista os santos.
 
-- [São Judas Tadeu](sao-judas-tadeu.md)
+[Santa Teresinha do Menino Jesus](santa-teresinha-do-menino-jesus.md)
+[São Francisco de Assis](sao-francisco-de-assis.md)
+[São João Bosco](sao-joao-bosco/index.md)
