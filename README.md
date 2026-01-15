@@ -26,11 +26,18 @@ Junte-se a nós nesta jornada de preservação histórica e inspiração espirit
 
 ## Lista de Santos e Beatos
 
-| Nome                                    | Imagem |
-|---------------------------------------------| ------- |
-| [Padre Donizetti](docs/beatos/padre-donizetti/index.md) | ![Alt text](docs/beatos/padre-donizetti/imagens/padre_restaurada_colorida.jpg)        |
-| [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
-| [Beata Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/nha-chica.jpg) |
+| Nome | Imagem |
+| --- | --- |
+| [Alexandrina de Balasar](docs/beatos/alexandrina-de-balasar/index.md) | ![Alexandrina de Balasar](docs/beatos/alexandrina-de-balasar/imagens/alexandrina.jpg) |
+| [Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/index.md) | ![Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/imagens/isabel-cristina.jpg) |
 | [Beato Carlo Acutis](docs/beatos/carlo-acutis/index.md) | ![Beato Carlo Acutis](docs/beatos/carlo-acutis/imagens/carlo-acutis.jpg) |
-| [Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/index.md) | ![Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/imagens/santa-rita.jpg) |
 | [Beato Pier Giorgio Frassati](docs/beatos/pier-giorgio-frassati/index.md) | ![Beato Pier Giorgio Frassati](docs/beatos/pier-giorgio-frassati/imagens/pier-giorgio.jpg) |
+| [Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/nha-chica.jpg) |
+| [Padre Donizetti](docs/beatos/padre-donizetti/index.md) | ![Padre Donizetti](docs/beatos/padre-donizetti/imagens/padre_restaurada_colorida.jpg) |
+| [Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/index.md) | ![Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/imagens/santa-rita.jpg) |
+| [Santa Teresinha do Menino Jesus](docs/santos/santa-teresinha-do-menino-jesus/index.md) | ![Santa Teresinha](docs/santos/santa-teresinha-do-menino-jesus/imagens/santa-teresinha.jpg) |
+| [Santo Antônio de Pádua](docs/santos/santo-antonio/index.md) | ![Santo Antônio](docs/santos/santo-antonio/imagens/santo-antonio.jpg) |
+| [São Francisco de Assis](docs/santos/sao-francisco-de-assis/index.md) | ![São Francisco](docs/santos/sao-francisco-de-assis/imagens/sao-francisco.jpg) |
+| [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
+| [São Judas Tadeu](docs/santos/sao-judas-tadeu/index.md) | ![São Judas Tadeu](docs/santos/sao-judas-tadeu/imagens/sao-judas.jpg) |
+| [São Padre Pio](docs/santos/sao-padre-pio/index.md) | ![São Padre Pio](docs/santos/sao-padre-pio/imagens/padre-pio.jpg) |
