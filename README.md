@@ -31,3 +31,6 @@ Junte-se a nós nesta jornada de preservação histórica e inspiração espirit
 | [Padre Donizetti](docs/beatos/padre-donizetti/index.md) | ![Alt text](docs/beatos/padre-donizetti/imagens/padre_restaurada_colorida.jpg)        |
 | [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
 | [Beata Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/nha-chica.jpg) |
+| [Beato Carlo Acutis](docs/beatos/carlo-acutis/index.md) | ![Beato Carlo Acutis](docs/beatos/carlo-acutis/imagens/carlo-acutis.jpg) |
+| [Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/index.md) | ![Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/imagens/santa-rita.jpg) |
+| [Beato Pier Giorgio Frassati](docs/beatos/pier-giorgio-frassati/index.md) | ![Beato Pier Giorgio Frassati](docs/beatos/pier-giorgio-frassati/imagens/pier-giorgio.jpg) |
