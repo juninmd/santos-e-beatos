@@ -12,9 +12,12 @@ export default {
         {
           text: 'Beatos',
           items: [
-            { text: 'Padre Donizetti', link: '/beatos/padre-donizetti' },
-            { text: 'Alexandrina de Balasar', link: '/beatos/alexandrina-de-balasar' },
-            { text: 'Carlo Acutis', link: '/beatos/carlo-acutis' }
+            { text: 'Alexandrina de Balasar', link: '/beatos/alexandrina-de-balasar/' },
+            { text: 'Beata Isabel Cristina', link: '/beatos/beata-isabel-cristina/' },
+            { text: 'Beato Carlo Acutis', link: '/beatos/carlo-acutis/' },
+            { text: 'Beato Pier Giorgio Frassati', link: '/beatos/pier-giorgio-frassati/' },
+            { text: 'Nhá Chica', link: '/beatos/nha-chica/' },
+            { text: 'Padre Donizetti', link: '/beatos/padre-donizetti/' }
           ]
         }
       ],
@@ -22,8 +25,13 @@ export default {
         {
           text: 'Santos',
           items: [
-            { text: 'São Francisco de Assis', link: '/santos/sao-francisco-de-assis' },
-            { text: 'Santa Teresinha do Menino Jesus', link: '/santos/santa-teresinha-do-menino-jesus' }
+            { text: 'Santa Rita de Cássia', link: '/santos/santa-rita-de-cassia/' },
+            { text: 'Santa Teresinha do Menino Jesus', link: '/santos/santa-teresinha-do-menino-jesus/' },
+            { text: 'Santo Antônio de Pádua', link: '/santos/santo-antonio/' },
+            { text: 'São Francisco de Assis', link: '/santos/sao-francisco-de-assis/' },
+            { text: 'São João Bosco', link: '/santos/sao-joao-bosco/' },
+            { text: 'São Judas Tadeu', link: '/santos/sao-judas-tadeu/' },
+            { text: 'São Padre Pio', link: '/santos/sao-padre-pio/' }
           ]
         }
       ]
