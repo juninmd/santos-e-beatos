@@ -9,3 +9,4 @@ Esta seção lista os santos.
 - [São João Bosco](sao-joao-bosco/index.md)
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
 - [São Padre Pio](sao-padre-pio/index.md)
+- [São Jorge](sao-jorge/index.md)
