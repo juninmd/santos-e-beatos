@@ -24,6 +24,36 @@ Junte-se a nós nesta jornada de preservação histórica e inspiração espirit
 
 **Contribuições são bem-vindas!**
 
+## Como executar o projeto
+
+Este projeto utiliza [VitePress](https://vitepress.dev/) para gerar a documentação.
+
+### Pré-requisitos
+- Node.js instalado (versão 18 ou superior recomendada)
+
+### Instalação
+Instale as dependências do projeto:
+```bash
+npm install
+```
+
+### Rodando localmente
+Para iniciar o servidor de desenvolvimento:
+```bash
+npm run docs:dev
+```
+O site estará disponível em `http://localhost:5173`.
+
+### Construindo para produção
+Para gerar os arquivos estáticos:
+```bash
+npm run docs:build
+```
+Para visualizar a versão de produção localmente:
+```bash
+npm run docs:preview
+```
+
 ## Lista de Santos e Beatos
 
 | Nome | Imagem |
@@ -35,6 +65,7 @@ Junte-se a nós nesta jornada de preservação histórica e inspiração espirit
 | [Beato Pier Giorgio Frassati](docs/beatos/pier-giorgio-frassati/index.md) | ![Beato Pier Giorgio Frassati](docs/beatos/pier-giorgio-frassati/imagens/pier-giorgio.jpg) |
 | [Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/nha-chica.jpg) |
 | [Padre Donizetti](docs/beatos/padre-donizetti/index.md) | ![Padre Donizetti](docs/beatos/padre-donizetti/imagens/padre_restaurada_colorida.jpg) |
+| [Padre Victor](docs/beatos/padre-victor/index.md) | ![Beato Padre Victor](docs/beatos/padre-victor/imagens/padre-victor.jpg) |
 | [Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/index.md) | ![Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/imagens/santa-rita.jpg) |
 | [Santa Teresinha do Menino Jesus](docs/santos/santa-teresinha-do-menino-jesus/index.md) | ![Santa Teresinha](docs/santos/santa-teresinha-do-menino-jesus/imagens/santa-teresinha.jpg) |
 | [Santo Antônio de Pádua](docs/santos/santo-antonio/index.md) | ![Santo Antônio](docs/santos/santo-antonio/imagens/santo-antonio.jpg) |
@@ -42,4 +73,5 @@ Junte-se a nós nesta jornada de preservação histórica e inspiração espirit
 | [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
 | [São Jorge](docs/santos/sao-jorge/index.md) | ![São Jorge](docs/santos/sao-jorge/imagens/sao-jorge.jpg) |
 | [São Judas Tadeu](docs/santos/sao-judas-tadeu/index.md) | ![São Judas Tadeu](docs/santos/sao-judas-tadeu/imagens/sao-judas.jpg) |
+| [São Maximiliano Kolbe](docs/santos/sao-maximiliano-kolbe/index.md) | ![São Maximiliano Kolbe](docs/santos/sao-maximiliano-kolbe/imagens/maximiliano.jpg) |
 | [São Padre Pio](docs/santos/sao-padre-pio/index.md) | ![São Padre Pio](docs/santos/sao-padre-pio/imagens/padre-pio.jpg) |

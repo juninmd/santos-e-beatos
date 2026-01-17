@@ -18,7 +18,8 @@ export default {
             { text: 'Beato Carlo Acutis', link: '/beatos/carlo-acutis/' },
             { text: 'Beato Pier Giorgio Frassati', link: '/beatos/pier-giorgio-frassati/' },
             { text: 'Nhá Chica', link: '/beatos/nha-chica/' },
-            { text: 'Padre Donizetti', link: '/beatos/padre-donizetti/' }
+            { text: 'Padre Donizetti', link: '/beatos/padre-donizetti/' },
+            { text: 'Padre Victor', link: '/beatos/padre-victor/' }
           ]
         }
       ],
@@ -33,6 +34,7 @@ export default {
             { text: 'São João Bosco', link: '/santos/sao-joao-bosco/' },
             { text: 'São Jorge', link: '/santos/sao-jorge/' },
             { text: 'São Judas Tadeu', link: '/santos/sao-judas-tadeu/' },
+            { text: 'São Maximiliano Kolbe', link: '/santos/sao-maximiliano-kolbe/' },
             { text: 'São Padre Pio', link: '/santos/sao-padre-pio/' }
           ]
         }

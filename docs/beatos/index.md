@@ -9,3 +9,4 @@ Esta seção lista os beatos.
 - [Beato Pier Giorgio Frassati](pier-giorgio-frassati/index.md)
 - [Nhá Chica](nha-chica/index.md)
 - [Padre Donizetti](padre-donizetti/index.md)
+- [Padre Victor](padre-victor/index.md)
