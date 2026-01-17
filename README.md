@@ -24,6 +24,36 @@ Junte-se a nós nesta jornada de preservação histórica e inspiração espirit
 
 **Contribuições são bem-vindas!**
 
+## Como executar o projeto
+
+Este projeto utiliza [VitePress](https://vitepress.dev/) para gerar a documentação.
+
+### Pré-requisitos
+- Node.js instalado (versão 18 ou superior recomendada)
+
+### Instalação
+Instale as dependências do projeto:
+```bash
+npm install
+```
+
+### Rodando localmente
+Para iniciar o servidor de desenvolvimento:
+```bash
+npm run docs:dev
+```
+O site estará disponível em `http://localhost:5173`.
+
+### Construindo para produção
+Para gerar os arquivos estáticos:
+```bash
+npm run docs:build
+```
+Para visualizar a versão de produção localmente:
+```bash
+npm run docs:preview
+```
+
 ## Lista de Santos e Beatos
 
 | Nome | Imagem |
