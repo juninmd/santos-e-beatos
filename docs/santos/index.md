@@ -8,5 +8,6 @@ Esta seção lista os santos.
 - [São Francisco de Assis](sao-francisco-de-assis/index.md)
 - [São João Bosco](sao-joao-bosco/index.md)
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
+- [São Maximiliano Kolbe](sao-maximiliano-kolbe/index.md)
 - [São Padre Pio](sao-padre-pio/index.md)
 - [São Jorge](sao-jorge/index.md)
