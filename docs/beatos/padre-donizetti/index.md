@@ -1,6 +1,15 @@
 # Padre Donizetti Tavares de Lima
 
-![Alt text](imagens/padre-donizete-ao-pe-da-santa-colorida.jpg)
+![Padre Donizetti](imagens/padre_restaurada_colorida.jpg)
+
+**"O Taumaturgo de Tambaú"**
+
+**Nascimento:** 3 de janeiro de 1882, Cássia (MG)
+**Morte:** 16 de junho de 1961, Tambaú (SP)
+**Festa Litúrgica:** 16 de junho
+**Beatificação:** 23 de novembro de 2019, pelo Papa Francisco
+
+---
 
 Padre Donizetti Tavares de Lima foi um proeminente sacerdote católico brasileiro conhecido não apenas por sua devoção religiosa, mas também por sua influência e história de vida marcantes. Neste documento, exploraremos sua biografia e algumas curiosidades interessantes sobre ele.
 
@@ -86,11 +95,11 @@ Padre Donizetti distribuía bênçãos diariamente da janela de sua casa, atrain
 - **Descrição:** Um milagre relatado por Antônio Cândido de Souza, que narrou que seu filho, Alberto Luiz de Souza, voltou à vida após estar morto durante 10 minutos, pela invocação do nome de Nossa Senhora Aparecida e do Padre Donizetti.
 - **Referência:** [Jornal da Franca - Padre Donizetti: um dos nomes mais conhecidos da igreja morou em Franca](https://www.jornaldafranca.com.br/padre-donizetti-um-dos-nomes-mais-conhecidos-da-igreja-morou-em-franca/)
 
-## Imagens Restauradas
+## Galeria de Imagens e Restaurações
 
-| Original                                     | Restaurada                                |
-|---------------------------------------------|-------------------------------------------|
-| ![Original Image 1](imagens/padre_original.jpg)       | ![Restaurada Image 1](imagens/padre_restaurada_colorida.jpg)      |
-| ![Original Image 2](imagens/padre-donizete-ao-pe-da-santa.jpeg) | ![Restaurada Image 2](imagens/padre-donizete-ao-pe-da-santa-colorida.jpg) |
-|  ![Alt text](padre_3_original.jpg) |  ![Alt text](padre_3_colorida.jpg) |
-|  ![Alt text](padre_2_original.jpg) | ![Alt text](padre_2_colorida.jpg) |
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Padre Donizetti Original](imagens/padre_original.jpg) | ![Padre Donizetti Restaurada](imagens/padre_restaurada_colorida.jpg) |
+| ![Padre Donizetti 2 Original](imagens/padre_2_original.jpg) | ![Padre Donizetti 2 Colorizada](imagens/padre_2_colorida.jpg) |
+| ![Padre Donizetti 3 Original](imagens/padre_3_original.jpg) | ![Padre Donizetti 3 Colorizada](imagens/padre_3_colorida.jpg) |
+| ![Ao pé da Santa Original](imagens/padre-donizete-ao-pe-da-santa.jpeg) | ![Ao pé da Santa Colorizada](imagens/padre-donizete-ao-pe-da-santa-colorida.jpg) |
