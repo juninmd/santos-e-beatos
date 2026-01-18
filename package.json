@@ -22,5 +22,8 @@
   "homepage": "https://github.com/juninmd/santos-e-beatos#readme",
   "devDependencies": {
     "vitepress": "^1.6.3"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
   }
 }
