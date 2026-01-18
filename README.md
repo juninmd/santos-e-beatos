@@ -70,9 +70,9 @@ npm run docs:preview
 | [Beata Maria Gabriela da Unidade](docs/beatos/beata-maria-gabriela-da-unidade/index.md) | ![Beata Maria Gabriela da Unidade](https://placehold.co/400x600/png?text=Beata+Maria+Gabriela+da+Unidade) |
 | [Beata Maria Troncatti](docs/beatos/beata-maria-troncatti/index.md) | ![Beata Maria Troncatti](https://placehold.co/400x600/png?text=Beata+Maria+Troncatti) |
 | [Beata Sandra Sabattini](docs/beatos/beata-sandra-sabattini/index.md) | ![Beata Sandra Sabattini](https://placehold.co/400x600/png?text=Beata+Sandra+Sabattini) |
+| [Beato Miguel Pro](docs/beatos/beato-miguel-pro/index.md) | ![Beato Miguel Pro](https://placehold.co/400x600/png?text=Beato+Miguel+Pro) |
 | [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](https://placehold.co/400x600/png?text=Beato+Adilio+Daronch) |
 | [Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/index.md) | ![Beato Álvaro del Portillo](https://placehold.co/400x600/png?text=Beato+Alvaro+del+Portillo) |
-| [Beato Carlo Acutis](docs/beatos/carlo-acutis/index.md) | ![Beato Carlo Acutis](docs/beatos/carlo-acutis/imagens/carlo-acutis.jpg) |
 | [Beato Franz Jägerstätter](docs/beatos/beato-franz-jagerstatter/index.md) | ![Beato Franz Jägerstätter](https://placehold.co/400x600/png?text=Beato+Franz+Jagerstatter) |
 | [Beato Frederico Ozanam](docs/beatos/beato-frederico-ozanam/index.md) | ![Beato Frederico Ozanam](https://placehold.co/400x600/png?text=Beato+Frederico+Ozanam) |
 | [Beato João Paulo I](docs/beatos/beato-joao-paulo-i/index.md) | ![Beato João Paulo I](https://placehold.co/400x600/png?text=Beato+Joao+Paulo+I) |
@@ -89,11 +89,13 @@ npm run docs:preview
 | [Padre Victor](docs/beatos/padre-victor/index.md) | ![Beato Padre Victor](docs/beatos/padre-victor/imagens/padre-victor.jpg) |
 | [Santa Inês](docs/santos/santa-ines/index.md) | ![Santa Inês](https://placehold.co/400x600/png?text=Santa+Ines) |
 | [Santa Maria Madalena](docs/santos/santa-maria-madalena/index.md) | ![Santa Maria Madalena](https://placehold.co/400x600/png?text=Santa+Maria+Madalena) |
+| [Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/index.md) | ![Santa Dulce dos Pobres](https://placehold.co/400x600/png?text=Santa+Dulce+dos+Pobres) |
 | [Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/index.md) | ![Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/imagens/santa-rita.jpg) |
 | [Santa Teresinha do Menino Jesus](docs/santos/santa-teresinha-do-menino-jesus/index.md) | ![Santa Teresinha](docs/santos/santa-teresinha-do-menino-jesus/imagens/santa-teresinha.jpg) |
 | [Santo André](docs/santos/santo-andre/index.md) | ![Santo André](https://placehold.co/400x600/png?text=Santo+Andre) |
 | [Santo Antônio de Pádua](docs/santos/santo-antonio/index.md) | ![Santo Antônio](docs/santos/santo-antonio/imagens/santo-antonio.jpg) |
 | [São Bartolomeu](docs/santos/sao-bartolomeu/index.md) | ![São Bartolomeu](https://placehold.co/400x600/png?text=Sao+Bartolomeu) |
+| [São Carlo Acutis](docs/santos/carlo-acutis/index.md) | ![São Carlo Acutis](docs/santos/carlo-acutis/imagens/carlo-acutis.jpg) |
 | [São Estevão](docs/santos/sao-estevao/index.md) | ![São Estevão](https://placehold.co/400x600/png?text=Sao+Estevao) |
 | [São Filipe](docs/santos/sao-filipe/index.md) | ![São Filipe](https://placehold.co/400x600/png?text=Sao+Filipe) |
 | [São Filipe Neri](docs/santos/sao-filipe-neri/index.md) | ![São Filipe Neri](docs/santos/sao-filipe-neri/imagens/sao-filipe-neri.jpg) |

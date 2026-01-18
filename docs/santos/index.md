@@ -4,11 +4,13 @@ Esta seção lista os santos.
 
 - [Santa Inês](santa-ines/index.md)
 - [Santa Maria Madalena](santa-maria-madalena/index.md)
+- [Santa Dulce dos Pobres](santa-dulce-dos-pobres/index.md)
 - [Santa Rita de Cássia](santa-rita-de-cassia/index.md)
 - [Santa Teresinha do Menino Jesus](santa-teresinha-do-menino-jesus/index.md)
 - [Santo André](santo-andre/index.md)
 - [Santo Antônio de Pádua](santo-antonio/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
+- [São Carlo Acutis](carlo-acutis/index.md)
 - [São Estevão](sao-estevao/index.md)
 - [São Filipe](sao-filipe/index.md)
 - [São Filipe Neri](sao-filipe-neri/index.md)
