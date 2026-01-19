@@ -9,6 +9,7 @@ Esta seção lista os beatos.
 - [Beata Chiara Luce Badano](beata-chiara-luce-badano/index.md)
 - [Beata Elena Guerra](beata-elena-guerra/index.md)
 - [Beata Isabel Cristina](beata-isabel-cristina/index.md)
+- [Beata Laura Vicuña](beata-laura-vicuna/index.md)
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
 - [Beata Maria da Conceição](beata-maria-da-conceicao/index.md)
 - [Beata Maria Gabriela da Unidade](beata-maria-gabriela-da-unidade/index.md)
