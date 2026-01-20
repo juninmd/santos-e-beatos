@@ -21,6 +21,7 @@ Esta seção lista os beatos.
 - [Beato Franz Jägerstätter](beato-franz-jagerstatter/index.md)
 - [Beato Frederico Ozanam](beato-frederico-ozanam/index.md)
 - [Beato João Paulo I](beato-joao-paulo-i/index.md)
+- [Beato José Gregorio Hernández](beato-jose-gregorio-hernandez/index.md)
 - [Beato Manuel Lozano Garrido](beato-manuel-lozano-garrido/index.md)
 - [Beato Marcel Callo](beato-marcel-callo/index.md)
 - [Beato Mariano de la Mata](beato-mariano-de-la-mata/index.md)

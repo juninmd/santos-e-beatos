@@ -16,6 +16,7 @@ Esta seção lista os santos.
 - [São Filipe](sao-filipe/index.md)
 - [São Filipe Neri](sao-filipe-neri/index.md)
 - [São Francisco de Assis](sao-francisco-de-assis/index.md)
+- [São Geraldo Majella](sao-geraldo-majella/index.md)
 - [São João Bosco](sao-joao-bosco/index.md)
 - [São João Evangelista](sao-joao-evangelista/index.md)
 - [São Jorge](sao-jorge/index.md)
