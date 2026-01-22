@@ -11,6 +11,7 @@ Esta seção lista os santos.
 - [Santo André](santo-andre/index.md)
 - [Santo Antônio de Pádua](santo-antonio/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
+- [São Bento](sao-bento/index.md)
 - [São Carlo Acutis](carlo-acutis/index.md)
 - [São Estevão](sao-estevao/index.md)
 - [São Filipe](sao-filipe/index.md)
