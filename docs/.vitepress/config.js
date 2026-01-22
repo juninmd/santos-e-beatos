@@ -25,6 +25,7 @@ export default {
             { text: 'Beata Maria Gabriela da Unidade', link: '/beatos/beata-maria-gabriela-da-unidade/' },
             { text: 'Beata Maria Troncatti', link: '/beatos/beata-maria-troncatti/' },
             { text: 'Beata Sandra Sabattini', link: '/beatos/beata-sandra-sabattini/' },
+            { text: 'Beato Carlos Manuel Rodríguez', link: '/beatos/beato-carlos-manuel/' },
             { text: 'Beato Miguel Pro', link: '/beatos/beato-miguel-pro/' },
             { text: 'Beato Adílio Daronch', link: '/beatos/beato-adilio-daronch/' },
             { text: 'Beato Álvaro del Portillo', link: '/beatos/beato-alvaro-del-portillo/' },
@@ -52,6 +53,7 @@ export default {
           items: [
             { text: 'Santa Inês', link: '/santos/santa-ines/' },
             { text: 'Santa Maria Madalena', link: '/santos/santa-maria-madalena/' },
+            { text: 'Santa Mônica', link: '/santos/santa-monica/' },
             { text: 'Santa Dulce dos Pobres', link: '/santos/santa-dulce-dos-pobres/' },
             { text: 'Santa Faustina Kowalska', link: '/santos/santa-faustina-kowalska/' },
             { text: 'Santa Rita de Cássia', link: '/santos/santa-rita-de-cassia/' },
