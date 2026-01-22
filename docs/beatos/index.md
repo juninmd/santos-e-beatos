@@ -15,6 +15,7 @@ Esta seção lista os beatos.
 - [Beata Maria Gabriela da Unidade](beata-maria-gabriela-da-unidade/index.md)
 - [Beata Maria Troncatti](beata-maria-troncatti/index.md)
 - [Beata Sandra Sabattini](beata-sandra-sabattini/index.md)
+- [Beato Bartolo Longo](beato-bartolo-longo/index.md)
 - [Beato Miguel Pro](beato-miguel-pro/index.md)
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Álvaro del Portillo](beato-alvaro-del-portillo/index.md)
