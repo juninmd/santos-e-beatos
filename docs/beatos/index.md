@@ -19,6 +19,7 @@ Esta seção lista os beatos.
 - [Beato Miguel Pro](beato-miguel-pro/index.md)
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Álvaro del Portillo](beato-alvaro-del-portillo/index.md)
+- [Beato Fra Angelico](beato-fra-angelico/index.md)
 - [Beato Franz Jägerstätter](beato-franz-jagerstatter/index.md)
 - [Beato Frederico Ozanam](beato-frederico-ozanam/index.md)
 - [Beato João Paulo I](beato-joao-paulo-i/index.md)
