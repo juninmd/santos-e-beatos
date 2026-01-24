@@ -8,6 +8,7 @@ Esta seção lista os santos.
 - [Santa Faustina Kowalska](santa-faustina-kowalska/index.md)
 - [Santa Rita de Cássia](santa-rita-de-cassia/index.md)
 - [Santa Teresinha do Menino Jesus](santa-teresinha-do-menino-jesus/index.md)
+- [Santo Agostinho](santo-agostinho/index.md)
 - [Santo André](santo-andre/index.md)
 - [Santo Antônio de Pádua](santo-antonio/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
