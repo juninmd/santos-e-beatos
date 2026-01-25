@@ -29,6 +29,7 @@ Esta seção lista os beatos.
 - [Beato Mariano de la Mata](beato-mariano-de-la-mata/index.md)
 - [Beato Padre Eustáquio](beato-padre-eustaquio/index.md)
 - [Beato Pier Giorgio Frassati](pier-giorgio-frassati/index.md)
+- [Beato Pino Puglisi](beato-pino-puglisi/index.md)
 - [Beato Rolando Rivi](beato-rolando-rivi/index.md)
 - [Beato Tiago Alberione](beato-tiago-alberione/index.md)
 - [Beato Zeferino Namuncurá](beato-zeferino-namuncura/index.md)
