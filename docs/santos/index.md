@@ -21,6 +21,7 @@ Esta seção lista os santos.
 - [São Geraldo Majella](sao-geraldo-majella/index.md)
 - [São João Bosco](sao-joao-bosco/index.md)
 - [São João Evangelista](sao-joao-evangelista/index.md)
+- [São João Paulo II](sao-joao-paulo-ii/index.md)
 - [São Jorge](sao-jorge/index.md)
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
 - [São Lourenço](sao-lourenco/index.md)
