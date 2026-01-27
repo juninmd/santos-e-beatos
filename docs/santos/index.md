@@ -13,6 +13,7 @@ Esta seção lista os santos.
 - [Santo Antônio de Pádua](santo-antonio/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
 - [São Bento](sao-bento/index.md)
+- [São Camilo de Lellis](sao-camilo-de-lellis/index.md)
 - [São Carlo Acutis](carlo-acutis/index.md)
 - [São Estevão](sao-estevao/index.md)
 - [São Filipe](sao-filipe/index.md)
