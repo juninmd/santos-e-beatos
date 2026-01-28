@@ -14,6 +14,7 @@ Esta seção lista os beatos.
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
 - [Beata Maria da Conceição](beata-maria-da-conceicao/index.md)
 - [Beata Maria Gabriela da Unidade](beata-maria-gabriela-da-unidade/index.md)
+- [Beata Maria Romero Meneses](beata-maria-romero-meneses/index.md)
 - [Beata Maria Troncatti](beata-maria-troncatti/index.md)
 - [Beata Sandra Sabattini](beata-sandra-sabattini/index.md)
 - [Beato Bartolo Longo](beato-bartolo-longo/index.md)

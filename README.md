@@ -70,6 +70,7 @@ npm run docs:preview
 | [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](https://placehold.co/400x600/png?text=Beata+Lindalva+Justo+de+Oliveira) |
 | [Beata Maria da Conceição](docs/beatos/beata-maria-da-conceicao/index.md) | ![Beata Maria da Conceição](https://placehold.co/400x600/png?text=Beata+Maria+da+Conceicao) |
 | [Beata Maria Gabriela da Unidade](docs/beatos/beata-maria-gabriela-da-unidade/index.md) | ![Beata Maria Gabriela da Unidade](https://placehold.co/400x600/png?text=Beata+Maria+Gabriela+da+Unidade) |
+| [Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/index.md) | ![Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/imagens/maria-romero.jpg) |
 | [Beata Maria Troncatti](docs/beatos/beata-maria-troncatti/index.md) | ![Beata Maria Troncatti](https://placehold.co/400x600/png?text=Beata+Maria+Troncatti) |
 | [Beata Sandra Sabattini](docs/beatos/beata-sandra-sabattini/index.md) | ![Beata Sandra Sabattini](https://placehold.co/400x600/png?text=Beata+Sandra+Sabattini) |
 | [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](https://placehold.co/400x600/png?text=Bartolo+Longo) |
@@ -99,6 +100,7 @@ npm run docs:preview
 | [Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/index.md) | ![Santa Dulce dos Pobres](https://placehold.co/400x600/png?text=Santa+Dulce+dos+Pobres) |
 | [Santa Faustina Kowalska](docs/santos/santa-faustina-kowalska/index.md) | ![Santa Faustina Kowalska](docs/santos/santa-faustina-kowalska/imagens/santa-faustina.jpg) |
 | [Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/index.md) | ![Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/imagens/santa-rita.jpg) |
+| [Santa Rosa de Lima](docs/santos/santa-rosa-de-lima/index.md) | ![Santa Rosa de Lima](docs/santos/santa-rosa-de-lima/imagens/santa-rosa.jpg) |
 | [Santa Teresinha do Menino Jesus](docs/santos/santa-teresinha-do-menino-jesus/index.md) | ![Santa Teresinha](docs/santos/santa-teresinha-do-menino-jesus/imagens/santa-teresinha.jpg) |
 | [Santo Agostinho](docs/santos/santo-agostinho/index.md) | ![Santo Agostinho](docs/santos/santo-agostinho/imagens/agostinho.jpg) |
 | [Santo André](docs/santos/santo-andre/index.md) | ![Santo André](https://placehold.co/400x600/png?text=Santo+Andre) |
