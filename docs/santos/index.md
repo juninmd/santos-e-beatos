@@ -4,6 +4,7 @@ Esta seção lista os santos.
 
 - [Santa Inês](santa-ines/index.md)
 - [Santa Maria Madalena](santa-maria-madalena/index.md)
+- [Santa Clara de Assis](santa-clara-de-assis/index.md)
 - [Santa Dulce dos Pobres](santa-dulce-dos-pobres/index.md)
 - [Santa Faustina Kowalska](santa-faustina-kowalska/index.md)
 - [Santa Rita de Cássia](santa-rita-de-cassia/index.md)
