@@ -24,6 +24,7 @@ export default {
             { text: 'Beata Laura Vicuña', link: '/beatos/beata-laura-vicuna/' },
             { text: 'Beata Lindalva Justo de Oliveira', link: '/beatos/beata-lindalva-justo-de-oliveira/' },
             { text: 'Beata Maria da Conceição', link: '/beatos/beata-maria-da-conceicao/' },
+            { text: 'Beata Maria do Divino Coração', link: '/beatos/beata-maria-do-divino-coracao/' },
             { text: 'Beata Maria Gabriela da Unidade', link: '/beatos/beata-maria-gabriela-da-unidade/' },
             { text: 'Beata Maria Romero Meneses', link: '/beatos/beata-maria-romero-meneses/' },
             { text: 'Beata Maria Troncatti', link: '/beatos/beata-maria-troncatti/' },
@@ -59,6 +60,7 @@ export default {
           text: 'Santos',
           items: [
             { text: 'Santa Inês', link: '/santos/santa-ines/' },
+            { text: 'Santa Luzia', link: '/santos/santa-luzia/' },
             { text: 'Santa Maria Madalena', link: '/santos/santa-maria-madalena/' },
             { text: 'Santa Mônica', link: '/santos/santa-monica/' },
             { text: 'Santa Clara de Assis', link: '/santos/santa-clara-de-assis/' },
