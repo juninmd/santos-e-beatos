@@ -14,6 +14,7 @@ Esta seção lista os beatos.
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
 - [Beata Maria da Conceição](beata-maria-da-conceicao/index.md)
+- [Beata Maria do Divino Coração](beata-maria-do-divino-coracao/index.md)
 - [Beata Maria Gabriela da Unidade](beata-maria-gabriela-da-unidade/index.md)
 - [Beata Maria Romero Meneses](beata-maria-romero-meneses/index.md)
 - [Beata Maria Troncatti](beata-maria-troncatti/index.md)
