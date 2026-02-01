@@ -11,6 +11,7 @@ Esta seção lista os beatos.
 - [Beata Clélia Merloni](beata-clelia-merloni/index.md)
 - [Beata Elena Aiello](beata-elena-aiello/index.md)
 - [Beata Elena Guerra](beata-elena-guerra/index.md)
+- [Beata Imelda Lambertini](beata-imelda-lambertini/index.md)
 - [Beata Isabel Cristina](beata-isabel-cristina/index.md)
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)

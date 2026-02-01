@@ -10,6 +10,7 @@ Esta seção lista os santos.
 - [Santa Faustina Kowalska](santa-faustina-kowalska/index.md)
 - [Santa Rita de Cássia](santa-rita-de-cassia/index.md)
 - [Santa Rosa de Lima](santa-rosa-de-lima/index.md)
+- [Santa Teresa de Ávila](santa-teresa-de-avila/index.md)
 - [Santa Teresinha do Menino Jesus](santa-teresinha-do-menino-jesus/index.md)
 - [Santo Agostinho](santo-agostinho/index.md)
 - [Santo André](santo-andre/index.md)
