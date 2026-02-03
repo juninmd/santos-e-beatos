@@ -19,6 +19,7 @@ Esta seção lista os santos.
 - [São Bento](sao-bento/index.md)
 - [São Camilo de Lellis](sao-camilo-de-lellis/index.md)
 - [São Carlo Acutis](carlo-acutis/index.md)
+- [São Domingos de Gusmão](sao-domingos-de-gusmao/index.md)
 - [São Estevão](sao-estevao/index.md)
 - [São Filipe](sao-filipe/index.md)
 - [São Filipe Neri](sao-filipe-neri/index.md)
