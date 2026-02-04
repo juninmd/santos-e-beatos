@@ -47,4 +47,5 @@ Esta seção lista os santos.
 - [São Simão](sao-simao/index.md)
 - [São Tiago Maior](sao-tiago-maior/index.md)
 - [São Tiago Menor](sao-tiago-menor/index.md)
+- [São Tomás de Aquino](sao-tomas-de-aquino/index.md)
 - [São Tomé](sao-tome/index.md)

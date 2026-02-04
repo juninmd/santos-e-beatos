@@ -96,6 +96,7 @@ npm run docs:preview
 | [Beato Pier Giorgio Frassati](docs/beatos/pier-giorgio-frassati/index.md) | ![Beato Pier Giorgio Frassati](docs/beatos/pier-giorgio-frassati/imagens/pier-giorgio.jpg) |
 | [Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/index.md) | ![Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/imagens/pino-puglisi.jpg) |
 | [Beato Rolando Rivi](docs/beatos/beato-rolando-rivi/index.md) | ![Beato Rolando Rivi](https://placehold.co/400x600/png?text=Beato+Rolando+Rivi) |
+| [Beato Solanus Casey](docs/beatos/beato-solanus-casey/index.md) | ![Beato Solanus Casey](docs/beatos/beato-solanus-casey/imagens/portrait.jpg) |
 | [Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/index.md) | ![Beato Tiago Alberione](https://placehold.co/400x600/png?text=Beato+Tiago+Alberione) |
 | [Beato Zeferino Namuncurá](docs/beatos/beato-zeferino-namuncura/index.md) | ![Beato Zeferino Namuncurá](https://placehold.co/400x600/png?text=Beato+Zeferino+Namuncura) |
 | [Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/nha-chica.jpg) |
@@ -146,4 +147,5 @@ npm run docs:preview
 | [São Simão](docs/santos/sao-simao/index.md) | ![São Simão](https://placehold.co/400x600/png?text=Sao+Simao) |
 | [São Tiago Maior](docs/santos/sao-tiago-maior/index.md) | ![São Tiago Maior](https://placehold.co/400x600/png?text=Sao+Tiago+Maior) |
 | [São Tiago Menor](docs/santos/sao-tiago-menor/index.md) | ![São Tiago Menor](https://placehold.co/400x600/png?text=Sao+Tiago+Menor) |
+| [São Tomás de Aquino](docs/santos/sao-tomas-de-aquino/index.md) | ![São Tomás de Aquino](docs/santos/sao-tomas-de-aquino/imagens/portrait.jpg) |
 | [São Tomé](docs/santos/sao-tome/index.md) | ![São Tomé](https://placehold.co/400x600/png?text=Sao+Tome) |
