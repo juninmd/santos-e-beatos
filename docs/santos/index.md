@@ -15,6 +15,7 @@ Esta seção lista os santos.
 - [Santo Agostinho](santo-agostinho/index.md)
 - [Santo André](santo-andre/index.md)
 - [Santo Antônio de Pádua](santo-antonio/index.md)
+- [Santo Inácio de Loyola](santo-inacio-de-loyola/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
 - [São Bento](sao-bento/index.md)
 - [São Camilo de Lellis](sao-camilo-de-lellis/index.md)
