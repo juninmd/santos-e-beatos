@@ -40,6 +40,7 @@ Esta seção lista os beatos.
 - [Beato Pier Giorgio Frassati](pier-giorgio-frassati/index.md)
 - [Beato Pino Puglisi](beato-pino-puglisi/index.md)
 - [Beato Rolando Rivi](beato-rolando-rivi/index.md)
+- [Beato Rosário Livatino](beato-rosario-livatino/index.md)
 - [Beato Solanus Casey](beato-solanus-casey/index.md)
 - [Beato Tiago Alberione](beato-tiago-alberione/index.md)
 - [Beato Zeferino Namuncurá](beato-zeferino-namuncura/index.md)
