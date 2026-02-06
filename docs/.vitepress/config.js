@@ -14,6 +14,7 @@ export default {
           items: [
             { text: 'Alexandrina de Balasar', link: '/beatos/alexandrina-de-balasar/' },
             { text: 'Beata Albertina Berkenbrock', link: '/beatos/beata-albertina-berkenbrock/' },
+            { text: 'Beata Ana Catarina Emmerich', link: '/beatos/beata-ana-catarina-emmerich/' },
             { text: 'Beata Assunta Marchetti', link: '/beatos/beata-assunta-marchetti/' },
             { text: 'Beata Bárbara Maix', link: '/beatos/beata-barbara-maix/' },
             { text: 'Beata Benigna', link: '/beatos/beata-benigna/' },
@@ -84,6 +85,7 @@ export default {
             { text: 'São Bento', link: '/santos/sao-bento/' },
             { text: 'São Camilo de Lellis', link: '/santos/sao-camilo-de-lellis/' },
             { text: 'São Carlo Acutis', link: '/santos/carlo-acutis/' },
+            { text: 'São Charbel', link: '/santos/sao-charbel/' },
             { text: 'São Domingos de Gusmão', link: '/santos/sao-domingos-de-gusmao/' },
             { text: 'São Estevão', link: '/santos/sao-estevao/' },
             { text: 'São Filipe', link: '/santos/sao-filipe/' },

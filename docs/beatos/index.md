@@ -4,6 +4,7 @@ Esta seção lista os beatos.
 
 - [Alexandrina de Balasar](alexandrina-de-balasar/index.md)
 - [Beata Albertina Berkenbrock](beata-albertina-berkenbrock/index.md)
+- [Beata Ana Catarina Emmerich](beata-ana-catarina-emmerich/index.md)
 - [Beata Assunta Marchetti](beata-assunta-marchetti/index.md)
 - [Beata Bárbara Maix](beata-barbara-maix/index.md)
 - [Beata Benigna](beata-benigna/index.md)
