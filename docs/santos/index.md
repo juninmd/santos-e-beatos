@@ -18,6 +18,7 @@ Esta seção lista os santos.
 - [Santo Inácio de Loyola](santo-inacio-de-loyola/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
 - [São Bento](sao-bento/index.md)
+- [Santa Bernadete Soubirous](santa-bernadete-soubirous/index.md)
 - [São Camilo de Lellis](sao-camilo-de-lellis/index.md)
 - [São Carlo Acutis](carlo-acutis/index.md)
 - [São Charbel](sao-charbel/index.md)
