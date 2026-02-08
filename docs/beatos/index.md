@@ -34,6 +34,7 @@ Esta seção lista os beatos.
 - [Beato Jerzy Popiełuszko](beato-jerzy-popieluszko/index.md)
 - [Beato João Paulo I](beato-joao-paulo-i/index.md)
 - [Beato José Gregorio Hernández](beato-jose-gregorio-hernandez/index.md)
+- [Beato Justo Takayama Ukon](beato-justo-takayama-ukon/index.md)
 - [Beato Manuel Lozano Garrido](beato-manuel-lozano-garrido/index.md)
 - [Beato Marcel Callo](beato-marcel-callo/index.md)
 - [Beato Mariano de la Mata](beato-mariano-de-la-mata/index.md)
