@@ -45,6 +45,7 @@ export default {
             { text: 'Beato Jerzy Popiełuszko', link: '/beatos/beato-jerzy-popieluszko/' },
             { text: 'Beato João Paulo I', link: '/beatos/beato-joao-paulo-i/' },
             { text: 'Beato José Gregorio Hernández', link: '/beatos/beato-jose-gregorio-hernandez/' },
+            { text: 'Beato Justo Takayama Ukon', link: '/beatos/beato-justo-takayama-ukon/' },
             { text: 'Beato Manuel Lozano Garrido', link: '/beatos/beato-manuel-lozano-garrido/' },
             { text: 'Beato Marcel Callo', link: '/beatos/beato-marcel-callo/' },
             { text: 'Beato Mariano de la Mata', link: '/beatos/beato-mariano-de-la-mata/' },
@@ -117,7 +118,8 @@ export default {
             { text: 'São Tomé', link: '/santos/sao-tome/' },
             { text: 'São Maximiliano Kolbe', link: '/santos/sao-maximiliano-kolbe/' },
             { text: 'São Padre Pio', link: '/santos/sao-padre-pio/' },
-            { text: 'São Patrício', link: '/santos/sao-patricio/' }
+            { text: 'São Patrício', link: '/santos/sao-patricio/' },
+            { text: 'São Vicente de Paulo', link: '/santos/sao-vicente-de-paulo/' }
           ]
         }
       ]
