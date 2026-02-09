@@ -42,6 +42,7 @@ Esta seção lista os santos.
 - [São Mateus](sao-mateus/index.md)
 - [São Matias](sao-matias/index.md)
 - [São Maximiliano Kolbe](sao-maximiliano-kolbe/index.md)
+- [São Nicolau](sao-nicolau/index.md)
 - [São Padre Pio](sao-padre-pio/index.md)
 - [São Patrício](sao-patricio/index.md)
 - [São Paulo](sao-paulo/index.md)

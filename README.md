@@ -81,6 +81,7 @@ npm run docs:preview
 | [Beata Sandra Sabattini](docs/beatos/beata-sandra-sabattini/index.md) | ![Beata Sandra Sabattini](https://placehold.co/400x600/png?text=Beata+Sandra+Sabattini) |
 | [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](https://placehold.co/400x600/png?text=Bartolo+Longo) |
 | [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/portrait.jpg) |
+| [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](https://placehold.co/400x600/png?text=Beato+Carlo+Gnocchi) |
 | [Beato Miguel Pro](docs/beatos/beato-miguel-pro/index.md) | ![Beato Miguel Pro](https://placehold.co/400x600/png?text=Beato+Miguel+Pro) |
 | [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](https://placehold.co/400x600/png?text=Beato+Adilio+Daronch) |
 | [Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/index.md) | ![Beato Álvaro del Portillo](https://placehold.co/400x600/png?text=Beato+Alvaro+del+Portillo) |
@@ -146,6 +147,7 @@ npm run docs:preview
 | [São Mateus](docs/santos/sao-mateus/index.md) | ![São Mateus](https://placehold.co/400x600/png?text=Sao+Mateus) |
 | [São Matias](docs/santos/sao-matias/index.md) | ![São Matias](https://placehold.co/400x600/png?text=Sao+Matias) |
 | [São Maximiliano Kolbe](docs/santos/sao-maximiliano-kolbe/index.md) | ![São Maximiliano Kolbe](docs/santos/sao-maximiliano-kolbe/imagens/maximiliano.jpg) |
+| [São Nicolau](docs/santos/sao-nicolau/index.md) | ![São Nicolau](https://placehold.co/400x600/png?text=Sao+Nicolau) |
 | [São Padre Pio](docs/santos/sao-padre-pio/index.md) | ![São Padre Pio](docs/santos/sao-padre-pio/imagens/padre-pio.jpg) |
 | [São Patrício](docs/santos/sao-patricio/index.md) | ![São Patrício](docs/santos/sao-patricio/imagens/portrait.jpg) |
 | [São Paulo](docs/santos/sao-paulo/index.md) | ![São Paulo](https://placehold.co/400x600/png?text=Sao+Paulo) |

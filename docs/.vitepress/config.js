@@ -35,6 +35,7 @@ export default {
             { text: 'Beata Sandra Sabattini', link: '/beatos/beata-sandra-sabattini/' },
             { text: 'Beato Bartolo Longo', link: '/beatos/beato-bartolo-longo/' },
             { text: 'Beato Carlos da Áustria', link: '/beatos/beato-carlos-da-austria/' },
+            { text: 'Beato Carlo Gnocchi', link: '/beatos/beato-carlo-gnocchi/' },
             { text: 'Beato Carlos Manuel Rodríguez', link: '/beatos/beato-carlos-manuel/' },
             { text: 'Beato Miguel Pro', link: '/beatos/beato-miguel-pro/' },
             { text: 'Beato Adílio Daronch', link: '/beatos/beato-adilio-daronch/' },
@@ -117,6 +118,7 @@ export default {
             { text: 'São Tomás de Aquino', link: '/santos/sao-tomas-de-aquino/' },
             { text: 'São Tomé', link: '/santos/sao-tome/' },
             { text: 'São Maximiliano Kolbe', link: '/santos/sao-maximiliano-kolbe/' },
+            { text: 'São Nicolau', link: '/santos/sao-nicolau/' },
             { text: 'São Padre Pio', link: '/santos/sao-padre-pio/' },
             { text: 'São Patrício', link: '/santos/sao-patricio/' },
             { text: 'São Vicente de Paulo', link: '/santos/sao-vicente-de-paulo/' }
