@@ -34,6 +34,7 @@ Esta seção lista os santos.
 - [São João Paulo II](sao-joao-paulo-ii/index.md)
 - [São João XXIII](sao-joao-xxiii/index.md)
 - [São Jorge](sao-jorge/index.md)
+- [São José](sao-jose/index.md)
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
 - [São Lourenço](sao-lourenco/index.md)
 - [São Lucas](sao-lucas/index.md)

@@ -89,6 +89,7 @@ npm run docs:preview
 | [Beato Franz Jägerstätter](docs/beatos/beato-franz-jagerstatter/index.md) | ![Beato Franz Jägerstätter](https://placehold.co/400x600/png?text=Beato+Franz+Jagerstatter) |
 | [Beato Frederico Ozanam](docs/beatos/beato-frederico-ozanam/index.md) | ![Beato Frederico Ozanam](https://placehold.co/400x600/png?text=Beato+Frederico+Ozanam) |
 | [Beato Jerzy Popiełuszko](docs/beatos/beato-jerzy-popieluszko/index.md) | ![Beato Jerzy Popiełuszko](docs/beatos/beato-jerzy-popieluszko/imagens/portrait.jpg) |
+| [Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/index.md) | ![Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/imagens/portrait.jpg) |
 | [Beato João Paulo I](docs/beatos/beato-joao-paulo-i/index.md) | ![Beato João Paulo I](https://placehold.co/400x600/png?text=Beato+Joao+Paulo+I) |
 | [Beato José Gregorio Hernández](docs/beatos/beato-jose-gregorio-hernandez/index.md) | ![Beato José Gregorio Hernández](docs/beatos/beato-jose-gregorio-hernandez/imagens/jose-gregorio.png) |
 | [Beato Justo Takayama Ukon](docs/beatos/beato-justo-takayama-ukon/index.md) | ![Beato Justo Takayama Ukon](https://placehold.co/400x600/png?text=Justo+Takayama+Ukon) |
@@ -139,6 +140,7 @@ npm run docs:preview
 | [São João Paulo II](docs/santos/sao-joao-paulo-ii/index.md) | ![São João Paulo II](docs/santos/sao-joao-paulo-ii/imagens/joao-paulo-ii.jpg) |
 | [São João XXIII](docs/santos/sao-joao-xxiii/index.md) | ![São João XXIII](docs/santos/sao-joao-xxiii/imagens/portrait.jpg) |
 | [São Jorge](docs/santos/sao-jorge/index.md) | ![São Jorge](docs/santos/sao-jorge/imagens/sao-jorge.jpg) |
+| [São José](docs/santos/sao-jose/index.md) | ![São José](docs/santos/sao-jose/imagens/portrait.jpg) |
 | [São Judas Tadeu](docs/santos/sao-judas-tadeu/index.md) | ![São Judas Tadeu](docs/santos/sao-judas-tadeu/imagens/sao-judas.jpg) |
 | [São Lourenço](docs/santos/sao-lourenco/index.md) | ![São Lourenço](https://placehold.co/400x600/png?text=Sao+Lourenco) |
 | [São Lucas](docs/santos/sao-lucas/index.md) | ![São Lucas](https://placehold.co/400x600/png?text=Sao+Lucas) |

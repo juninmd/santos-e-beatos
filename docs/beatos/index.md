@@ -33,6 +33,7 @@ Esta seção lista os beatos.
 - [Beato Franz Jägerstätter](beato-franz-jagerstatter/index.md)
 - [Beato Frederico Ozanam](beato-frederico-ozanam/index.md)
 - [Beato Jerzy Popiełuszko](beato-jerzy-popieluszko/index.md)
+- [Beato João Duns Scotus](beato-joao-duns-scotus/index.md)
 - [Beato João Paulo I](beato-joao-paulo-i/index.md)
 - [Beato José Gregorio Hernández](beato-jose-gregorio-hernandez/index.md)
 - [Beato Justo Takayama Ukon](beato-justo-takayama-ukon/index.md)
