@@ -89,6 +89,7 @@ npm run docs:preview
 | [Beato Fra Angelico](docs/beatos/beato-fra-angelico/index.md) | ![Beato Fra Angelico](docs/beatos/beato-fra-angelico/imagens/fra-angelico.jpg) |
 | [Beato Franz Jägerstätter](docs/beatos/beato-franz-jagerstatter/index.md) | ![Beato Franz Jägerstätter](https://placehold.co/400x600/png?text=Beato+Franz+Jagerstatter) |
 | [Beato Frederico Ozanam](docs/beatos/beato-frederico-ozanam/index.md) | ![Beato Frederico Ozanam](https://placehold.co/400x600/png?text=Beato+Frederico+Ozanam) |
+| [Beato Gonçalo de Amarante](docs/beatos/beato-goncalo-de-amarante/index.md) | ![Beato Gonçalo de Amarante](https://placehold.co/400x600/png?text=Beato+Goncalo+de+Amarante) |
 | [Beato Jerzy Popiełuszko](docs/beatos/beato-jerzy-popieluszko/index.md) | ![Beato Jerzy Popiełuszko](docs/beatos/beato-jerzy-popieluszko/imagens/portrait.jpg) |
 | [Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/index.md) | ![Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/imagens/portrait.jpg) |
 | [Beato João Paulo I](docs/beatos/beato-joao-paulo-i/index.md) | ![Beato João Paulo I](https://placehold.co/400x600/png?text=Beato+Joao+Paulo+I) |
@@ -128,6 +129,7 @@ npm run docs:preview
 | [Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/index.md) | ![Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/imagens/portrait.jpg) |
 | [São Camilo de Lellis](docs/santos/sao-camilo-de-lellis/index.md) | ![São Camilo de Lellis](docs/santos/sao-camilo-de-lellis/imagens/sao-camilo.jpg) |
 | [São Carlo Acutis](docs/santos/carlo-acutis/index.md) | ![São Carlo Acutis](docs/santos/carlo-acutis/imagens/carlo-acutis.jpg) |
+| [Santa Catarina de Sena](docs/santos/santa-catarina-de-sena/index.md) | ![Santa Catarina de Sena](https://placehold.co/400x600/png?text=Santa+Catarina+de+Sena) |
 | [São Charbel](docs/santos/sao-charbel/index.md) | ![São Charbel](docs/santos/sao-charbel/imagens/charbel.jpg) |
 | [São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/index.md) | ![São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/imagens/portrait.jpg) |
 | [São Estevão](docs/santos/sao-estevao/index.md) | ![São Estevão](https://placehold.co/400x600/png?text=Sao+Estevao) |
