@@ -21,6 +21,7 @@ Esta seção lista os santos.
 - [Santa Bernadete Soubirous](santa-bernadete-soubirous/index.md)
 - [São Camilo de Lellis](sao-camilo-de-lellis/index.md)
 - [São Carlo Acutis](carlo-acutis/index.md)
+- [Santa Catarina de Sena](santa-catarina-de-sena/index.md)
 - [São Charbel](sao-charbel/index.md)
 - [São Domingos de Gusmão](sao-domingos-de-gusmao/index.md)
 - [São Estevão](sao-estevao/index.md)
