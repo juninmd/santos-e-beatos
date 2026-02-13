@@ -24,6 +24,7 @@ Esta seção lista os beatos.
 - [Beata Maria Romero Meneses](beata-maria-romero-meneses/index.md)
 - [Beata Maria Troncatti](beata-maria-troncatti/index.md)
 - [Beata Sandra Sabattini](beata-sandra-sabattini/index.md)
+- [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
 - [Beato Bartolo Longo](beato-bartolo-longo/index.md)
 - [Beato Carlos da Áustria](beato-carlos-da-austria/index.md)
 - [Beato Carlo Gnocchi](beato-carlo-gnocchi/index.md)
