@@ -80,6 +80,7 @@ npm run docs:preview
 | [Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/index.md) | ![Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/imagens/maria-romero.jpg) |
 | [Beata Maria Troncatti](docs/beatos/beata-maria-troncatti/index.md) | ![Beata Maria Troncatti](https://placehold.co/400x600/png?text=Beata+Maria+Troncatti) |
 | [Beata Sandra Sabattini](docs/beatos/beata-sandra-sabattini/index.md) | ![Beata Sandra Sabattini](https://placehold.co/400x600/png?text=Beata+Sandra+Sabattini) |
+| [Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/index.md) | ![Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/imagens/portrait.jpg) |
 | [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](https://placehold.co/400x600/png?text=Bartolo+Longo) |
 | [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/portrait.jpg) |
 | [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](https://placehold.co/400x600/png?text=Beato+Carlo+Gnocchi) |
@@ -140,6 +141,7 @@ npm run docs:preview
 | [São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/index.md) | ![São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/imagens/portrait.jpg) |
 | [São Geraldo Majella](docs/santos/sao-geraldo-majella/index.md) | ![São Geraldo Majella](docs/santos/sao-geraldo-majella/imagens/sao-geraldo.png) |
 | [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
+| [São João da Cruz](docs/santos/sao-joao-da-cruz/index.md) | ![São João da Cruz](docs/santos/sao-joao-da-cruz/imagens/portrait.jpg) |
 | [São João Evangelista](docs/santos/sao-joao-evangelista/index.md) | ![São João Evangelista](https://placehold.co/400x600/png?text=Sao+Joao+Evangelista) |
 | [São João Paulo II](docs/santos/sao-joao-paulo-ii/index.md) | ![São João Paulo II](docs/santos/sao-joao-paulo-ii/imagens/joao-paulo-ii.jpg) |
 | [São João XXIII](docs/santos/sao-joao-xxiii/index.md) | ![São João XXIII](docs/santos/sao-joao-xxiii/imagens/portrait.jpg) |

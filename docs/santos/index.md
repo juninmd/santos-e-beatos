@@ -32,6 +32,7 @@ Esta seção lista os santos.
 - [São Gabriel de Nossa Senhora das Dores](sao-gabriel-de-nossa-senhora-das-dores/index.md)
 - [São Geraldo Majella](sao-geraldo-majella/index.md)
 - [São João Bosco](sao-joao-bosco/index.md)
+- [São João da Cruz](sao-joao-da-cruz/index.md)
 - [São João Evangelista](sao-joao-evangelista/index.md)
 - [São João Paulo II](sao-joao-paulo-ii/index.md)
 - [São João XXIII](sao-joao-xxiii/index.md)
