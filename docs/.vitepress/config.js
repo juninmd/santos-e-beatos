@@ -40,6 +40,7 @@ export default {
             { text: 'Beato Carlo Gnocchi', link: '/beatos/beato-carlo-gnocchi/' },
             { text: 'Beato Carlos Manuel Rodríguez', link: '/beatos/beato-carlos-manuel/' },
             { text: 'Beato Miguel Pro', link: '/beatos/beato-miguel-pro/' },
+            { text: 'Beato Miguel Sopoćko', link: '/beatos/beato-miguel-sopocko/' },
             { text: 'Beato Adílio Daronch', link: '/beatos/beato-adilio-daronch/' },
             { text: 'Beato Álvaro del Portillo', link: '/beatos/beato-alvaro-del-portillo/' },
             { text: 'Beato Fra Angelico', link: '/beatos/beato-fra-angelico/' },
@@ -129,6 +130,7 @@ export default {
             { text: 'São Nicolau', link: '/santos/sao-nicolau/' },
             { text: 'São Padre Pio', link: '/santos/sao-padre-pio/' },
             { text: 'São Patrício', link: '/santos/sao-patricio/' },
+            { text: 'São Valentim', link: '/santos/sao-valentim/' },
             { text: 'São Vicente de Paulo', link: '/santos/sao-vicente-de-paulo/' }
           ]
         }

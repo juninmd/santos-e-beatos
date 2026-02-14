@@ -57,4 +57,5 @@ Esta seção lista os santos.
 - [São Tiago Menor](sao-tiago-menor/index.md)
 - [São Tomás de Aquino](sao-tomas-de-aquino/index.md)
 - [São Tomé](sao-tome/index.md)
+- [São Valentim](sao-valentim/index.md)
 - [São Vicente de Paulo](sao-vicente-de-paulo/index.md)
