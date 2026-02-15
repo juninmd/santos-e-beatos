@@ -76,6 +76,7 @@ npm run docs:preview
 | [Beata Maria da Conceição](docs/beatos/beata-maria-da-conceicao/index.md) | ![Beata Maria da Conceição](https://placehold.co/400x600/png?text=Beata+Maria+da+Conceicao) |
 | [Beata Maria do Divino Coração](docs/beatos/beata-maria-do-divino-coracao/index.md) | ![Beata Maria do Divino Coração](https://placehold.co/400x600/png?text=Beata+Maria+do+Divino+Coracao) |
 | [Beata Maria Gabriela da Unidade](docs/beatos/beata-maria-gabriela-da-unidade/index.md) | ![Beata Maria Gabriela da Unidade](https://placehold.co/400x600/png?text=Beata+Maria+Gabriela+da+Unidade) |
+| [Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/index.md) | ![Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/imagens/portrait.jpg) |
 | [Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/index.md) | ![Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/imagens/portrait.jpg) |
 | [Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/index.md) | ![Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/imagens/maria-romero.jpg) |
 | [Beata Maria Troncatti](docs/beatos/beata-maria-troncatti/index.md) | ![Beata Maria Troncatti](https://placehold.co/400x600/png?text=Beata+Maria+Troncatti) |
@@ -134,6 +135,7 @@ npm run docs:preview
 | [Santa Catarina de Sena](docs/santos/santa-catarina-de-sena/index.md) | ![Santa Catarina de Sena](https://placehold.co/400x600/png?text=Santa+Catarina+de+Sena) |
 | [São Charbel](docs/santos/sao-charbel/index.md) | ![São Charbel](docs/santos/sao-charbel/imagens/charbel.jpg) |
 | [São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/index.md) | ![São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/imagens/portrait.jpg) |
+| [São Domingos Sávio](docs/santos/sao-domingos-savio/index.md) | ![São Domingos Sávio](docs/santos/sao-domingos-savio/imagens/portrait.jpg) |
 | [São Estevão](docs/santos/sao-estevao/index.md) | ![São Estevão](https://placehold.co/400x600/png?text=Sao+Estevao) |
 | [São Filipe](docs/santos/sao-filipe/index.md) | ![São Filipe](https://placehold.co/400x600/png?text=Sao+Filipe) |
 | [São Filipe Neri](docs/santos/sao-filipe-neri/index.md) | ![São Filipe Neri](docs/santos/sao-filipe-neri/imagens/sao-filipe-neri.jpg) |

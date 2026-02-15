@@ -24,6 +24,7 @@ Esta seção lista os santos.
 - [Santa Catarina de Sena](santa-catarina-de-sena/index.md)
 - [São Charbel](sao-charbel/index.md)
 - [São Domingos de Gusmão](sao-domingos-de-gusmao/index.md)
+- [São Domingos Sávio](sao-domingos-savio/index.md)
 - [São Estevão](sao-estevao/index.md)
 - [São Filipe](sao-filipe/index.md)
 - [São Filipe Neri](sao-filipe-neri/index.md)

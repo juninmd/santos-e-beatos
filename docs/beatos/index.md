@@ -20,6 +20,7 @@ Esta seção lista os beatos.
 - [Beata Maria da Conceição](beata-maria-da-conceicao/index.md)
 - [Beata Maria do Divino Coração](beata-maria-do-divino-coracao/index.md)
 - [Beata Maria Gabriela da Unidade](beata-maria-gabriela-da-unidade/index.md)
+- [Beata Maria Laura Mainetti](beata-maria-laura-mainetti/index.md)
 - [Beata Maria Pierina De Micheli](beata-maria-pierina-de-micheli/index.md)
 - [Beata Maria Romero Meneses](beata-maria-romero-meneses/index.md)
 - [Beata Maria Troncatti](beata-maria-troncatti/index.md)
