@@ -63,8 +63,8 @@ npm run docs:preview
 | [Beata Ana Catarina Emmerich](docs/beatos/beata-ana-catarina-emmerich/index.md) | ![Beata Ana Catarina Emmerich](docs/beatos/beata-ana-catarina-emmerich/imagens/emmerich.jpg) |
 | [Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/index.md) | ![Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/imagens/portrait.jpg) |
 | [Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/index.md) | ![Beata Assunta Marchetti](https://placehold.co/400x600/png?text=Beata+Assunta+Marchetti) |
-| [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/barbara-maix.jpg) |
 | [Beata Benigna](docs/beatos/beata-benigna/index.md) | ![Beata Benigna](docs/beatos/beata-benigna/imagens/benigna.jpg) |
+| [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/barbara-maix.jpg) |
 | [Beata Chiara Luce Badano](docs/beatos/beata-chiara-luce-badano/index.md) | ![Beata Chiara Luce Badano](docs/beatos/beata-chiara-luce-badano/imagens/chiara-luce.jpg) |
 | [Beata Clélia Merloni](docs/beatos/beata-clelia-merloni/index.md) | ![Beata Clélia Merloni](docs/beatos/beata-clelia-merloni/imagens/portrait.jpg) |
 | [Beata Elena Aiello](docs/beatos/beata-elena-aiello/index.md) | ![Beata Elena Aiello](docs/beatos/beata-elena-aiello/imagens/portrait.jpg) |
@@ -73,33 +73,33 @@ npm run docs:preview
 | [Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/index.md) | ![Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/imagens/isabel-cristina.jpg) |
 | [Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/index.md) | ![Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/imagens/laura-vicuna.jpg) |
 | [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](https://placehold.co/400x600/png?text=Beata+Lindalva+Justo+de+Oliveira) |
-| [Beata Maria da Conceição](docs/beatos/beata-maria-da-conceicao/index.md) | ![Beata Maria da Conceição](https://placehold.co/400x600/png?text=Beata+Maria+da+Conceicao) |
-| [Beata Maria do Divino Coração](docs/beatos/beata-maria-do-divino-coracao/index.md) | ![Beata Maria do Divino Coração](https://placehold.co/400x600/png?text=Beata+Maria+do+Divino+Coracao) |
 | [Beata Maria Gabriela da Unidade](docs/beatos/beata-maria-gabriela-da-unidade/index.md) | ![Beata Maria Gabriela da Unidade](https://placehold.co/400x600/png?text=Beata+Maria+Gabriela+da+Unidade) |
 | [Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/index.md) | ![Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/imagens/portrait.jpg) |
 | [Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/index.md) | ![Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/imagens/portrait.jpg) |
 | [Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/index.md) | ![Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/imagens/maria-romero.jpg) |
 | [Beata Maria Troncatti](docs/beatos/beata-maria-troncatti/index.md) | ![Beata Maria Troncatti](https://placehold.co/400x600/png?text=Beata+Maria+Troncatti) |
+| [Beata Maria da Conceição](docs/beatos/beata-maria-da-conceicao/index.md) | ![Beata Maria da Conceição](https://placehold.co/400x600/png?text=Beata+Maria+da+Conceicao) |
+| [Beata Maria do Divino Coração](docs/beatos/beata-maria-do-divino-coracao/index.md) | ![Beata Maria do Divino Coração](https://placehold.co/400x600/png?text=Beata+Maria+do+Divino+Coracao) |
 | [Beata Sandra Sabattini](docs/beatos/beata-sandra-sabattini/index.md) | ![Beata Sandra Sabattini](https://placehold.co/400x600/png?text=Beata+Sandra+Sabattini) |
+| [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](https://placehold.co/400x600/png?text=Beato+Adilio+Daronch) |
 | [Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/index.md) | ![Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/imagens/portrait.jpg) |
 | [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](https://placehold.co/400x600/png?text=Bartolo+Longo) |
-| [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/portrait.jpg) |
 | [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](https://placehold.co/400x600/png?text=Beato+Carlo+Gnocchi) |
-| [Beato Miguel Pro](docs/beatos/beato-miguel-pro/index.md) | ![Beato Miguel Pro](https://placehold.co/400x600/png?text=Beato+Miguel+Pro) |
-| [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](https://placehold.co/400x600/png?text=Beato+Adilio+Daronch) |
-| [Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/index.md) | ![Beato Álvaro del Portillo](https://placehold.co/400x600/png?text=Beato+Alvaro+del+Portillo) |
+| [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/portrait.jpg) |
 | [Beato Fra Angelico](docs/beatos/beato-fra-angelico/index.md) | ![Beato Fra Angelico](docs/beatos/beato-fra-angelico/imagens/fra-angelico.jpg) |
 | [Beato Franz Jägerstätter](docs/beatos/beato-franz-jagerstatter/index.md) | ![Beato Franz Jägerstätter](https://placehold.co/400x600/png?text=Beato+Franz+Jagerstatter) |
 | [Beato Frederico Ozanam](docs/beatos/beato-frederico-ozanam/index.md) | ![Beato Frederico Ozanam](https://placehold.co/400x600/png?text=Beato+Frederico+Ozanam) |
 | [Beato Gonçalo de Amarante](docs/beatos/beato-goncalo-de-amarante/index.md) | ![Beato Gonçalo de Amarante](https://placehold.co/400x600/png?text=Beato+Goncalo+de+Amarante) |
 | [Beato Jerzy Popiełuszko](docs/beatos/beato-jerzy-popieluszko/index.md) | ![Beato Jerzy Popiełuszko](docs/beatos/beato-jerzy-popieluszko/imagens/portrait.jpg) |
+| [Beato José Gregorio Hernández](docs/beatos/beato-jose-gregorio-hernandez/index.md) | ![Beato José Gregorio Hernández](docs/beatos/beato-jose-gregorio-hernandez/imagens/jose-gregorio.png) |
 | [Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/index.md) | ![Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/imagens/portrait.jpg) |
 | [Beato João Paulo I](docs/beatos/beato-joao-paulo-i/index.md) | ![Beato João Paulo I](https://placehold.co/400x600/png?text=Beato+Joao+Paulo+I) |
-| [Beato José Gregorio Hernández](docs/beatos/beato-jose-gregorio-hernandez/index.md) | ![Beato José Gregorio Hernández](docs/beatos/beato-jose-gregorio-hernandez/imagens/jose-gregorio.png) |
 | [Beato Justo Takayama Ukon](docs/beatos/beato-justo-takayama-ukon/index.md) | ![Beato Justo Takayama Ukon](https://placehold.co/400x600/png?text=Justo+Takayama+Ukon) |
 | [Beato Manuel Lozano Garrido](docs/beatos/beato-manuel-lozano-garrido/index.md) | ![Beato Manuel Lozano Garrido](https://placehold.co/400x600/png?text=Beato+Manuel+Lozano+Garrido) |
 | [Beato Marcel Callo](docs/beatos/beato-marcel-callo/index.md) | ![Beato Marcel Callo](https://placehold.co/400x600/png?text=Beato+Marcel+Callo) |
 | [Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/index.md) | ![Beato Mariano de la Mata](https://placehold.co/400x600/png?text=Beato+Mariano+de+la+Mata) |
+| [Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/index.md) | ![Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/imagens/portrait.jpg) |
+| [Beato Miguel Pro](docs/beatos/beato-miguel-pro/index.md) | ![Beato Miguel Pro](https://placehold.co/400x600/png?text=Beato+Miguel+Pro) |
 | [Beato Miguel Sopoćko](docs/beatos/beato-miguel-sopocko/index.md) | ![Beato Miguel Sopoćko](docs/beatos/beato-miguel-sopocko/imagens/portrait.jpg) |
 | [Beato Moisés Lira](docs/beatos/beato-moises-lira/index.md) | ![Beato Moisés Lira](docs/beatos/beato-moises-lira/imagens/beato-moises-lira.jpg) |
 | [Beato Padre Eustáquio](docs/beatos/beato-padre-eustaquio/index.md) | ![Beato Padre Eustáquio](https://placehold.co/400x600/png?text=Beato+Padre+Eustaquio) |
@@ -110,15 +110,19 @@ npm run docs:preview
 | [Beato Solanus Casey](docs/beatos/beato-solanus-casey/index.md) | ![Beato Solanus Casey](docs/beatos/beato-solanus-casey/imagens/portrait.jpg) |
 | [Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/index.md) | ![Beato Tiago Alberione](https://placehold.co/400x600/png?text=Beato+Tiago+Alberione) |
 | [Beato Zeferino Namuncurá](docs/beatos/beato-zeferino-namuncura/index.md) | ![Beato Zeferino Namuncurá](https://placehold.co/400x600/png?text=Beato+Zeferino+Namuncura) |
+| [Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/index.md) | ![Beato Álvaro del Portillo](https://placehold.co/400x600/png?text=Beato+Alvaro+del+Portillo) |
 | [Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/nha-chica.jpg) |
 | [Padre Donizetti](docs/beatos/padre-donizetti/index.md) | ![Padre Donizetti](docs/beatos/padre-donizetti/imagens/padre_restaurada_colorida.jpg) |
 | [Padre Victor](docs/beatos/padre-victor/index.md) | ![Beato Padre Victor](docs/beatos/padre-victor/imagens/padre-victor.jpg) |
-| [Santa Inês](docs/santos/santa-ines/index.md) | ![Santa Inês](https://placehold.co/400x600/png?text=Santa+Ines) |
-| [Santa Luzia](docs/santos/santa-luzia/index.md) | ![Santa Luzia](https://placehold.co/400x600/png?text=Santa+Luzia) |
-| [Santa Maria Madalena](docs/santos/santa-maria-madalena/index.md) | ![Santa Maria Madalena](https://placehold.co/400x600/png?text=Santa+Maria+Madalena) |
+| [Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/index.md) | ![Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/imagens/portrait.jpg) |
+| [Santa Catarina de Sena](docs/santos/santa-catarina-de-sena/index.md) | ![Santa Catarina de Sena](https://placehold.co/400x600/png?text=Santa+Catarina+de+Sena) |
 | [Santa Clara de Assis](docs/santos/santa-clara-de-assis/index.md) | ![Santa Clara de Assis](docs/santos/santa-clara-de-assis/imagens/portrait.jpg) |
 | [Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/index.md) | ![Santa Dulce dos Pobres](https://placehold.co/400x600/png?text=Santa+Dulce+dos+Pobres) |
 | [Santa Faustina Kowalska](docs/santos/santa-faustina-kowalska/index.md) | ![Santa Faustina Kowalska](docs/santos/santa-faustina-kowalska/imagens/santa-faustina.jpg) |
+| [Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/index.md) | ![Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/imagens/portrait.jpg) |
+| [Santa Inês](docs/santos/santa-ines/index.md) | ![Santa Inês](https://placehold.co/400x600/png?text=Santa+Ines) |
+| [Santa Luzia](docs/santos/santa-luzia/index.md) | ![Santa Luzia](https://placehold.co/400x600/png?text=Santa+Luzia) |
+| [Santa Maria Madalena](docs/santos/santa-maria-madalena/index.md) | ![Santa Maria Madalena](https://placehold.co/400x600/png?text=Santa+Maria+Madalena) |
 | [Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/index.md) | ![Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/imagens/santa-rita.jpg) |
 | [Santa Rosa de Lima](docs/santos/santa-rosa-de-lima/index.md) | ![Santa Rosa de Lima](docs/santos/santa-rosa-de-lima/imagens/santa-rosa.jpg) |
 | [Santa Teresa de Ávila](docs/santos/santa-teresa-de-avila/index.md) | ![Santa Teresa de Ávila](docs/santos/santa-teresa-de-avila/imagens/portrait.jpg) |
@@ -129,27 +133,25 @@ npm run docs:preview
 | [Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/index.md) | ![Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/imagens/portrait.jpg) |
 | [São Bartolomeu](docs/santos/sao-bartolomeu/index.md) | ![São Bartolomeu](https://placehold.co/400x600/png?text=Sao+Bartolomeu) |
 | [São Bento](docs/santos/sao-bento/index.md) | ![São Bento](https://placehold.co/400x600/png?text=Sao+Bento) |
-| [Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/index.md) | ![Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/imagens/portrait.jpg) |
 | [São Camilo de Lellis](docs/santos/sao-camilo-de-lellis/index.md) | ![São Camilo de Lellis](docs/santos/sao-camilo-de-lellis/imagens/sao-camilo.jpg) |
 | [São Carlo Acutis](docs/santos/carlo-acutis/index.md) | ![São Carlo Acutis](docs/santos/carlo-acutis/imagens/carlo-acutis.jpg) |
-| [Santa Catarina de Sena](docs/santos/santa-catarina-de-sena/index.md) | ![Santa Catarina de Sena](https://placehold.co/400x600/png?text=Santa+Catarina+de+Sena) |
 | [São Charbel](docs/santos/sao-charbel/index.md) | ![São Charbel](docs/santos/sao-charbel/imagens/charbel.jpg) |
-| [São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/index.md) | ![São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/imagens/portrait.jpg) |
 | [São Domingos Sávio](docs/santos/sao-domingos-savio/index.md) | ![São Domingos Sávio](docs/santos/sao-domingos-savio/imagens/portrait.jpg) |
+| [São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/index.md) | ![São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/imagens/portrait.jpg) |
 | [São Estevão](docs/santos/sao-estevao/index.md) | ![São Estevão](https://placehold.co/400x600/png?text=Sao+Estevao) |
 | [São Filipe](docs/santos/sao-filipe/index.md) | ![São Filipe](https://placehold.co/400x600/png?text=Sao+Filipe) |
 | [São Filipe Neri](docs/santos/sao-filipe-neri/index.md) | ![São Filipe Neri](docs/santos/sao-filipe-neri/imagens/sao-filipe-neri.jpg) |
-| [São Francisco de Assis](docs/santos/sao-francisco-de-assis/index.md) | ![São Francisco](docs/santos/sao-francisco-de-assis/imagens/sao-francisco.jpg) |
 | [São Francisco Xavier](docs/santos/sao-francisco-xavier/index.md) | ![São Francisco Xavier](docs/santos/sao-francisco-xavier/imagens/sao-francisco-xavier.jpg) |
+| [São Francisco de Assis](docs/santos/sao-francisco-de-assis/index.md) | ![São Francisco](docs/santos/sao-francisco-de-assis/imagens/sao-francisco.jpg) |
 | [São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/index.md) | ![São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/imagens/portrait.jpg) |
 | [São Geraldo Majella](docs/santos/sao-geraldo-majella/index.md) | ![São Geraldo Majella](docs/santos/sao-geraldo-majella/imagens/sao-geraldo.png) |
+| [São Jorge](docs/santos/sao-jorge/index.md) | ![São Jorge](docs/santos/sao-jorge/imagens/sao-jorge.jpg) |
+| [São José](docs/santos/sao-jose/index.md) | ![São José](docs/santos/sao-jose/imagens/portrait.jpg) |
 | [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
-| [São João da Cruz](docs/santos/sao-joao-da-cruz/index.md) | ![São João da Cruz](docs/santos/sao-joao-da-cruz/imagens/portrait.jpg) |
 | [São João Evangelista](docs/santos/sao-joao-evangelista/index.md) | ![São João Evangelista](https://placehold.co/400x600/png?text=Sao+Joao+Evangelista) |
 | [São João Paulo II](docs/santos/sao-joao-paulo-ii/index.md) | ![São João Paulo II](docs/santos/sao-joao-paulo-ii/imagens/joao-paulo-ii.jpg) |
 | [São João XXIII](docs/santos/sao-joao-xxiii/index.md) | ![São João XXIII](docs/santos/sao-joao-xxiii/imagens/portrait.jpg) |
-| [São Jorge](docs/santos/sao-jorge/index.md) | ![São Jorge](docs/santos/sao-jorge/imagens/sao-jorge.jpg) |
-| [São José](docs/santos/sao-jose/index.md) | ![São José](docs/santos/sao-jose/imagens/portrait.jpg) |
+| [São João da Cruz](docs/santos/sao-joao-da-cruz/index.md) | ![São João da Cruz](docs/santos/sao-joao-da-cruz/imagens/portrait.jpg) |
 | [São Judas Tadeu](docs/santos/sao-judas-tadeu/index.md) | ![São Judas Tadeu](docs/santos/sao-judas-tadeu/imagens/sao-judas.jpg) |
 | [São Lourenço](docs/santos/sao-lourenco/index.md) | ![São Lourenço](https://placehold.co/400x600/png?text=Sao+Lourenco) |
 | [São Lucas](docs/santos/sao-lucas/index.md) | ![São Lucas](https://placehold.co/400x600/png?text=Sao+Lucas) |
