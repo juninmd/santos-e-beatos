@@ -66,6 +66,7 @@ npm run docs:preview
 | [Beata Benigna](docs/beatos/beata-benigna/index.md) | ![Beata Benigna](docs/beatos/beata-benigna/imagens/benigna.jpg) |
 | [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/barbara-maix.jpg) |
 | [Beata Chiara Luce Badano](docs/beatos/beata-chiara-luce-badano/index.md) | ![Beata Chiara Luce Badano](docs/beatos/beata-chiara-luce-badano/imagens/chiara-luce.jpg) |
+| [Beata Chiquitunga](docs/beatos/beata-chiquitunga/index.md) | ![Beata Chiquitunga](docs/beatos/beata-chiquitunga/imagens/portrait.jpg) |
 | [Beata Clélia Merloni](docs/beatos/beata-clelia-merloni/index.md) | ![Beata Clélia Merloni](docs/beatos/beata-clelia-merloni/imagens/portrait.jpg) |
 | [Beata Elena Aiello](docs/beatos/beata-elena-aiello/index.md) | ![Beata Elena Aiello](docs/beatos/beata-elena-aiello/imagens/portrait.jpg) |
 | [Beata Elena Guerra](docs/beatos/beata-elena-guerra/index.md) | ![Beata Elena Guerra](https://placehold.co/400x600/png?text=Beata+Elena+Guerra) |
@@ -163,6 +164,7 @@ npm run docs:preview
 | [São Matias](docs/santos/sao-matias/index.md) | ![São Matias](https://placehold.co/400x600/png?text=Sao+Matias) |
 | [São Maximiliano Kolbe](docs/santos/sao-maximiliano-kolbe/index.md) | ![São Maximiliano Kolbe](docs/santos/sao-maximiliano-kolbe/imagens/maximiliano.jpg) |
 | [São Nicolau](docs/santos/sao-nicolau/index.md) | ![São Nicolau](https://placehold.co/400x600/png?text=Sao+Nicolau) |
+| [São Oscar Romero](docs/santos/sao-oscar-romero/index.md) | ![São Oscar Romero](docs/santos/sao-oscar-romero/imagens/portrait.jpg) |
 | [São Padre Pio](docs/santos/sao-padre-pio/index.md) | ![São Padre Pio](docs/santos/sao-padre-pio/imagens/padre-pio.jpg) |
 | [São Patrício](docs/santos/sao-patricio/index.md) | ![São Patrício](docs/santos/sao-patricio/imagens/portrait.jpg) |
 | [São Paulo](docs/santos/sao-paulo/index.md) | ![São Paulo](https://placehold.co/400x600/png?text=Sao+Paulo) |
