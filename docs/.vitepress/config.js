@@ -28,6 +28,7 @@ export default {
             { text: 'Beata Isabel Cristina', link: '/beatos/beata-isabel-cristina/' },
             { text: 'Beata Laura Vicuña', link: '/beatos/beata-laura-vicuna/' },
             { text: 'Beata Lindalva Justo de Oliveira', link: '/beatos/beata-lindalva-justo-de-oliveira/' },
+            { text: 'Beata Maria Cristina de Saboia', link: '/beatos/beata-maria-cristina-de-saboia/' },
             { text: 'Beata Maria Gabriela da Unidade', link: '/beatos/beata-maria-gabriela-da-unidade/' },
             { text: 'Beata Maria Laura Mainetti', link: '/beatos/beata-maria-laura-mainetti/' },
             { text: 'Beata Maria Pierina De Micheli', link: '/beatos/beata-maria-pierina-de-micheli/' },
@@ -80,6 +81,7 @@ export default {
           items: [
             { text: 'Santa Bernadete Soubirous', link: '/santos/santa-bernadete-soubirous/' },
             { text: 'Santa Catarina de Sena', link: '/santos/santa-catarina-de-sena/' },
+            { text: 'Santa Catarina Labouré', link: '/santos/santa-catarina-laboure/' },
             { text: 'Santa Clara de Assis', link: '/santos/santa-clara-de-assis/' },
             { text: 'Santa Dulce dos Pobres', link: '/santos/santa-dulce-dos-pobres/' },
             { text: 'Santa Faustina Kowalska', link: '/santos/santa-faustina-kowalska/' },
