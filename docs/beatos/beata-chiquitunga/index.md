@@ -4,10 +4,10 @@
 
 **"Jesus, eu te amo! Que doce encontro! Virgem Maria!"**
 
-**Nascimento:** 12 de janeiro de 1925, Villarrica (Paraguai) <br>
-**Morte:** 28 de abril de 1959, Assunção (Paraguai) <br>
-**Festa Litúrgica:** 28 de abril <br>
-**Beatificação:** 23 de junho de 2018, em Assunção
+- **Nascimento:** 12 de janeiro de 1925, Villarrica (Paraguai)
+- **Morte:** 28 de abril de 1959, Assunção (Paraguai)
+- **Festa Litúrgica:** 28 de abril
+- **Beatificação:** 23 de junho de 2018, em Assunção
 
 <TextToSpeech />
 
