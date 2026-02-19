@@ -1,22 +1,18 @@
 ---
 title: Beata Maria Cristina de Saboia
 description: A Rainha Santa (Reginella Santa).
-image: ./imagens/portrait.jpg
 ---
 
-<div class="hero-header">
-  <img src="./imagens/portrait.jpg" alt="Beata Maria Cristina de Saboia" class="hero-image" />
-  <div class="hero-quote">
-    "Creio em Deus, amo a Deus, espero em Deus."
-  </div>
-</div>
+# Beata Maria Cristina de Saboia
 
-| Campo | Valor |
-| --- | --- |
-| **Nascimento** | 14 de novembro de 1812 <br> Cagliari, Sardenha |
-| **Morte** | 31 de janeiro de 1836 <br> Nápoles, Reino das Duas Sicílias |
-| **Beatificação** | 25 de janeiro de 2014 <br> Na Basílica de Santa Clara, Nápoles |
-| **Festa Litúrgica** | 31 de janeiro |
+![Beata Maria Cristina de Saboia](imagens/portrait.jpg)
+
+**"Creio em Deus, amo a Deus, espero em Deus."**
+
+**Nascimento:** 14 de novembro de 1812, Cagliari, Sardenha
+**Morte:** 31 de janeiro de 1836, Nápoles, Reino das Duas Sicílias
+**Beatificação:** 25 de janeiro de 2014, Na Basílica de Santa Clara, Nápoles
+**Festa Litúrgica:** 31 de janeiro
 
 ---
 
@@ -42,10 +38,10 @@ Maria Cristina morreu em 31 de janeiro de 1836, aos 23 anos, devido a complicaç
 
 O processo de beatificação foi longo. Em 2013, o Papa Francisco aprovou um milagre atribuído à sua intercessão: a cura inexplicável de uma mulher genovese, Maria Vallarino, que sofria de câncer de mama e fígado, em 1866. A beatificação ocorreu em 25 de janeiro de 2014, na Basílica de Santa Clara em Nápoles, onde seu corpo repousa.
 
-<MiracleMap :places="[
-  { name: 'Cagliari', coords: [39.2238, 9.1217], description: 'Local de nascimento' },
-  { name: 'Turim', coords: [45.0703, 7.6869], description: 'Onde cresceu e foi educada' },
-  { name: 'Nápoles', coords: [40.8518, 14.2681], description: 'Onde reinou e faleceu' }
+<MiracleMap :items="[
+  { title: 'Cagliari', lat: 39.2238, lng: 9.1217, description: 'Local de nascimento' },
+  { title: 'Turim', lat: 45.0703, lng: 7.6869, description: 'Onde cresceu e foi educada' },
+  { title: 'Nápoles', lat: 40.8518, lng: 14.2681, description: 'Onde reinou e faleceu' }
 ]" />
 
 ## Cidades por onde passou

@@ -1,22 +1,18 @@
 ---
 title: Santa Catarina Labouré
 description: A mensageira da Medalha Milagrosa.
-image: ./imagens/portrait.jpg
 ---
 
-<div class="hero-header">
-  <img src="./imagens/portrait.jpg" alt="Santa Catarina Labouré" class="hero-image" />
-  <div class="hero-quote">
-    "A Santíssima Virgem quer encarregar-vos de uma missão."
-  </div>
-</div>
+# Santa Catarina Labouré
 
-| Campo | Valor |
-| --- | --- |
-| **Nascimento** | 2 de maio de 1806 <br> Fain-lès-Moutiers, França |
-| **Morte** | 31 de dezembro de 1876 <br> Paris, França |
-| **Canonização** | 27 de julho de 1947 <br> Pelo Papa Pio XII |
-| **Festa Litúrgica** | 28 de novembro |
+![Santa Catarina Labouré](imagens/portrait.jpg)
+
+**"A Santíssima Virgem quer encarregar-vos de uma missão."**
+
+**Nascimento:** 2 de maio de 1806, Fain-lès-Moutiers, França
+**Morte:** 31 de dezembro de 1876, Paris, França
+**Canonização:** 27 de julho de 1947, Pelo Papa Pio XII
+**Festa Litúrgica:** 28 de novembro
 
 ---
 
@@ -46,9 +42,9 @@ A Medalha Milagrosa rapidamente se espalhou pela França e pelo mundo, sendo ass
 
 Um dos fatos mais notáveis sobre Santa Catarina é que, quando seu corpo foi exumado em 1933, 57 anos após sua morte, foi encontrado incorrupto. Seus olhos ainda estavam azuis e seus membros flexíveis. Atualmente, seu corpo repousa na Capela de Nossa Senhora da Medalha Milagrosa, na Rue du Bac, em Paris.
 
-<MiracleMap :places="[
-  { name: 'Fain-lès-Moutiers', coords: [47.5833, 4.2167], description: 'Local de nascimento' },
-  { name: 'Rue du Bac, Paris', coords: [48.8514, 2.3228], description: 'Local das aparições e onde repousa seu corpo' }
+<MiracleMap :items="[
+  { title: 'Fain-lès-Moutiers', lat: 47.5833, lng: 4.2167, description: 'Local de nascimento' },
+  { title: 'Rue du Bac, Paris', lat: 48.8514, lng: 2.3228, description: 'Local das aparições e onde repousa seu corpo' }
 ]" />
 
 ## Cidades por onde passou
