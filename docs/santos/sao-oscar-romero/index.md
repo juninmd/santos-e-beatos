@@ -4,10 +4,10 @@
 
 **"Se me matam, ressuscitarei no povo salvadorenho."**
 
-**Nascimento:** 15 de agosto de 1917, Ciudad Barrios (El Salvador) <br>
-**Morte:** 24 de março de 1980, San Salvador (El Salvador) <br>
-**Festa Litúrgica:** 24 de março <br>
-**Canonização:** 14 de outubro de 2018, pelo Papa Francisco
+- **Nascimento:** 15 de agosto de 1917, Ciudad Barrios (El Salvador)
+- **Morte:** 24 de março de 1980, San Salvador (El Salvador)
+- **Festa Litúrgica:** 24 de março
+- **Canonização:** 14 de outubro de 2018, pelo Papa Francisco
 
 <TextToSpeech />
 
