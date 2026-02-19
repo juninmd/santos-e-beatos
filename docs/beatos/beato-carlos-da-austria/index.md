@@ -56,11 +56,11 @@ O milagre aprovado para sua beatificação ocorreu no Brasil. A irmã Maria Zita
 - **Eckartsau:** Castelo onde viveu antes de deixar a Áustria.
 - **Funchal (Ilha da Madeira):** Local de seu exílio final e morte.
 
-<MiracleMap :places="[
-  { name: 'Castelo de Persenbeug', coords: [48.190, 15.067], description: 'Local de nascimento do Beato Carlos.' },
-  { name: 'Catedral de Santo Estêvão (Viena)', coords: [48.208, 16.373], description: 'Local de seu casamento e exéquias de Zita.' },
-  { name: 'Igreja de Matias (Budapeste)', coords: [47.502, 19.034], description: 'Local de sua coroação como Rei da Hungria.' },
-  { name: 'Funchal, Madeira', coords: [32.675, -16.908], description: 'Local de seu exílio, morte e sepultamento.' }
+<MiracleMap :items="[
+  { title: 'Castelo de Persenbeug', lat: 48.190, lng: 15.067, description: 'Local de nascimento do Beato Carlos.' },
+  { title: 'Catedral de Santo Estêvão (Viena)', lat: 48.208, lng: 16.373, description: 'Local de seu casamento e exéquias de Zita.' },
+  { title: 'Igreja de Matias (Budapeste)', lat: 47.502, lng: 19.034, description: 'Local de sua coroação como Rei da Hungria.' },
+  { title: 'Funchal, Madeira', lat: 32.675, lng: -16.908, description: 'Local de seu exílio, morte e sepultamento.' }
 ]" />
 
 ## Impacto Hoje

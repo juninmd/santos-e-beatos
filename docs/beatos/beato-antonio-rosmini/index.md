@@ -46,7 +46,12 @@ Antonio Rosmini é um modelo de fidelidade à Igreja e de honestidade intelectua
     <TextToSpeech />
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <MiracleMap :places="['Rovereto', 'Stresa', 'Domodossola', 'Milão']" />
+    <MiracleMap :items="[
+  { title: 'Rovereto', lat: 45.8906, lng: 11.0401, description: 'Cidade natal' },
+  { title: 'Stresa', lat: 45.8833, lng: 8.5333, description: 'Onde fundou o Instituto da Caridade' },
+  { title: 'Domodossola', lat: 46.1167, lng: 8.2833, description: 'Monte Calvário, centro de sua ordem' },
+  { title: 'Milão', lat: 45.4642, lng: 9.1900, description: 'Cidade importante em sua vida' }
+]" />
   </div>
 </div>
 

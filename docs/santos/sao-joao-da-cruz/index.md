@@ -53,7 +53,12 @@ Ele ensina ao homem moderno que a verdadeira felicidade não está na posse de c
     <TextToSpeech />
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <MiracleMap :places="['Fontiveros', 'Salamanca', 'Toledo', 'Úbeda']" />
+    <MiracleMap :items="[
+  { title: 'Fontiveros', lat: 40.9328, lng: -4.9567, description: 'Cidade natal' },
+  { title: 'Salamanca', lat: 40.9701, lng: -5.6635, description: 'Onde estudou e conheceu Santa Teresa' },
+  { title: 'Toledo', lat: 39.8628, lng: -4.0273, description: 'Onde foi encarcerado' },
+  { title: 'Úbeda', lat: 38.0097, lng: -3.3719, description: 'Onde faleceu' }
+]" />
   </div>
 </div>
 

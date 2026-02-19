@@ -58,11 +58,11 @@ Muitos milagres são atribuídos a São Patrício:
 - **Armagh:** Cidade onde fundou sua principal igreja e que se tornou o centro eclesiástico da Irlanda.
 - **Saul:** Local onde fundou sua primeira igreja e onde se acredita que morreu.
 
-<MiracleMap :places="[
-  { name: 'Slemish Mountain', coords: [54.897, -6.103], description: 'Local de seu cativeiro e pastoreio.' },
-  { name: 'Colina de Slane', coords: [53.714, -6.556], description: 'Onde acendeu o Fogo Pascal desafiando o rei.' },
-  { name: 'Armagh', coords: [54.349, -6.654], description: 'Centro eclesiástico fundado por São Patrício.' },
-  { name: 'Saul', coords: [54.331, -5.689], description: 'Local de sua morte e primeira igreja.' }
+<MiracleMap :items="[
+  { title: 'Slemish Mountain', lat: 54.897, lng: -6.103, description: 'Local de seu cativeiro e pastoreio.' },
+  { title: 'Colina de Slane', lat: 53.714, lng: -6.556, description: 'Onde acendeu o Fogo Pascal desafiando o rei.' },
+  { title: 'Armagh', lat: 54.349, lng: -6.654, description: 'Centro eclesiástico fundado por São Patrício.' },
+  { title: 'Saul', lat: 54.331, lng: -5.689, description: 'Local de sua morte e primeira igreja.' }
 ]" />
 
 ## Impacto Hoje
