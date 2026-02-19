@@ -18,6 +18,7 @@ Esta seção lista os beatos.
 - [Beata Isabel Cristina](beata-isabel-cristina/index.md)
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
+- [Beata Maria Cristina de Saboia](beata-maria-cristina-de-saboia/index.md)
 - [Beata Maria da Conceição](beata-maria-da-conceicao/index.md)
 - [Beata Maria do Divino Coração](beata-maria-do-divino-coracao/index.md)
 - [Beata Maria Gabriela da Unidade](beata-maria-gabriela-da-unidade/index.md)
