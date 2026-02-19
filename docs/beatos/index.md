@@ -10,6 +10,7 @@ Esta seção lista os beatos.
 - [Beata Bárbara Maix](beata-barbara-maix/index.md)
 - [Beata Benigna](beata-benigna/index.md)
 - [Beata Chiara Luce Badano](beata-chiara-luce-badano/index.md)
+- [Beata Chiquitunga](beata-chiquitunga/index.md)
 - [Beata Clélia Merloni](beata-clelia-merloni/index.md)
 - [Beata Elena Aiello](beata-elena-aiello/index.md)
 - [Beata Elena Guerra](beata-elena-guerra/index.md)
