@@ -6,6 +6,7 @@ Esta seção lista os santos.
 - [Santa Luzia](santa-luzia/index.md)
 - [Santa Maria Madalena](santa-maria-madalena/index.md)
 - [Santa Catarina Labouré](santa-catarina-laboure/index.md)
+- [Santa Cecília](santa-cecilia/index.md)
 - [Santa Clara de Assis](santa-clara-de-assis/index.md)
 - [Santa Dulce dos Pobres](santa-dulce-dos-pobres/index.md)
 - [Santa Faustina Kowalska](santa-faustina-kowalska/index.md)
