@@ -38,6 +38,7 @@ Esta seção lista os beatos.
 - [Beato Franz Jägerstätter](beato-franz-jagerstatter/index.md)
 - [Beato Frederico Ozanam](beato-frederico-ozanam/index.md)
 - [Beato Gonçalo de Amarante](beato-goncalo-de-amarante/index.md)
+- [Beato Isidoro Bakanja](beato-isidoro-bakanja/index.md)
 - [Beato Jerzy Popiełuszko](beato-jerzy-popieluszko/index.md)
 - [Beato João Duns Scotus](beato-joao-duns-scotus/index.md)
 - [Beato João Paulo I](beato-joao-paulo-i/index.md)
