@@ -1,10 +1,10 @@
 <script setup>
 import { data } from '../../saints.data.js'
-import { computed, onMounted, ref } from 'vue'
+import { onMounted, ref } from 'vue'
+import { inBrowser } from 'vitepress'
 
-const today = new Date()
-const currentDay = today.getDate()
-const currentMonth = today.getMonth() // 0-indexed
+const featuredSaint = ref(null)
+const imageSrc = ref('')
 
 const months = {
   'janeiro': 0,
@@ -34,29 +34,35 @@ const parseDate = (dateStr) => {
   return { day, month }
 }
 
-const featuredSaint = computed(() => {
+onMounted(() => {
+  if (!inBrowser) return
+
+  const today = new Date()
+  const currentDay = today.getDate()
+  const currentMonth = today.getMonth() // 0-indexed
+
   // 1. Try to find exact match
   const matches = data.filter(saint => {
     const d = parseDate(saint.feastDay)
     return d && d.day === currentDay && d.month === currentMonth
   })
 
+  let saint = null
   if (matches.length > 0) {
-    return { ...matches[0], label: 'Santo do Dia' }
+    saint = { ...matches[0], label: 'Santo do Dia' }
+  } else {
+    // 2. If no match, pick a "Featured" one based on day of year to rotate
+    const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24)
+    const index = dayOfYear % data.length
+    saint = { ...data[index], label: 'Santo em Destaque' }
   }
 
-  // 2. If no match, pick a "Featured" one based on day of year to rotate
-  const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24)
-  const index = dayOfYear % data.length
-  return { ...data[index], label: 'Santo em Destaque' }
+  featuredSaint.value = saint
+  if (saint && saint.image) {
+    imageSrc.value = saint.url + saint.image
+  }
 })
 
-const imageSrc = computed(() => {
-  if (!featuredSaint.value || !featuredSaint.value.image) return ''
-  // Fix relative path: url is like /santos/slug/, image is imagens/file.jpg
-  // Result: /santos/slug/imagens/file.jpg
-  return featuredSaint.value.url + featuredSaint.value.image
-})
 </script>
 
 <template>
