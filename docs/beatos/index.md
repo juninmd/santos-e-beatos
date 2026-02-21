@@ -56,6 +56,7 @@ Esta seção lista os beatos.
 - [Beato Rolando Rivi](beato-rolando-rivi/index.md)
 - [Beato Rosário Livatino](beato-rosario-livatino/index.md)
 - [Beato Solanus Casey](beato-solanus-casey/index.md)
+- [Beato Stanley Rother](beato-stanley-rother/index.md)
 - [Beato Tiago Alberione](beato-tiago-alberione/index.md)
 - [Beato Zeferino Namuncurá](beato-zeferino-namuncura/index.md)
 - [Nhá Chica](nha-chica/index.md)

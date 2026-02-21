@@ -25,6 +25,7 @@ Esta seção lista os santos.
 - [São Carlo Acutis](carlo-acutis/index.md)
 - [Santa Catarina de Sena](santa-catarina-de-sena/index.md)
 - [São Charbel](sao-charbel/index.md)
+- [São Cristóvão](sao-cristovao/index.md)
 - [São Domingos de Gusmão](sao-domingos-de-gusmao/index.md)
 - [São Domingos Sávio](sao-domingos-savio/index.md)
 - [São Estevão](sao-estevao/index.md)
