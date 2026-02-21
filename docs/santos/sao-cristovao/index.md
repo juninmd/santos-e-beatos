@@ -1,6 +1,6 @@
 # São Cristóvão
 
-![São Cristóvão](imagens/sao-cristovao.jpg)
+![São Cristóvão](imagens/portrait.jpg)
 
 **"Carregador de Cristo"**
 

@@ -1,6 +1,6 @@
 # Beato Stanley Rother
 
-![Beato Stanley Rother](imagens/stanley-rother.jpg)
+![Beato Stanley Rother](imagens/portrait.jpg)
 
 **"O Pastor que não abandona o rebanho"**
 
