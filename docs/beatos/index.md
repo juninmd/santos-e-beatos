@@ -8,6 +8,7 @@ Esta seção lista os beatos.
 - [Beata Anna Maria Taigi](beata-anna-maria-taigi/index.md)
 - [Beata Assunta Marchetti](beata-assunta-marchetti/index.md)
 - [Beata Bárbara Maix](beata-barbara-maix/index.md)
+- [Beata Benedetta Bianchi Porro](beata-benedetta-bianchi-porro/index.md)
 - [Beata Benigna](beata-benigna/index.md)
 - [Beata Chiara Luce Badano](beata-chiara-luce-badano/index.md)
 - [Beata Chiquitunga](beata-chiquitunga/index.md)
