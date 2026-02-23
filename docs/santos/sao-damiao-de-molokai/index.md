@@ -11,6 +11,14 @@
 
 <TextToSpeech />
 
+<script setup>
+const mapItems = [
+  { lat: 50.9914, lng: 4.7536, title: "Tremelo, Bélgica", description: "Cidade natal de Jozef De Veuster (Padre Damião)." },
+  { lat: 21.3069, lng: -157.8583, title: "Honolulu, Havaí", description: "Onde foi ordenado sacerdote na Catedral de Nossa Senhora da Paz." },
+  { lat: 21.1912, lng: -156.9808, title: "Kalaupapa, Molokai", description: "A colônia de leprosos onde viveu, trabalhou e morreu." }
+]
+</script>
+
 ---
 
 ## Biografia
@@ -37,11 +45,7 @@ O milagre que levou à sua canonização foi a cura inexplicável de Audrey Togu
 
 ## Cidades por onde passou
 
-<MiracleMap :items='[
-  { lat: 50.9914, lng: 4.7536, title: "Tremelo, Bélgica", description: "Cidade natal de Jozef De Veuster (Padre Damião)." },
-  { lat: 21.3069, lng: -157.8583, title: "Honolulu, Havaí", description: "Onde foi ordenado sacerdote na Catedral de Nossa Senhora da Paz." },
-  { lat: 21.1912, lng: -156.9808, title: "Kalaupapa, Molokai", description: "A colônia de leprosos onde viveu, trabalhou e morreu." }
-]' />
+<MiracleMap :items="mapItems" />
 
 ## Impacto Hoje
 

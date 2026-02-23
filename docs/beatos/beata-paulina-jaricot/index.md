@@ -11,6 +11,13 @@
 
 <TextToSpeech />
 
+<script setup>
+const mapItems = [
+  { lat: 45.7640, lng: 4.8357, title: "Lyon, França", description: "Cidade onde nasceu, viveu, desenvolveu suas obras e faleceu." },
+  { lat: 45.7621, lng: 4.8268, title: "Basílica de Notre-Dame de Fourvière", description: "Local de grande devoção para Paulina e onde ela frequentemente rezava." }
+]
+</script>
+
 ---
 
 ## Biografia
@@ -37,10 +44,7 @@ O milagre aprovado para sua beatificação envolveu a cura de Mayline Tran, uma 
 
 ## Cidades por onde passou
 
-<MiracleMap :items='[
-  { lat: 45.7640, lng: 4.8357, title: "Lyon, França", description: "Cidade onde nasceu, viveu, desenvolveu suas obras e faleceu." },
-  { lat: 45.7621, lng: 4.8268, title: "Basílica de Notre-Dame de Fourvière", description: "Local de grande devoção para Paulina e onde ela frequentemente rezava." }
-]' />
+<MiracleMap :items="mapItems" />
 
 ## Impacto Hoje
 
