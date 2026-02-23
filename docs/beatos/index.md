@@ -27,6 +27,7 @@ Esta seção lista os beatos.
 - [Beata Maria Pierina De Micheli](beata-maria-pierina-de-micheli/index.md)
 - [Beata Maria Romero Meneses](beata-maria-romero-meneses/index.md)
 - [Beata Maria Troncatti](beata-maria-troncatti/index.md)
+- [Beata Paulina Jaricot](beata-paulina-jaricot/index.md)
 - [Beata Sandra Sabattini](beata-sandra-sabattini/index.md)
 - [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
 - [Beato Bartolo Longo](beato-bartolo-longo/index.md)
