@@ -4,10 +4,10 @@
 
 **"O Apóstolo dos Leprosos"**
 
-**Nascimento:** 3 de janeiro de 1840, Tremelo, Bélgica<br>
-**Morte:** 15 de abril de 1889, Molokai, Reino do Havaí<br>
-**Festa Litúrgica:** 10 de maio<br>
-**Canonização:** 11 de outubro de 2009, pelo Papa Bento XVI<br>
+**Nascimento:** 3 de janeiro de 1840, Tremelo, Bélgica
+**Morte:** 15 de abril de 1889, Molokai, Reino do Havaí
+**Festa Litúrgica:** 10 de maio
+**Canonização:** 11 de outubro de 2009, pelo Papa Bento XVI
 
 <TextToSpeech />
 

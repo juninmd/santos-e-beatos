@@ -4,10 +4,10 @@
 
 **"A Mãe das Missões"**
 
-**Nascimento:** 22 de julho de 1799, Lyon, França<br>
-**Morte:** 9 de janeiro de 1862, Lyon, França<br>
-**Festa Litúrgica:** 9 de janeiro<br>
-**Beatificação:** 22 de maio de 2022, pelo Papa Francisco (representado pelo Cardeal Luis Antonio Tagle)<br>
+**Nascimento:** 22 de julho de 1799, Lyon, França
+**Morte:** 9 de janeiro de 1862, Lyon, França
+**Festa Litúrgica:** 9 de janeiro
+**Beatificação:** 22 de maio de 2022, pelo Papa Francisco (representado pelo Cardeal Luis Antonio Tagle)
 
 <TextToSpeech />
 
