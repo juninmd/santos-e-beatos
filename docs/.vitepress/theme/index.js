@@ -7,7 +7,10 @@ import './style.css'
 
 export default {
   ...DefaultTheme,
-  enhanceApp({ app }) {
+  async enhanceApp({ app }) {
+    if (typeof window !== 'undefined') {
+       import('leaflet/dist/leaflet.css');
+    }
     app.component('TextToSpeech', TextToSpeech)
     app.component('MiracleMap', MiracleMap)
     app.component('SaintOfTheDay', SaintOfTheDay)
