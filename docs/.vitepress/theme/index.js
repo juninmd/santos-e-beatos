@@ -4,6 +4,7 @@ import TextToSpeech from '../components/TextToSpeech.vue'
 import MiracleMap from '../components/MiracleMap.vue'
 import SaintOfTheDay from '../components/SaintOfTheDay.vue'
 import './style.css'
+import 'leaflet/dist/leaflet.css'
 
 export default {
   ...DefaultTheme,
