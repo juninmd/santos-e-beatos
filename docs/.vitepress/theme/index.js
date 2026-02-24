@@ -4,11 +4,13 @@ import TextToSpeech from '../components/TextToSpeech.vue'
 import MiracleMap from '../components/MiracleMap.vue'
 import SaintOfTheDay from '../components/SaintOfTheDay.vue'
 import './style.css'
-import 'leaflet/dist/leaflet.css'
 
 export default {
   ...DefaultTheme,
-  enhanceApp({ app }) {
+  async enhanceApp({ app }) {
+    if (typeof window !== 'undefined') {
+       import('leaflet/dist/leaflet.css');
+    }
     app.component('TextToSpeech', TextToSpeech)
     app.component('MiracleMap', MiracleMap)
     app.component('SaintOfTheDay', SaintOfTheDay)
