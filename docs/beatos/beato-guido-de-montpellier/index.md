@@ -1,12 +1,12 @@
 # Beato Guido de Montpellier
 
-![Beato Guido de Montpellier](imagens/portrait.jpg)
+![Beato Guido de Montpellier](imagens/portrait.png)
 
 **"Servir aos pobres e doentes é servir ao próprio Cristo."**
 
-**Nascimento:** c. 1160, Montpellier, França<br>
-**Morte:** 1208, Roma, Itália<br>
-**Festa Litúrgica:** 7 de fevereiro<br>
+**Nascimento:** c. 1160, Montpellier, França
+**Morte:** 1208, Roma, Itália
+**Festa Litúrgica:** 7 de fevereiro
 **Beatificação:** 18 de maio de 2024, pelo Papa Francisco (culto confirmado)
 
 ---

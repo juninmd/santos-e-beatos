@@ -1,12 +1,12 @@
 # São Luís Gonzaga
 
-![São Luís Gonzaga](imagens/portrait.jpg)
+![São Luís Gonzaga](imagens/portrait.png)
 
 **"Como os outros, não."**
 
-**Nascimento:** 9 de março de 1568, Castiglione delle Stiviere, Itália<br>
-**Morte:** 21 de junho de 1591, Roma, Itália<br>
-**Festa Litúrgica:** 21 de junho<br>
+**Nascimento:** 9 de março de 1568, Castiglione delle Stiviere, Itália
+**Morte:** 21 de junho de 1591, Roma, Itália
+**Festa Litúrgica:** 21 de junho
 **Canonização:** 31 de dezembro de 1726, pelo Papa Bento XIII
 
 ---
