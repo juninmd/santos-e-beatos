@@ -1,6 +1,7 @@
 export default {
   title: 'Santos e Beatos da Igreja Católica',
   description: 'Histórias e conteúdo sobre santos e beatos.',
+  cleanUrls: true,
   vite: {
     ssr: {
       noExternal: ['leaflet']
