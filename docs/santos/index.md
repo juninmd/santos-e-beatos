@@ -48,6 +48,7 @@ Esta seção lista os santos.
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
 - [São Lourenço](sao-lourenco/index.md)
 - [São Lucas](sao-lucas/index.md)
+- [São Luís Gonzaga](sao-luis-gonzaga/index.md)
 - [São Marcos](sao-marcos/index.md)
 - [São Martinho de Lima](sao-martinho-de-lima/index.md)
 - [São Mateus](sao-mateus/index.md)
