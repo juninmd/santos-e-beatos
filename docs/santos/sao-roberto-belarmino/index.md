@@ -4,10 +4,10 @@
 
 **"A paz é um bem tão grande que, mesmo que se deseje, não se pode desejar o bastante."**
 
-**Nascimento:** 4 de outubro de 1542, Montepulciano, Itália<br>
-**Morte:** 17 de setembro de 1621, Roma, Itália<br>
-**Festa Litúrgica:** 17 de setembro<br>
-**Canonização:** 29 de junho de 1930, pelo Papa Pio XI<br>
+**Nascimento:** 4 de outubro de 1542, Montepulciano, Itália
+**Morte:** 17 de setembro de 1621, Roma, Itália
+**Festa Litúrgica:** 17 de setembro
+**Canonização:** 29 de junho de 1930, pelo Papa Pio XI
 
 ---
 

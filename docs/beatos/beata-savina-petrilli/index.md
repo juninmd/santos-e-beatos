@@ -4,10 +4,10 @@
 
 **"Onde há caridade, aí está Deus."**
 
-**Nascimento:** 29 de agosto de 1851, Siena, Itália<br>
-**Morte:** 18 de abril de 1923, Siena, Itália<br>
-**Festa Litúrgica:** 18 de abril<br>
-**Beatificação:** 24 de abril de 1988, pelo Papa João Paulo II<br>
+**Nascimento:** 29 de agosto de 1851, Siena, Itália
+**Morte:** 18 de abril de 1923, Siena, Itália
+**Festa Litúrgica:** 18 de abril
+**Beatificação:** 24 de abril de 1988, pelo Papa João Paulo II
 
 ---
 
