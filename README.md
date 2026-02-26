@@ -86,6 +86,7 @@ npm run docs:preview
 | [Beata Maria do Divino Coração](docs/beatos/beata-maria-do-divino-coracao/index.md) | ![Beata Maria do Divino Coração](https://placehold.co/400x600/png?text=Beata+Maria+do+Divino+Coracao) |
 | [Beata Paulina Jaricot](docs/beatos/beata-paulina-jaricot/index.md) | ![Beata Paulina Jaricot](docs/beatos/beata-paulina-jaricot/imagens/portrait.jpg) |
 | [Beata Sandra Sabattini](docs/beatos/beata-sandra-sabattini/index.md) | ![Beata Sandra Sabattini](https://placehold.co/400x600/png?text=Beata+Sandra+Sabattini) |
+| [Beata Savina Petrilli](docs/beatos/beata-savina-petrilli/index.md) | ![Beata Savina Petrilli](docs/beatos/beata-savina-petrilli/imagens/portrait.jpg) |
 | [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](https://placehold.co/400x600/png?text=Beato+Adilio+Daronch) |
 | [Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/index.md) | ![Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/imagens/portrait.jpg) |
 | [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](https://placehold.co/400x600/png?text=Bartolo+Longo) |
@@ -183,6 +184,7 @@ npm run docs:preview
 | [São Patrício](docs/santos/sao-patricio/index.md) | ![São Patrício](docs/santos/sao-patricio/imagens/portrait.jpg) |
 | [São Paulo](docs/santos/sao-paulo/index.md) | ![São Paulo](https://placehold.co/400x600/png?text=Sao+Paulo) |
 | [São Pedro](docs/santos/sao-pedro/index.md) | ![São Pedro](https://placehold.co/400x600/png?text=Sao+Pedro) |
+| [São Roberto Belarmino](docs/santos/sao-roberto-belarmino/index.md) | ![São Roberto Belarmino](docs/santos/sao-roberto-belarmino/imagens/portrait.jpg) |
 | [São Sebastião](docs/santos/sao-sebastiao/index.md) | ![São Sebastião](https://placehold.co/400x600/png?text=Sao+Sebastiao) |
 | [São Simão](docs/santos/sao-simao/index.md) | ![São Simão](https://placehold.co/400x600/png?text=Sao+Simao) |
 | [São Tiago Maior](docs/santos/sao-tiago-maior/index.md) | ![São Tiago Maior](https://placehold.co/400x600/png?text=Sao+Tiago+Maior) |
