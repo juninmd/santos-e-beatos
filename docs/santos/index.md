@@ -60,6 +60,7 @@ Esta seção lista os santos.
 - [São Patrício](sao-patricio/index.md)
 - [São Paulo](sao-paulo/index.md)
 - [São Pedro](sao-pedro/index.md)
+- [São Roberto Belarmino](sao-roberto-belarmino/index.md)
 - [São Sebastião](sao-sebastiao/index.md)
 - [São Simão](sao-simao/index.md)
 - [São Tiago Maior](sao-tiago-maior/index.md)
