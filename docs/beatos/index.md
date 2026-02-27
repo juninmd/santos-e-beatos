@@ -30,6 +30,8 @@ Esta seção lista os beatos.
 - [Beata Paulina Jaricot](beata-paulina-jaricot/index.md)
 - [Beata Sandra Sabattini](beata-sandra-sabattini/index.md)
 - [Beata Savina Petrilli](beata-savina-petrilli/index.md)
+- [Beato Inácio de Azevedo](beato-inacio-de-azevedo/index.md)
+- [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
 - [Beato Bartolo Longo](beato-bartolo-longo/index.md)
 - [Beato Carlos da Áustria](beato-carlos-da-austria/index.md)

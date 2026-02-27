@@ -22,6 +22,7 @@ Esta seção lista os santos.
 - [São Bartolomeu](sao-bartolomeu/index.md)
 - [São Bento](sao-bento/index.md)
 - [Santa Bernadete Soubirous](santa-bernadete-soubirous/index.md)
+- [São Brás](sao-bras/index.md)
 - [São Camilo de Lellis](sao-camilo-de-lellis/index.md)
 - [São Carlo Acutis](carlo-acutis/index.md)
 - [Santa Catarina de Sena](santa-catarina-de-sena/index.md)
