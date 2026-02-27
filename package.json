@@ -25,6 +25,7 @@
     "vitepress": "^1.6.3"
   },
   "dependencies": {
+    "@playwright/test": "^1.58.2",
     "leaflet": "^1.9.4"
   },
   "engines": {

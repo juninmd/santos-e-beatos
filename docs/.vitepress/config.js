@@ -47,6 +47,7 @@ export default {
             { text: 'Beata Paulina Jaricot', link: '/beatos/beata-paulina-jaricot/' },
             { text: 'Beata Sandra Sabattini', link: '/beatos/beata-sandra-sabattini/' },
             { text: 'Beata Savina Petrilli', link: '/beatos/beata-savina-petrilli/' },
+            { text: 'Beato Inácio de Azevedo', link: '/beatos/beato-inacio-de-azevedo/' },
             { text: 'Beato Adílio Daronch', link: '/beatos/beato-adilio-daronch/' },
             { text: 'Beato Antonio Rosmini', link: '/beatos/beato-antonio-rosmini/' },
             { text: 'Beato Bartolo Longo', link: '/beatos/beato-bartolo-longo/' },
@@ -93,6 +94,7 @@ export default {
           text: 'Santos',
           items: [
             { text: 'Santa Bernadete Soubirous', link: '/santos/santa-bernadete-soubirous/' },
+            { text: 'São Brás', link: '/santos/sao-bras/' },
             { text: 'Santa Catarina de Sena', link: '/santos/santa-catarina-de-sena/' },
             { text: 'Santa Catarina Labouré', link: '/santos/santa-catarina-laboure/' },
             { text: 'Santa Cecília', link: '/santos/santa-cecilia/' },
