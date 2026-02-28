@@ -89,6 +89,7 @@ npm run docs:preview
 | [Beata Savina Petrilli](docs/beatos/beata-savina-petrilli/index.md) | ![Beata Savina Petrilli](docs/beatos/beata-savina-petrilli/imagens/portrait.jpg) |
 | [Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/index.md) | ![Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/imagens/portrait.jpg) |
 | [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](https://placehold.co/400x600/png?text=Beato+Adilio+Daronch) |
+| [Beato Anacleto González Flores](docs/beatos/beato-anacleto-gonzalez-flores/index.md) | ![Beato Anacleto González Flores](docs/beatos/beato-anacleto-gonzalez-flores/imagens/portrait.jpg) |
 | [Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/index.md) | ![Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/imagens/portrait.jpg) |
 | [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](https://placehold.co/400x600/png?text=Bartolo+Longo) |
 | [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](https://placehold.co/400x600/png?text=Beato+Carlo+Gnocchi) |
@@ -192,6 +193,7 @@ npm run docs:preview
 | [São Tiago Maior](docs/santos/sao-tiago-maior/index.md) | ![São Tiago Maior](https://placehold.co/400x600/png?text=Sao+Tiago+Maior) |
 | [São Tiago Menor](docs/santos/sao-tiago-menor/index.md) | ![São Tiago Menor](https://placehold.co/400x600/png?text=Sao+Tiago+Menor) |
 | [São Tomás de Aquino](docs/santos/sao-tomas-de-aquino/index.md) | ![São Tomás de Aquino](docs/santos/sao-tomas-de-aquino/imagens/portrait.jpg) |
+| [São Tomás More](docs/santos/sao-tomas-more/index.md) | ![São Tomás More](docs/santos/sao-tomas-more/imagens/portrait.jpg) |
 | [São Tomé](docs/santos/sao-tome/index.md) | ![São Tomé](https://placehold.co/400x600/png?text=Sao+Tome) |
 | [São Valentim](docs/santos/sao-valentim/index.md) | ![São Valentim](docs/santos/sao-valentim/imagens/portrait.jpg) |
 | [São Vicente de Paulo](docs/santos/sao-vicente-de-paulo/index.md) | ![São Vicente de Paulo](https://placehold.co/400x600/png?text=Sao+Vicente+de+Paulo) |
