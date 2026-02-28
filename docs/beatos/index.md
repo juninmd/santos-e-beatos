@@ -32,6 +32,7 @@ Esta seção lista os beatos.
 - [Beata Savina Petrilli](beata-savina-petrilli/index.md)
 - [Beato Inácio de Azevedo](beato-inacio-de-azevedo/index.md)
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
+- [Beato Anacleto González Flores](beato-anacleto-gonzalez-flores/index.md)
 - [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
 - [Beato Bartolo Longo](beato-bartolo-longo/index.md)
 - [Beato Carlos da Áustria](beato-carlos-da-austria/index.md)
