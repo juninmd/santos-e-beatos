@@ -118,6 +118,7 @@ npm run docs:preview
 | [Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/index.md) | ![Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/imagens/pino-puglisi.jpg) |
 | [Beato Rolando Rivi](docs/beatos/beato-rolando-rivi/index.md) | ![Beato Rolando Rivi](https://placehold.co/400x600/png?text=Beato+Rolando+Rivi) |
 | [Beato Rosário Livatino](docs/beatos/beato-rosario-livatino/index.md) | ![Beato Rosário Livatino](docs/beatos/beato-rosario-livatino/imagens/portrait.jpg) |
+| [Beato Rupert Mayer](docs/beatos/beato-rupert-mayer/index.md) | ![Beato Rupert Mayer](docs/beatos/beato-rupert-mayer/imagens/portrait.jpg) |
 | [Beato Solanus Casey](docs/beatos/beato-solanus-casey/index.md) | ![Beato Solanus Casey](docs/beatos/beato-solanus-casey/imagens/portrait.jpg) |
 | [Beato Stanley Rother](docs/beatos/beato-stanley-rother/index.md) | ![Beato Stanley Rother](docs/beatos/beato-stanley-rother/imagens/portrait.jpg) |
 | [Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/index.md) | ![Beato Tiago Alberione](https://placehold.co/400x600/png?text=Beato+Tiago+Alberione) |
@@ -144,6 +145,7 @@ npm run docs:preview
 | [Santa Teresa de Ávila](docs/santos/santa-teresa-de-avila/index.md) | ![Santa Teresa de Ávila](docs/santos/santa-teresa-de-avila/imagens/portrait.jpg) |
 | [Santa Teresa de Calcutá](docs/santos/santa-teresa-de-calcuta/index.md) | ![Santa Teresa de Calcutá](https://placehold.co/400x600/png?text=Santa+Teresa+de+Calcuta) |
 | [Santa Teresinha do Menino Jesus](docs/santos/santa-teresinha-do-menino-jesus/index.md) | ![Santa Teresinha](docs/santos/santa-teresinha-do-menino-jesus/imagens/santa-teresinha.jpg) |
+| [Santo Afonso Maria de Ligório](docs/santos/santo-afonso-maria-de-ligorio/index.md) | ![Santo Afonso Maria de Ligório](docs/santos/santo-afonso-maria-de-ligorio/imagens/portrait.jpg) |
 | [Santo Agostinho](docs/santos/santo-agostinho/index.md) | ![Santo Agostinho](docs/santos/santo-agostinho/imagens/agostinho.jpg) |
 | [Santo André](docs/santos/santo-andre/index.md) | ![Santo André](https://placehold.co/400x600/png?text=Santo+Andre) |
 | [Santo Antônio de Pádua](docs/santos/santo-antonio/index.md) | ![Santo Antônio](docs/santos/santo-antonio/imagens/santo-antonio.jpg) |
