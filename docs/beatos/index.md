@@ -62,6 +62,7 @@ Esta seção lista os beatos.
 - [Beato Pino Puglisi](beato-pino-puglisi/index.md)
 - [Beato Rolando Rivi](beato-rolando-rivi/index.md)
 - [Beato Rosário Livatino](beato-rosario-livatino/index.md)
+- [Beato Rupert Mayer](beato-rupert-mayer/index.md)
 - [Beato Solanus Casey](beato-solanus-casey/index.md)
 - [Beato Stanley Rother](beato-stanley-rother/index.md)
 - [Beato Tiago Alberione](beato-tiago-alberione/index.md)
