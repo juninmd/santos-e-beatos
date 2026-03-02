@@ -3,6 +3,7 @@
 Esta seção lista os santos.
 
 - [Santa Inês](santa-ines/index.md)
+- [Santa Joana d'Arc](santa-joana-d-arc/index.md)
 - [Santa Luzia](santa-luzia/index.md)
 - [Santa Maria Madalena](santa-maria-madalena/index.md)
 - [Santa Catarina Labouré](santa-catarina-laboure/index.md)
