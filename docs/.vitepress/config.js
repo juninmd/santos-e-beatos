@@ -108,6 +108,7 @@ export default {
             { text: 'Santa Gianna Beretta Molla', link: '/santos/santa-gianna-beretta-molla/' },
             { text: 'Santa Inês', link: '/santos/santa-ines/' },
             { text: 'Santa Joana d\'Arc', link: '/santos/santa-joana-d-arc/' },
+            { text: 'Santa Josefina Bakhita', link: '/santos/santa-josefina-bakhita/' },
             { text: 'Santa Luzia', link: '/santos/santa-luzia/' },
             { text: 'Santa Maria Madalena', link: '/santos/santa-maria-madalena/' },
             { text: 'Santa Mônica', link: '/santos/santa-monica/' },
