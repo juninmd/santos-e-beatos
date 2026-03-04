@@ -26,6 +26,7 @@ Esta seção lista os beatos.
 - [Beata Maria Laura Mainetti](beata-maria-laura-mainetti/index.md)
 - [Beata Maria Pierina De Micheli](beata-maria-pierina-de-micheli/index.md)
 - [Beata Maria Romero Meneses](beata-maria-romero-meneses/index.md)
+- [Beata Maria Teresa de São José](beata-maria-teresa-de-sao-jose/index.md)
 - [Beata Maria Troncatti](beata-maria-troncatti/index.md)
 - [Beata Paulina Jaricot](beata-paulina-jaricot/index.md)
 - [Beata Sandra Sabattini](beata-sandra-sabattini/index.md)
