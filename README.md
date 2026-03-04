@@ -81,6 +81,7 @@ npm run docs:preview
 | [Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/index.md) | ![Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/imagens/portrait.jpg) |
 | [Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/index.md) | ![Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/imagens/portrait.jpg) |
 | [Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/index.md) | ![Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/imagens/maria-romero.jpg) |
+| [Beata Maria Teresa de São José](docs/beatos/beata-maria-teresa-de-sao-jose/index.md) | ![Beata Maria Teresa de São José](docs/beatos/beata-maria-teresa-de-sao-jose/imagens/portrait.jpg) |
 | [Beata Maria Troncatti](docs/beatos/beata-maria-troncatti/index.md) | ![Beata Maria Troncatti](https://placehold.co/400x600/png?text=Beata+Maria+Troncatti) |
 | [Beata Maria da Conceição](docs/beatos/beata-maria-da-conceicao/index.md) | ![Beata Maria da Conceição](https://placehold.co/400x600/png?text=Beata+Maria+da+Conceicao) |
 | [Beata Maria do Divino Coração](docs/beatos/beata-maria-do-divino-coracao/index.md) | ![Beata Maria do Divino Coração](https://placehold.co/400x600/png?text=Beata+Maria+do+Divino+Coracao) |
@@ -181,6 +182,7 @@ npm run docs:preview
 | [São Lourenço](docs/santos/sao-lourenco/index.md) | ![São Lourenço](https://placehold.co/400x600/png?text=Sao+Lourenco) |
 | [São Lucas](docs/santos/sao-lucas/index.md) | ![São Lucas](https://placehold.co/400x600/png?text=Sao+Lucas) |
 | [São Luís Gonzaga](docs/santos/sao-luis-gonzaga/index.md) | ![São Luís Gonzaga](docs/santos/sao-luis-gonzaga/imagens/portrait.png) |
+| [São Luís Maria Grignion de Montfort](docs/santos/sao-luis-maria-grignion-de-montfort/index.md) | ![São Luís Maria Grignion de Montfort](docs/santos/sao-luis-maria-grignion-de-montfort/imagens/portrait.jpg) |
 | [São Marcos](docs/santos/sao-marcos/index.md) | ![São Marcos](https://placehold.co/400x600/png?text=Sao+Marcos) |
 | [São Martinho de Lima](docs/santos/sao-martinho-de-lima/index.md) | ![São Martinho de Lima](https://placehold.co/400x600/png?text=Sao+Martinho+de+Lima) |
 | [São Mateus](docs/santos/sao-mateus/index.md) | ![São Mateus](https://placehold.co/400x600/png?text=Sao+Mateus) |
