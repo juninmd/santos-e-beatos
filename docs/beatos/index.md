@@ -53,6 +53,7 @@ Esta seção lista os beatos.
 - [Beato João Schiavo](beato-joao-schiavo/index.md)
 - [Beato José Gregorio Hernández](beato-jose-gregorio-hernandez/index.md)
 - [Beato Justo Takayama Ukon](beato-justo-takayama-ukon/index.md)
+- [Beato Luis Variara](beato-luis-variara/index.md)
 - [Beato Manuel Lozano Garrido](beato-manuel-lozano-garrido/index.md)
 - [Beato Marcel Callo](beato-marcel-callo/index.md)
 - [Beato Mariano de la Mata](beato-mariano-de-la-mata/index.md)
