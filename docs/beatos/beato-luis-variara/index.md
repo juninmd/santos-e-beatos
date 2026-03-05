@@ -37,12 +37,12 @@ O milagre que levou à sua beatificação aconteceu em 1993. Um jovem colombiano
 
 ## Cidades por onde passou
 
-<MiracleMap :items='[
-  { lat: 44.9785, lng: 8.3582, title: "Viarigi, Itália", description: "Local de nascimento e de sua infância." },
-  { lat: 45.0703, lng: 7.6869, title: "Turim, Itália", description: "Onde conheceu Dom Bosco em Valdocco e formou-se." },
-  { lat: 4.3769, lng: -74.6715, title: "Agua de Dios, Colômbia", description: "Cidade-leprosário onde desenvolveu sua principal e heroica missão." },
-  { lat: 7.8939, lng: -72.5078, title: "Cúcuta, Colômbia", description: "Onde faleceu em obediência, afastado de seus doentes." }
-]' />
+<MiracleMap :items="[
+  { lat: 44.9785, lng: 8.3582, title: 'Viarigi, Itália', description: 'Local de nascimento e de sua infância.' },
+  { lat: 45.0703, lng: 7.6869, title: 'Turim, Itália', description: 'Onde conheceu Dom Bosco em Valdocco e formou-se.' },
+  { lat: 4.3769, lng: -74.6715, title: 'Agua de Dios, Colômbia', description: 'Cidade-leprosário onde desenvolveu sua principal e heroica missão.' },
+  { lat: 7.8939, lng: -72.5078, title: 'Cúcuta, Colômbia', description: 'Onde faleceu em obediência, afastado de seus doentes.' }
+]" />
 
 ## Impacto Hoje
 
