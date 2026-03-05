@@ -37,11 +37,11 @@ Inúmeros milagres e curas foram atribuídos a ele ainda em vida e após sua mor
 
 ## Cidades por onde passou
 
-<MiracleMap :items='[
-  { lat: 45.8166, lng: 4.7500, title: "Dardilly, França", description: "Local de nascimento de São João Maria Vianney e de sua infância no campo." },
-  { lat: 45.7500, lng: 4.8500, title: "Lyon, França", description: "Onde ele recebeu formação rudimentar e lidou com o seminário." },
-  { lat: 45.9930, lng: 4.8236, title: "Ars-sur-Formans, França", description: "Onde ele serviu como pároco por mais de 40 anos e faleceu em odor de santidade." }
-]' />
+<MiracleMap :items="[
+  { lat: 45.8166, lng: 4.7500, title: 'Dardilly, França', description: 'Local de nascimento de São João Maria Vianney e de sua infância no campo.' },
+  { lat: 45.7500, lng: 4.8500, title: 'Lyon, França', description: 'Onde ele recebeu formação rudimentar e lidou com o seminário.' },
+  { lat: 45.9930, lng: 4.8236, title: 'Ars-sur-Formans, França', description: 'Onde ele serviu como pároco por mais de 40 anos e faleceu em odor de santidade.' }
+]" />
 
 ## Impacto Hoje
 
