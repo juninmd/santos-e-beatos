@@ -41,7 +41,7 @@ João Batista pregou na região da Judeia, nas proximidades do rio Jordão, e fa
 
 ## Impacto Hoje
 
-Hoje, a figura de São João Batista continua a inspirar milhões de pessoas a uma vida de conversão, coragem e compromisso com a verdade. Suas festas juninas são algumas das mais expressivas no Brasil, e inúmeras igrejas e comunidades levam o seu nome. Ele nos desafia continuamente a sermos vozes da verdade em meio a injustiças e a nos preparamos para receber a mensagem do Evangelho no mundo contemporâneo.
+Hoje, a figura de São João Batista continua a inspirar milhões de pessoas a uma vida de conversão, coragem e compromisso com a verdade. Suas festas juninas são algumas das mais expressivas no Brasil, e inúmeras igrejas e comunidades levam o seu nome. Ele nos desafia continuamente a sermos vozes da verdade em meio a injustiças e a nos preparar para receber a mensagem do Evangelho no mundo contemporâneo.
 
 <MiracleMap :items='[
   { lat: 31.7683, lng: 35.2137, title: "Ain Karim, Judeia", description: "Local tradicional do seu nascimento." },
