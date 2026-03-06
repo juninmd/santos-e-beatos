@@ -7,6 +7,7 @@ Esta seção lista os beatos.
 - [Beata Ana Catarina Emmerich](beata-ana-catarina-emmerich/index.md)
 - [Beata Anna Maria Taigi](beata-anna-maria-taigi/index.md)
 - [Beata Assunta Marchetti](beata-assunta-marchetti/index.md)
+- [Beato Augusto Czartoryski](beato-augusto-czartoryski/index.md)
 - [Beata Bárbara Maix](beata-barbara-maix/index.md)
 - [Beata Benedetta Bianchi Porro](beata-benedetta-bianchi-porro/index.md)
 - [Beata Benigna](beata-benigna/index.md)
