@@ -29,7 +29,7 @@ Para sua beatificação, um milagre reconhecido pela Igreja ocorreu na cura inex
 ## Curiosidades
 
 1.  **Nobreza:** Ele era príncipe da Casa Czartoryski, uma das famílias nobres mais proeminentes da Polônia.
-2.  **Professor Notável:** Entre os seus preceptores estava Rafael Kalinowski, que mais tarde se tornaria carmelita descalço e foi canonizado pelo Papa João Paulo II. Kalinowski o ensinou não só acadêmica, mas espiritualmente.
+2.  **Professor Notável:** Entre os seus preceptores estava Rafael Kalinowski, que mais tarde se tornaria carmelita descalço e foi canonizado pelo Papa João Paulo II. Kalinowski o ensinou não só academicamente, mas espiritualmente.
 3.  **Relíquia:** Seus restos mortais foram levados para a Polônia, em Sieniawa, e lá se encontram expostos à veneração pública, mantendo forte o seu legado de santidade e dedicação à juventude.
 
 ## Cidades por onde passou
