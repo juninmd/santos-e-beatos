@@ -19,7 +19,7 @@ Ceferino Giménez Malla, carinhosamente conhecido como "El Pelé", nasceu na Esp
 
 ## Milagres
 
-"El Pelé" não é mais conhecido por milagres extraordinários e curas durante sua vida, mas pela constância heroica de sua fé. Durante a Guerra Civil Espanhola em 1936, no clima de perseguição religiosa e anticlerical, ao ver um sacerdote sendo espancado nas ruas, Ceferino tentou defendê-lo. Por carregar um terço no bolso e por sua defesa do padre, ele foi preso, mantido na prisão, e, posteriormente, fuzilado com outras pessoas. Morreu segurando seu terço nas mãos e exclamando "Viva Cristo Rey!".
+"El Pelé" é mais conhecido pela constância heroica de sua fé do que por milagres extraordinários e curas durante sua vida. Durante a Guerra Civil Espanhola em 1936, no clima de perseguição religiosa e anticlerical, ao ver um sacerdote sendo espancado nas ruas, Ceferino tentou defendê-lo. Por carregar um terço no bolso e por sua defesa do padre, ele foi preso, mantido na prisão, e, posteriormente, fuzilado com outras pessoas. Morreu segurando seu terço nas mãos e exclamando "Viva Cristo Rey!".
 
 ## Curiosidades
 
