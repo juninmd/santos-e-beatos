@@ -1,9 +1,0 @@
-
-> santos-e-beatos@1.0.0 docs:dev
-> vitepress dev docs
-
-
-  vitepress v1.6.3
-
-  ➜  Local:   http://localhost:5173/
-  ➜  Network: use --host to expose

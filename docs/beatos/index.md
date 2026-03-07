@@ -39,6 +39,7 @@ Esta seção lista os beatos.
 - [Beato Bartolo Longo](beato-bartolo-longo/index.md)
 - [Beato Carlos da Áustria](beato-carlos-da-austria/index.md)
 - [Beato Carlo Gnocchi](beato-carlo-gnocchi/index.md)
+- [Beato Ceferino Giménez Malla](beato-ceferino-gimenez-malla/index.md)
 - [Beato Miguel Pro](beato-miguel-pro/index.md)
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Álvaro del Portillo](beato-alvaro-del-portillo/index.md)

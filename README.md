@@ -96,6 +96,7 @@ npm run docs:preview
 | [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](https://placehold.co/400x600/png?text=Bartolo+Longo) |
 | [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](https://placehold.co/400x600/png?text=Beato+Carlo+Gnocchi) |
 | [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/portrait.jpg) |
+| [Beato Ceferino Giménez Malla](docs/beatos/beato-ceferino-gimenez-malla/index.md) | ![Beato Ceferino Giménez Malla](docs/beatos/beato-ceferino-gimenez-malla/imagens/portrait.jpg) |
 | [Beato Fra Angelico](docs/beatos/beato-fra-angelico/index.md) | ![Beato Fra Angelico](docs/beatos/beato-fra-angelico/imagens/fra-angelico.jpg) |
 | [Beato Franz Jägerstätter](docs/beatos/beato-franz-jagerstatter/index.md) | ![Beato Franz Jägerstätter](https://placehold.co/400x600/png?text=Beato+Franz+Jagerstatter) |
 | [Beato Frederico Ozanam](docs/beatos/beato-frederico-ozanam/index.md) | ![Beato Frederico Ozanam](https://placehold.co/400x600/png?text=Beato+Frederico+Ozanam) |
@@ -179,6 +180,7 @@ npm run docs:preview
 | [São João Paulo II](docs/santos/sao-joao-paulo-ii/index.md) | ![São João Paulo II](docs/santos/sao-joao-paulo-ii/imagens/joao-paulo-ii.jpg) |
 | [São João XXIII](docs/santos/sao-joao-xxiii/index.md) | ![São João XXIII](docs/santos/sao-joao-xxiii/imagens/portrait.jpg) |
 | [São João da Cruz](docs/santos/sao-joao-da-cruz/index.md) | ![São João da Cruz](docs/santos/sao-joao-da-cruz/imagens/portrait.jpg) |
+| [São João de Deus](docs/santos/sao-joao-de-deus/index.md) | ![São João de Deus](docs/santos/sao-joao-de-deus/imagens/portrait.jpg) |
 | [São Jorge](docs/santos/sao-jorge/index.md) | ![São Jorge](docs/santos/sao-jorge/imagens/sao-jorge.jpg) |
 | [São José](docs/santos/sao-jose/index.md) | ![São José](docs/santos/sao-jose/imagens/portrait.jpg) |
 | [São José de Anchieta](docs/santos/sao-jose-de-anchieta/index.md) | ![São José de Anchieta](docs/santos/sao-jose-de-anchieta/imagens/portrait.jpg) |
