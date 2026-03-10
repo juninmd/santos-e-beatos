@@ -4,10 +4,10 @@
 
 **"Companheira Inseparável e Herdeira Espiritual de Santa Teresa de Ávila"**
 
-**Nascimento:** 1 de outubro de 1549 (Almendral, Espanha)<br>
-**Morte:** 7 de junho de 1626 (Antuérpia, Bélgica)<br>
-**Beatificação:** 6 de maio de 1917, pelo Papa Bento XV<br>
-**Festa Litúrgica:** 7 de junho<br>
+**Nascimento:** 1 de outubro de 1549 (Almendral, Espanha)  
+**Morte:** 7 de junho de 1626 (Antuérpia, Bélgica)  
+**Beatificação:** 6 de maio de 1917, pelo Papa Bento XV  
+**Festa Litúrgica:** 7 de junho
 
 ---
 
