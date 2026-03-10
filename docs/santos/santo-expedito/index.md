@@ -4,10 +4,10 @@
 
 **"O Santo das Causas Justas e Urgentes"**
 
-**Nascimento:** Século III (Melitene, Armênia)<br>
-**Morte:** 19 de abril de 303 (Melitene, Armênia)<br>
-**Canonização:** Reconhecido como Mártir nos primeiros séculos (Culto imemorial)<br>
-**Festa Litúrgica:** 19 de abril<br>
+**Nascimento:** Século III (Melitene, Armênia)  
+**Morte:** 19 de abril de 303 (Melitene, Armênia)  
+**Canonização:** Reconhecido como Mártir nos primeiros séculos (Culto imemorial)  
+**Festa Litúrgica:** 19 de abril
 
 ---
 
