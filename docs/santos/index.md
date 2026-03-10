@@ -34,6 +34,7 @@ Esta seção lista os santos.
 - [São Damião de Molokai](sao-damiao-de-molokai/index.md)
 - [São Domingos de Gusmão](sao-domingos-de-gusmao/index.md)
 - [São Domingos Sávio](sao-domingos-savio/index.md)
+- [Santo Expedito](santo-expedito/index.md)
 - [São Estevão](sao-estevao/index.md)
 - [São Filipe](sao-filipe/index.md)
 - [São Filipe Neri](sao-filipe-neri/index.md)
