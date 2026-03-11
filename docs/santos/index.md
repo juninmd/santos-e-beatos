@@ -20,6 +20,7 @@ Esta seção lista os santos.
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santo Agostinho](santo-agostinho/index.md)
 - [Santo André](santo-andre/index.md)
+- [Santo Antão do Deserto](santo-antao-do-deserto/index.md)
 - [Santo Antônio de Pádua](santo-antonio/index.md)
 - [Santo Inácio de Loyola](santo-inacio-de-loyola/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
