@@ -1,6 +1,6 @@
 # Beata Dina Bélanger
 
-![Beata Dina Bélanger](https://placehold.co/400x600/png?text=Beata+Dina+Belanger)
+![Beata Dina Bélanger](./imagens/portrait.jpg)
 
 **"A música não era para mim uma arte, mas uma linguagem onde minha alma derramava seu amor por Deus."**
 
