@@ -79,6 +79,7 @@ npm run docs:preview
 | [Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/index.md) | ![Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/imagens/isabel-cristina.jpg) |
 | [Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/index.md) | ![Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/imagens/laura-vicuna.jpg) |
 | [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](https://placehold.co/400x600/png?text=Beata+Lindalva+Justo+de+Oliveira) |
+| [Beata Maria Clara do Menino Jesus](docs/beatos/beata-maria-clara-do-menino-jesus/index.md) | ![Beata Maria Clara do Menino Jesus](docs/beatos/beata-maria-clara-do-menino-jesus/imagens/portrait.jpg) |
 | [Beata Maria Cristina de Saboia](docs/beatos/beata-maria-cristina-de-saboia/index.md) | ![Beata Maria Cristina de Saboia](docs/beatos/beata-maria-cristina-de-saboia/imagens/portrait.jpg) |
 | [Beata Maria Gabriela da Unidade](docs/beatos/beata-maria-gabriela-da-unidade/index.md) | ![Beata Maria Gabriela da Unidade](https://placehold.co/400x600/png?text=Beata+Maria+Gabriela+da+Unidade) |
 | [Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/index.md) | ![Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/imagens/portrait.jpg) |
@@ -177,6 +178,7 @@ npm run docs:preview
 | [São Francisco de Assis](docs/santos/sao-francisco-de-assis/index.md) | ![São Francisco](docs/santos/sao-francisco-de-assis/imagens/sao-francisco.jpg) |
 | [São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/index.md) | ![São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/imagens/portrait.jpg) |
 | [São Geraldo Majella](docs/santos/sao-geraldo-majella/index.md) | ![São Geraldo Majella](docs/santos/sao-geraldo-majella/imagens/sao-geraldo.png) |
+| [São Jerônimo](docs/santos/sao-jeronimo/index.md) | ![São Jerônimo](docs/santos/sao-jeronimo/imagens/portrait.jpg) |
 | [São João Batista](docs/santos/sao-joao-batista/index.md) | ![São João Batista](docs/santos/sao-joao-batista/imagens/portrait.jpg) |
 | [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
 | [São João Evangelista](docs/santos/sao-joao-evangelista/index.md) | ![São João Evangelista](https://placehold.co/400x600/png?text=Sao+Joao+Evangelista) |
