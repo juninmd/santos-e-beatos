@@ -32,6 +32,7 @@ Esta seção lista os beatos.
 - [Beata Maria Romero Meneses](beata-maria-romero-meneses/index.md)
 - [Beata Maria Teresa de São José](beata-maria-teresa-de-sao-jose/index.md)
 - [Beata Maria Troncatti](beata-maria-troncatti/index.md)
+- [Beata Marta Le Bouteiller](beata-marta-le-bouteiller/index.md)
 - [Beata Paulina Jaricot](beata-paulina-jaricot/index.md)
 - [Beata Sandra Sabattini](beata-sandra-sabattini/index.md)
 - [Beata Savina Petrilli](beata-savina-petrilli/index.md)
