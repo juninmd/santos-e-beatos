@@ -41,6 +41,7 @@ Esta seção lista os beatos.
 - [Beato Anacleto González Flores](beato-anacleto-gonzalez-flores/index.md)
 - [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
 - [Beato Bartolo Longo](beato-bartolo-longo/index.md)
+- [Beato Carlo Acutis](carlo_acutis/index.md)
 - [Beato Carlos da Áustria](beato-carlos-da-austria/index.md)
 - [Beato Carlo Gnocchi](beato-carlo-gnocchi/index.md)
 - [Beato Ceferino Giménez Malla](beato-ceferino-gimenez-malla/index.md)
