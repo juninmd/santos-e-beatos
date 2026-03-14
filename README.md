@@ -98,7 +98,7 @@ npm run docs:preview
 | [Beato Anacleto González Flores](docs/beatos/beato-anacleto-gonzalez-flores/index.md) | ![Beato Anacleto González Flores](docs/beatos/beato-anacleto-gonzalez-flores/imagens/portrait.jpg) |
 | [Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/index.md) | ![Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/imagens/portrait.jpg) |
 | [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](https://placehold.co/400x600/png?text=Bartolo+Longo) |
-| [Beato Carlo Acutis](docs/beatos/carlo_acutis/index.md) | ![Beato Carlo Acutis](docs/beatos/carlo_acutis/imagens/portrait.jpg) |
+| [Beato Carlo Acutis](docs/beatos/beato-carlo-acutis/index.md) | ![Beato Carlo Acutis](docs/beatos/beato-carlo-acutis/imagens/portrait.jpg) |
 | [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](https://placehold.co/400x600/png?text=Beato+Carlo+Gnocchi) |
 | [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/portrait.jpg) |
 | [Beato Ceferino Giménez Malla](docs/beatos/beato-ceferino-gimenez-malla/index.md) | ![Beato Ceferino Giménez Malla](docs/beatos/beato-ceferino-gimenez-malla/imagens/portrait.jpg) |
