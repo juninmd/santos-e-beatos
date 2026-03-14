@@ -39,9 +39,9 @@ Um segundo milagre reconhecido, que abriu caminho para a sua futura canonizaçã
 
 Hoje, Carlo Acutis é um dos beatos mais populares e influentes entre os jovens, mostrando que é possível ser santo usando a internet e a tecnologia de maneira positiva, servindo como uma grande inspiração. Ele modernizou o conceito de santidade e mostra que ela é alcançável nos dias atuais, vivendo de forma simples, alegre e focada no serviço. A sua exposição de Milagres Eucarísticos continua a ser visitada por milhões ao redor do globo.
 
-<MiracleMap :places="[
-  { name: 'Londres, Reino Unido', description: 'Nascimento de Carlo Acutis.', lat: 51.5074, lng: -0.1278 },
-  { name: 'Milão, Itália', description: 'Viveu a maior parte de sua vida.', lat: 45.4642, lng: 9.1900 },
-  { name: 'Assis, Itália', description: 'Túmulo exposto e local de peregrinação.', lat: 43.0758, lng: 12.6186 },
-  { name: 'Campo Grande, Brasil', description: 'Local do milagre da beatificação de Matheus.', lat: -20.4428, lng: -54.6464 }
+<MiracleMap :items="[
+  { title: 'Londres, Reino Unido', description: 'Nascimento de Carlo Acutis.', lat: 51.5074, lng: -0.1278 },
+  { title: 'Milão, Itália', description: 'Viveu a maior parte de sua vida.', lat: 45.4642, lng: 9.1900 },
+  { title: 'Assis, Itália', description: 'Túmulo exposto e local de peregrinação.', lat: 43.0758, lng: 12.6186 },
+  { title: 'Campo Grande, Brasil', description: 'Local do milagre da beatificação de Matheus.', lat: -20.4428, lng: -54.6464 }
 ]" />
