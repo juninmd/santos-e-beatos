@@ -1,17 +1,15 @@
 # Beato Carlo Gnocchi
 
-![Beato Carlo Gnocchi](./img/portrait.jpg)
+![Beato Carlo Gnocchi](./imagens/portrait.jpg)
 
 **"O Pai dos Mutiladinhos."**
 
-**Nascimento:** 25 de outubro de 1902, San Colombano al Lambro (Itália)
-**Morte:** 28 de fevereiro de 1956, Milão (Itália)
-**Beatificação:** 25 de outubro de 2009, pelo Papa Bento XVI
+**Nascimento:** 25 de outubro de 1902, San Colombano al Lambro (Itália)<br>
+**Morte:** 28 de fevereiro de 1956, Milão (Itália)<br>
+**Beatificação:** 25 de outubro de 2009, pelo Papa Bento XVI<br>
 **Festa Litúrgica:** 25 de outubro
 
 <TextToSpeech />
-
----
 
 ## Biografia
 

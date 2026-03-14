@@ -6,6 +6,7 @@ Esta seção lista os santos.
 - [Santa Joana d'Arc](santa-joana-d-arc/index.md)
 - [Santa Josefina Bakhita](santa-josefina-bakhita/index.md)
 - [Santa Luzia](santa-luzia/index.md)
+- [Santa Margarida Maria Alacoque](santa-margarida-maria-alacoque/index.md)
 - [Santa Maria Madalena](santa-maria-madalena/index.md)
 - [Santa Catarina Labouré](santa-catarina-laboure/index.md)
 - [Santa Cecília](santa-cecilia/index.md)
