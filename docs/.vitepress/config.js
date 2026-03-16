@@ -58,7 +58,7 @@ export default {
             { text: 'Beato Anacleto González Flores', link: '/beatos/beato-anacleto-gonzalez-flores/' },
             { text: 'Beato Antonio Rosmini', link: '/beatos/beato-antonio-rosmini/' },
             { text: 'Beato Bartolo Longo', link: '/beatos/beato-bartolo-longo/' },
-            { text: 'Beato Carlo Acutis', link: '/beatos/carlo_acutis/' },
+            { text: 'Beato Carlo Acutis', link: '/beatos/beato-carlo-acutis/' },
             { text: 'Beato Carlo Gnocchi', link: '/beatos/beato-carlo-gnocchi/' },
             { text: 'Beato Carlos Manuel Rodríguez', link: '/beatos/beato-carlos-manuel/' },
             { text: 'Beato Carlos da Áustria', link: '/beatos/beato-carlos-da-austria/' },
