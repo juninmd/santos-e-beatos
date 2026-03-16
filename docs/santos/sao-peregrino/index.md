@@ -43,7 +43,7 @@ Após sua morte, inumeráveis graças e curas foram relatadas por aqueles que pe
 
 Hoje, o impacto de São Peregrino é sentido globalmente. Milhares de fiéis que enfrentam o diagnóstico de câncer recorrem a ele em busca de força, consolo e cura. Existem inúmeras capelas, igrejas e centros de tratamento de câncer nomeados em sua honra ao redor do mundo. A devoção a ele continua a crescer, servindo como um farol de esperança e uma lembrança do poder da fé e da oração diante de doenças devastadoras e incuráveis.
 
-<MiracleMap :locations="[
-    { name: 'Forlì, Itália', description: 'Local de seu nascimento, de seu longo ministério e onde ocorreu a cura milagrosa de sua perna.', lat: 44.2227, lng: 12.0407 },
-    { name: 'Siena, Itália', description: 'Cidade onde iniciou sua vida religiosa na Ordem dos Servitas.', lat: 43.3188, lng: 11.3308 }
+<MiracleMap :items="[
+    { title: 'Forlì, Itália', description: 'Local de seu nascimento, de seu longo ministério e onde ocorreu a cura milagrosa de sua perna.', lat: 44.2227, lng: 12.0407 },
+    { title: 'Siena, Itália', description: 'Cidade onde iniciou sua vida religiosa na Ordem dos Servitas.', lat: 43.3188, lng: 11.3308 }
 ]" />
