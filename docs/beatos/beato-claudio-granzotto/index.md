@@ -48,8 +48,8 @@ Numerosos outros relatos locais de intervenções miraculosas e curas sem explic
 
 Hoje, o Beato Cláudio Granzotto é profundamente admirado por muitos como um modelo formidável para artistas católicos que lutam para harmonizar a sua vocação artística com uma vida espiritual autêntica e humilde. Suas esculturas permanecem expostas em várias paróquias, santuários e mosteiros, servindo de testemunho duradouro de uma arte que, de modo inigualável, se faz prece, levando os corações a contemplar os mistérios cristãos e a glória divina. O Santuário de Chiampo é hoje um importante centro de peregrinação no norte da Itália, onde milhares deixam seus pedidos e testemunhos de graças alcançadas.
 
-<MiracleMap :locations="[
-    { name: 'Santa Lúcia di Piave, Itália', description: 'Onde o Beato Cláudio Granzotto nasceu e cresceu em uma família camponesa modesta.', lat: 45.8450, lng: 12.2858 },
-    { name: 'Veneza, Itália', description: 'Sua formação e consagração inicial nas belas artes na Academia de Belas Artes de Veneza.', lat: 45.4408, lng: 12.3155 },
-    { name: 'Chiampo, Itália', description: 'Onde ingressou na ordem Franciscana, criou obras incríveis, como a réplica da Gruta de Lourdes, e onde faleceu.', lat: 45.5457, lng: 11.2828 }
+<MiracleMap :items="[
+    { title: 'Santa Lúcia di Piave, Itália', description: 'Onde o Beato Cláudio Granzotto nasceu e cresceu em uma família camponesa modesta.', lat: 45.8450, lng: 12.2858 },
+    { title: 'Veneza, Itália', description: 'Sua formação e consagração inicial nas belas artes na Academia de Belas Artes de Veneza.', lat: 45.4408, lng: 12.3155 },
+    { title: 'Chiampo, Itália', description: 'Onde ingressou na ordem Franciscana, criou obras incríveis, como a réplica da Gruta de Lourdes, e onde faleceu.', lat: 45.5457, lng: 11.2828 }
 ]" />
