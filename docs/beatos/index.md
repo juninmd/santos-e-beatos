@@ -50,6 +50,7 @@ Esta seção lista os beatos.
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Álvaro del Portillo](beato-alvaro-del-portillo/index.md)
 - [Beato Fra Angelico](beato-fra-angelico/index.md)
+- [Beato Francisco Palau](beato-francisco-palau/index.md)
 - [Beato Franz Jägerstätter](beato-franz-jagerstatter/index.md)
 - [Beato Frederico Ozanam](beato-frederico-ozanam/index.md)
 - [Beato Gonçalo de Amarante](beato-goncalo-de-amarante/index.md)
