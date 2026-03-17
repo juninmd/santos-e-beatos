@@ -60,7 +60,7 @@ São Boaventura continua a ser um pilar da teologia cristã e da espiritualidade
 
 | | |
 |---|---|
-| ![São Boaventura Doutor da Igreja](https://placehold.co/400x300/jpg?text=Sao+Boaventura+Doutor) | ![Itinerário da Mente para Deus](https://placehold.co/400x300/jpg?text=Itinerario) |
+| ![São Boaventura Doutor da Igreja](https://placehold.co/400x300/jpg?text=S%C3%A3o+Boaventura+Doutor) | ![Itinerário da Mente para Deus](https://placehold.co/400x300/jpg?text=Itinerario) |
 | **São Boaventura, o Doutor Seráfico** | **Obras místicas de São Boaventura** |
 
 ---
