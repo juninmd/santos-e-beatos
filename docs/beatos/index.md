@@ -65,6 +65,7 @@ Esta seção lista os beatos.
 - [Beato Luis Variara](beato-luis-variara/index.md)
 - [Beato Manuel Lozano Garrido](beato-manuel-lozano-garrido/index.md)
 - [Beato Marcel Callo](beato-marcel-callo/index.md)
+- [Beato Marcos de Aviano](beato-marcos-de-aviano/index.md)
 - [Beato Mariano de la Mata](beato-mariano-de-la-mata/index.md)
 - [Beato Miguel Sopoćko](beato-miguel-sopocko/index.md)
 - [Beato Moisés Lira](beato-moises-lira/index.md)
