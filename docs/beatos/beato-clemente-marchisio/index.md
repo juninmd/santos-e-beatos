@@ -31,11 +31,9 @@ A cura de uma irmã da sua própria Congregação, Irmã Agostina, que sofria de
 
 ## Curiosidades
 
-1.  **Amigo de Dom Bosco:** Clemente Marchisio foi contemporâneo e grande admirador de São João Bosco. Ele encontrou inspiração nas iniciativas sociais e educacionais de Dom Bosco em Turim, especialmente na proteção à juventude abandonada.
-2.  **Obras para o Altar:** Para proteger o Santíssimo Sacramento de profanações, o Instituto que ele fundou produzia pão, vinho e paramentos litúrgicos de altíssima qualidade para garantir que as paróquias oferecessem apenas o melhor ao Senhor na Missa.
-3.  **Uma Visão Profética:** Marchisio teve uma visão antecipada de como a industrialização no Piemonte afetaria as jovens camponesas e se antecipou abrindo lares onde pudessem morar e trabalhar sob a proteção da Igreja, preservando-as dos abusos dos patrões e da miséria material.
-
-## Cidades por onde passou
+1.  **Amigo de Dom Bosco.** Clemente Marchisio foi contemporâneo e grande admirador de São João Bosco. Ele encontrou inspiração nas iniciativas sociais e educacionais de Dom Bosco em Turim, especialmente na proteção à juventude abandonada.
+2.  **Obras para o Altar.** Para proteger o Santíssimo Sacramento de profanações, o Instituto que ele fundou produzia pão, vinho e paramentos litúrgicos de altíssima qualidade para garantir que as paróquias oferecessem apenas o melhor ao Senhor na Missa.
+3.  **Uma Visão Profética.** Marchisio teve uma visão antecipada de como a industrialização no Piemonte afetaria as jovens camponesas e se antecipou abrindo lares onde pudessem morar e trabalhar sob a proteção da Igreja, preservando-as dos abusos dos patrões e da miséria material.
 
 O trabalho incansável de Dom Clemente esteve concentrado em poucas cidades do norte da Itália, onde a revolução industrial trazia novos desafios sociais e pastorais.
 
@@ -47,6 +45,6 @@ O trabalho incansável de Dom Clemente esteve concentrado em poucas cidades do n
 
 ## Impacto Hoje
 
-O legado do Beato Clemente Marchisio permanece extremamente relevante. Suas Filhas de São José continuam presentes em várias partes do mundo (como Itália, Brasil, México e Nigéria), dedicando-se à adoração eucarística e à providência para a Santa Missa, além de servirem ativamente nos trabalhos paroquiais e sociais.
+O legado do Beato Clemente Marchisio permanece extremamente relevante. Suas Filhas de São José continuam presentes em várias partes do mundo (como Itália, Brasil, México e Nigéria), dedicando-se à adoração eucarística e à provisão para a Santa Missa, além de servirem ativamente nos trabalhos paroquiais e sociais.
 
 A vida de Dom Clemente nos recorda a dignidade inalienável do trabalho humano e a importância de promover estruturas de solidariedade para os mais fracos. Ao mesmo tempo, ele ensina que nenhuma ação social pode ser verdadeiramente frutuosa se não brotar de um profundo amor a Jesus Sacramentado.
