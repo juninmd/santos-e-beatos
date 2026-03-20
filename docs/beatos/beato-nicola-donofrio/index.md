@@ -1,7 +1,7 @@
 # Beato Nicola D'Onofrio
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="./imagens/portrait.jpg" alt="Beato Nicola D'Onofrio" width="200" style="border-radius: 8px;" />
+<div class="flex-start-gap-20">
+  <img src="./imagens/portrait.jpg" alt="Beato Nicola D'Onofrio" width="200" class="rounded-image" />
   <div>
     <p><em>"Eu serei padre Camiliano custe o que custar!"</em></p>
     <p>
@@ -68,5 +68,8 @@ Além disso, para os enfermos, e em especial para os jovens que enfrentam o cân
 
 <MiracleMap :places="[
   { name: 'Villamagna, Itália', lat: 42.3278, lng: 14.2344 },
-  { name: 'Roma, Itália', lat: 41.9028, lng: 12.4964 }
+  { name: 'Roma, Itália', lat: 41.9028, lng: 12.4964 },
+  { name: 'Lourdes, França', lat: 43.0995, lng: -0.0496 },
+  { name: 'Lisieux, França', lat: 49.1462, lng: 0.2268 },
+  { name: 'Bucchianico, Itália', lat: 42.3000, lng: 14.2000 }
 ]" />
