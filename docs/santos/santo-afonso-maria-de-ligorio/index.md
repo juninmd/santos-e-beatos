@@ -50,10 +50,10 @@ O legado de Santo Afonso Maria de Ligório é vasto, profundo e continua a resso
 
 A Congregação do Santíssimo Redentor (Redentoristas), fundada por ele, é hoje uma das maiores e mais influentes ordens missionárias masculinas da Igreja, com milhares de membros trabalhando em mais de 80 países ao redor do mundo. Eles continuam o trabalho de Afonso de evangelizar os pobres, pregar missões populares e difundir a devoção à Nossa Senhora do Perpétuo Socorro, cuja imagem miraculosa foi confiada aos Redentoristas pelo Papa Pio IX. O modelo afonsiano de espiritualidade, caracterizado por sua ênfase na redenção abundante, na misericórdia infinita e no amor tangível de Deus encarnado em Jesus Cristo e presente na Eucaristia, continua a atrair corações e a oferecer consolo, cura e esperança a incontáveis almas ao redor do mundo moderno.
 
-<MiracleMap :locations="[
-  { name: 'Marianella, Itália', coordinates: [40.8906, 14.2415], description: 'Nascimento e infância' },
-  { name: 'Nápoles, Itália', coordinates: [40.8518, 14.2681], description: 'Estudos, advocacia e início do sacerdócio' },
-  { name: 'Scala, Itália', coordinates: [40.6559, 14.6083], description: 'Fundação dos Redentoristas' },
-  { name: 'Sant Agata de Goti, Itália', coordinates: [41.0899, 14.5020], description: 'Atuação como bispo' },
-  { name: 'Pagani, Itália', coordinates: [40.7423, 14.6133], description: 'Morte e repouso de suas relíquias' }
+<MiracleMap :items="[
+  { title: 'Marianella, Itália', lat: 40.8906, lng: 14.2415, description: 'Nascimento e infância' },
+  { title: 'Nápoles, Itália', lat: 40.8518, lng: 14.2681, description: 'Estudos, advocacia e início do sacerdócio' },
+  { title: 'Scala, Itália', lat: 40.6559, lng: 14.6083, description: 'Fundação dos Redentoristas' },
+  { title: 'Sant\'Agata de\' Goti, Itália', lat: 41.0899, lng: 14.5020, description: 'Atuação como bispo' },
+  { title: 'Pagani, Itália', lat: 40.7423, lng: 14.6133, description: 'Morte e repouso de suas relíquias' }
 ]" />
