@@ -57,3 +57,4 @@ A Congregação do Santíssimo Redentor (Redentoristas), fundada por ele, é hoj
   { title: 'Sant\'Agata de\' Goti, Itália', lat: 41.0899, lng: 14.5020, description: 'Atuação como bispo' },
   { title: 'Pagani, Itália', lat: 40.7423, lng: 14.6133, description: 'Morte e repouso de suas relíquias' }
 ]" />
+
