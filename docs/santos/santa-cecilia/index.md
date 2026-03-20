@@ -50,7 +50,5 @@ Santa Cecília continua a inspirar músicos, cantores e poetas em todo o mundo. 
 
 ### Galeria
 
-| Estátua de Maderno |
-| :---: |
-| ![Estátua de Santa Cecília por Stefano Maderno](imagens/maderno.jpg) |
-| *A célebre escultura de Stefano Maderno (1600), que retrata o corpo incorrupto da santa como foi encontrado.* |
+![Estátua de Santa Cecília por Stefano Maderno](imagens/maderno.jpg)
+*A célebre escultura de Stefano Maderno (1600), que retrata o corpo incorrupto da santa como foi encontrado.*
