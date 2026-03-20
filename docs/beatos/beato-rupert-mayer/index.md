@@ -55,3 +55,4 @@ Seu túmulo, localizado na igreja jesuíta da Bürgersaal, no coração de Muniq
   { title: 'Ettal, Alemanha', lat: 47.5694, lng: 11.0924, description: 'Confinamento na Abadia de Ettal' },
   { title: 'Oranienburg, Alemanha', lat: 52.7554, lng: 13.2384, description: 'Campo de concentração de Sachsenhausen' }
 ]" />
+
