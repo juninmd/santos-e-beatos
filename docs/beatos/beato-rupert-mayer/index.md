@@ -56,3 +56,4 @@ Seu túmulo, localizado na igreja jesuíta da Bürgersaal, no coração de Muniq
   { title: 'Oranienburg, Alemanha', lat: 52.7554, lng: 13.2384, description: 'Campo de concentração de Sachsenhausen' }
 ]" />
 
+
