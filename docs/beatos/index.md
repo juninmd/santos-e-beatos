@@ -70,6 +70,7 @@ Esta seção lista os beatos.
 - [Beato Mariano de la Mata](beato-mariano-de-la-mata/index.md)
 - [Beato Miguel Sopoćko](beato-miguel-sopocko/index.md)
 - [Beato Moisés Lira](beato-moises-lira/index.md)
+- [Beato Nicola D'Onofrio](beato-nicola-donofrio/index.md)
 - [Beato Padre Eustáquio](beato-padre-eustaquio/index.md)
 - [Beato Pier Giorgio Frassati](pier-giorgio-frassati/index.md)
 - [Beato Pino Puglisi](beato-pino-puglisi/index.md)
