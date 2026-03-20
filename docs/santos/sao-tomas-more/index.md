@@ -51,3 +51,4 @@ Em casos de martírio, o milagre primário considerado pela Igreja é o próprio
 São Tomás More é um modelo atemporal para aqueles que trabalham na vida pública e política. Seu exemplo nos lembra a importância primordial de ouvir e obedecer a própria consciência formada, mesmo quando isso significa perder o poder, o status social, ou até mesmo a própria vida. Ele defendeu a liberdade da Igreja contra o absolutismo do Estado.
 
 
+
