@@ -21,7 +21,7 @@ Após servir a um rei e depois ao próprio diabo (ao perceber que este temia a c
 
 Certa noite, uma criança pediu para ser levada à outra margem. Cristóvão a colocou nos ombros e iniciou a travessia. No entanto, à medida que avançava, o peso da criança aumentava insuportavelmente, como se ele carregasse o mundo inteiro. Ao chegar ao outro lado, a criança revelou ser o próprio Cristo, que carregava sobre si os pecados do mundo. Foi então que ele recebeu o nome de Cristóvão.
 
-<MiracleMap />
+<MiracleMap :items="[{ lat: 36.2442, lng: 29.9856, title: 'Lícia (Demre)', description: 'Local do ministério e martírio.' }]" />
 
 ## Vida Pessoal e Espiritualidade
 
