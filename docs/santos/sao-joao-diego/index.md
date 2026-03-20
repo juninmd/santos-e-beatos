@@ -1,7 +1,7 @@
 # São João Diego Cuauhtlatoatzin
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="./imagens/portrait.jpg" alt="São João Diego Cuauhtlatoatzin" width="200" style="border-radius: 8px;" />
+<div class="flex-start-gap-20">
+  <img src="./imagens/portrait.jpg" alt="São João Diego Cuauhtlatoatzin" width="200" class="rounded-image" />
   <div>
     <p><em>"Eu sou nada, sou uma pequena corda, uma escada de tábuas..."</em></p>
     <p>
@@ -66,6 +66,10 @@ O impacto de São João Diego hoje é incalculável. Ele é intrinsecamente liga
 
 O Santuário de Nossa Senhora de Guadalupe, na Cidade do México, construído aos pés do monte Tepeyac, é um dos santuários católicos mais visitados em todo o mundo, recebendo milhões de peregrinos anualmente.
 
-São João Diego é um ícone para os povos indígenas, lembrando que a fé católica abraça e se incultura em todos os povos. Sua humildade, obediência e paciência continuam a ser um modelo de virtude cristã autêntica. Ele nos ensina que Deus frequentemente escolhe os pequenos e simples deste mundo para realizar Suas maiores obras e transmitir Suas mensagens mais importantes. O Papa Francisco frequentemente o cita como exemplo de verdadeira devoção e serviço.
-
-<MiracleMap :places="[{ name: 'Cidade do México, México', lat: 19.4326, lng: -99.1332 }]" />
+<MiracleMap :places="[
+  { name: 'Cuauhtitlán, México', lat: 19.6667, lng: -99.1667 },
+  { name: 'Tolpetlac, México', lat: 19.5500, lng: -99.0833 },
+  { name: 'Tlatelolco, México', lat: 19.4500, lng: -99.1333 },
+  { name: 'Colina de Tepeyac, México', lat: 19.4850, lng: -99.1167 },
+  { name: 'Cidade do México, México', lat: 19.4326, lng: -99.1332 }
+]" />
