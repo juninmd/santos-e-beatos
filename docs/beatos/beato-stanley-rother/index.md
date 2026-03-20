@@ -23,7 +23,7 @@ Durante a violenta guerra civil guatemalteca, a Igreja Católica foi alvo de per
 
 Voltou à Guatemala, sabendo dos riscos. Na madrugada de 28 de julho de 1981, três homens armados invadiram a reitoria e o assassinaram. Ele resistiu para proteger os outros na casa, gritando "Matem-me aqui!".
 
-<MiracleMap />
+<MiracleMap :items="[{ lat: 35.7248, lng: -97.9753, title: 'Okarche, Oklahoma', description: 'Local de nascimento e sepultamento.' }, { lat: 14.6375, lng: -91.2292, title: 'Santiago Atitlán, Guatemala', description: 'Local da missão e martírio.' }]" />
 
 ## Vida Pessoal e Espiritualidade
 
