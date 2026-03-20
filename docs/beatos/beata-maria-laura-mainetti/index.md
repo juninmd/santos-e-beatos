@@ -4,9 +4,9 @@
 
 **"Mártir do Perdão"**
 
-**Nascimento:** 20 de agosto de 1939, Colico (Itália)<br>
-**Morte:** 6 de junho de 2000, Chiavenna (Itália)<br>
-**Festa Litúrgica:** 6 de junho<br>
+**Nascimento:** 20 de agosto de 1939, Colico (Itália)  
+**Morte:** 6 de junho de 2000, Chiavenna (Itália)  
+**Festa Litúrgica:** 6 de junho  
 **Beatificação:** 6 de junho de 2021, pelo Papa Francisco
 
 ---
