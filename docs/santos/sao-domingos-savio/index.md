@@ -4,9 +4,9 @@
 
 **"A morte, mas não o pecado!"**
 
-**Nascimento:** 2 de abril de 1842, Riva presso Chieri (Itália)<br>
-**Morte:** 9 de março de 1857, Mondonio (Itália)<br>
-**Festa Litúrgica:** 6 de maio<br>
+**Nascimento:** 2 de abril de 1842, Riva presso Chieri (Itália)  
+**Morte:** 9 de março de 1857, Mondonio (Itália)  
+**Festa Litúrgica:** 6 de maio  
 **Canonização:** 12 de junho de 1954, pelo Papa Pio XII
 
 ---
