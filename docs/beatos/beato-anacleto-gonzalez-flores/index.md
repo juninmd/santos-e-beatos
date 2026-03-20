@@ -50,3 +50,4 @@ Ele é reconhecido como mártir pela Igreja, tendo derramado seu sangue em ódio
 
 O Beato Anacleto é um testemunho poderoso do papel vital dos leigos na Igreja, especialmente na esfera política e social. Em tempos de secularização e desafios à liberdade religiosa, sua dedicação em usar a inteligência e a coragem para defender publicamente a fé continua sendo incrivelmente relevante. Ele nos convida a sermos cidadãos ativos que não se envergonham de seu compromisso cristão.
 
+
