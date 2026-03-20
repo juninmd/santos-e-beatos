@@ -52,6 +52,7 @@ Esta seção lista os santos.
 - [São João Bosco](sao-joao-bosco/index.md)
 - [São João da Cruz](sao-joao-da-cruz/index.md)
 - [São João de Deus](sao-joao-de-deus/index.md)
+- [São João Diego Cuauhtlatoatzin](sao-joao-diego/index.md)
 - [São João Evangelista](sao-joao-evangelista/index.md)
 - [São João Maria Vianney](sao-joao-maria-vianney/index.md)
 - [São João Paulo II](sao-joao-paulo-ii/index.md)
