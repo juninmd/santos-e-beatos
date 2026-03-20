@@ -49,9 +49,9 @@ O legado do Beato Rupert Mayer ressoa poderosamente na atualidade, especialmente
 
 Seu túmulo, localizado na igreja jesuíta da Bürgersaal, no coração de Munique, continua a ser um local de profunda veneração, atraindo peregrinos que buscam conforto espiritual e força em tempos de provação. Seu exemplo ilumina as consciências, lembrando ao mundo a vital importância de defender a fé em face da opressão sistêmica e de lutar sem descanso em prol da justiça social, do respeito aos vulneráveis e da paz.
 
-<MiracleMap :locations="[
-  { name: 'Stuttgart, Alemanha', coordinates: [48.7758, 9.1829], description: 'Nascimento' },
-  { name: 'Munique, Alemanha', coordinates: [48.1351, 11.5820], description: 'Ministério, ativismo anti-nazista, morte e túmulo' },
-  { name: 'Ettal, Alemanha', coordinates: [47.5694, 11.0924], description: 'Confinamento na Abadia de Ettal' },
-  { name: 'Oranienburg, Alemanha', coordinates: [52.7554, 13.2384], description: 'Campo de concentração de Sachsenhausen' }
+<MiracleMap :items="[
+  { title: 'Stuttgart, Alemanha', lat: 48.7758, lng: 9.1829, description: 'Nascimento' },
+  { title: 'Munique, Alemanha', lat: 48.1351, lng: 11.5820, description: 'Ministério, ativismo anti-nazista, morte e túmulo' },
+  { title: 'Ettal, Alemanha', lat: 47.5694, lng: 11.0924, description: 'Confinamento na Abadia de Ettal' },
+  { title: 'Oranienburg, Alemanha', lat: 52.7554, lng: 13.2384, description: 'Campo de concentração de Sachsenhausen' }
 ]" />
