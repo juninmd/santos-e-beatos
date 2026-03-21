@@ -81,6 +81,7 @@ Esta seção lista os santos.
 - [São Roberto Belarmino](sao-roberto-belarmino/index.md)
 - [São Sebastião](sao-sebastiao/index.md)
 - [São Simão](sao-simao/index.md)
+- [São Tarcísio](sao-tarcisio/index.md)
 - [São Tiago Maior](sao-tiago-maior/index.md)
 - [São Tiago Menor](sao-tiago-menor/index.md)
 - [São Tomás de Aquino](sao-tomas-de-aquino/index.md)
