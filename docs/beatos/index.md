@@ -60,6 +60,7 @@ Esta seção lista os beatos.
 - [Beato Jerzy Popiełuszko](beato-jerzy-popieluszko/index.md)
 - [Beato João Duns Scotus](beato-joao-duns-scotus/index.md)
 - [Beato João Paulo I](beato-joao-paulo-i/index.md)
+- [Beato Joan Roig i Diggle](beato-joan-roig-i-diggle/index.md)
 - [Beato João Schiavo](beato-joao-schiavo/index.md)
 - [Beato José Gregorio Hernández](beato-jose-gregorio-hernandez/index.md)
 - [Beato Justo Takayama Ukon](beato-justo-takayama-ukon/index.md)
