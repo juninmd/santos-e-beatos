@@ -55,11 +55,11 @@ O milagre que abriu caminho para a sua beatificação foi reconhecido em dezembr
 - **Lourdes:** Promoveu inúmeras e frequentes peregrinações com doentes, mudando o foco dessas viagens de "busca pela cura física" para "valorização do sofrimento".
 - **Rocca Priora (Valleluogo):** Local próximo a Roma, onde faleceu e onde manteve um centro de repouso e espiritualidade fundamental para suas obras.
 
-<MiracleMap :places="[
-  { name: 'Casale Monferrato', coords: [45.1378, 8.4526], description: 'Cidade natal de Luigi Novarese e local de sua juventude marcada pela doença.' },
-  { name: 'Roma', coords: [41.9028, 12.4964], description: 'Local de seus estudos, ordenação e trabalho incansável nas fundações das Obras.' },
-  { name: 'Lourdes', coords: [43.0915, -0.0457], description: 'Destino de inúmeras peregrinações de doentes lideradas por Pe. Luigi.' },
-  { name: 'Rocca Priora', coords: [41.7915, 12.7667], description: 'Local de seu falecimento em 1984.' }
+<MiracleMap :items="[
+  { title: 'Casale Monferrato', lat: 45.1378, lng: 8.4526, description: 'Cidade natal de Luigi Novarese e local de sua juventude marcada pela doença.' },
+  { title: 'Roma', lat: 41.9028, lng: 12.4964, description: 'Local de seus estudos, ordenação e trabalho incansável nas fundações das Obras.' },
+  { title: 'Lourdes', lat: 43.0915, lng: -0.0457, description: 'Destino de inúmeras peregrinações de doentes lideradas por Pe. Luigi.' },
+  { title: 'Rocca Priora', lat: 41.7915, lng: 12.7667, description: 'Local de seu falecimento em 1984.' }
 ]" />
 
 ## Impacto Hoje
