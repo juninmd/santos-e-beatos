@@ -40,7 +40,7 @@ Zita ficou a serviço da família Fatinelli por 48 anos, não por obrigação ou
 
 Inúmeros milagres e lendas piedosas estão ligados à vida de Zita, muitos deles acontecidos ainda durante o tempo em que ela era empregada:
 
-- **O milagre do pão:** Certa manhã, em que a família precisava de muito pão, Zita foi à missa e acabou se demorando. Os outros empregados pensaram que o trabalho atrasaria e começaram a falar mal. Quando Zita chegou na cozinha à pressas, encontrou a massa pronta e levedada perfeitamente. Outra lenda famosa conta que, quando questionada sobre o que levava escondido no avental para dar aos pobres (que era comida roubada da despensa dos patrões), ela respondeu "Flores" – e miraculosamente o que caiu do avental foram belíssimas rosas, protegendo-a das falsas acusações dos outros empregados invejosos.
+- **O milagre do pão:** Certa manhã, em que a família precisava de muito pão, Zita foi à missa e acabou se demorando. Os outros empregados pensaram que o trabalho atrasaria e começaram a falar mal. Quando Zita chegou na cozinha às pressas, encontrou a massa pronta e levedada perfeitamente. Outra lenda famosa conta que, quando questionada sobre o que levava escondido no avental para dar aos pobres (que era comida roubada da despensa dos patrões), ela respondeu "Flores" – e miraculosamente o que caiu do avental foram belíssimas rosas, protegendo-a das falsas acusações dos outros empregados invejosos.
 - **A água transformada em vinho:** Uma vez em que deixou peregrinos beberem da água do poço, a água transformou-se em excelente vinho, saciando a sede dos famintos de forma miraculosa.
 - **O casaco de pele:** Num rigoroso dia de inverno, Zita foi à igreja e seu patrão encontrou-a e, para protegê-la do frio intenso, emprestou-lhe um luxuoso casaco de pele, com a ordem estrita de trazê-lo de volta. Na porta da igreja, um pobre pedia esmolas, tremendo de frio. Zita deu-lhe o casaco com a promessa de o buscar depois da missa. Após a celebração, o pobre havia desaparecido com o casaco. O seu patrão repreendeu-a furiosamente; mas horas depois, o mesmo pobre (que os fiéis reconheceram como o próprio Jesus) apareceu à porta dos Fatinelli para devolver a peça intacta. A porta onde isso ocorreu na igreja de San Frediano, em Lucca, passou a se chamar de "A Porta do Anjo".
 
@@ -53,9 +53,9 @@ Inúmeros milagres e lendas piedosas estão ligados à vida de Zita, muitos dele
 
 Zita viveu toda a sua vida quase exclusivamente restrita à província de Lucca.
 
-<MiracleMap :places="[
-  { name: 'Monsagrati', coords: [43.9167, 10.4000], description: 'Pequena aldeia na região da Toscana onde Santa Zita nasceu.' },
-  { name: 'Lucca', coords: [43.8417, 10.5028], description: 'Cidade onde trabalhou para a família Fatinelli durante 48 anos e realizou os seus famosos milagres de caridade.' }
+<MiracleMap :items="[
+  { title: 'Monsagrati', lat: 43.9167, lng: 10.4000, description: 'Pequena aldeia na região da Toscana onde Santa Zita nasceu.' },
+  { title: 'Lucca', lat: 43.8417, lng: 10.5028, description: 'Cidade onde trabalhou para a família Fatinelli durante 48 anos e realizou os seus famosos milagres de caridade.' }
 ]" />
 
 ## Impacto Hoje
