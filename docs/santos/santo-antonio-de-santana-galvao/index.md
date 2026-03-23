@@ -47,6 +47,6 @@ Santo Antônio de Sant'Ana Galvão é um dos santos mais populares do Brasil, co
 A devoção a Frei Galvão cresce continuamente, não apenas no Brasil, mas em outras partes do mundo. Ele é um poderoso intercessor pelas mães, especialmente aquelas que enfrentam dificuldades durante a gravidez e o parto, além de ser um modelo de virtude e humildade para todos os cristãos.
 
 <MiracleMap :items='[
-  { lat: -22.8166, lng: -45.1925, title: "Guaratinguetá, SP", description: "Cidade natal de Santo Antônio de Sant\"Ana Galvão." },
+  { lat: -22.8166, lng: -45.1925, title: "Guaratinguetá, SP", description: "Cidade natal de Santo Antônio de Sant'Ana Galvão." },
   { lat: -23.5303, lng: -46.6339, title: "Mosteiro da Luz, São Paulo", description: "Mosteiro fundado e construído por Frei Galvão, local onde ele está sepultado." }
 ]' />
