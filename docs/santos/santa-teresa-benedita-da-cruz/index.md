@@ -4,10 +4,10 @@
 
 **"A verdade não é uma ideia, mas uma pessoa."**
 
-**Nascimento:** 12 de outubro de 1891, Breslávia, Império Alemão (hoje Wrocław, Polônia)<br>
-**Morte:** 9 de agosto de 1942, Auschwitz, Polônia ocupada<br>
-**Festa Litúrgica:** 9 de agosto<br>
-**Canonização:** 11 de outubro de 1998, pelo Papa João Paulo II<br>
+- **Nascimento:** 12 de outubro de 1891, Breslávia, Império Alemão (hoje Wrocław, Polônia)
+- **Morte:** 9 de agosto de 1942, Auschwitz, Polônia ocupada
+- **Festa Litúrgica:** 9 de agosto
+- **Canonização:** 11 de outubro de 1998, pelo Papa João Paulo II
 
 <TextToSpeech />
 
