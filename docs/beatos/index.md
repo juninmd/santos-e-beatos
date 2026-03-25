@@ -48,6 +48,7 @@ Esta seção lista os beatos.
 - [Beato Clemente Marchisio](beato-clemente-marchisio/index.md)
 - [Beato Cláudio Granzotto](beato-claudio-granzotto/index.md)
 - [Beato Columba Marmion](beato-columba-marmion/index.md)
+- [Beato Eduardo Francisco Pironio](beato-eduardo-francisco-pironio/index.md)
 - [Beato Miguel Pro](beato-miguel-pro/index.md)
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Álvaro del Portillo](beato-alvaro-del-portillo/index.md)
