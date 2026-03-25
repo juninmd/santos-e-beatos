@@ -4,10 +4,10 @@
 
 **"A alegria de ser um presente de Deus para os outros."**
 
-**Nascimento:** 3 de dezembro de 1920, Nueve de Julio, Argentina<br>
-**Morte:** 5 de fevereiro de 1998, Roma, Itália<br>
-**Festa Litúrgica:** 4 de fevereiro<br>
-**Beatificação:** 16 de dezembro de 2023, pelo Papa Francisco<br>
+- **Nascimento:** 3 de dezembro de 1920, Nueve de Julio, Argentina
+- **Morte:** 5 de fevereiro de 1998, Roma, Itália
+- **Festa Litúrgica:** 4 de fevereiro
+- **Beatificação:** 16 de dezembro de 2023, pelo Papa Francisco
 
 <TextToSpeech />
 
