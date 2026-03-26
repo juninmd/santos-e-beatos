@@ -43,13 +43,11 @@ O impacto de Antônio Chevrier permanece muito vivo. A Associação dos Padres d
   {
     title: 'Nascimento e Ordenação',
     description: 'Lyon, onde Antônio Chevrier nasceu e foi ordenado sacerdote.',
-    lat: 45.7640,
-    lng: 4.8357
+    coordinates: [45.7640, 4.8357]
   },
   {
     title: 'Fundação da Obra do Prado',
     description: 'Bairro de Guillotière, Lyon, onde transformou um antigo salão de baile em um refúgio para os jovens pobres.',
-    lat: 45.7516,
-    lng: 4.8436
+    coordinates: [45.7516, 4.8436]
   }
 ]" />
