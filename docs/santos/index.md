@@ -35,6 +35,7 @@ Esta seção lista os santos.
 - [São Brás](sao-bras/index.md)
 - [São Camilo de Lellis](sao-camilo-de-lellis/index.md)
 - [São Carlo Acutis](carlo-acutis/index.md)
+- [São Carlos Borromeu](sao-carlos-borromeu/index.md)
 - [Santa Catarina de Sena](santa-catarina-de-sena/index.md)
 - [São Charbel](sao-charbel/index.md)
 - [São Cristóvão](sao-cristovao/index.md)
