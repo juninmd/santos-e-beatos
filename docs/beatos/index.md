@@ -39,6 +39,7 @@ Esta seção lista os beatos.
 - [Beato Inácio de Azevedo](beato-inacio-de-azevedo/index.md)
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Anacleto González Flores](beato-anacleto-gonzalez-flores/index.md)
+- [Beato Antônio Chevrier](beato-antonio-chevrier/index.md)
 - [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
 - [Beato Bartolo Longo](beato-bartolo-longo/index.md)
 - [Beato Carlo Acutis](carlo_acutis/index.md)
