@@ -49,15 +49,18 @@ O impacto de São Carlos Borromeu é profundamente sentido na organização da I
     title: 'Nascimento de São Carlos Borromeu',
     description: 'Arona, onde nasceu e passou os primeiros anos.',
     coordinates: [45.7584, 8.5583]
-  },
+    lat: 45.7584,
+    lng: 8.5583
   {
     title: 'Atuação na Cúria e Concílio de Trento',
     description: 'Roma, onde trabalhou com o Papa Pio IV e ajudou no Concílio de Trento.',
     coordinates: [41.9028, 12.4964]
-  },
+    lat: 41.9028,
+    lng: 12.4964
   {
     title: 'Milagre de Caridade na Peste de Milão',
     description: 'Milão, onde serviu aos doentes da peste e estabeleceu grandes reformas.',
     coordinates: [45.4642, 9.1900]
-  }
+    lat: 45.4642,
+    lng: 9.1900
 ]" />
