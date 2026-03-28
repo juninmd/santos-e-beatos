@@ -9,6 +9,7 @@ Esta seção lista os santos.
 - [Santa Margarida Maria Alacoque](santa-margarida-maria-alacoque/index.md)
 - [Santa Maria Goretti](santa-maria-goretti/index.md)
 - [Santa Maria Madalena](santa-maria-madalena/index.md)
+- [Santa Paulina](santa-paulina/index.md)
 - [Santa Catarina Labouré](santa-catarina-laboure/index.md)
 - [Santa Cecília](santa-cecilia/index.md)
 - [Santa Clara de Assis](santa-clara-de-assis/index.md)
