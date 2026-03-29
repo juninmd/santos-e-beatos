@@ -30,13 +30,13 @@ Seus últimos anos foram marcados por grandes sofrimentos físicos, exacerbados 
 
 A beatificação de Elisabetta Sanna foi respaldada por vários sinais de sua intercessão, mas um milagre médico específico foi oficialmente reconhecido pela Igreja. O milagre envolvia uma cura inexplicável:
 
-- **Cura de Doença Grave:** O caso aprovado para sua beatificação envolveu a cura de uma jovem brasileira em 2008. A jovem sofria de um tumor gravíssimo e letal no braço direito, que estava em estado terminal. A jovem foi curada milagrosamente depois que suas amigas rezaram um tríduo pedindo a intercessão de Elisabetta Sanna. Pouco tempo depois, não só a dor desapareceu de forma abrupta e total, mas exames posteriores revelaram que não havia mais vestígios do tumor maligno. O milagre foi essencial para a confirmação de sua santidade.
+A jovem foi curada milagrosamente depois que suas amigas rezaram um tríduo pedindo a intercessão de Elisabetta Sanna. Pouco tempo depois, não só a dor desapareceu de forma abrupta e total. Exames posteriores revelaram que não havia mais vestígios do tumor maligno. O milagre foi essencial para a confirmação de sua santidade.
 
 ## Curiosidades
 
 - Apesar de ser fisicamente incapacitada desde tenra idade, era conhecida por sua alegria constante.
 - Ela foi o primeiro membro secular, leiga e mulher, a aderir à União do Apostolado Católico de São Vicente Pallotti em Roma.
-- Nunca aprendeu a ler ou escrever, e seu italiano era falho; em grande parte, comunicava-se no dialeto sardo, mas sua sabedoria espiritual e profunda empatia permitiam-lhe aconselhar inúmeras pessoas de todos os níveis da sociedade romana.
+Nunca aprendeu a ler ou escrever, e seu italiano era falho; em grande parte, comunicava-se no dialeto sardo. No entanto, sua sabedoria espiritual e profunda empatia permitiam-lhe aconselhar inúmeras pessoas de todos os níveis da sociedade romana.
 - São Vicente Pallotti muitas vezes enviava fiéis a Elisabetta para que recebessem conselhos espirituais, demonstrando sua grande estima por ela.
 
 ## Cidades por onde passou
@@ -50,6 +50,6 @@ A beatificação de Elisabetta Sanna foi respaldada por vários sinais de sua in
 
 Hoje, a Beata Elisabetta Sanna é venerada como um poderoso exemplo para viúvas, mães, doentes crônicos, deficientes físicos e leigos em geral. Sua vida prova que santidade não está restrita àqueles em perfeita saúde física, sacerdotes ou religiosos consagrados. Ela mostra que qualquer pessoa, abraçando as cruzes do dia a dia, pode viver o Evangelho na sua integridade.
 
-Como pilar e cofundadora espiritual do trabalho de São Vicente Pallotti, a sua memória é zelosamente guardada pela Sociedade do Apostolado Católico. Seu túmulo atrai peregrinos, e suas virtudes – uma confiança absoluta na Providência Divina e aceitação humilde dos planos de Deus, especialmente frente a viagens frustradas e à vida no exílio da sua família – fornecem profundo encorajamento àqueles cujos planos de vida foram virados de cabeça para baixo.
+Como pilar e cofundadora espiritual do trabalho de São Vicente Pallotti, a sua memória é zelosamente guardada pela Sociedade do Apostolado Católico. Seu túmulo atrai peregrinos. Suas virtudes – uma confiança absoluta na Providência Divina e aceitação humilde dos planos de Deus, especialmente frente a viagens frustradas e à vida no exílio da sua família – fornecem profundo encorajamento àqueles cujos planos de vida foram virados de cabeça para baixo.
 
 <MiracleMap />
