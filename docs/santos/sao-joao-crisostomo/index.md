@@ -36,8 +36,8 @@ São João Crisóstomo é venerado não apenas por seus milagres físicos, mas p
 
 ## Curiosidades
 
-- O título "Crisóstomo" (Boca de Ouro) não foi usado por ele em vida; começou a ser utilizado cerca de um século após sua morte para descrever sua incomparável habilidade oratória.
-- Ele escreveu vastamente, e suas obras literárias – que incluem tratados, homilias e cartas – são as mais volumosas entre todos os Padres do Oriente.
+O título "Crisóstomo" (Boca de Ouro) não foi usado por ele em vida. Começou a ser utilizado cerca de um século após sua morte para descrever sua incomparável habilidade oratória.
+Ele escreveu vastamente. Suas obras literárias – que incluem tratados, homilias e cartas – são as mais volumosas entre todos os Padres do Oriente.
 - A "Divina Liturgia de São João Crisóstomo" é ainda hoje a forma mais celebrada de liturgia eucarística na Igreja Ortodoxa e nas Igrejas Católicas Orientais.
 - Apesar de ser Arcebispo de Constantinopla, recusava os luxos da corte, comendo de forma simples e doando grande parte dos recursos da Igreja para hospitais e obras de caridade.
 
@@ -53,8 +53,8 @@ São João Crisóstomo é venerado não apenas por seus milagres físicos, mas p
 
 O impacto de São João Crisóstomo continua profundamente presente tanto no Oriente quanto no Ocidente. Reconhecido como um dos Quatro Grandes Padres da Igreja do Oriente, seus ensinamentos sobre a Eucaristia, a importância das Escrituras e a justiça social permanecem extremamente relevantes.
 
-Seus sermões, ricos em teologia prática, são estudados não apenas por teólogos, mas também por leigos que buscam entender como viver o cristianismo no mundo real. Sua insistência de que a verdadeira fé deve resultar em caridade tangível, especialmente no cuidado com os pobres, ressoa fortemente na doutrina social da Igreja atual.
+Seus sermões são ricos em teologia prática. Eles são estudados não apenas por teólogos, mas também por leigos que buscam entender como viver o cristianismo no mundo real. Sua insistência de que a verdadeira fé deve resultar em caridade tangível, especialmente no cuidado com os pobres, ressoa fortemente na doutrina social da Igreja atual.
 
-Além disso, a liturgia que leva o seu nome une milhões de cristãos ao redor do mundo em adoração semanal, fazendo com que sua "Boca de Ouro" continue a louvar a Deus através das gerações. Ele é invocado como padroeiro dos pregadores, oradores e daqueles que sofrem por falar a verdade.
+Além disso, a liturgia que leva o seu nome une milhões de cristãos ao redor do mundo em adoração semanal. Isso faz com que sua "Boca de Ouro" continue a louvar a Deus através das gerações. Ele é invocado como padroeiro dos pregadores, oradores e daqueles que sofrem por falar a verdade.
 
 <MiracleMap />
