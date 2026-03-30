@@ -79,6 +79,7 @@ Esta seção lista os beatos.
 - [Beato Pier Giorgio Frassati](pier-giorgio-frassati/index.md)
 - [Beato Pino Puglisi](beato-pino-puglisi/index.md)
 - [Beato Pio IX](beato-pio-ix/index.md)
+- [Beata Rita Amada de Jesus](beata-rita-amada-de-jesus/index.md)
 - [Beato Rolando Rivi](beato-rolando-rivi/index.md)
 - [Beato Rosário Livatino](beato-rosario-livatino/index.md)
 - [Beato Rupert Mayer](beato-rupert-mayer/index.md)
