@@ -4,10 +4,10 @@
 
 **"A Filósofa da Cruz"**
 
-**Nascimento:** 12 de outubro de 1891, Breslávia (Alemanha, hoje Polônia)<br>
-**Morte:** 9 de agosto de 1942, Auschwitz (Polônia)<br>
-**Canonização:** 11 de outubro de 1998, pelo Papa João Paulo II<br>
-**Festa Litúrgica:** 9 de agosto<br>
+**Nascimento:** 12 de outubro de 1891, Breslávia (Alemanha, hoje Polônia)  
+**Morte:** 9 de agosto de 1942, Auschwitz (Polônia)  
+**Canonização:** 11 de outubro de 1998, pelo Papa João Paulo II  
+**Festa Litúrgica:** 9 de agosto
 
 <TextToSpeech />
 
