@@ -4,10 +4,10 @@
 
 **"Apóstola da Eucaristia, da Família e dos Pobres"**
 
-**Nascimento:** 5 de março de 1848, Casal de São Romão, Viseu (Portugal)  
-**Morte:** 6 de janeiro de 1913, Casal de São Romão, Viseu (Portugal)  
-**Beatificação:** 28 de maio de 2006, pelo Papa Bento XVI  
-**Festa Litúrgica:** 6 de janeiro
+**Nascimento:** 5 de março de 1848, Casal de São Romão, Viseu (Portugal)<br>
+**Morte:** 6 de janeiro de 1913, Casal de São Romão, Viseu (Portugal)<br>
+**Beatificação:** 28 de maio de 2006, pelo Papa Bento XVI<br>
+**Festa Litúrgica:** 6 de janeiro<br>
 
 <TextToSpeech />
 
