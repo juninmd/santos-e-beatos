@@ -44,23 +44,23 @@ Um dos milagres reconhecidos para sua canonização foi a cura de uma freira em 
 
 O impacto de São Carlos Borromeu é profundamente sentido na organização da Igreja moderna. A instituição do seminário para a formação do clero é uma de suas heranças mais visíveis. Sua dedicação à catequese organizada inspirou o desenvolvimento do ensino religioso tal como é praticado hoje em muitas partes do mundo católico. Seu modelo de "bispo residente" — que vive no meio de seu rebanho e trabalha ativamente por sua salvação material e espiritual, especialmente nos momentos de crise — continua sendo o ideal pastoral almejado na Igreja. Sua vida prova que a verdadeira reforma e renovação ocorrem através da santidade pessoal e do sacrifício pelos mais necessitados.
 
-<MiracleMap :miracles="[
+<MiracleMap :locations="[
   {
     title: 'Nascimento de São Carlos Borromeu',
     description: 'Arona, onde nasceu e passou os primeiros anos.',
-    coordinates: [45.7584, 8.5583]
     lat: 45.7584,
     lng: 8.5583
+  },
   {
     title: 'Atuação na Cúria e Concílio de Trento',
     description: 'Roma, onde trabalhou com o Papa Pio IV e ajudou no Concílio de Trento.',
-    coordinates: [41.9028, 12.4964]
     lat: 41.9028,
     lng: 12.4964
+  },
   {
     title: 'Milagre de Caridade na Peste de Milão',
     description: 'Milão, onde serviu aos doentes da peste e estabeleceu grandes reformas.',
-    coordinates: [45.4642, 9.1900]
     lat: 45.4642,
     lng: 9.1900
+  }
 ]" />
