@@ -89,6 +89,7 @@ export default {
             { text: 'Beato Mariano de la Mata', link: '/beatos/beato-mariano-de-la-mata/' },
             { text: 'Beato Michael McGivney', link: '/beatos/beato-michael-mcgivney/' },
             { text: 'Beato Miguel Pro', link: '/beatos/beato-miguel-pro/' },
+            { text: 'Beato Miguel Rua', link: '/beatos/beato-miguel-rua/' },
             { text: 'Beato Miguel Sopoćko', link: '/beatos/beato-miguel-sopocko/' },
             { text: 'Beato Moisés Lira', link: '/beatos/beato-moises-lira/' },
             { text: 'Beato Nicola D\'Onofrio', link: '/beatos/beato-nicola-donofrio/' },
@@ -114,6 +115,7 @@ export default {
         {
           text: 'Santos',
           items: [
+            { text: 'Santa Bárbara', link: '/santos/santa-barbara/' },
             { text: 'Santa Bernadete Soubirous', link: '/santos/santa-bernadete-soubirous/' },
             { text: 'São Brás', link: '/santos/sao-bras/' },
             { text: 'Santa Catarina de Sena', link: '/santos/santa-catarina-de-sena/' },

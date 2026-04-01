@@ -50,6 +50,7 @@ Esta seção lista os beatos.
 - [Beato Cláudio Granzotto](beato-claudio-granzotto/index.md)
 - [Beato Columba Marmion](beato-columba-marmion/index.md)
 - [Beato Miguel Pro](beato-miguel-pro/index.md)
+- [Beato Miguel Rua](beato-miguel-rua/index.md)
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Álvaro del Portillo](beato-alvaro-del-portillo/index.md)
 - [Beato Fra Angelico](beato-fra-angelico/index.md)
