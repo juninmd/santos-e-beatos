@@ -37,7 +37,7 @@ O milagre que abriu caminho para sua beatificação envolveu a cura milagrosa de
 
 ## Impacto Hoje
 
-Hoje, as três ramificações da Família Marianista fundadas ou inspiradas por ele (religiosos, religiosas e leigos) contam com milhares de membros e educadores ao redor do mundo. A visão de Chaminade de "multiplicar cristãos" levou a criação de inúmeras escolas e universidades católicas em todos os continentes (como a Universidade de Dayton e a Chaminade University of Honolulu, nos EUA), deixando uma marca indelével na educação global e na propagação da espiritualidade mariana.
+Hoje, as três ramificações da Família Marianista fundadas ou inspiradas por ele (religiosos, religiosas e leigos) contam com milhares de membros e educadores ao redor do mundo. A visão de Chaminade de "multiplicar cristãos" levou à criação de inúmeras escolas e universidades católicas em todos os continentes (como a Universidade de Dayton e a Chaminade University of Honolulu, nos EUA), deixando uma marca indelével na educação global e na propagação da espiritualidade mariana.
 
 <MiracleMap
   :miracles="[
