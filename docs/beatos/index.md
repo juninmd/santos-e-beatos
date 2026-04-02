@@ -59,6 +59,7 @@ Esta seção lista os beatos.
 - [Beato Frederico Ozanam](beato-frederico-ozanam/index.md)
 - [Beato Gonçalo de Amarante](beato-goncalo-de-amarante/index.md)
 - [Beato Guido de Montpellier](beato-guido-de-montpellier/index.md)
+- [Beato Guilherme Joseph Chaminade](beato-guilherme-joseph-chaminade/index.md)
 - [Beato Isidoro Bakanja](beato-isidoro-bakanja/index.md)
 - [Beato Jerzy Popiełuszko](beato-jerzy-popieluszko/index.md)
 - [Beato Joan Roig i Diggle](beato-joan-roig-i-diggle/index.md)
