@@ -34,7 +34,7 @@ Inúmeros milagres foram atribuídos a Santa Edwiges logo após a sua morte. Ent
 
 - **Andechs, Alemanha:** Local de seu nascimento e onde passou a primeira infância.
 - **Trzebnica, Polônia:** Onde viveu grande parte de sua vida adulta, fundou um mosteiro e foi sepultada.
-- **Wrocław (Breslávia), Polônia:** Região onde seu marido governava e palco de grandes de suas obras de caridade.
+- **Wrocław (Breslávia), Polônia:** Região onde seu marido governava e palco de suas grandes obras de caridade.
 
 ## Impacto Hoje
 
