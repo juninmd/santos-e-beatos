@@ -40,7 +40,7 @@ Após orações intensas de sua família, dos marianistas locais e da comunidade
   { lat: 44.9333, lng: 0.3667, title: "Mussidan, França", description: "Onde estudou e mais tarde lecionou e atuou como padre antes da revolução." },
   { lat: 44.8378, lng: -0.5792, title: "Bordéus, França", description: "Centro principal de sua atividade apostólica clandestina e onde fundou as Congregações e Sociedades Marianistas." },
   { lat: 41.6500, lng: -0.8833, title: "Saragoça, Espanha", description: "Local de seu exílio (1797-1800), onde recebeu a inspiração aos pés de Nossa Senhora do Pilar para fundar a Família Marianista." },
-  { lat: 44.2000, lng: 0.3333, title: "Agen (Trenquelléon), França", description: "Onde colaborou com a Beata Adèle de Batz para a fundação das Filhas de Maria Imaculada." }
+  { lat: 44.2000, lng: 0.3333, title: "Agen (Trenquelléon), França", description: "Onde colaborou com a Beata Adèle de Batz de Trenquelléon para a fundação das Filhas de Maria Imaculada." }
 ]' />
 
 ## Impacto Hoje
