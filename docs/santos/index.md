@@ -74,6 +74,7 @@ Esta seção lista os santos.
 - [São Luís Maria Grignion de Montfort](sao-luis-maria-grignion-de-montfort/index.md)
 - [São Marcos](sao-marcos/index.md)
 - [São Martinho de Lima](sao-martinho-de-lima/index.md)
+- [São Martinho de Tours](sao-martinho-de-tours/index.md)
 - [São Mateus](sao-mateus/index.md)
 - [São Matias](sao-matias/index.md)
 - [São Maximiliano Kolbe](sao-maximiliano-kolbe/index.md)

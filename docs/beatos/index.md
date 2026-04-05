@@ -22,6 +22,7 @@ Esta seção lista os beatos.
 - [Beata Isabel Cristina](beata-isabel-cristina/index.md)
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
+- [Beata Mafalda de Portugal](beata-mafalda-de-portugal/index.md)
 - [Beata Maria Clara do Menino Jesus](beata-maria-clara-do-menino-jesus/index.md)
 - [Beata Maria Cristina de Saboia](beata-maria-cristina-de-saboia/index.md)
 - [Beata Maria da Conceição](beata-maria-da-conceicao/index.md)
