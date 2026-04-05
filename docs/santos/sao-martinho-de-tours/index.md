@@ -17,7 +17,7 @@
 
 São Martinho de Tours é um dos santos mais populares da Europa. Nascido na Panônia, uma província do Império Romano, ele era filho de um tribuno militar pagão e foi forçado a se alistar no exército romano aos 15 anos. Embora não fosse batizado, desde jovem sentiu atração pelo cristianismo, vivendo de forma austera e compassiva.
 
-O episódio mais famoso de sua vida ocorreu na cidade de Amiens, na Gália (atual França), durante o inverno. Cavalgando, Martinho encontrou um mendigo seminua tremendo de frio. Sem dinheiro para dar, ele pegou sua espada, cortou seu próprio manto militar pela metade e deu uma das partes ao mendigo. Naquela noite, Martinho teve um sonho no qual viu Jesus Cristo vestindo a metade do manto que ele havia doado, e ouviu Jesus dizer aos anjos: "Martinho, ainda catecúmeno, cobriu-me com esta veste".
+O episódio mais famoso de sua vida ocorreu na cidade de Amiens, na Gália (atual França), durante o inverno. Cavalgando, Martinho encontrou um mendigo seminu tremendo de frio. Sem dinheiro para dar, ele pegou sua espada, cortou seu próprio manto militar pela metade e deu uma das partes ao mendigo. Naquela noite, Martinho teve um sonho no qual viu Jesus Cristo vestindo a metade do manto que ele havia doado, e ouviu Jesus dizer aos anjos: "Martinho, ainda catecúmeno, cobriu-me com esta veste".
 
 Esse sonho o levou a ser batizado aos 18 anos. Ele deixou o exército romano, dizendo: "Sou soldado de Cristo; não me é lícito lutar". Ele se tornou discípulo de Santo Hilário de Poitiers, um fervoroso defensor da fé. Martinho fundou o que é considerado o primeiro mosteiro da Gália, em Ligugé, e viveu como eremita.
 
