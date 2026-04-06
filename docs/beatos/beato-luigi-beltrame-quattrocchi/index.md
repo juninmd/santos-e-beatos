@@ -29,9 +29,7 @@ Sua esposa, Maria Corsini Beltrame Quattrocchi, faleceu em 1965 e eles foram bea
 
 ## Milagres
 
-O milagre que abriu caminho para a beatificação conjunta de Luigi e sua esposa Maria ocorreu em 1993, com a cura inexplicável de um jovem com uma doença circulatória gravíssima que estava em vias de perder as pernas.
-
-A cura de Gilberto Grossi, um jovem médico residente em cirurgia ortopédica que sofria de uma grave doença vascular. Seu estado era considerado irreversível por seus médicos, mas após pedir a intercessão dos esposos Beltrame Quattrocchi, experimentou uma recuperação completa e rápida, podendo continuar sua carreira médica.
+O milagre que abriu caminho para a beatificação conjunta de Luigi e sua esposa Maria ocorreu em 1993, com a cura inexplicável de Gilberto Grossi, um jovem médico residente em cirurgia ortopédica que sofria de uma doença vascular gravíssima e irreversível. Após pedir a intercessão dos esposos Beltrame Quattrocchi, ele experimentou uma recuperação completa e rápida, podendo continuar sua carreira médica.
 
 ## Curiosidades
 
