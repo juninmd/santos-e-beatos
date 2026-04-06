@@ -7,7 +7,7 @@
   <div class="saint-details">
     <p><em>"Padroeira da Ordem Terceira de São Francisco e símbolo de caridade cristã."</em></p>
     <p>
-      <strong>Nascimento:</strong> 7 de julho de 1207, em Sárospatak (ou Pozsony), Hungria<br>
+      <strong>Nascimento:</strong> 7 de julho de 1207, em Sárospatak ou Pozsony (atual Bratislava), Hungria<br>
       <strong>Morte:</strong> 17 de novembro de 1231, em Marburgo, Hesse, Alemanha<br>
       <strong>Canonização:</strong> 27 de maio de 1235, pelo Papa Gregório IX<br>
       <strong>Festa Litúrgica:</strong> 17 de novembro<br>
@@ -41,7 +41,7 @@ Inúmeros milagres foram atribuídos a ela após sua morte, levando a uma das ma
 
 ## Cidades por onde passou
 
-- **Sárospatak (ou Bratislava), Hungria:** Local provável de seu nascimento.
+- **Sárospatak ou Bratislava, Hungria:** Local provável de seu nascimento.
 - **Castelo de Wartburg (Eisenach), Alemanha:** Onde cresceu, se casou e viveu a maior parte do seu tempo como condessa, realizando grandes obras de caridade.
 - **Marburgo, Alemanha:** Para onde foi exilada após a morte do marido e onde construiu seu hospital e serviu os doentes até morrer.
 
