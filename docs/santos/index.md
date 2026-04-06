@@ -3,6 +3,7 @@
 Esta seção lista os santos.
 
 - [Santa Inês](santa-ines/index.md)
+- [Santa Isabel da Hungria](santa-isabel-da-hungria/index.md)
 - [Santa Joana d'Arc](santa-joana-d-arc/index.md)
 - [Santa Josefina Bakhita](santa-josefina-bakhita/index.md)
 - [Santa Luzia](santa-luzia/index.md)
