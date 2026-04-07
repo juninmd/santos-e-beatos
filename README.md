@@ -184,9 +184,9 @@ npm run docs:preview
 | [Santo André](docs/santos/santo-andre/index.md) | ![Santo André](https://placehold.co/400x600/png?text=Santo+Andre) |
 | [Santo Antão do Deserto](docs/santos/santo-antao-do-deserto/index.md) | ![Santo Antão do Deserto](docs/santos/santo-antao-do-deserto/imagens/portrait.jpg) |
 | [Santo Antônio de Pádua](docs/santos/santo-antonio/index.md) | ![Santo Antônio](docs/santos/santo-antonio/imagens/santo-antonio.jpg) |
-| [Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/index.md) | ![Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/imagens/portrait.jpg) |
 | [Santo Antônio de Sant'Ana Galvão](docs/santos/santo-antonio-de-santana-galvao/index.md) | ![Santo Antônio de Sant'Ana Galvão](docs/santos/santo-antonio-de-santana-galvao/imagens/portrait.jpg) |
 | [Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/index.md) | ![Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/imagens/portrait.jpg) |
+| [Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/index.md) | ![Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/imagens/portrait.jpg) |
 | [São Bartolomeu](docs/santos/sao-bartolomeu/index.md) | ![São Bartolomeu](https://placehold.co/400x600/png?text=Sao+Bartolomeu) |
 | [São Bento](docs/santos/sao-bento/index.md) | ![São Bento](https://placehold.co/400x600/png?text=Sao+Bento) |
 | [São Bernardo de Claraval](docs/santos/sao-bernardo/index.md) | ![São Bernardo de Claraval](docs/santos/sao-bernardo/imagens/portrait.jpg) |
