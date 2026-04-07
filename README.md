@@ -136,6 +136,7 @@ npm run docs:preview
 | [Beato Miguel Sopoćko](docs/beatos/beato-miguel-sopocko/index.md) | ![Beato Miguel Sopoćko](docs/beatos/beato-miguel-sopocko/imagens/portrait.jpg) |
 | [Beato Moisés Lira](docs/beatos/beato-moises-lira/index.md) | ![Beato Moisés Lira](docs/beatos/beato-moises-lira/imagens/beato-moises-lira.jpg) |
 | [Beato Nicola D'Onofrio](docs/beatos/beato-nicola-donofrio/index.md) | ![Beato Nicola D'Onofrio](docs/beatos/beato-nicola-donofrio/imagens/portrait.jpg) |
+| [Beato Nicolau Steno](docs/beatos/beato-nicolau-steno/index.md) | ![Beato Nicolau Steno](docs/beatos/beato-nicolau-steno/imagens/portrait.jpg) |
 | [Beato Padre Eustáquio](docs/beatos/beato-padre-eustaquio/index.md) | ![Beato Padre Eustáquio](https://placehold.co/400x600/png?text=Beato+Padre+Eustaquio) |
 | [Beato Pier Giorgio Frassati](docs/beatos/pier-giorgio-frassati/index.md) | ![Beato Pier Giorgio Frassati](docs/beatos/pier-giorgio-frassati/imagens/pier-giorgio.jpg) |
 | [Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/index.md) | ![Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/imagens/pino-puglisi.jpg) |
@@ -183,6 +184,7 @@ npm run docs:preview
 | [Santo André](docs/santos/santo-andre/index.md) | ![Santo André](https://placehold.co/400x600/png?text=Santo+Andre) |
 | [Santo Antão do Deserto](docs/santos/santo-antao-do-deserto/index.md) | ![Santo Antão do Deserto](docs/santos/santo-antao-do-deserto/imagens/portrait.jpg) |
 | [Santo Antônio de Pádua](docs/santos/santo-antonio/index.md) | ![Santo Antônio](docs/santos/santo-antonio/imagens/santo-antonio.jpg) |
+| [Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/index.md) | ![Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/imagens/portrait.jpg) |
 | [Santo Antônio de Sant'Ana Galvão](docs/santos/santo-antonio-de-santana-galvao/index.md) | ![Santo Antônio de Sant'Ana Galvão](docs/santos/santo-antonio-de-santana-galvao/imagens/portrait.jpg) |
 | [Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/index.md) | ![Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/imagens/portrait.jpg) |
 | [São Bartolomeu](docs/santos/sao-bartolomeu/index.md) | ![São Bartolomeu](https://placehold.co/400x600/png?text=Sao+Bartolomeu) |
