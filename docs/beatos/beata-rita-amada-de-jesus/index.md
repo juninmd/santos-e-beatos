@@ -11,7 +11,7 @@ description: Biografia, milagres e impacto da Beata Rita Amada de Jesus
     <h1>Beata Rita Amada de Jesus</h1>
     <p class="subtitle">Apóstola do Rosário, da Família e da Eucaristia.</p>
     <div class="metadata">
-      <p><strong>Nascimento:</strong> 5 de Março de 1848<br><strong>Morte:</strong> 6 de Janeiro de 1913<br><strong>Beatificação:</strong> 28 de Maio de 2006<br><strong>Festa Litúrgica:</strong> 24 de Setembro<br></p>
+<p><strong>Nascimento:</strong> 5 de Março de 1848<br><strong>Morte:</strong> 6 de Janeiro de 1913<br><strong>Beatificação:</strong> 28 de Maio de 2006<br><strong>Festa Litúrgica:</strong> 24 de Setembro</p>
     </div>
   </div>
 </div>
