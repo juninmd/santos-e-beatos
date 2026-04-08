@@ -11,7 +11,7 @@ description: Biografia, milagres e impacto de Santa Helena
     <h1>Santa Helena</h1>
     <p class="subtitle">A Imperatriz e Primeira Peregrina, descobridora da Verdadeira Cruz.</p>
     <div class="metadata">
-      <p><strong>Nascimento:</strong> 246 / 248 d.C.<br><strong>Morte:</strong> 330 d.C.<br><strong>Canonização:</strong> Pré-Congregação<br><strong>Festa Litúrgica:</strong> 18 de Agosto<br></p>
+<p><strong>Nascimento:</strong> 246 / 248 d.C.<br><strong>Morte:</strong> 330 d.C.<br><strong>Canonização:</strong> Pré-Congregação<br><strong>Festa Litúrgica:</strong> 18 de Agosto</p>
     </div>
   </div>
 </div>
