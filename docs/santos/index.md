@@ -18,6 +18,7 @@ Esta seção lista os santos.
 - [Santa Edwiges](santa-edwiges/index.md)
 - [Santa Faustina Kowalska](santa-faustina-kowalska/index.md)
 - [Santa Gemma Galgani](santa-gemma-galgani/index.md)
+- [Santa Helena](santa-helena/index.md)
 - [Santa Rita de Cássia](santa-rita-de-cassia/index.md)
 - [Santa Rosa de Lima](santa-rosa-de-lima/index.md)
 - [Santa Teresa de Ávila](santa-teresa-de-avila/index.md)
