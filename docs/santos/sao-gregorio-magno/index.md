@@ -4,10 +4,10 @@
 
 > "A Sagrada Escritura é como um rio no qual o cordeiro pode caminhar e o elefante nadar."
 
-**Nascimento:** Roma, c. 540<br>
-**Morte:** 12 de março de 604<br>
-**Canonização:** Aclamação popular logo após a morte<br>
-**Festa Litúrgica:** 3 de setembro<br>
+- **Nascimento:** Roma, c. 540
+- **Morte:** 12 de março de 604
+- **Canonização:** Aclamação popular logo após a morte
+- **Festa Litúrgica:** 3 de setembro
 
 <TextToSpeech />
 
