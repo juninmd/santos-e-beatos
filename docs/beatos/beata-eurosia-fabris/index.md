@@ -4,10 +4,10 @@
 
 > "Fazer o bem aos outros não custa nada."
 
-**Nascimento:** Quinto Vicentino, Itália, 27 de setembro de 1866<br>
-**Morte:** 8 de janeiro de 1932<br>
-**Beatificação:** 6 de novembro de 2005<br>
-**Festa Litúrgica:** 9 de janeiro<br>
+- **Nascimento:** Quinto Vicentino, Itália, 27 de setembro de 1866
+- **Morte:** 8 de janeiro de 1932
+- **Beatificação:** 6 de novembro de 2005
+- **Festa Litúrgica:** 9 de janeiro
 
 <TextToSpeech />
 
