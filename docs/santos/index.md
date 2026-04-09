@@ -56,6 +56,7 @@ Esta seção lista os santos.
 - [São Francisco Xavier](sao-francisco-xavier/index.md)
 - [São Gabriel de Nossa Senhora das Dores](sao-gabriel-de-nossa-senhora-das-dores/index.md)
 - [São Geraldo Majella](sao-geraldo-majella/index.md)
+- [São Gregório Magno](sao-gregorio-magno/index.md)
 - [São Jerônimo](sao-jeronimo/index.md)
 - [São João Batista](sao-joao-batista/index.md)
 - [São João Bosco](sao-joao-bosco/index.md)

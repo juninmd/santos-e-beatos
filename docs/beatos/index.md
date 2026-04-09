@@ -18,6 +18,7 @@ Esta seção lista os beatos.
 - [Beata Dina Bélanger](beata-dina-belanger/index.md)
 - [Beata Elena Aiello](beata-elena-aiello/index.md)
 - [Beata Elena Guerra](beata-elena-guerra/index.md)
+- [Beata Eurosia Fabris](beata-eurosia-fabris/index.md)
 - [Beata Imelda Lambertini](beata-imelda-lambertini/index.md)
 - [Beata Isabel Cristina](beata-isabel-cristina/index.md)
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
