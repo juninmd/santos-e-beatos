@@ -25,7 +25,7 @@ Devido ao crescente perigo na Alemanha, a sua ordem transferiu-a em 1938 para o 
 
 ## Milagres
 
-Em 1987, a cura miraculosa de Teresa Benedicta McCarthy, uma menina americana de 2 anos, residente em Boston, nos Estados Unidos, que havia ingerido acidentalmente uma dose maciça de Tylenol (paracetamol). Ela estava em coma com falência hepática severa e necessitando de um transplante, um prognóstico praticamente letal. Os pais e o convento rezaram fervorosamente pedindo a intercessão da Beata Teresa Benedita da Cruz, nome da pequena Teresa. O fígado da menina recuperou inexplicavelmente o seu tamanho e funções normais, surpreendendo os médicos. Este milagre abriu o caminho para a sua canonização.
+Em 1987, a cura miraculosa de Teresa Benedicta McCarthy, uma menina americana de 2 anos, residente em Boston, nos Estados Unidos, que havia ingerido acidentalmente uma dose maciça de Tylenol (paracetamol). Ela estava em coma com falência hepática severa e necessitando de um transplante, um prognóstico praticamente letal. Os pais e o convento rezaram fervorosamente pedindo a intercessão da Beata Teresa Benedita da Cruz, de quem a pequena Teresa herdara o nome. O fígado da menina recuperou inexplicavelmente o seu tamanho e funções normais, surpreendendo os médicos. Este milagre abriu o caminho para a sua canonização.
 
 ## Curiosidades
 
