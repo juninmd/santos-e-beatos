@@ -72,6 +72,7 @@ Esta seção lista os beatos.
 - [Beato João Schiavo](beato-joao-schiavo/index.md)
 - [Beato José Gregorio Hernández](beato-jose-gregorio-hernandez/index.md)
 - [Beato Justo Takayama Ukon](beato-justo-takayama-ukon/index.md)
+- [Beato Karl Leisner](beato-karl-leisner/index.md)
 - [Beato Luigi Beltrame Quattrocchi](beato-luigi-beltrame-quattrocchi/index.md)
 - [Beato Luigi Novarese](beato-luigi-novarese/index.md)
 - [Beato Luis Variara](beato-luis-variara/index.md)
