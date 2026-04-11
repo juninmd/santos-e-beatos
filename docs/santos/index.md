@@ -61,6 +61,7 @@ Esta seção lista os santos.
 - [São Jerônimo](sao-jeronimo/index.md)
 - [São João Batista](sao-joao-batista/index.md)
 - [São João Bosco](sao-joao-bosco/index.md)
+- [São João Crisóstomo](sao-joao-crisostomo/index.md)
 - [São João da Cruz](sao-joao-da-cruz/index.md)
 - [São João de Deus](sao-joao-de-deus/index.md)
 - [São João Diego Cuauhtlatoatzin](sao-joao-diego/index.md)
