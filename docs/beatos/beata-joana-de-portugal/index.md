@@ -17,7 +17,7 @@ A Beata Joana de Portugal nasceu no luxo da corte portuguesa. Era filha do Rei D
 
 Como era a filha primogênita e herdeira presuntiva do trono até o nascimento de seu irmão (o futuro rei D. João II), o seu casamento era uma peça crucial na diplomacia política de Portugal. Joana, no entanto, recusou categoricamente diversos pedidos de casamento de grandes monarcas europeus, pois já havia consagrado a sua virgindade a Deus.
 
-Após atuar como regente do reino durante a ausência de seu pai, Joana finalmente conseguiu permissão para se retirar da corte. Em 1472, ela ingressou no Mosteiro de Jesus, da Ordem das Clarissas, em Aveiro. Embora não pudesse professar os votos solenes formalmente por imposições políticas (a coroa queria mantê-la disponível para um casamento de estado caso fosse necessário), ela viveu sob as rígidas regras do mosteiro. Levou uma vida de extrema penitência, servindo às outras monjas e dedicando-se incansavelmente aos necessitados até sua morte em 1490.
+Após atuar como regente do reino durante a ausência de seu pai, Joana finalmente conseguiu permissão para se retirar da corte. Em 1472, ela ingressou no Mosteiro de Jesus, da Ordem de São Domingos (Dominicanas), em Aveiro. Embora não pudesse professar os votos solenes formalmente por imposições políticas (a coroa queria mantê-la disponível para um casamento de estado caso fosse necessário), ela viveu sob as rígidas regras do mosteiro. Levou uma vida de extrema penitência, servindo às outras monjas e dedicando-se incansavelmente aos necessitados até sua morte em 1490.
 
 ## Milagres
 
