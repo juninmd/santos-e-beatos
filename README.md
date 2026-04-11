@@ -78,6 +78,7 @@ npm run docs:preview
 | [Beata Eurosia Fabris](docs/beatos/beata-eurosia-fabris/index.md) | ![Beata Eurosia Fabris](docs/beatos/beata-eurosia-fabris/imagens/portrait.jpg) |
 | [Beata Imelda Lambertini](docs/beatos/beata-imelda-lambertini/index.md) | ![Beata Imelda Lambertini](docs/beatos/beata-imelda-lambertini/imagens/portrait.jpg) |
 | [Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/index.md) | ![Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/imagens/isabel-cristina.jpg) |
+| [Beata Joana de Portugal](docs/beatos/beata-joana-de-portugal/index.md) | ![Beata Joana de Portugal](docs/beatos/beata-joana-de-portugal/imagens/portrait.jpg) |
 | [Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/index.md) | ![Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/imagens/laura-vicuna.jpg) |
 | [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](https://placehold.co/400x600/png?text=Beata+Lindalva+Justo+de+Oliveira) |
 | [Beata Mafalda de Portugal](docs/beatos/beata-mafalda-de-portugal/index.md) | ![Beata Mafalda de Portugal](docs/beatos/beata-mafalda-de-portugal/imagens/portrait.jpg) |
@@ -216,6 +217,7 @@ npm run docs:preview
 | [São Jerônimo](docs/santos/sao-jeronimo/index.md) | ![São Jerônimo](docs/santos/sao-jeronimo/imagens/portrait.jpg) |
 | [São João Batista](docs/santos/sao-joao-batista/index.md) | ![São João Batista](docs/santos/sao-joao-batista/imagens/portrait.jpg) |
 | [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
+| [São João Crisóstomo](docs/santos/sao-joao-crisostomo/index.md) | ![São João Crisóstomo](docs/santos/sao-joao-crisostomo/imagens/portrait.jpg) |
 | [São João Evangelista](docs/santos/sao-joao-evangelista/index.md) | ![São João Evangelista](https://placehold.co/400x600/png?text=Sao+Joao+Evangelista) |
 | [São João Maria Vianney](docs/santos/sao-joao-maria-vianney/index.md) | ![São João Maria Vianney](docs/santos/sao-joao-maria-vianney/imagens/portrait.jpg) |
 | [São João Paulo II](docs/santos/sao-joao-paulo-ii/index.md) | ![São João Paulo II](docs/santos/sao-joao-paulo-ii/imagens/joao-paulo-ii.jpg) |
