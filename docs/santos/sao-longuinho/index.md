@@ -23,7 +23,7 @@ Depois de sua conversão, Longuinho viajou para a Capadócia (atual Turquia) par
 ## Milagres
 
 *   **A Cura da Cegueira:** O primeiro e mais famoso milagre atribuído a São Longuinho ocorreu durante a crucificação, quando o sangue de Cristo restaurou sua visão.
-*   **Encontrar Objetos Perdidos:** No Brasil, São Longuinho é popularmente invocado para ajudar a encontrar objetos perdidos. A tradição ensina que, após a crucificação, Longuinho viveu parte de sua vida em lugares escondidos, encontrando pessoas e coisas. Uma lenda popular diz que ele ajudou a recuperar uma relíquia perdida e que, a partir de então, recebeu de Deus o poder de ajudar a encontrar o que foi perdido. Em troca, os devotos prometem dar "três pulinhos" ou "três gritinhos".
+*   **Encontrar Objetos Perdidos:** No Brasil, São Longuinho é popularmente invocado para ajudar a encontrar objetos perdidos. A tradição ensina que, após a crucificação, Longuinho viveu parte de sua vida em lugares escondidos, encontrando pessoas e coisas. Uma lenda popular diz que ele ajudou a recuperar uma relíquia perdida e que, a partir de então, recebeu de Deus o poder de ajudar a encontrar o que foi perdido. Em troca, os devotos prometem dar "três pulinhos" ou "três gritos".
 *   **Conversões na Capadócia:** Diversos relatos tradicionais apontam que seus sermões na Capadócia levaram muitos à conversão, curando enfermos física e espiritualmente.
 
 ## Curiosidades
