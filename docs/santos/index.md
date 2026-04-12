@@ -74,6 +74,7 @@ Esta seção lista os santos.
 - [São José de Anchieta](sao-jose-de-anchieta/index.md)
 - [São José Moscati](sao-jose-moscati/index.md)
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
+- [São Longuinho](sao-longuinho/index.md)
 - [São Lourenço](sao-lourenco/index.md)
 - [São Lucas](sao-lucas/index.md)
 - [São Luís Gonzaga](sao-luis-gonzaga/index.md)
