@@ -32,7 +32,7 @@ A beatificação de Antônia Mesina não exigiu a comprovação de um milagre es
 
 1.  **Paralelo com Santa Maria Goretti:** A vida e o martírio de Antônia Mesina são frequentemente comparados aos de Santa Maria Goretti, pois ambas eram de famílias rurais, pobres e preferiram a morte a ceder a um agressor e cometer pecado.
 2.  **Membro da Ação Católica:** Antônia era membro ativo da Ação Católica Jovem de sua paróquia. O distintivo da Ação Católica foi encontrado perto de seu corpo.
-3.  **Beatificação ao Ar Livre:** A cerimônia de sua beatificação, presidida por São João Paulo II, foi realizada na Praça de São Pedro e ela foi elevada aos altares juntamente com o Beato Marcel Callo e o Beato Pierina Morosini.
+3.  **Beatificação ao Ar Livre:** A cerimônia de sua beatificação, presidida por São João Paulo II, foi realizada na Praça de São Pedro e ela foi elevada aos altares juntamente com o Beato Marcel Callo e a Beata Pierina Morosini.
 
 ## Cidades por onde passou
 
