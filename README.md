@@ -64,6 +64,7 @@ npm run docs:preview
 | [Beata Ana de Jesus](docs/beatos/beata-ana-de-jesus/index.md) | ![Beata Ana de Jesus](https://placehold.co/400x600/png?text=Beata+Ana+de+Jesus) |
 | [Beata Ana de São Bartolomeu](docs/beatos/beata-ana-de-sao-bartolomeu/index.md) | ![Beata Ana de São Bartolomeu](docs/beatos/beata-ana-de-sao-bartolomeu/imagens/portrait.png) |
 | [Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/index.md) | ![Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/imagens/portrait.jpg) |
+| [Beata Antônia Mesina](docs/beatos/beata-antonia-mesina/index.md) | ![Beata Antônia Mesina](docs/beatos/beata-antonia-mesina/imagens/portrait.jpg) |
 | [Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/index.md) | ![Beata Assunta Marchetti](https://placehold.co/400x600/png?text=Beata+Assunta+Marchetti) |
 | [Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/index.md) | ![Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/imagens/portrait.jpg) |
 | [Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/index.md) | ![Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/imagens/portrait.jpg) |
@@ -230,6 +231,7 @@ npm run docs:preview
 | [São José de Anchieta](docs/santos/sao-jose-de-anchieta/index.md) | ![São José de Anchieta](docs/santos/sao-jose-de-anchieta/imagens/portrait.jpg) |
 | [São José Moscati](docs/santos/sao-jose-moscati/index.md) | ![São José Moscati](docs/santos/sao-jose-moscati/imagens/portrait.jpg) |
 | [São Judas Tadeu](docs/santos/sao-judas-tadeu/index.md) | ![São Judas Tadeu](docs/santos/sao-judas-tadeu/imagens/sao-judas.jpg) |
+| [São Longuinho](docs/santos/sao-longuinho/index.md) | ![São Longuinho](docs/santos/sao-longuinho/imagens/portrait.jpg) |
 | [São Lourenço](docs/santos/sao-lourenco/index.md) | ![São Lourenço](https://placehold.co/400x600/png?text=Sao+Lourenco) |
 | [São Lucas](docs/santos/sao-lucas/index.md) | ![São Lucas](https://placehold.co/400x600/png?text=Sao+Lucas) |
 | [São Luís Gonzaga](docs/santos/sao-luis-gonzaga/index.md) | ![São Luís Gonzaga](docs/santos/sao-luis-gonzaga/imagens/portrait.png) |
