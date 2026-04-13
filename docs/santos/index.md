@@ -39,6 +39,7 @@ Esta seção lista os santos.
 - [São Bernardo de Claraval](sao-bernardo/index.md)
 - [São Boaventura](sao-boaventura/index.md)
 - [Santa Bernadete Soubirous](santa-bernadete-soubirous/index.md)
+- [Santa Brígida da Suécia](santa-brigida-da-suecia/index.md)
 - [São Brás](sao-bras/index.md)
 - [São Camilo de Lellis](sao-camilo-de-lellis/index.md)
 - [São Carlo Acutis](carlo-acutis/index.md)
