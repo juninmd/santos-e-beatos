@@ -17,9 +17,9 @@
 
 Brígida Birgersdotter nasceu na aristocracia sueca e, desde jovem, teve experiências místicas profundas. Aos sete anos, teve uma visão da Virgem Maria coroando-a e, aos dez, uma visão de Cristo crucificado que marcou sua espiritualidade. Casou-se com o nobre Ulf Gudmarsson e teve oito filhos, entre eles Santa Catarina da Suécia.
 
-Após a morte do marido em 1344, Brígida dedicou-se inteiramente à vida religiosa. Fundou a Ordem do Santíssimo Salvador (Brigidinas) em Vadstena. Em 1349, mudou-se para Roma a fim de obter a aprovação papal para sua ordem e trabalhar para o retorno do Papa (então em Avignon) para Roma. Viveu o resto de sua vida em Roma e Jerusalém, sempre aconselhando reis e pontífices, sendo uma das vozes femininas mais poderosas de sua época.
+Após a morte do marido em 1344, Brígida dedicou-se inteiramente à vida religiosa. Fundou a Ordem do Santíssimo Salvador (Brigidinas) em Vadstena. Em 1349, mudou-se para Roma a fim de obter a aprovação papal para sua ordem e trabalhar pelo retorno do Papa (então em Avinhão) a Roma. Viveu o resto de sua vida em Roma, realizando uma peregrinação a Jerusalém pouco antes de falecer, sempre aconselhando reis e pontífices e sendo uma das vozes femininas mais poderosas de sua época.
 
-As suas revelações místicas, recolhidas em vários livros, tornaram-se populares durante a Idade Média. Foi declarada copadroeira da Europa pelo Papa João Paulo II em 1999, ao lado de Santa Catarina de Sena e Santa Teresa Benedita da Cruz (Edith Stein).
+As suas *Revelações* místicas, recolhidas em vários livros, tornaram-se populares durante a Idade Média. Foi declarada copadroeira da Europa pelo Papa João Paulo II em 1999, ao lado de Santa Catarina de Sena e Santa Teresa Benedita da Cruz (Edith Stein).
 
 ## Milagres
 
