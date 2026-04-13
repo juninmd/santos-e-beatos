@@ -69,6 +69,7 @@ export default {
             { text: 'Beato Carlos Manuel Rodríguez', link: '/beatos/beato-carlos-manuel/' },
             { text: 'Beato Carlos da Áustria', link: '/beatos/beato-carlos-da-austria/' },
             { text: 'Beato Ceferino Giménez Malla', link: '/beatos/beato-ceferino-gimenez-malla/' },
+            { text: 'Beato Clemente August von Galen', link: '/beatos/beato-clemente-august-von-galen/' },
             { text: 'Beato Clemente Marchisio', link: '/beatos/beato-clemente-marchisio/' },
             { text: 'Beato Cláudio Granzotto', link: '/beatos/beato-claudio-granzotto/' },
             { text: 'Beato Columba Marmion', link: '/beatos/beato-columba-marmion/' },
@@ -127,6 +128,7 @@ export default {
           items: [
             { text: 'Santa Bárbara', link: '/santos/santa-barbara/' },
             { text: 'Santa Bernadete Soubirous', link: '/santos/santa-bernadete-soubirous/' },
+            { text: 'Santa Brígida da Suécia', link: '/santos/santa-brigida-da-suecia/' },
             { text: 'São Brás', link: '/santos/sao-bras/' },
             { text: 'Santa Catarina de Sena', link: '/santos/santa-catarina-de-sena/' },
             { text: 'Santa Catarina Labouré', link: '/santos/santa-catarina-laboure/' },
