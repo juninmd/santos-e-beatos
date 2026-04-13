@@ -19,7 +19,7 @@ Clemens August Graf von Galen nasceu em uma nobre família na Baixa Saxônia, Al
 
 Em 1933, foi nomeado Bispo de Münster. Ganhou notoriedade mundial durante o regime nazista na Alemanha. Embora inicialmente, como muitos alemães, esperasse um renascimento nacional, rapidamente se tornou um crítico severo das políticas anticristãs do nazismo e do racismo de estado. Em 1941, ele proferiu três famosos sermões públicos denunciando a Gestapo, o confisco de propriedades da Igreja e, mais famosamente, o programa nazista de eutanásia (Aktion T4) que assassinava pessoas doentes e com deficiência.
 
-Sua corajosa oposição o tornou conhecido como o "Leão de Münster". Embora o regime nazista desejasse executá-lo, temiam que isso provocasse uma revolta em Westphalia. Ele sobreviveu à guerra e, em fevereiro de 1946, foi elevado a Cardeal pelo Papa Pio XII, mas faleceu poucas semanas após retornar de Roma.
+Sua corajosa oposição o tornou conhecido como o "Leão de Münster". Embora o regime nazista desejasse executá-lo, temiam que isso provocasse uma revolta em Vestfália. Ele sobreviveu à guerra e, em fevereiro de 1946, foi elevado a Cardeal pelo Papa Pio XII, mas faleceu poucas semanas após retornar de Roma.
 
 ## Milagres
 
