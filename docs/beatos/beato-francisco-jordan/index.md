@@ -23,7 +23,7 @@ Trabalhou com a Beata Maria dos Apóstolos (Therese von Wüllenweber) para funda
 
 ## Milagres
 
-- A cura miraculosa que levou à sua beatificação ocorreu em 2014 em Jundiaí, São Paulo, Brasil. Um casal esperava um bebê, e aos poucos meses de gestação, exames revelaram que a criança nasceria com displasia esquelética grave, incompatível com a vida. Após orações intercedendo ao Padre Jordan promovidas por um grupo laico Salvatoriano, a bebê Lívia nasceu completamente saudável no dia 8 de setembro (aniversário de morte do Padre Jordan).
+- A cura miraculosa que levou à sua beatificação ocorreu em 2014 em Jundiaí, São Paulo, Brasil. Um casal esperava um bebê, e aos poucos meses de gestação, exames revelaram que a criança nasceria com displasia esquelética grave, incompatível com a vida. Após orações pedindo a intercessão do Padre Jordan, promovidas por um grupo de leigos salvatorianos, a bebê Lívia nasceu completamente saudável no dia 8 de setembro (aniversário da morte do Padre Jordan).
 
 ## Curiosidades
 
@@ -43,5 +43,6 @@ Trabalhou com a Beata Maria dos Apóstolos (Therese von Wüllenweber) para funda
 Hoje, os Salvatorianos (padres, irmãos, irmãs e leigos) estão espalhados por mais de 40 países nos cinco continentes, engajados em trabalhos pastorais, educacionais, médicos e assistenciais. Seu legado permanece vivo através dessa família religiosa dedicada a fazer Jesus, o Salvador, conhecido e amado em toda parte, enfatizando a colaboração entre clérigos e laicato – uma visão profética que antecipou as diretrizes do Concílio Vaticano II.
 
 <MiracleMap :items="[
-  { lat: 41.9015, lng: 12.4593, title: 'Casa Mãe dos Salvatorianos', description: 'Local em Roma onde estão guardados os restos mortais do Beato Francisco Jordan.' }
+  { lat: 41.9015, lng: 12.4593, title: 'Casa Mãe dos Salvatorianos', description: 'Local em Roma onde estão guardados os restos mortais do Beato Francisco Jordan.' },
+  { lat: -23.1857, lng: -46.8892, title: 'Jundiaí, Brasil', description: 'Local do milagre da cura da bebê Lívia, que levou à beatificação do Padre Jordan.' }
 ]" />
