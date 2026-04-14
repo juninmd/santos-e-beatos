@@ -15,7 +15,7 @@
 
 ## Biografia
 
-Santo Ambrósio nasceu em uma família nobre romana em Trier e mais tarde estudou em Roma, preparando-se para uma carreira no serviço público. Em 374, enquanto atuava como governador consular de Ligúria e Emília, sediado em Milão, foi aclamado bispo de Milão por aclamação popular, um evento extraordinário, pois ele ainda não era batizado e não tinha formação teológica profunda. Ele rapidamente recebeu o batismo, a ordenação e a consagração.
+Santo Ambrósio nasceu em uma família nobre romana em Trier e mais tarde estudou em Roma, preparando-se para uma carreira no serviço público. Em 374, enquanto atuava como governador consular de Ligúria e Emília, sediado em Milão, foi eleito bispo de Milão por aclamação popular, um evento extraordinário, pois ele ainda não era batizado e não tinha formação teológica profunda. Ele rapidamente recebeu o batismo, a ordenação e a consagração.
 
 Ambrósio doou sua riqueza aos pobres e dedicou-se ao estudo da teologia e da Sagrada Escritura. Tornou-se um dos mais influentes líderes da Igreja no século IV, defendendo arduamente a fé nicena contra a heresia ariana, que negava a divindade de Cristo.
 
