@@ -114,6 +114,7 @@ npm run docs:preview
 | [Beato Columba Marmion](docs/beatos/beato-columba-marmion/index.md) | ![Beato Columba Marmion](docs/beatos/beato-columba-marmion/imagens/portrait.jpg) |
 | [Beato Eduardo Pironio](docs/beatos/beato-eduardo-pironio/index.md) | ![Beato Eduardo Pironio](docs/beatos/beato-eduardo-pironio/imagens/portrait.jpg) |
 | [Beato Fra Angelico](docs/beatos/beato-fra-angelico/index.md) | ![Beato Fra Angelico](docs/beatos/beato-fra-angelico/imagens/fra-angelico.jpg) |
+| [Beato Francisco Jordan](docs/beatos/beato-francisco-jordan/index.md) | ![Beato Francisco Jordan](docs/beatos/beato-francisco-jordan/imagens/portrait.jpg) |
 | [Beato Francisco Palau](docs/beatos/beato-francisco-palau/index.md) | ![Beato Francisco Palau](docs/beatos/beato-francisco-palau/imagens/portrait.jpg) |
 | [Beato Franz Jägerstätter](docs/beatos/beato-franz-jagerstatter/index.md) | ![Beato Franz Jägerstätter](https://placehold.co/400x600/png?text=Beato+Franz+Jagerstatter) |
 | [Beato Frederico Ozanam](docs/beatos/beato-frederico-ozanam/index.md) | ![Beato Frederico Ozanam](https://placehold.co/400x600/png?text=Beato+Frederico+Ozanam) |
@@ -190,6 +191,7 @@ npm run docs:preview
 | [Santo Afonso Maria de Ligório](docs/santos/santo-afonso-maria-de-ligorio/index.md) | ![Santo Afonso Maria de Ligório](docs/santos/santo-afonso-maria-de-ligorio/imagens/portrait.jpg) |
 | [Santo Agostinho](docs/santos/santo-agostinho/index.md) | ![Santo Agostinho](docs/santos/santo-agostinho/imagens/agostinho.jpg) |
 | [Santo Alberto Magno](docs/santos/santo-alberto-magno/index.md) | ![Santo Alberto Magno](docs/santos/santo-alberto-magno/imagens/portrait.jpg) |
+| [Santo Ambrósio](docs/santos/santo-ambrosio/index.md) | ![Santo Ambrósio](docs/santos/santo-ambrosio/imagens/portrait.jpg) |
 | [Santo André](docs/santos/santo-andre/index.md) | ![Santo André](https://placehold.co/400x600/png?text=Santo+Andre) |
 | [Santo Antão do Deserto](docs/santos/santo-antao-do-deserto/index.md) | ![Santo Antão do Deserto](docs/santos/santo-antao-do-deserto/imagens/portrait.jpg) |
 | [Santo Antônio de Pádua](docs/santos/santo-antonio/index.md) | ![Santo Antônio](docs/santos/santo-antonio/imagens/santo-antonio.jpg) |
