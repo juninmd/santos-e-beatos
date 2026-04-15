@@ -124,6 +124,7 @@ npm run docs:preview
 | [Beato Isidoro Bakanja](docs/beatos/beato-isidoro-bakanja/index.md) | ![Beato Isidoro Bakanja](docs/beatos/beato-isidoro-bakanja/imagens/portrait.jpg) |
 | [Beato Jerzy Popiełuszko](docs/beatos/beato-jerzy-popieluszko/index.md) | ![Beato Jerzy Popiełuszko](docs/beatos/beato-jerzy-popieluszko/imagens/portrait.jpg) |
 | [Beato Joan Roig i Diggle](docs/beatos/beato-joan-roig-i-diggle/index.md) | ![Beato Joan Roig i Diggle](docs/beatos/beato-joan-roig-i-diggle/imagens/portrait.jpg) |
+| [Beato Jordão da Saxônia](docs/beatos/beato-jordao-da-saxonia/index.md) | ![Beato Jordão da Saxônia](docs/beatos/beato-jordao-da-saxonia/imagens/portrait.png) |
 | [Beato José Gregorio Hernández](docs/beatos/beato-jose-gregorio-hernandez/index.md) | ![Beato José Gregorio Hernández](docs/beatos/beato-jose-gregorio-hernandez/imagens/jose-gregorio.png) |
 | [Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/index.md) | ![Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/imagens/portrait.jpg) |
 | [Beato João Paulo I](docs/beatos/beato-joao-paulo-i/index.md) | ![Beato João Paulo I](https://placehold.co/400x600/png?text=Beato+Joao+Paulo+I) |
@@ -172,6 +173,7 @@ npm run docs:preview
 | [Santa Gemma Galgani](docs/santos/santa-gemma-galgani/index.md) | ![Santa Gemma Galgani](docs/santos/santa-gemma-galgani/imagens/portrait.jpg) |
 | [Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/index.md) | ![Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/imagens/portrait.jpg) |
 | [Santa Helena](docs/santos/santa-helena/index.md) | ![Santa Helena](docs/santos/santa-helena/imagens/portrait.jpg) |
+| [Santa Hildegarda de Bingen](docs/santos/santa-hildegarda-de-bingen/index.md) | ![Santa Hildegarda de Bingen](docs/santos/santa-hildegarda-de-bingen/imagens/portrait.jpg) |
 | [Santa Inês](docs/santos/santa-ines/index.md) | ![Santa Inês](https://placehold.co/400x600/png?text=Santa+Ines) |
 | [Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/index.md) | ![Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/imagens/portrait.jpg) |
 | [Santa Bárbara](docs/santos/santa-barbara/index.md) | ![Santa Bárbara](docs/santos/santa-barbara/imagens/portrait.jpg) |

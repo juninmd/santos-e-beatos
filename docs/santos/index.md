@@ -19,6 +19,7 @@ Esta seção lista os santos.
 - [Santa Faustina Kowalska](santa-faustina-kowalska/index.md)
 - [Santa Gemma Galgani](santa-gemma-galgani/index.md)
 - [Santa Helena](santa-helena/index.md)
+- [Santa Hildegarda de Bingen](santa-hildegarda-de-bingen/index.md)
 - [Santa Rita de Cássia](santa-rita-de-cassia/index.md)
 - [Santa Rosa de Lima](santa-rosa-de-lima/index.md)
 - [Santa Teresa Benedita da Cruz](santa-teresa-benedita-da-cruz/index.md)
