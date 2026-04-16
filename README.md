@@ -134,6 +134,7 @@ npm run docs:preview
 | [Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/index.md) | ![Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/imagens/portrait.jpg) |
 | [Beato Luigi Novarese](docs/beatos/beato-luigi-novarese/index.md) | ![Beato Luigi Novarese](docs/beatos/beato-luigi-novarese/imagens/portrait.jpg) |
 | [Beato Luis Variara](docs/beatos/beato-luis-variara/index.md) | ![Beato Luis Variara](docs/beatos/beato-luis-variara/imagens/portrait.jpg) |
+| [Beato Manuel Gómez González](docs/beatos/beato-manuel-gomez-gonzalez/index.md) | ![Beato Manuel Gómez González](docs/beatos/beato-manuel-gomez-gonzalez/imagens/portrait.jpg) |
 | [Beato Manuel Lozano Garrido](docs/beatos/beato-manuel-lozano-garrido/index.md) | ![Beato Manuel Lozano Garrido](https://placehold.co/400x600/png?text=Beato+Manuel+Lozano+Garrido) |
 | [Beato Marcel Callo](docs/beatos/beato-marcel-callo/index.md) | ![Beato Marcel Callo](https://placehold.co/400x600/png?text=Beato+Marcel+Callo) |
 | [Beato Marcos de Aviano](docs/beatos/beato-marcos-de-aviano/index.md) | ![Beato Marcos de Aviano](docs/beatos/beato-marcos-de-aviano/imagens/portrait.jpg) |
@@ -254,6 +255,7 @@ npm run docs:preview
 | [São Patrício](docs/santos/sao-patricio/index.md) | ![São Patrício](docs/santos/sao-patricio/imagens/portrait.jpg) |
 | [São Paulo](docs/santos/sao-paulo/index.md) | ![São Paulo](https://placehold.co/400x600/png?text=Sao+Paulo) |
 | [São Pedro](docs/santos/sao-pedro/index.md) | ![São Pedro](https://placehold.co/400x600/png?text=Sao+Pedro) |
+| [São Pedro Claver](docs/santos/sao-pedro-claver/index.md) | ![São Pedro Claver](docs/santos/sao-pedro-claver/imagens/portrait.jpg) |
 | [São Peregrino](docs/santos/sao-peregrino/index.md) | ![São Peregrino](docs/santos/sao-peregrino/imagens/portrait.jpg) |
 | [São Roberto Belarmino](docs/santos/sao-roberto-belarmino/index.md) | ![São Roberto Belarmino](docs/santos/sao-roberto-belarmino/imagens/portrait.jpg) |
 | [São Sebastião](docs/santos/sao-sebastiao/index.md) | ![São Sebastião](https://placehold.co/400x600/png?text=Sao+Sebastiao) |
