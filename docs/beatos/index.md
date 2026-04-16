@@ -81,6 +81,7 @@ Esta seção lista os beatos.
 - [Beato Luigi Beltrame Quattrocchi](beato-luigi-beltrame-quattrocchi/index.md)
 - [Beato Luigi Novarese](beato-luigi-novarese/index.md)
 - [Beato Luis Variara](beato-luis-variara/index.md)
+- [Beato Manuel Gómez González](beato-manuel-gomez-gonzalez/index.md)
 - [Beato Manuel Lozano Garrido](beato-manuel-lozano-garrido/index.md)
 - [Beato Marcel Callo](beato-marcel-callo/index.md)
 - [Beato Marcos de Aviano](beato-marcos-de-aviano/index.md)
