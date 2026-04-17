@@ -42,6 +42,7 @@ Esta seção lista os beatos.
 - [Beata Sandra Sabattini](beata-sandra-sabattini/index.md)
 - [Beata Savina Petrilli](beata-savina-petrilli/index.md)
 - [Beato Inácio de Azevedo](beato-inacio-de-azevedo/index.md)
+- [Beato Inocêncio XI](beato-inocencio-xi/index.md)
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Anacleto González Flores](beato-anacleto-gonzalez-flores/index.md)
 - [Beato Antônio Chevrier](beato-antonio-chevrier/index.md)
