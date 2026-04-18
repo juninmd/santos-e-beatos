@@ -75,6 +75,7 @@ Esta seção lista os santos.
 - [São Jorge](sao-jorge/index.md)
 - [São José](sao-jose/index.md)
 - [São José de Anchieta](sao-jose-de-anchieta/index.md)
+- [São José de Cupertino](sao-jose-de-cupertino/index.md)
 - [São José Moscati](sao-jose-moscati/index.md)
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
 - [São Longuinho](sao-longuinho/index.md)
