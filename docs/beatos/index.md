@@ -102,6 +102,7 @@ Esta seção lista os beatos.
 - [Beato Rupert Mayer](beato-rupert-mayer/index.md)
 - [Beato Solanus Casey](beato-solanus-casey/index.md)
 - [Beato Stanley Rother](beato-stanley-rother/index.md)
+- [Beato Stefan Wyszyński](beato-stefan-wyszynski/index.md)
 - [Beato Tiago Alberione](beato-tiago-alberione/index.md)
 - [Beato Zeferino Namuncurá](beato-zeferino-namuncura/index.md)
 - [Nhá Chica](nha-chica/index.md)
