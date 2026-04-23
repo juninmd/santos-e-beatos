@@ -111,3 +111,4 @@ Esta seção lista os santos.
 - [São Tomé](sao-tome/index.md)
 - [São Valentim](sao-valentim/index.md)
 - [São Vicente de Paulo](sao-vicente-de-paulo/index.md)
+- [São Vicente Ferrer](sao-vicente-ferrer/index.md)

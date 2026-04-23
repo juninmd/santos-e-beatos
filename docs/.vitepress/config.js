@@ -63,6 +63,7 @@ export default {
             { text: 'Beato Adílio Daronch', link: '/beatos/beato-adilio-daronch/' },
             { text: 'Beato Anacleto González Flores', link: '/beatos/beato-anacleto-gonzalez-flores/' },
             { text: 'Beato Antônio Chevrier', link: '/beatos/beato-antonio-chevrier/' },
+            { text: 'Beato Antônio Frederico Ozanam', link: '/beatos/beato-antonio-frederico-ozanam/' },
             { text: 'Beato Antonio Rosmini', link: '/beatos/beato-antonio-rosmini/' },
             { text: 'Beato Bartolo Longo', link: '/beatos/beato-bartolo-longo/' },
             { text: 'Beato Carlo Acutis', link: '/beatos/beato-carlo-acutis/' },
@@ -245,6 +246,7 @@ export default {
             { text: 'São Tomé', link: '/santos/sao-tome/' },
             { text: 'São Valentim', link: '/santos/sao-valentim/' },
             { text: 'São Vicente de Paulo', link: '/santos/sao-vicente-de-paulo/' },
+            { text: 'São Vicente Ferrer', link: '/santos/sao-vicente-ferrer/' },
           ]
         }
       ]
