@@ -6,6 +6,7 @@ Esta seção lista os beatos.
 - [Beata Albertina Berkenbrock](beata-albertina-berkenbrock/index.md)
 - [Beata Ana Catarina Emmerich](beata-ana-catarina-emmerich/index.md)
 - [Beata Ana de São Bartolomeu](beata-ana-de-sao-bartolomeu/index.md)
+- [Beata Ana dos Anjos Monteagudo](beata-ana-dos-anjos-monteagudo/index.md)
 - [Beata Anna Maria Taigi](beata-anna-maria-taigi/index.md)
 - [Beata Antônia Mesina](beata-antonia-mesina/index.md)
 - [Beata Assunta Marchetti](beata-assunta-marchetti/index.md)

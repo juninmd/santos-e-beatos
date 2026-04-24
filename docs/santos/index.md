@@ -67,6 +67,7 @@ Esta seção lista os santos.
 - [São João Bosco](sao-joao-bosco/index.md)
 - [São João Crisóstomo](sao-joao-crisostomo/index.md)
 - [São João da Cruz](sao-joao-da-cruz/index.md)
+- [São João Damasceno](sao-joao-damasceno/index.md)
 - [São João de Deus](sao-joao-de-deus/index.md)
 - [São João Diego Cuauhtlatoatzin](sao-joao-diego/index.md)
 - [São João Evangelista](sao-joao-evangelista/index.md)
