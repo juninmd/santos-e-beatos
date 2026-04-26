@@ -61,6 +61,7 @@ Esta seção lista os beatos.
 - [Beato Columba Marmion](beato-columba-marmion/index.md)
 - [Beato Contardo Ferrini](beato-contardo-ferrini/index.md)
 - [Beato Eduardo Pironio](beato-eduardo-pironio/index.md)
+- [Beato Filipe Rinaldi](beato-filipe-rinaldi/index.md)
 - [Beato Miguel Pro](beato-miguel-pro/index.md)
 - [Beato Miguel Rua](beato-miguel-rua/index.md)
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)

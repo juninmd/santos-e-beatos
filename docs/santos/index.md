@@ -35,6 +35,7 @@ Esta seção lista os santos.
 - [Santo Antão do Deserto](santo-antao-do-deserto/index.md)
 - [Santo Antônio de Pádua](santo-antonio/index.md)
 - [Santo Antônio de Sant'Ana Galvão](santo-antonio-de-santana-galvao/index.md)
+- [Santo Inácio de Antioquia](santo-inacio-de-antioquia/index.md)
 - [Santo Inácio de Loyola](santo-inacio-de-loyola/index.md)
 - [Santo Ireneu de Lyon](santo-ireneu-de-lyon/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
