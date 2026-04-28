@@ -28,6 +28,7 @@ Esta seção lista os santos.
 - [Santa Teresinha do Menino Jesus](santa-teresinha-do-menino-jesus/index.md)
 - [Santa Zita](santa-zita/index.md)
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
+- [Santo Alberto Hurtado](santo-alberto-hurtado/index.md)
 - [Santo Agostinho](santo-agostinho/index.md)
 - [Santo Alberto Magno](santo-alberto-magno/index.md)
 - [Santo Ambrósio](santo-ambrosio/index.md)

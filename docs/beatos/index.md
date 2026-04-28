@@ -35,6 +35,7 @@ Esta seção lista os beatos.
 - [Beata Maria Gabriela da Unidade](beata-maria-gabriela-da-unidade/index.md)
 - [Beata Maria Laura Mainetti](beata-maria-laura-mainetti/index.md)
 - [Beata Maria Pierina De Micheli](beata-maria-pierina-de-micheli/index.md)
+- [Beata Maria Teresa Ledóchowska](beata-maria-teresa-ledochowska/index.md)
 - [Beata Maria Romero Meneses](beata-maria-romero-meneses/index.md)
 - [Beata Maria Teresa de São José](beata-maria-teresa-de-sao-jose/index.md)
 - [Beata Maria Troncatti](beata-maria-troncatti/index.md)
