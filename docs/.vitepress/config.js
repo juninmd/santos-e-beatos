@@ -19,6 +19,7 @@ export default {
           text: 'Beatos',
           items: [
             { text: 'Alexandrina de Balasar', link: '/beatos/alexandrina-de-balasar/' },
+            { text: 'Beato Alojzije Stepinac', link: '/beatos/beato-alojzije-stepinac/' },
             { text: 'Beata Albertina Berkenbrock', link: '/beatos/beata-albertina-berkenbrock/' },
             { text: 'Beata Ana Catarina Emmerich', link: '/beatos/beata-ana-catarina-emmerich/' },
             { text: 'Beata Ana de Jesus', link: '/beatos/beata-ana-de-jesus/' },
@@ -243,6 +244,7 @@ export default {
             { text: 'São Pedro Claver', link: '/santos/sao-pedro-claver/' },
             { text: 'São Peregrino', link: '/santos/sao-peregrino/' },
             { text: 'São Pio V', link: '/santos/sao-pio-v/' },
+            { text: 'São Policarpo de Esmirna', link: '/santos/sao-policarpo/' },
             { text: 'São Roberto Belarmino', link: '/santos/sao-roberto-belarmino/' },
             { text: 'São Sebastião', link: '/santos/sao-sebastiao/' },
             { text: 'São Simão', link: '/santos/sao-simao/' },

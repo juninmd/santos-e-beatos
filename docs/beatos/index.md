@@ -3,6 +3,7 @@
 Esta seção lista os beatos.
 
 - [Alexandrina de Balasar](alexandrina-de-balasar/index.md)
+- [Beato Alojzije Stepinac](beato-alojzije-stepinac/index.md)
 - [Beata Albertina Berkenbrock](beata-albertina-berkenbrock/index.md)
 - [Beata Ana Catarina Emmerich](beata-ana-catarina-emmerich/index.md)
 - [Beata Ana de São Bartolomeu](beata-ana-de-sao-bartolomeu/index.md)
