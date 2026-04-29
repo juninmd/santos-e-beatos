@@ -25,6 +25,7 @@ Esta seção lista os santos.
 - [Santa Rosa de Lima](santa-rosa-de-lima/index.md)
 - [Santa Teresa Benedita da Cruz](santa-teresa-benedita-da-cruz/index.md)
 - [Santa Teresa de Ávila](santa-teresa-de-avila/index.md)
+- [Santa Teresa dos Andes](santa-teresa-dos-andes/index.md)
 - [Santa Teresinha do Menino Jesus](santa-teresinha-do-menino-jesus/index.md)
 - [Santa Zita](santa-zita/index.md)
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)

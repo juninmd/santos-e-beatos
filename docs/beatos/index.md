@@ -78,6 +78,7 @@ Esta seção lista os beatos.
 - [Beato Guilherme José Chaminade](beato-guilherme-jose-chaminade/index.md)
 - [Beato Isidoro Bakanja](beato-isidoro-bakanja/index.md)
 - [Beato Ivan Merz](beato-ivan-merz/index.md)
+- [Beato Jacinto Vera](beato-jacinto-vera/index.md)
 - [Beato Jerzy Popiełuszko](beato-jerzy-popieluszko/index.md)
 - [Beato Joan Roig i Diggle](beato-joan-roig-i-diggle/index.md)
 - [Beato Jordão da Saxônia](beato-jordao-da-saxonia/index.md)
