@@ -59,6 +59,7 @@ npm run docs:preview
 | Nome | Imagem |
 | --- | --- |
 | [Alexandrina de Balasar](docs/beatos/alexandrina-de-balasar/index.md) | ![Alexandrina de Balasar](docs/beatos/alexandrina-de-balasar/imagens/alexandrina.jpg) |
+| [Beato Alojzije Stepinac](docs/beatos/beato-alojzije-stepinac/index.md) | ![Beato Alojzije Stepinac](docs/beatos/beato-alojzije-stepinac/imagens/cover.jpg) |
 | [Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/index.md) | ![Beata Albertina Berkenbrock](https://placehold.co/400x600/png?text=Beata+Albertina+Berkenbrock) |
 | [Beata Ana Catarina Emmerich](docs/beatos/beata-ana-catarina-emmerich/index.md) | ![Beata Ana Catarina Emmerich](docs/beatos/beata-ana-catarina-emmerich/imagens/emmerich.jpg) |
 | [Beata Ana de Jesus](docs/beatos/beata-ana-de-jesus/index.md) | ![Beata Ana de Jesus](https://placehold.co/400x600/png?text=Beata+Ana+de+Jesus) |
@@ -275,6 +276,7 @@ npm run docs:preview
 | [São Pedro Claver](docs/santos/sao-pedro-claver/index.md) | ![São Pedro Claver](docs/santos/sao-pedro-claver/imagens/portrait.jpg) |
 | [São Peregrino](docs/santos/sao-peregrino/index.md) | ![São Peregrino](docs/santos/sao-peregrino/imagens/portrait.jpg) |
 | [São Pio V](docs/santos/sao-pio-v/index.md) | ![São Pio V](docs/santos/sao-pio-v/imagens/portrait.jpg) |
+| [São Policarpo de Esmirna](docs/santos/sao-policarpo/index.md) | ![São Policarpo de Esmirna](docs/santos/sao-policarpo/imagens/cover.jpg) |
 | [São Roberto Belarmino](docs/santos/sao-roberto-belarmino/index.md) | ![São Roberto Belarmino](docs/santos/sao-roberto-belarmino/imagens/portrait.jpg) |
 | [São Sebastião](docs/santos/sao-sebastiao/index.md) | ![São Sebastião](https://placehold.co/400x600/png?text=Sao+Sebastiao) |
 | [São Simão](docs/santos/sao-simao/index.md) | ![São Simão](https://placehold.co/400x600/png?text=Sao+Simao) |

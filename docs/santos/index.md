@@ -104,6 +104,7 @@ Esta seção lista os santos.
 - [São Pedro Claver](sao-pedro-claver/index.md)
 - [São Peregrino](sao-peregrino/index.md)
 - [São Pio V](sao-pio-v/index.md)
+- [São Policarpo de Esmirna](sao-policarpo/index.md)
 - [São Roberto Belarmino](sao-roberto-belarmino/index.md)
 - [São Sebastião](sao-sebastiao/index.md)
 - [São Simão](sao-simao/index.md)
