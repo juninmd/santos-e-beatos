@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "![Alt text](santo.jpg)",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +22,14 @@
   },
   "homepage": "https://github.com/juninmd/santos-e-beatos#readme",
   "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "playwright": "^1.58.2",
     "vitepress": "^1.6.3"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
