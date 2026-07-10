@@ -108,6 +108,7 @@ Esta seção lista os beatos.
 - [Beato Rolando Rivi](beato-rolando-rivi/index.md)
 - [Beato Rosário Livatino](beato-rosario-livatino/index.md)
 - [Beato Rupert Mayer](beato-rupert-mayer/index.md)
+- [Beato Rutilio Grande](beato-rutilio-grande/index.md)
 - [Beato Solanus Casey](beato-solanus-casey/index.md)
 - [Beato Stanley Rother](beato-stanley-rother/index.md)
 - [Beato Stefan Wyszyński](beato-stefan-wyszynski/index.md)
