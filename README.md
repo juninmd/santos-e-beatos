@@ -164,6 +164,7 @@ npm run docs:preview
 | [Beato Rolando Rivi](docs/beatos/beato-rolando-rivi/index.md) | ![Beato Rolando Rivi](https://placehold.co/400x600/png?text=Beato+Rolando+Rivi) |
 | [Beato Rosário Livatino](docs/beatos/beato-rosario-livatino/index.md) | ![Beato Rosário Livatino](docs/beatos/beato-rosario-livatino/imagens/portrait.jpg) |
 | [Beato Rupert Mayer](docs/beatos/beato-rupert-mayer/index.md) | ![Beato Rupert Mayer](docs/beatos/beato-rupert-mayer/imagens/portrait.jpg) |
+| [Beato Rutilio Grande](docs/beatos/beato-rutilio-grande/index.md) | ![Beato Rutilio Grande](docs/beatos/beato-rutilio-grande/imagens/portrait.jpg) |
 | [Beato Solanus Casey](docs/beatos/beato-solanus-casey/index.md) | ![Beato Solanus Casey](docs/beatos/beato-solanus-casey/imagens/portrait.jpg) |
 | [Beato Stanley Rother](docs/beatos/beato-stanley-rother/index.md) | ![Beato Stanley Rother](docs/beatos/beato-stanley-rother/imagens/portrait.jpg) |
 | [Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/index.md) | ![Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/imagens/portrait.jpg) |
@@ -238,6 +239,7 @@ npm run docs:preview
 | [São Filipe Neri](docs/santos/sao-filipe-neri/index.md) | ![São Filipe Neri](docs/santos/sao-filipe-neri/imagens/sao-filipe-neri.jpg) |
 | [São Francisco Xavier](docs/santos/sao-francisco-xavier/index.md) | ![São Francisco Xavier](docs/santos/sao-francisco-xavier/imagens/sao-francisco-xavier.jpg) |
 | [São Francisco de Assis](docs/santos/sao-francisco-de-assis/index.md) | ![São Francisco](docs/santos/sao-francisco-de-assis/imagens/sao-francisco.jpg) |
+| [São Francisco de Sales](docs/santos/sao-francisco-de-sales/index.md) | ![São Francisco de Sales](docs/santos/sao-francisco-de-sales/imagens/portrait.jpg) |
 | [São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/index.md) | ![São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/imagens/portrait.jpg) |
 | [São Geraldo Majella](docs/santos/sao-geraldo-majella/index.md) | ![São Geraldo Majella](docs/santos/sao-geraldo-majella/imagens/sao-geraldo.png) |
 | [São Gregório Magno](docs/santos/sao-gregorio-magno/index.md) | ![São Gregório Magno](docs/santos/sao-gregorio-magno/imagens/portrait.jpg) |
