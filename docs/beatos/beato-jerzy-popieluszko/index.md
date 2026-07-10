@@ -2,64 +2,60 @@
 
 ![Beato Jerzy Popiełuszko](imagens/portrait.jpg)
 
-**"Vença o mal com o bem."**
+**"O Mártir da Verdade e da Solidariedade"**
 
-**Nascimento:** 14 de setembro de 1947, Okopy, Polônia
-**Morte:** 19 de outubro de 1984, perto de Włocławek, Polônia
+**Nascimento:** 14 de setembro de 1947 (Okopy, Polônia)<br>
+**Morte:** 19 de outubro de 1984 (Włocławek, Polônia)<br>
+**Beatificação:** 6 de junho de 2010, pelo Papa Bento XVI<br>
 **Festa Litúrgica:** 19 de outubro
-**Beatificação:** 6 de junho de 2010, em Varsóvia, pelo Cardeal Angelo Amato
-
----
 
 <TextToSpeech />
 
+---
+
 ## Biografia
 
-Jerzy Popiełuszko foi um sacerdote católico polonês que se tornou um símbolo da resistência não violenta contra o comunismo. Nascido Alfons Popiełuszko em uma pequena vila, mudou seu nome para Jerzy (Jorge) durante o seminário. Ordenado sacerdote em 1972 pelo Cardeal Stefan Wyszyński, serviu em várias paróquias de Varsóvia, dedicando-se especialmente aos trabalhadores, estudantes e profissionais de saúde.
+Jerzy Popiełuszko (nascido Alfons Popiełuszko) cresceu em uma família de agricultores profundamente católicos em Okopy, no nordeste da Polônia. Desde jovem, demonstrava uma fé ardente e uma inclinação natural para o sacerdócio. Entrou para o seminário em Varsóvia, mas seus estudos foram interrompidos pelo serviço militar obrigatório, durante o qual enfrentou severas perseguições e tentativas de "reeducação" ideológica por parte das autoridades comunistas por não renunciar à sua fé cristã.
 
-Com a ascensão do movimento Solidariedade (Solidarność) em 1980, o Padre Jerzy tornou-se seu capelão informal. Quando a lei marcial foi imposta na Polônia em 1981, ele começou a celebrar as famosas "Missas pela Pátria" na Igreja de Santo Estanislau Kostka. Nessas celebrações, ele pregava corajosamente contra as injustiças do regime, defendendo a verdade, a liberdade e a dignidade humana, sempre baseando-se nos ensinamentos do Evangelho e de São João Paulo II.
+Foi ordenado sacerdote em 1972 pelo Cardeal Stefan Wyszyński. Como jovem padre em Varsóvia, tornou-se rapidamente conhecido pelo seu zelo pastoral, seu cuidado pelos estudantes, trabalhadores e profissionais da saúde.
 
-Sua popularidade cresceu imensamente, atraindo milhares de pessoas, o que enfureceu as autoridades comunistas. Apesar das constantes ameaças, intimidações e até de um acidente de carro provocado para matá-lo, ele se recusou a parar de pregar ou a abandonar seu rebanho, afirmando: "Um padre não pode fugir da vida de seu povo".
+## Vida Pessoal e Obra
 
-## Martírio
+Com a ascensão do movimento sindical "Solidariedade" (Solidarność) em 1980, o Padre Jerzy tornou-se o capelão dos trabalhadores das siderúrgicas de Varsóvia. Quando o governo comunista impôs a lei marcial em 1981, banindo o sindicato, Popiełuszko permaneceu firme ao lado dos trabalhadores oprimidos.
 
-Em 19 de outubro de 1984, enquanto retornava de um serviço pastoral em Bydgoszcz, seu carro foi emboscado por três agentes da polícia secreta polonesa (SB). Seu motorista conseguiu escapar, mas o Padre Jerzy foi brutalmente espancado, amarrado e colocado no porta-malas do carro dos agentes.
+Ele iniciou as "Missas pela Pátria" mensais na paróquia de Santo Estanislau Kostka em Varsóvia. Seus sermões, transmitidos clandestinamente por toda a Polônia, não eram políticos em sua essência, mas profundamente teológicos e morais. Ele pregava sobre a liberdade, a justiça social e os direitos humanos, usando frequentemente o lema de São Paulo: "Não te deixes vencer pelo mal, mas vence o mal com o bem" (Romanos 12:21). Sua voz tornou-se um farol de esperança e resistência pacífica contra o regime totalitário.
 
-Ele foi torturado até a morte e seu corpo, com uma pedra amarrada às pernas, foi jogado nas águas geladas do reservatório do Rio Vístula, perto de Włocławek. Seu corpo foi recuperado em 30 de outubro. Seu funeral, em 3 de novembro, transformou-se em uma manifestação massiva de solidariedade, com a presença de centenas de milhares de pessoas.
+## O Martírio
 
-## Vida Pessoal e Espiritualidade
+O governo comunista via o Padre Jerzy como uma grande ameaça. Após repetidas ameaças, campanhas de difamação e tentativas de assassinato, ele foi sequestrado em 19 de outubro de 1984 por três agentes da Służba Bezpieczeństwa (o serviço de inteligência interna do regime comunista) perto de Toruń, enquanto retornava de Bydgoszcz.
 
-O Padre Jerzy era um homem de saúde frágil, mas de espírito indomável. Sua espiritualidade era simples e profunda, centrada na Eucaristia e na devoção a Maria. Ele vivia o que pregava: a não violência ativa. Seu lema, retirado da Carta de São Paulo aos Romanos (12:21), era "Não te deixes vencer pelo mal, mas vence o mal com o bem".
-
-Ele ensinava que a liberdade interior é algo que ninguém pode tirar, nem mesmo um regime totalitário. "Para permanecer livre espiritualmente, o homem deve viver na verdade", dizia ele. Sua coragem não vinha da força física, mas da fé inabalável em Deus e na justiça.
+Ele foi brutalmente espancado, torturado e amarrado de tal forma que, se tentasse se mover, uma corda apertaria seu pescoço. Ainda vivo, foi jogado nas águas geladas da represa do rio Vístula, perto de Włocławek. Seu corpo foi encontrado em 30 de outubro. Seu funeral em Varsóvia atraiu cerca de um milhão de pessoas, transformando-se numa massiva manifestação de luto e resistência pacífica.
 
 ## Milagres
 
-Para sua beatificação, foi reconhecido o milagre da cura inexplicável de François Audelan, um francês que sofria de leucemia mielóide crônica atípica. Após receber a unção dos enfermos e a oração de um padre que invocou a intercessão de Jerzy Popiełuszko, Audelan, que estava em estado terminal, recuperou-se completamente em poucos dias, para espanto dos médicos.
+* **Cura de François Audelan:** O milagre que levou à sua beatificação foi a cura inexplicável de François Audelan, um homem francês de 56 anos que sofria de leucemia mieloide crônica em estágio terminal. Em 2012, no aniversário do Padre Popiełuszko, ele foi curado miraculosamente após orações intercessórias pedindo a ajuda do mártir.
+* **Impacto Espiritual Imediato:** Sua morte não intimidou a oposição, mas sim fortaleceu o movimento Solidariedade, que acabou desempenhando um papel crucial na queda do comunismo na Polônia em 1989.
+* Inúmeras conversões e reconciliações espirituais foram relatadas no local de seu túmulo em Varsóvia.
 
 ## Curiosidades
 
-1.  **Mudança de Nome:** Seu nome de batismo era Alfons, mas ele mudou para Jerzy no seminário, possivelmente para evitar trocadilhos ou para homenagear São Jorge.
-2.  **Vigilância Constante:** Os arquivos da polícia secreta mostram que ele era vigiado 24 horas por dia. Havia escutas em sua casa e informantes infiltrados entre seus paroquianos.
-3.  **Influência no Cinema:** Sua vida e martírio inspiraram o filme "To Kill a Priest" (1988), e mais recentemente "Popiełuszko: Wolność jest w nas" (2009).
+* Durante seu serviço militar, ele foi repetidamente punido por se recusar a tirar seu rosário e um anel com uma cruz.
+* As "Missas pela Pátria" atraíam milhares de pessoas de toda a Polônia, com os trabalhadores formando um cordão humano em torno da igreja para protegê-lo da polícia secreta.
+* Os três agentes que o assassinaram, juntamente com o seu superior, foram levados a julgamento (um evento raro em regimes comunistas) e condenados, devido à imensa pressão pública após o descobrimento do seu corpo.
 
-## Cidades por onde Passou
+## Cidades por onde passou
 
-*   **Okopy (Polônia):** Vila onde nasceu e cresceu.
-*   **Varsóvia (Polônia):** Onde estudou no seminário, foi ordenado e exerceu seu ministério, especialmente na Igreja de Santo Estanislau Kostka.
-*   **Bartoszyce (Polônia):** Onde cumpriu o serviço militar obrigatório numa unidade especial para seminaristas, sofrendo perseguições por sua fé.
-*   **Bydgoszcz (Polônia):** Cidade onde celebrou sua última missa antes de ser sequestrado.
-*   **Włocławek (Polônia):** Próximo ao local onde seu corpo foi jogado no rio.
-
-<MiracleMap :locations="[
-  { lat: 53.3333, lng: 23.1500, description: 'Okopy, Polônia - Local de nascimento' },
-  { lat: 52.2297, lng: 21.0122, description: 'Varsóvia, Polônia - Ministério e Igreja de Santo Estanislau Kostka' },
-  { lat: 53.1235, lng: 18.0084, description: 'Bydgoszcz, Polônia - Local da última missa' },
-  { lat: 52.6483, lng: 19.0678, description: 'Włocławek (Represa do Vístula) - Local do martírio' }
-]" />
+* **Okopy, Polônia:** Local de nascimento e infância rural.
+* **Varsóvia, Polônia:** Onde foi ordenado e onde serviu como pároco e capelão do Solidariedade na Igreja de Santo Estanislau Kostka.
+* **Bydgoszcz, Polônia:** Onde celebrou sua última missa e proferiu sua última homilia antes de ser sequestrado no caminho de volta.
+* **Włocławek, Polônia:** O local do seu martírio, onde seu corpo foi jogado na represa do rio Vístula.
 
 ## Impacto Hoje
 
-O sacrifício do Beato Jerzy Popiełuszko não foi em vão. Sua morte galvanizou o movimento Solidariedade e a oposição ao regime comunista, contribuindo para a eventual queda do comunismo na Polônia e no Leste Europeu. Ele é venerado como padroeiro do Solidariedade e um mártir da verdade e da liberdade.
+O Beato Jerzy Popiełuszko é um ícone global da resistência pacífica contra o totalitarismo e um mártir da verdade. Ele demonstrou como o Evangelho pode ser uma força poderosa para a transformação social sem o uso da violência. Seu túmulo na paróquia de Santo Estanislau Kostka tornou-se um local de peregrinação internacional, visitado por milhões, incluindo o Papa João Paulo II, que era seu amigo e admirador. Ele é frequentemente invocado por aqueles que sofrem perseguição política e por aqueles que lutam pela justiça social.
 
-Sua tumba, no pátio da Igreja de Santo Estanislau Kostka em Varsóvia, tornou-se um local de peregrinação visitado por milhões, incluindo papas e chefes de estado. Sua mensagem de vencer o mal com o bem permanece urgentemente atual em um mundo marcado por conflitos e ódio.
+<MiracleMap :items='[
+  { lat: 52.2680, lng: 20.9850, title: "Igreja de Santo Estanislau Kostka, Varsóvia", description: "Onde celebrava as Missas pela Pátria e onde encontra-se o seu túmulo." },
+  { lat: 53.1235, lng: 18.0084, title: "Bydgoszcz", description: "Local de sua última missa antes do sequestro." },
+  { lat: 52.6483, lng: 19.0678, title: "Represa de Włocławek", description: "Local onde seu corpo foi jogado após ser torturado pelos agentes comunistas." }
+]' />
