@@ -38,6 +38,7 @@ export default {
             { text: 'Beata Dina Bélanger', link: '/beatos/beata-dina-belanger/' },
             { text: 'Beata Elena Aiello', link: '/beatos/beata-elena-aiello/' },
             { text: 'Beata Elena Guerra', link: '/beatos/beata-elena-guerra/' },
+            { text: 'Beata Elisabetta Canori Mora', link: '/beatos/beata-elisabetta-canori-mora/' },
             { text: 'Beata Eurosia Fabris', link: '/beatos/beata-eurosia-fabris/' },
             { text: 'Beata Imelda Lambertini', link: '/beatos/beata-imelda-lambertini/' },
             { text: 'Beata Isabel Cristina', link: '/beatos/beata-isabel-cristina/' },
@@ -263,6 +264,7 @@ export default {
             { text: 'São Valentim', link: '/santos/sao-valentim/' },
             { text: 'São Vicente de Paulo', link: '/santos/sao-vicente-de-paulo/' },
             { text: 'São Vicente Ferrer', link: '/santos/sao-vicente-ferrer/' },
+            { text: 'São Vicente Pallotti', link: '/santos/sao-vicente-pallotti/' },
           ]
         }
       ]

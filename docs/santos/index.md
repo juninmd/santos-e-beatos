@@ -120,3 +120,4 @@ Esta seção lista os santos.
 - [São Valentim](sao-valentim/index.md)
 - [São Vicente de Paulo](sao-vicente-de-paulo/index.md)
 - [São Vicente Ferrer](sao-vicente-ferrer/index.md)
+- [São Vicente Pallotti](sao-vicente-pallotti/index.md)
