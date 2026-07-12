@@ -69,9 +69,10 @@ npm run docs:preview
 | [Beata Antônia Mesina](docs/beatos/beata-antonia-mesina/index.md) | ![Beata Antônia Mesina](docs/beatos/beata-antonia-mesina/imagens/portrait.jpg) |
 | [Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/index.md) | ![Beata Assunta Marchetti](https://placehold.co/400x600/png?text=Beata+Assunta+Marchetti) |
 | [Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/index.md) | ![Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/imagens/portrait.jpg) |
+| [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/barbara-maix.jpg) |
+| [Beata Catarina Troiani](docs/beatos/beata-catarina-troiani/index.md) | ![Beata Catarina Troiani](docs/beatos/beata-catarina-troiani/imagens/portrait.jpg) |
 | [Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/index.md) | ![Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/imagens/portrait.jpg) |
 | [Beata Benigna](docs/beatos/beata-benigna/index.md) | ![Beata Benigna](docs/beatos/beata-benigna/imagens/benigna.jpg) |
-| [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/barbara-maix.jpg) |
 | [Beata Chiara Luce Badano](docs/beatos/beata-chiara-luce-badano/index.md) | ![Beata Chiara Luce Badano](docs/beatos/beata-chiara-luce-badano/imagens/portrait.jpg) |
 | [Beata Chiquitunga](docs/beatos/beata-chiquitunga/index.md) | ![Beata Chiquitunga](docs/beatos/beata-chiquitunga/imagens/portrait.jpg) |
 | [Beata Clélia Merloni](docs/beatos/beata-clelia-merloni/index.md) | ![Beata Clélia Merloni](docs/beatos/beata-clelia-merloni/imagens/portrait.jpg) |
@@ -215,6 +216,7 @@ npm run docs:preview
 | [Santo Alberto Magno](docs/santos/santo-alberto-magno/index.md) | ![Santo Alberto Magno](docs/santos/santo-alberto-magno/imagens/portrait.jpg) |
 | [Santo Ambrósio](docs/santos/santo-ambrosio/index.md) | ![Santo Ambrósio](docs/santos/santo-ambrosio/imagens/portrait.jpg) |
 | [Santo André](docs/santos/santo-andre/index.md) | ![Santo André](https://placehold.co/400x600/png?text=Santo+Andre) |
+| [Santo André Kim Taegõn](docs/santos/santo-andre-kim-taegon/index.md) | ![Santo André Kim Taegõn](docs/santos/santo-andre-kim-taegon/imagens/portrait.jpg) |
 | [Santo Antão do Deserto](docs/santos/santo-antao-do-deserto/index.md) | ![Santo Antão do Deserto](docs/santos/santo-antao-do-deserto/imagens/portrait.jpg) |
 | [Santo Antônio de Pádua](docs/santos/santo-antonio/index.md) | ![Santo Antônio](docs/santos/santo-antonio/imagens/santo-antonio.jpg) |
 | [Santo Antônio de Sant'Ana Galvão](docs/santos/santo-antonio-de-santana-galvao/index.md) | ![Santo Antônio de Sant'Ana Galvão](docs/santos/santo-antonio-de-santana-galvao/imagens/portrait.jpg) |

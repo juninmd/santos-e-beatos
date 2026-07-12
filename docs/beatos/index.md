@@ -13,6 +13,7 @@ Esta seção lista os beatos.
 - [Beata Assunta Marchetti](beata-assunta-marchetti/index.md)
 - [Beato Augusto Czartoryski](beato-augusto-czartoryski/index.md)
 - [Beata Bárbara Maix](beata-barbara-maix/index.md)
+- [Beata Catarina Troiani](beata-catarina-troiani/index.md)
 - [Beata Benedetta Bianchi Porro](beata-benedetta-bianchi-porro/index.md)
 - [Beata Benigna](beata-benigna/index.md)
 - [Beata Chiara Luce Badano](beata-chiara-luce-badano/index.md)
