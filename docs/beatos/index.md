@@ -103,6 +103,7 @@ Esta seção lista os beatos.
 - [Beato Moisés Lira](beato-moises-lira/index.md)
 - [Beato Nicola D'Onofrio](beato-nicola-donofrio/index.md)
 - [Beato Nicolau Steno](beato-nicolau-steno/index.md)
+- [Beato Odoardo Focherini](beato-odoardo-focherini/index.md)
 - [Beato Padre Eustáquio](beato-padre-eustaquio/index.md)
 - [Beato Pier Giorgio Frassati](pier-giorgio-frassati/index.md)
 - [Beato Pino Puglisi](beato-pino-puglisi/index.md)
