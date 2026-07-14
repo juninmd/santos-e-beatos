@@ -87,6 +87,7 @@ npm run docs:preview
 | [Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/index.md) | ![Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/imagens/laura-vicuna.jpg) |
 | [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](https://placehold.co/400x600/png?text=Beata+Lindalva+Justo+de+Oliveira) |
 | [Beata Mafalda de Portugal](docs/beatos/beata-mafalda-de-portugal/index.md) | ![Beata Mafalda de Portugal](docs/beatos/beata-mafalda-de-portugal/imagens/portrait.jpg) |
+| [Beata Maria Bolognesi](docs/beatos/beata-maria-bolognesi/index.md) | ![Beata Maria Bolognesi](docs/beatos/beata-maria-bolognesi/imagens/portrait.jpg) |
 | [Beata Maria Clara do Menino Jesus](docs/beatos/beata-maria-clara-do-menino-jesus/index.md) | ![Beata Maria Clara do Menino Jesus](docs/beatos/beata-maria-clara-do-menino-jesus/imagens/portrait.jpg) |
 | [Beata Maria Cristina de Saboia](docs/beatos/beata-maria-cristina-de-saboia/index.md) | ![Beata Maria Cristina de Saboia](docs/beatos/beata-maria-cristina-de-saboia/imagens/portrait.jpg) |
 | [Beata Maria Gabriela da Unidade](docs/beatos/beata-maria-gabriela-da-unidade/index.md) | ![Beata Maria Gabriela da Unidade](https://placehold.co/400x600/png?text=Beata+Maria+Gabriela+da+Unidade) |
@@ -195,6 +196,7 @@ npm run docs:preview
 | [Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/index.md) | ![Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/imagens/portrait.jpg) |
 | [Santa Bárbara](docs/santos/santa-barbara/index.md) | ![Santa Bárbara](docs/santos/santa-barbara/imagens/portrait.jpg) |
 | [Santa Joana d'Arc](docs/santos/santa-joana-d-arc/index.md) | ![Santa Joana d'Arc](docs/santos/santa-joana-d-arc/imagens/portrait.jpg) |
+| [Santa Joana de Chantal](docs/santos/santa-joana-de-chantal/index.md) | ![Santa Joana de Chantal](docs/santos/santa-joana-de-chantal/imagens/portrait.jpg) |
 | [Santa Josefina Bakhita](docs/santos/santa-josefina-bakhita/index.md) | ![Santa Josefina Bakhita](docs/santos/santa-josefina-bakhita/imagens/portrait.jpg) |
 | [Santa Luzia](docs/santos/santa-luzia/index.md) | ![Santa Luzia](https://placehold.co/400x600/png?text=Santa+Luzia) |
 | [Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/index.md) | ![Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/imagens/portrait.jpg) |
