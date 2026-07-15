@@ -29,6 +29,7 @@ Esta seção lista os beatos.
 - [Beata Joana de Portugal](beata-joana-de-portugal/index.md)
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
+- [Beato Lojze Grozde](beato-lojze-grozde/index.md)
 - [Beata Mafalda de Portugal](beata-mafalda-de-portugal/index.md)
 - [Beata Maria Bolognesi](beata-maria-bolognesi/index.md)
 - [Beata Maria Clara do Menino Jesus](beata-maria-clara-do-menino-jesus/index.md)
