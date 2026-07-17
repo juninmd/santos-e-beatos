@@ -36,6 +36,7 @@ Esta seção lista os beatos.
 - [Beata Maria Cristina de Saboia](beata-maria-cristina-de-saboia/index.md)
 - [Beata Maria da Conceição](beata-maria-da-conceicao/index.md)
 - [Beata Maria da Paixão](beata-maria-da-paixao/index.md)
+- [Beata Maria de San José Alvarado](beata-maria-de-san-jose-alvarado/index.md)
 - [Beata Maria do Divino Coração](beata-maria-do-divino-coracao/index.md)
 - [Beata Maria Gabriela da Unidade](beata-maria-gabriela-da-unidade/index.md)
 - [Beata Maria Laura Mainetti](beata-maria-laura-mainetti/index.md)
