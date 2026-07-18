@@ -78,6 +78,7 @@ Esta seção lista os beatos.
 - [Beato Francisco Palau](beato-francisco-palau/index.md)
 - [Beato Franz Jägerstätter](beato-franz-jagerstatter/index.md)
 - [Beato Frederico Ozanam](beato-frederico-ozanam/index.md)
+- [Beato Giuseppe Toniolo](beato-giuseppe-toniolo/index.md)
 - [Beato Gonçalo de Amarante](beato-goncalo-de-amarante/index.md)
 - [Beato Guido de Montpellier](beato-guido-de-montpellier/index.md)
 - [Beato Guilherme José Chaminade](beato-guilherme-jose-chaminade/index.md)
