@@ -96,6 +96,7 @@ Esta seção lista os beatos.
 - [Beato Justo Takayama Ukon](beato-justo-takayama-ukon/index.md)
 - [Beato Karl Leisner](beato-karl-leisner/index.md)
 - [Beato Luigi Beltrame Quattrocchi](beato-luigi-beltrame-quattrocchi/index.md)
+- [Beato Luigi Monza](beato-luigi-monza/index.md)
 - [Beato Luigi Novarese](beato-luigi-novarese/index.md)
 - [Beato Luis Variara](beato-luis-variara/index.md)
 - [Beato Manuel Gómez González](beato-manuel-gomez-gonzalez/index.md)

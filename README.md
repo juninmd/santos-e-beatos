@@ -149,6 +149,7 @@ npm run docs:preview
 | [Beato Justo Takayama Ukon](docs/beatos/beato-justo-takayama-ukon/index.md) | ![Beato Justo Takayama Ukon](https://placehold.co/400x600/png?text=Justo+Takayama+Ukon) |
 | [Beato Karl Leisner](docs/beatos/beato-karl-leisner/index.md) | ![Beato Karl Leisner](docs/beatos/beato-karl-leisner/imagens/portrait.jpg) |
 | [Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/index.md) | ![Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/imagens/portrait.jpg) |
+| [Beato Luigi Monza](docs/beatos/beato-luigi-monza/index.md) | ![Beato Luigi Monza](docs/beatos/beato-luigi-monza/imagens/portrait.jpg) |
 | [Beato Luigi Novarese](docs/beatos/beato-luigi-novarese/index.md) | ![Beato Luigi Novarese](docs/beatos/beato-luigi-novarese/imagens/portrait.jpg) |
 | [Beato Luis Variara](docs/beatos/beato-luis-variara/index.md) | ![Beato Luis Variara](docs/beatos/beato-luis-variara/imagens/portrait.jpg) |
 | [Beato Manuel Gómez González](docs/beatos/beato-manuel-gomez-gonzalez/index.md) | ![Beato Manuel Gómez González](docs/beatos/beato-manuel-gomez-gonzalez/imagens/portrait.jpg) |
@@ -272,6 +273,7 @@ npm run docs:preview
 | [São José de Anchieta](docs/santos/sao-jose-de-anchieta/index.md) | ![São José de Anchieta](docs/santos/sao-jose-de-anchieta/imagens/portrait.jpg) |
 | [São José de Cupertino](docs/santos/sao-jose-de-cupertino/index.md) | ![São José de Cupertino](docs/santos/sao-jose-de-cupertino/imagens/portrait.jpg) |
 | [São José Sánchez del Río](docs/santos/sao-jose-sanchez-del-rio/index.md) | ![São José Sánchez del Río](docs/santos/sao-jose-sanchez-del-rio/imagens/portrait.jpg) |
+| [São José Marello](docs/santos/sao-jose-marello/index.md) | ![São José Marello](docs/santos/sao-jose-marello/imagens/portrait.jpg) |
 | [São José Moscati](docs/santos/sao-jose-moscati/index.md) | ![São José Moscati](docs/santos/sao-jose-moscati/imagens/portrait.jpg) |
 | [São Judas Tadeu](docs/santos/sao-judas-tadeu/index.md) | ![São Judas Tadeu](docs/santos/sao-judas-tadeu/imagens/sao-judas.jpg) |
 | [São Longuinho](docs/santos/sao-longuinho/index.md) | ![São Longuinho](docs/santos/sao-longuinho/imagens/portrait.jpg) |
