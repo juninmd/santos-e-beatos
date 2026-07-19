@@ -90,6 +90,7 @@ Esta seção lista os santos.
 - [São José de Anchieta](sao-jose-de-anchieta/index.md)
 - [São José de Cupertino](sao-jose-de-cupertino/index.md)
 - [São José Sánchez del Río](sao-jose-sanchez-del-rio/index.md)
+- [São José Marello](sao-jose-marello/index.md)
 - [São José Moscati](sao-jose-moscati/index.md)
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
 - [São Longuinho](sao-longuinho/index.md)
