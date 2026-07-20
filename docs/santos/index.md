@@ -111,6 +111,7 @@ Esta seção lista os santos.
 - [São Patrício](sao-patricio/index.md)
 - [São Paulo](sao-paulo/index.md)
 - [São Pedro](sao-pedro/index.md)
+- [São Pedro de Alcântara](sao-pedro-de-alcantara/index.md)
 - [São Pedro Claver](sao-pedro-claver/index.md)
 - [São Peregrino](sao-peregrino/index.md)
 - [São Pio V](sao-pio-v/index.md)

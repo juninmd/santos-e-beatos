@@ -32,6 +32,7 @@ Esta seção lista os beatos.
 - [Beato Lojze Grozde](beato-lojze-grozde/index.md)
 - [Beata Mafalda de Portugal](beata-mafalda-de-portugal/index.md)
 - [Beata Maria Bolognesi](beata-maria-bolognesi/index.md)
+- [Beata Maria Cândida da Eucaristia](beata-maria-candida-da-eucaristia/index.md)
 - [Beata Maria Clara do Menino Jesus](beata-maria-clara-do-menino-jesus/index.md)
 - [Beata Maria Cristina de Saboia](beata-maria-cristina-de-saboia/index.md)
 - [Beata Maria da Conceição](beata-maria-da-conceicao/index.md)
