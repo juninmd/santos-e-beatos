@@ -31,6 +31,7 @@ Esta seção lista os beatos.
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
 - [Beato Lojze Grozde](beato-lojze-grozde/index.md)
 - [Beata Mafalda de Portugal](beata-mafalda-de-portugal/index.md)
+- [Beata Maria Assunta Pallotta](beata-maria-assunta-pallotta/index.md)
 - [Beata Maria Bolognesi](beata-maria-bolognesi/index.md)
 - [Beata Maria Cândida da Eucaristia](beata-maria-candida-da-eucaristia/index.md)
 - [Beata Maria Clara do Menino Jesus](beata-maria-clara-do-menino-jesus/index.md)
