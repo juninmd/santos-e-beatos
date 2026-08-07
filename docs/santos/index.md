@@ -51,6 +51,7 @@ Esta seção lista os santos.
 - [Santa Bernadete Soubirous](santa-bernadete-soubirous/index.md)
 - [Santa Brígida da Suécia](santa-brigida-da-suecia/index.md)
 - [São Brás](sao-bras/index.md)
+- [São Bruno](sao-bruno/index.md)
 - [São Camilo de Lellis](sao-camilo-de-lellis/index.md)
 - [São Carlo Acutis](carlo-acutis/index.md)
 - [São Carlos Borromeu](sao-carlos-borromeu/index.md)
