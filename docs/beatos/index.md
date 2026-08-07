@@ -85,6 +85,7 @@ Esta seção lista os beatos.
 - [Beato Gonçalo de Amarante](beato-goncalo-de-amarante/index.md)
 - [Beato Guido de Montpellier](beato-guido-de-montpellier/index.md)
 - [Beato Guilherme José Chaminade](beato-guilherme-jose-chaminade/index.md)
+- [Beato Henrique Suso](beato-henrique-suso/index.md)
 - [Beato Isidoro Bakanja](beato-isidoro-bakanja/index.md)
 - [Beato Ivan Merz](beato-ivan-merz/index.md)
 - [Beato Jacinto Vera](beato-jacinto-vera/index.md)
