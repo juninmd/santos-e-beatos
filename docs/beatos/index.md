@@ -9,6 +9,7 @@ Esta seção lista os beatos.
 - [Beata Ana de São Bartolomeu](beata-ana-de-sao-bartolomeu/index.md)
 - [Beata Ana dos Anjos Monteagudo](beata-ana-dos-anjos-monteagudo/index.md)
 - [Beata Anna Maria Taigi](beata-anna-maria-taigi/index.md)
+- [Beata Antonieta Meo](beata-antonieta-meo/index.md)
 - [Beata Antônia Mesina](beata-antonia-mesina/index.md)
 - [Beata Assunta Marchetti](beata-assunta-marchetti/index.md)
 - [Beato Augusto Czartoryski](beato-augusto-czartoryski/index.md)

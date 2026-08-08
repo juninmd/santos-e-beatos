@@ -7,6 +7,7 @@ Esta seção lista os santos.
 - [Santa Joana d'Arc](santa-joana-d-arc/index.md)
 - [Santa Joana de Chantal](santa-joana-de-chantal/index.md)
 - [Santa Josefina Bakhita](santa-josefina-bakhita/index.md)
+- [Santa Kateri Tekakwitha](santa-kateri-tekakwitha/index.md)
 - [Santa Luzia](santa-luzia/index.md)
 - [Santa Margarida Maria Alacoque](santa-margarida-maria-alacoque/index.md)
 - [Santa Maria Goretti](santa-maria-goretti/index.md)

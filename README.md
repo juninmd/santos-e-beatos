@@ -66,6 +66,7 @@ npm run docs:preview
 | [Beata Ana de São Bartolomeu](docs/beatos/beata-ana-de-sao-bartolomeu/index.md) | ![Beata Ana de São Bartolomeu](docs/beatos/beata-ana-de-sao-bartolomeu/imagens/portrait.png) |
 | [Beata Ana dos Anjos Monteagudo](docs/beatos/beata-ana-dos-anjos-monteagudo/index.md) | ![Beata Ana dos Anjos Monteagudo](docs/beatos/beata-ana-dos-anjos-monteagudo/imagens/portrait.jpg) |
 | [Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/index.md) | ![Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/imagens/portrait.jpg) |
+| [Beata Antonieta Meo](docs/beatos/beata-antonieta-meo/index.md) | ![Beata Antonieta Meo](docs/beatos/beata-antonieta-meo/imagens/portrait.jpg) |
 | [Beata Antônia Mesina](docs/beatos/beata-antonia-mesina/index.md) | ![Beata Antônia Mesina](docs/beatos/beata-antonia-mesina/imagens/portrait.jpg) |
 | [Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/index.md) | ![Beata Assunta Marchetti](https://placehold.co/400x600/png?text=Beata+Assunta+Marchetti) |
 | [Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/index.md) | ![Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/imagens/portrait.jpg) |
@@ -207,6 +208,7 @@ npm run docs:preview
 | [Santa Joana d'Arc](docs/santos/santa-joana-d-arc/index.md) | ![Santa Joana d'Arc](docs/santos/santa-joana-d-arc/imagens/portrait.jpg) |
 | [Santa Joana de Chantal](docs/santos/santa-joana-de-chantal/index.md) | ![Santa Joana de Chantal](docs/santos/santa-joana-de-chantal/imagens/portrait.jpg) |
 | [Santa Josefina Bakhita](docs/santos/santa-josefina-bakhita/index.md) | ![Santa Josefina Bakhita](docs/santos/santa-josefina-bakhita/imagens/portrait.jpg) |
+| [Santa Kateri Tekakwitha](docs/santos/santa-kateri-tekakwitha/index.md) | ![Santa Kateri Tekakwitha](docs/santos/santa-kateri-tekakwitha/imagens/portrait.jpg) |
 | [Santa Luzia](docs/santos/santa-luzia/index.md) | ![Santa Luzia](https://placehold.co/400x600/png?text=Santa+Luzia) |
 | [Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/index.md) | ![Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/imagens/portrait.jpg) |
 | [Santa Maria Goretti](docs/santos/santa-maria-goretti/index.md) | ![Santa Maria Goretti](docs/santos/santa-maria-goretti/imagens/portrait.jpg) |
