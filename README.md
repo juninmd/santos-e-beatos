@@ -182,6 +182,7 @@ npm run docs:preview
 | [Beato Stanley Rother](docs/beatos/beato-stanley-rother/index.md) | ![Beato Stanley Rother](docs/beatos/beato-stanley-rother/imagens/portrait.jpg) |
 | [Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/index.md) | ![Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/imagens/portrait.jpg) |
 | [Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/index.md) | ![Beato Tiago Alberione](https://placehold.co/400x600/png?text=Beato+Tiago+Alberione) |
+| [Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/index.md) | ![Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/imagens/portrait.jpg) |
 | [Beato Zeferino Namuncurá](docs/beatos/beato-zeferino-namuncura/index.md) | ![Beato Zeferino Namuncurá](https://placehold.co/400x600/png?text=Beato+Zeferino+Namuncura) |
 | [Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/index.md) | ![Beato Álvaro del Portillo](https://placehold.co/400x600/png?text=Beato+Alvaro+del+Portillo) |
 | [Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/nha-chica.jpg) |
@@ -247,6 +248,7 @@ npm run docs:preview
 | [São Carlos Borromeu](docs/santos/sao-carlos-borromeu/index.md) | ![São Carlos Borromeu](docs/santos/sao-carlos-borromeu/imagens/portrait.jpg) |
 | [São Charles de Foucauld](docs/santos/sao-charles-de-foucauld/index.md) | ![São Charles de Foucauld](docs/santos/sao-charles-de-foucauld/imagens/portrait.jpg) |
 | [São Charbel](docs/santos/sao-charbel/index.md) | ![São Charbel](docs/santos/sao-charbel/imagens/charbel.jpg) |
+| [São Columbano](docs/santos/sao-columbano/index.md) | ![São Columbano](docs/santos/sao-columbano/imagens/portrait.jpg) |
 | [São Cristóvão](docs/santos/sao-cristovao/index.md) | ![São Cristóvão](docs/santos/sao-cristovao/imagens/portrait.jpg) |
 | [São Damião de Molokai](docs/santos/sao-damiao-de-molokai/index.md) | ![São Damião de Molokai](docs/santos/sao-damiao-de-molokai/imagens/portrait.jpg) |
 | [São Dimas](docs/santos/sao-dimas/index.md) | ![São Dimas](docs/santos/sao-dimas/imagens/portrait.jpg) |

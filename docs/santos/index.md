@@ -59,6 +59,7 @@ Esta seção lista os santos.
 - [São Charles de Foucauld](sao-charles-de-foucauld/index.md)
 - [Santa Catarina de Sena](santa-catarina-de-sena/index.md)
 - [São Charbel](sao-charbel/index.md)
+- [São Columbano](sao-columbano/index.md)
 - [São Cristóvão](sao-cristovao/index.md)
 - [São Damião de Molokai](sao-damiao-de-molokai/index.md)
 - [São Dimas](sao-dimas/index.md)
