@@ -30,6 +30,7 @@ Esta seção lista os beatos.
 - [Beata Joana de Portugal](beata-joana-de-portugal/index.md)
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
+- [Beata Madre Esperança de Jesus](beata-madre-esperanca-de-jesus/index.md)
 - [Beato Lojze Grozde](beato-lojze-grozde/index.md)
 - [Beata Mafalda de Portugal](beata-mafalda-de-portugal/index.md)
 - [Beata Maria Assunta Pallotta](beata-maria-assunta-pallotta/index.md)

@@ -87,6 +87,7 @@ npm run docs:preview
 | [Beata Joana de Portugal](docs/beatos/beata-joana-de-portugal/index.md) | ![Beata Joana de Portugal](docs/beatos/beata-joana-de-portugal/imagens/portrait.jpg) |
 | [Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/index.md) | ![Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/imagens/laura-vicuna.jpg) |
 | [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](https://placehold.co/400x600/png?text=Beata+Lindalva+Justo+de+Oliveira) |
+| [Beata Madre Esperança de Jesus](docs/beatos/beata-madre-esperanca-de-jesus/index.md) | ![Beata Madre Esperança de Jesus](docs/beatos/beata-madre-esperanca-de-jesus/imagens/portrait.jpg) |
 | [Beato Lojze Grozde](docs/beatos/beato-lojze-grozde/index.md) | ![Beato Lojze Grozde](docs/beatos/beato-lojze-grozde/imagens/portrait.jpg) |
 | [Beata Mafalda de Portugal](docs/beatos/beata-mafalda-de-portugal/index.md) | ![Beata Mafalda de Portugal](docs/beatos/beata-mafalda-de-portugal/imagens/portrait.jpg) |
 | [Beata Maria Assunta Pallotta](docs/beatos/beata-maria-assunta-pallotta/index.md) | ![Beata Maria Assunta Pallotta](docs/beatos/beata-maria-assunta-pallotta/imagens/portrait.jpg) |
@@ -274,6 +275,7 @@ npm run docs:preview
 | [São João Paulo II](docs/santos/sao-joao-paulo-ii/index.md) | ![São João Paulo II](docs/santos/sao-joao-paulo-ii/imagens/joao-paulo-ii.jpg) |
 | [São João XXIII](docs/santos/sao-joao-xxiii/index.md) | ![São João XXIII](docs/santos/sao-joao-xxiii/imagens/portrait.jpg) |
 | [São João da Cruz](docs/santos/sao-joao-da-cruz/index.md) | ![São João da Cruz](docs/santos/sao-joao-da-cruz/imagens/portrait.jpg) |
+| [São João de Ávila](docs/santos/sao-joao-de-avila/index.md) | ![São João de Ávila](docs/santos/sao-joao-de-avila/imagens/portrait.jpg) |
 | [São João Damasceno](docs/santos/sao-joao-damasceno/index.md) | ![São João Damasceno](docs/santos/sao-joao-damasceno/imagens/portrait.jpg) |
 | [São João de Deus](docs/santos/sao-joao-de-deus/index.md) | ![São João de Deus](docs/santos/sao-joao-de-deus/imagens/portrait.jpg) |
 | [São João Diego Cuauhtlatoatzin](docs/santos/sao-joao-diego/index.md) | ![São João Diego Cuauhtlatoatzin](docs/santos/sao-joao-diego/imagens/portrait.jpg) |
