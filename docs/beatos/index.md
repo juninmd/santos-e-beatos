@@ -58,6 +58,7 @@ Esta seção lista os beatos.
 - [Beato Inácio de Azevedo](beato-inacio-de-azevedo/index.md)
 - [Beato Inocêncio XI](beato-inocencio-xi/index.md)
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
+- [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
 - [Beato Anacleto González Flores](beato-anacleto-gonzalez-flores/index.md)
 - [Beato Antônio Chevrier](beato-antonio-chevrier/index.md)
 - [Beato Antônio Frederico Ozanam](beato-antonio-frederico-ozanam/index.md)
