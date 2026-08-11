@@ -115,6 +115,7 @@ npm run docs:preview
 | [Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/index.md) | ![Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/imagens/portrait.jpg) |
 | [Beato Inocêncio XI](docs/beatos/beato-inocencio-xi/index.md) | ![Beato Inocêncio XI](docs/beatos/beato-inocencio-xi/imagens/portrait.jpg) |
 | [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](https://placehold.co/400x600/png?text=Beato+Adilio+Daronch) |
+| [Beato Agostinho Kazotić](docs/beatos/beato-agostinho-kazotic/index.md) | ![Beato Agostinho Kazotić](docs/beatos/beato-agostinho-kazotic/imagens/portrait.jpg) |
 | [Beato Anacleto González Flores](docs/beatos/beato-anacleto-gonzalez-flores/index.md) | ![Beato Anacleto González Flores](docs/beatos/beato-anacleto-gonzalez-flores/imagens/portrait.jpg) |
 | [Beato Antônio Chevrier](docs/beatos/beato-antonio-chevrier/index.md) | ![Beato Antônio Chevrier](docs/beatos/beato-antonio-chevrier/imagens/portrait.jpg) |
 | [Beato Antônio Frederico Ozanam](docs/beatos/beato-antonio-frederico-ozanam/index.md) | ![Beato Antônio Frederico Ozanam](docs/beatos/beato-antonio-frederico-ozanam/imagens/portrait.jpg) |
@@ -319,6 +320,7 @@ npm run docs:preview
 | [São Tiago Maior](docs/santos/sao-tiago-maior/index.md) | ![São Tiago Maior](https://placehold.co/400x600/png?text=Sao+Tiago+Maior) |
 | [São Tiago Menor](docs/santos/sao-tiago-menor/index.md) | ![São Tiago Menor](https://placehold.co/400x600/png?text=Sao+Tiago+Menor) |
 | [São Tomás de Aquino](docs/santos/sao-tomas-de-aquino/index.md) | ![São Tomás de Aquino](docs/santos/sao-tomas-de-aquino/imagens/portrait.jpg) |
+| [São Tomás de Vilanova](docs/santos/sao-tomas-de-vilanova/index.md) | ![São Tomás de Vilanova](docs/santos/sao-tomas-de-vilanova/imagens/portrait.jpg) |
 | [São Tomás More](docs/santos/sao-tomas-more/index.md) | ![São Tomás More](docs/santos/sao-tomas-more/imagens/portrait.jpg) |
 | [São Tomé](docs/santos/sao-tome/index.md) | ![São Tomé](https://placehold.co/400x600/png?text=Sao+Tome) |
 | [São Valentim](docs/santos/sao-valentim/index.md) | ![São Valentim](docs/santos/sao-valentim/imagens/portrait.jpg) |
