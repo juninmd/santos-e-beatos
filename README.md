@@ -109,6 +109,7 @@ npm run docs:preview
 | [Beata Maria do Divino Coração](docs/beatos/beata-maria-do-divino-coracao/index.md) | ![Beata Maria do Divino Coração](https://placehold.co/400x600/png?text=Beata+Maria+do+Divino+Coracao) |
 | [Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/index.md) | ![Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/imagens/portrait.jpg) |
 | [Beata Paulina Jaricot](docs/beatos/beata-paulina-jaricot/index.md) | ![Beata Paulina Jaricot](docs/beatos/beata-paulina-jaricot/imagens/portrait.jpg) |
+| [Beata Pina Suriano](docs/beatos/beata-pina-suriano/index.md) | ![Beata Pina Suriano](docs/beatos/beata-pina-suriano/imagens/portrait.jpg) |
 | [Beata Rita Amada de Jesus](docs/beatos/beata-rita-amada-de-jesus/index.md) | ![Beata Rita Amada de Jesus](docs/beatos/beata-rita-amada-de-jesus/imagens/portrait.jpg) |
 | [Beata Sandra Sabattini](docs/beatos/beata-sandra-sabattini/index.md) | ![Beata Sandra Sabattini](https://placehold.co/400x600/png?text=Beata+Sandra+Sabattini) |
 | [Beata Savina Petrilli](docs/beatos/beata-savina-petrilli/index.md) | ![Beata Savina Petrilli](docs/beatos/beata-savina-petrilli/imagens/portrait.jpg) |
@@ -242,6 +243,7 @@ npm run docs:preview
 | [Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/index.md) | ![Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/imagens/portrait.jpg) |
 | [Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/index.md) | ![Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/imagens/portrait.jpg) |
 | [São Bartolomeu](docs/santos/sao-bartolomeu/index.md) | ![São Bartolomeu](https://placehold.co/400x600/png?text=Sao+Bartolomeu) |
+| [São Benedito](docs/santos/sao-benedito/index.md) | ![São Benedito](docs/santos/sao-benedito/imagens/portrait.jpg) |
 | [São Bento](docs/santos/sao-bento/index.md) | ![São Bento](https://placehold.co/400x600/png?text=Sao+Bento) |
 | [São Bernardo de Claraval](docs/santos/sao-bernardo/index.md) | ![São Bernardo de Claraval](docs/santos/sao-bernardo/imagens/portrait.jpg) |
 | [São Boaventura](docs/santos/sao-boaventura/index.md) | ![São Boaventura](docs/santos/sao-boaventura/imagens/portrait.jpg) |
