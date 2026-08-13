@@ -65,6 +65,7 @@ Esta seção lista os beatos.
 - [Beato Antônio Frederico Ozanam](beato-antonio-frederico-ozanam/index.md)
 - [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
 - [Beato Bartolo Longo](beato-bartolo-longo/index.md)
+- [Beato Bernardo de Hoyos](beato-bernardo-de-hoyos/index.md)
 - [Beato Carlo Acutis](carlo_acutis/index.md)
 - [Beato Carlo Gnocchi](beato-carlo-gnocchi/index.md)
 - [Beato Carlos da Áustria](beato-carlos-da-austria/index.md)

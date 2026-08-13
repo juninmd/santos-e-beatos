@@ -123,6 +123,7 @@ npm run docs:preview
 | [Beato Giuseppe Toniolo](docs/beatos/beato-giuseppe-toniolo/index.md) | ![Beato Giuseppe Toniolo](docs/beatos/beato-giuseppe-toniolo/imagens/portrait.jpg) |
 | [Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/index.md) | ![Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/imagens/portrait.jpg) |
 | [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](https://placehold.co/400x600/png?text=Bartolo+Longo) |
+| [Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/index.md) | ![Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/imagens/portrait.jpg) |
 | [Beato Carlo Acutis](docs/beatos/beato-carlo-acutis/index.md) | ![Beato Carlo Acutis](docs/beatos/beato-carlo-acutis/imagens/portrait.jpg) |
 | [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](https://placehold.co/400x600/png?text=Beato+Carlo+Gnocchi) |
 | [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/portrait.jpg) |
@@ -308,6 +309,7 @@ npm run docs:preview
 | [São Padre Pio](docs/santos/sao-padre-pio/index.md) | ![São Padre Pio](docs/santos/sao-padre-pio/imagens/padre-pio.jpg) |
 | [São Patrício](docs/santos/sao-patricio/index.md) | ![São Patrício](docs/santos/sao-patricio/imagens/portrait.jpg) |
 | [São Paulo](docs/santos/sao-paulo/index.md) | ![São Paulo](https://placehold.co/400x600/png?text=Sao+Paulo) |
+| [São Paulo da Cruz](docs/santos/sao-paulo-da-cruz/index.md) | ![São Paulo da Cruz](docs/santos/sao-paulo-da-cruz/imagens/portrait.jpg) |
 | [São Pedro](docs/santos/sao-pedro/index.md) | ![São Pedro](https://placehold.co/400x600/png?text=Sao+Pedro) |
 | [São Pedro de Alcântara](docs/santos/sao-pedro-de-alcantara/index.md) | ![São Pedro de Alcântara](docs/santos/sao-pedro-de-alcantara/imagens/portrait.jpg) |
 | [São Pedro Claver](docs/santos/sao-pedro-claver/index.md) | ![São Pedro Claver](docs/santos/sao-pedro-claver/imagens/portrait.jpg) |
