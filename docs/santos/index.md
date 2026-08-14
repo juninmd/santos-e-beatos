@@ -21,6 +21,7 @@ Esta seção lista os santos.
 - [Santa Dulce dos Pobres](santa-dulce-dos-pobres/index.md)
 - [Santa Edwiges](santa-edwiges/index.md)
 - [Santa Faustina Kowalska](santa-faustina-kowalska/index.md)
+- [Santa Filomena](santa-filomena/index.md)
 - [Santa Gemma Galgani](santa-gemma-galgani/index.md)
 - [Santa Helena](santa-helena/index.md)
 - [Santa Hildegarda de Bingen](santa-hildegarda-de-bingen/index.md)

@@ -11,6 +11,7 @@ Esta seção lista os beatos.
 - [Beata Anna Maria Taigi](beata-anna-maria-taigi/index.md)
 - [Beata Antonieta Meo](beata-antonieta-meo/index.md)
 - [Beata Antônia Mesina](beata-antonia-mesina/index.md)
+- [Beata Armida Barelli](beata-armida-barelli/index.md)
 - [Beata Assunta Marchetti](beata-assunta-marchetti/index.md)
 - [Beato Augusto Czartoryski](beato-augusto-czartoryski/index.md)
 - [Beata Bárbara Maix](beata-barbara-maix/index.md)
