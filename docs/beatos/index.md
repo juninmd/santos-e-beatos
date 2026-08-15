@@ -132,6 +132,7 @@ Esta seção lista os beatos.
 - [Beato Stefan Wyszyński](beato-stefan-wyszynski/index.md)
 - [Beato Tiago Alberione](beato-tiago-alberione/index.md)
 - [Beato Tiago de Voragine](beato-tiago-de-voragine/index.md)
+- [Beato Urbano V](beato-urbano-v/index.md)
 - [Beato Zeferino Namuncurá](beato-zeferino-namuncura/index.md)
 - [Nhá Chica](nha-chica/index.md)
 - [Padre Donizetti](padre-donizetti/index.md)

@@ -188,6 +188,7 @@ npm run docs:preview
 | [Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/index.md) | ![Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/imagens/portrait.jpg) |
 | [Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/index.md) | ![Beato Tiago Alberione](https://placehold.co/400x600/png?text=Beato+Tiago+Alberione) |
 | [Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/index.md) | ![Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/imagens/portrait.jpg) |
+| [Beato Urbano V](docs/beatos/beato-urbano-v/index.md) | ![Beato Urbano V](docs/beatos/beato-urbano-v/imagens/portrait.jpg) |
 | [Beato Zeferino Namuncurá](docs/beatos/beato-zeferino-namuncura/index.md) | ![Beato Zeferino Namuncurá](https://placehold.co/400x600/png?text=Beato+Zeferino+Namuncura) |
 | [Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/index.md) | ![Beato Álvaro del Portillo](https://placehold.co/400x600/png?text=Beato+Alvaro+del+Portillo) |
 | [Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/nha-chica.jpg) |
@@ -246,6 +247,7 @@ npm run docs:preview
 | [Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/index.md) | ![Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/imagens/portrait.jpg) |
 | [Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/index.md) | ![Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/imagens/portrait.jpg) |
 | [São Bartolomeu](docs/santos/sao-bartolomeu/index.md) | ![São Bartolomeu](https://placehold.co/400x600/png?text=Sao+Bartolomeu) |
+| [São Basílio Magno](docs/santos/sao-basilio-magno/index.md) | ![São Basílio Magno](docs/santos/sao-basilio-magno/imagens/portrait.jpg) |
 | [São Benedito](docs/santos/sao-benedito/index.md) | ![São Benedito](docs/santos/sao-benedito/imagens/portrait.jpg) |
 | [São Bento](docs/santos/sao-bento/index.md) | ![São Bento](https://placehold.co/400x600/png?text=Sao+Bento) |
 | [São Bernardo de Claraval](docs/santos/sao-bernardo/index.md) | ![São Bernardo de Claraval](docs/santos/sao-bernardo/imagens/portrait.jpg) |

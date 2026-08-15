@@ -47,6 +47,7 @@ Esta seção lista os santos.
 - [Santo Inácio de Loyola](santo-inacio-de-loyola/index.md)
 - [Santo Ireneu de Lyon](santo-ireneu-de-lyon/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
+- [São Basílio Magno](sao-basilio-magno/index.md)
 - [São Benedito](sao-benedito/index.md)
 - [São Bento](sao-bento/index.md)
 - [São Bernardo de Claraval](sao-bernardo/index.md)
