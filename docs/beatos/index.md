@@ -22,6 +22,7 @@ Esta seção lista os beatos.
 - [Beata Chiquitunga](beata-chiquitunga/index.md)
 - [Beata Clélia Merloni](beata-clelia-merloni/index.md)
 - [Beata Dina Bélanger](beata-dina-belanger/index.md)
+- [Beata Edviges Carboni](beata-edviges-carboni/index.md)
 - [Beata Elena Aiello](beata-elena-aiello/index.md)
 - [Beata Elena Guerra](beata-elena-guerra/index.md)
 - [Beata Elisabetta Canori Mora](beata-elisabetta-canori-mora/index.md)
