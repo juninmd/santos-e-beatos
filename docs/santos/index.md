@@ -93,6 +93,7 @@ Esta seção lista os santos.
 - [São João Maria Vianney](sao-joao-maria-vianney/index.md)
 - [São João Paulo II](sao-joao-paulo-ii/index.md)
 - [São João XXIII](sao-joao-xxiii/index.md)
+- [São João de Brito](sao-joao-de-brito/index.md)
 - [São Jorge](sao-jorge/index.md)
 - [São José](sao-jose/index.md)
 - [São José de Anchieta](sao-jose-de-anchieta/index.md)
