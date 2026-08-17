@@ -91,6 +91,7 @@ Esta seção lista os beatos.
 - [Beato Giuseppe Toniolo](beato-giuseppe-toniolo/index.md)
 - [Beato Gonçalo de Amarante](beato-goncalo-de-amarante/index.md)
 - [Beato Guido de Montpellier](beato-guido-de-montpellier/index.md)
+- [Beata Guadalupe Ortiz de Landázuri](beata-guadalupe-ortiz-de-landazuri/index.md)
 - [Beato Guilherme José Chaminade](beato-guilherme-jose-chaminade/index.md)
 - [Beato Henrique Suso](beato-henrique-suso/index.md)
 - [Beato Isidoro Bakanja](beato-isidoro-bakanja/index.md)

@@ -144,6 +144,7 @@ npm run docs:preview
 | [Beato Frederico Ozanam](docs/beatos/beato-frederico-ozanam/index.md) | ![Beato Frederico Ozanam](https://placehold.co/400x600/png?text=Beato+Frederico+Ozanam) |
 | [Beato Gonçalo de Amarante](docs/beatos/beato-goncalo-de-amarante/index.md) | ![Beato Gonçalo de Amarante](https://placehold.co/400x600/png?text=Beato+Goncalo+de+Amarante) |
 | [Beato Guido de Montpellier](docs/beatos/beato-guido-de-montpellier/index.md) | ![Beato Guido de Montpellier](docs/beatos/beato-guido-de-montpellier/imagens/portrait.png) |
+| [Beata Guadalupe Ortiz de Landázuri](docs/beatos/beata-guadalupe-ortiz-de-landazuri/index.md) | ![Beata Guadalupe Ortiz de Landázuri](docs/beatos/beata-guadalupe-ortiz-de-landazuri/imagens/portrait.jpg) |
 | [Beato Guilherme José Chaminade](docs/beatos/beato-guilherme-jose-chaminade/index.md) | ![Beato Guilherme José Chaminade](docs/beatos/beato-guilherme-jose-chaminade/imagens/portrait.jpg) |
 | [Beato Henrique Suso](docs/beatos/beato-henrique-suso/index.md) | ![Beato Henrique Suso](docs/beatos/beato-henrique-suso/imagens/portrait.jpg) |
 | [Beato Isidoro Bakanja](docs/beatos/beato-isidoro-bakanja/index.md) | ![Beato Isidoro Bakanja](docs/beatos/beato-isidoro-bakanja/imagens/portrait.jpg) |
@@ -283,6 +284,7 @@ npm run docs:preview
 | [São João Maria Vianney](docs/santos/sao-joao-maria-vianney/index.md) | ![São João Maria Vianney](docs/santos/sao-joao-maria-vianney/imagens/portrait.jpg) |
 | [São João Paulo II](docs/santos/sao-joao-paulo-ii/index.md) | ![São João Paulo II](docs/santos/sao-joao-paulo-ii/imagens/joao-paulo-ii.jpg) |
 | [São João XXIII](docs/santos/sao-joao-xxiii/index.md) | ![São João XXIII](docs/santos/sao-joao-xxiii/imagens/portrait.jpg) |
+| [São João de Brito](docs/santos/sao-joao-de-brito/index.md) | ![São João de Brito](docs/santos/sao-joao-de-brito/imagens/portrait.jpg) |
 | [São João da Cruz](docs/santos/sao-joao-da-cruz/index.md) | ![São João da Cruz](docs/santos/sao-joao-da-cruz/imagens/portrait.jpg) |
 | [São João de Ávila](docs/santos/sao-joao-de-avila/index.md) | ![São João de Ávila](docs/santos/sao-joao-de-avila/imagens/portrait.jpg) |
 | [São João Damasceno](docs/santos/sao-joao-damasceno/index.md) | ![São João Damasceno](docs/santos/sao-joao-damasceno/imagens/portrait.jpg) |
