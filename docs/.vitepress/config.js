@@ -151,6 +151,7 @@ export default {
             { text: 'Beato Stefan Wyszyński', link: '/beatos/beato-stefan-wyszynski/' },
             { text: 'Beato Tiago Alberione', link: '/beatos/beato-tiago-alberione/' },
             { text: 'Beato Tiago de Voragine', link: '/beatos/beato-tiago-de-voragine/' },
+            { text: 'Beato Tito Zeman', link: '/beatos/beato-tito-zeman/' },
             { text: 'Beato Urbano V', link: '/beatos/beato-urbano-v/' },
             { text: 'Beato Zeferino Namuncurá', link: '/beatos/beato-zeferino-namuncura/' },
             { text: 'Beato Álvaro del Portillo', link: '/beatos/beato-alvaro-del-portillo/' },
@@ -164,6 +165,7 @@ export default {
         {
           text: 'Santos',
           items: [
+            { text: 'Santa Ágata', link: '/santos/santa-agata/' },
             { text: 'Santa Bárbara', link: '/santos/santa-barbara/' },
             { text: 'Santa Bernadete Soubirous', link: '/santos/santa-bernadete-soubirous/' },
             { text: 'Santa Brígida da Suécia', link: '/santos/santa-brigida-da-suecia/' },

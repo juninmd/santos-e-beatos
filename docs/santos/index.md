@@ -15,6 +15,7 @@ Esta seção lista os santos.
 - [Santa Marta](santa-marta/index.md)
 - [Santa Paulina](santa-paulina/index.md)
 - [Santa Catarina Labouré](santa-catarina-laboure/index.md)
+- [Santa Ágata](santa-agata/index.md)
 - [Santa Bárbara](santa-barbara/index.md)
 - [Santa Cecília](santa-cecilia/index.md)
 - [Santa Clara de Assis](santa-clara-de-assis/index.md)
