@@ -190,6 +190,7 @@ npm run docs:preview
 | [Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/index.md) | ![Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/imagens/portrait.jpg) |
 | [Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/index.md) | ![Beato Tiago Alberione](https://placehold.co/400x600/png?text=Beato+Tiago+Alberione) |
 | [Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/index.md) | ![Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/imagens/portrait.jpg) |
+| [Beato Tito Zeman](docs/beatos/beato-tito-zeman/index.md) | ![Beato Tito Zeman](docs/beatos/beato-tito-zeman/imagens/portrait.jpg) |
 | [Beato Urbano V](docs/beatos/beato-urbano-v/index.md) | ![Beato Urbano V](docs/beatos/beato-urbano-v/imagens/portrait.jpg) |
 | [Beato Zeferino Namuncurá](docs/beatos/beato-zeferino-namuncura/index.md) | ![Beato Zeferino Namuncurá](https://placehold.co/400x600/png?text=Beato+Zeferino+Namuncura) |
 | [Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/index.md) | ![Beato Álvaro del Portillo](https://placehold.co/400x600/png?text=Beato+Alvaro+del+Portillo) |
@@ -214,6 +215,7 @@ npm run docs:preview
 | [Santa Hildegarda de Bingen](docs/santos/santa-hildegarda-de-bingen/index.md) | ![Santa Hildegarda de Bingen](docs/santos/santa-hildegarda-de-bingen/imagens/portrait.jpg) |
 | [Santa Inês](docs/santos/santa-ines/index.md) | ![Santa Inês](https://placehold.co/400x600/png?text=Santa+Ines) |
 | [Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/index.md) | ![Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/imagens/portrait.jpg) |
+| [Santa Ágata](docs/santos/santa-agata/index.md) | ![Santa Ágata](docs/santos/santa-agata/imagens/portrait.jpg) |
 | [Santa Bárbara](docs/santos/santa-barbara/index.md) | ![Santa Bárbara](docs/santos/santa-barbara/imagens/portrait.jpg) |
 | [Santa Joana d'Arc](docs/santos/santa-joana-d-arc/index.md) | ![Santa Joana d'Arc](docs/santos/santa-joana-d-arc/imagens/portrait.jpg) |
 | [Santa Joana de Chantal](docs/santos/santa-joana-de-chantal/index.md) | ![Santa Joana de Chantal](docs/santos/santa-joana-de-chantal/imagens/portrait.jpg) |
