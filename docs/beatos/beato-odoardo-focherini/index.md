@@ -1,15 +1,22 @@
+---
+title: Beato Odoardo Focherini
+description: Biografia, milagres, curiosidades e mapa do Beato Odoardo Focherini.
+---
+
 # Beato Odoardo Focherini
 
-![Beato Odoardo Focherini](imagens/portrait.jpg "Beato Odoardo Focherini")
-<br>
-*"A fé se demonstra com a vida e as obras, não só com as palavras."*
-<br>
-**Nascimento:** 6 de junho de 1907, Carpi, Itália<br>
-**Morte:** 27 de dezembro de 1944, Hersbruck, Alemanha<br>
-**Beatificação:** 15 de junho de 2013, pelo Papa Francisco<br>
-**Festa Litúrgica:** 6 de junho<br>
+![Beato Odoardo Focherini](imagens/portrait.jpg)
+
+> "A fé se demonstra com a vida e as obras, não só com as palavras."
+
+- **Nascimento:** 6 de junho de 1907, Carpi, Itália
+- **Morte:** 27 de dezembro de 1944, Hersbruck, Alemanha
+- **Beatificação:** 15 de junho de 2013, pelo Papa Francisco
+- **Festa Litúrgica:** 6 de junho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 Odoardo Focherini nasceu na cidade de Carpi, província de Modena, na Itália. Casou-se com Maria Marchesi em 1930 e o casal teve sete filhos. Trabalhou como jornalista, atuando no jornal católico *L'Avvenire d'Italia*, e foi um leigo ativamente engajado na Ação Católica e em outras organizações cívicas e religiosas de sua diocese. Destacava-se por ser um homem de família muito afetuoso, além de um católico engajado e profundamente devoto.
@@ -29,10 +36,10 @@ Por ser reconhecido como Mártir ("in odium fidei" - por ódio à fé), não foi
 ## Cidades por onde passou
 Sua vida começou e foi principalmente centrada na Itália (Carpi, Bolonha, Trento). Com sua prisão, o percurso forçado passou por vários campos na Itália e Alemanha, até encontrar a morte em Hersbruck.
 
+<MiracleMap :items='[
+  { lat: 44.7833, lng: 10.8833, type: "nascimento", title: "Carpi, Itália", description: "Local de nascimento em 1907 e principal centro de sua vida e atuação." },
+  { lat: 49.5083, lng: 11.4328, type: "morte", title: "Hersbruck, Alemanha", description: "Campo de concentração onde sofreu martírio e morreu em 1944." }
+]' />
+
 ## Impacto Hoje
 Beato Odoardo Focherini é um testemunho brilhante da força do laicado e do matrimônio cristão. Ele ensina que a santidade não exige um chamado ao celibato ou a uma ordem religiosa, mas pode ser alcançada na vida familiar cotidiana, nos deveres profissionais e no engajamento social. Ele continua inspirando muitos que veem no amor ao próximo a mais alta expressão de fé perante regimes totalitários e sistemas injustos.
-
-<MiracleMap :items='[
-  { title: "Carpi, Itália", description: "Local de nascimento em 1907 e principal centro de sua vida e atuação.", lat: 44.7833, lng: 10.8833 },
-  { title: "Hersbruck, Alemanha", description: "Campo de concentração onde sofreu martírio e morreu em 1944.", lat: 49.5083, lng: 11.4328 }
-]' />

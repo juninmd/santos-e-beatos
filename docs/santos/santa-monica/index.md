@@ -1,13 +1,18 @@
+---
+title: Santa Mônica
+description: Biografia, milagres, curiosidades e mapa de Santa Mônica.
+---
+
 # Santa Mônica
 
 ![Santa Mônica](imagens/santa-monica.jpg)
 
-**"Modelo de Esposa e Mãe Cristã"**
+> "Modelo de Esposa e Mãe Cristã"
 
-**Nascimento:** 331, Tagaste (atual Souk Ahras, Argélia)
-**Morte:** 387, Óstia, Itália
-**Festa Litúrgica:** 27 de agosto
-**Canonização:** Pré-Congregação (Culto Imemorial)
+- **Nascimento:** 331, Tagaste (atual Souk Ahras, Argélia)
+- **Morte:** 387, Óstia, Itália
+- **Canonização:** Pré-Congregação (Culto Imemorial)
+- **Festa Litúrgica:** 27 de agosto
 
 <TextToSpeech />
 
@@ -39,9 +44,13 @@ Seu corpo foi trasladado para Roma no século XV e repousa na igreja de Santo Ag
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 36.2864, lng: 7.9511, title: "Tagaste (Souk Ahras), Argélia", description: "Cidade natal de Santa Mônica." },
-  { lat: 36.8529, lng: 10.3217, title: "Cartago, Tunísia", description: "Cidade onde Agostinho estudou e ensinou, e onde Mônica viveu." },
-  { lat: 45.4642, lng: 9.1900, title: "Milão, Itália", description: "Onde presenciou a conversão e batismo de Agostinho." },
-  { lat: 41.7567, lng: 12.2903, title: "Óstia Antiga, Itália", description: "Onde teve o famoso êxtase com Agostinho e faleceu." },
-  { lat: 41.9008, lng: 12.4742, title: "Roma, Itália", description: "Onde suas relíquias estão veneradas." }
+  { lat: 36.2864, lng: 7.9511, type: "nascimento", title: "Tagaste (Souk Ahras), Argélia", description: "Cidade natal de Santa Mônica." },
+  { lat: 36.8529, lng: 10.3217, type: "vida", title: "Cartago, Tunísia", description: "Cidade onde Agostinho estudou e ensinou, e onde Mônica viveu." },
+  { lat: 45.4642, lng: 9.19, type: "vida", title: "Milão, Itália", description: "Onde presenciou a conversão e batismo de Agostinho." },
+  { lat: 41.7567, lng: 12.2903, type: "morte", title: "Óstia Antiga, Itália", description: "Onde teve o famoso êxtase com Agostinho e faleceu." },
+  { lat: 41.9008, lng: 12.4742, type: "tumulo", title: "Roma, Itália", description: "Onde suas relíquias estão veneradas." }
 ]' />
+
+## Impacto Hoje
+
+Santa Mônica é a padroeira das mães e das esposas, e sua figura tornou-se a referência cristã da perseverança na oração por um filho — dezessete anos rezando pela conversão de Agostinho. Grupos e movimentos de mães espalhados pelo mundo, como as Mães que Oram pelos Filhos, invocam explicitamente seu nome, e sua festa, em 27 de agosto, é celebrada na véspera da de Santo Agostinho, deixando claro o vínculo entre os dois. Suas relíquias repousam na Basílica de Santo Agostinho, em Roma, e o município de Santa Mônica, na Califórnia, leva seu nome. Nas pastorais familiares, é lembrada como exemplo de quem acompanha sem forçar — o que a torna atual em contextos de afastamento religioso dentro das famílias.

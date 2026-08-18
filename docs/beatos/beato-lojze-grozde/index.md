@@ -1,15 +1,22 @@
+---
+title: Beato Lojze Grozde
+description: Biografia, milagres, curiosidades e mapa do Beato Lojze Grozde.
+---
+
 # Beato Lojze Grozde
 
 ![Beato Lojze Grozde](imagens/cover.jpg)
 
-**"Sinfonia do martírio da juventude"**
+> "Sinfonia do martírio da juventude"
 
-**Nascimento:** 27 de maio de 1923, Zgornje Vodale, Eslovênia<br>
-**Morte:** 1 de janeiro de 1943, Mirna, Eslovênia<br>
-**Festa Litúrgica:** 27 de maio<br>
-**Beatificação:** 13 de junho de 2010 pelo Papa Bento XVI (delegação do Cardeal Tarcisio Bertone)<br>
+- **Nascimento:** 27 de maio de 1923, Zgornje Vodale, Eslovênia
+- **Morte:** 1 de janeiro de 1943, Mirna, Eslovênia
+- **Beatificação:** 13 de junho de 2010 pelo Papa Bento XVI (delegação do Cardeal Tarcisio Bertone)
+- **Festa Litúrgica:** 27 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,12 +46,12 @@ A beatificação de Lojze Grozde foi aprovada como mártir (martírio 'in odium 
 * Liubliana, Eslovênia (Local dos seus estudos e principal atividade na Ação Católica)
 * Mirna, Eslovênia (Local do seu martírio)
 
+<MiracleMap :items='[
+  { lat: 45.9261, lng: 15.1114, type: "nascimento", title: "Zgornje Vodale, Eslovênia", description: "Aldeia onde nasceu Lojze Grozde." },
+  { lat: 46.0569, lng: 14.5058, type: "vida", title: "Liubliana, Eslovênia", description: "Cidade onde Lojze estudou, tornou-se membro ativo da Ação Católica e destacou-se pela sua poesia e devoção." },
+  { lat: 45.9555, lng: 15.0601, type: "morte", title: "Mirna, Eslovênia", description: "Local próximo onde Lojze foi brutalmente torturado e martirizado aos 19 anos." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Lojze Grozde é um modelo singular de pureza, excelência acadêmica e compromisso irrenunciável com a fé para os jovens da Europa Oriental e de todo o mundo. O seu perdão diante da tortura cruel e a sua paixão pela Eucaristia inspiram as novas gerações a abraçarem a espiritualidade católica sem receios num mundo crescentemente secularizado, provando que a verdadeira força juvenil reside na graça divina.
-
-<MiracleMap :items='[
-  { lat: 45.9261, lng: 15.1114, title: "Zgornje Vodale, Eslovênia", description: "Aldeia onde nasceu Lojze Grozde." },
-  { lat: 46.0569, lng: 14.5058, title: "Liubliana, Eslovênia", description: "Cidade onde Lojze estudou, tornou-se membro ativo da Ação Católica e destacou-se pela sua poesia e devoção." },
-  { lat: 45.9555, lng: 15.0601, title: "Mirna, Eslovênia", description: "Local próximo onde Lojze foi brutalmente torturado e martirizado aos 19 anos." }
-]' />

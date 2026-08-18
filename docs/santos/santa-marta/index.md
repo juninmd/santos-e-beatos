@@ -1,13 +1,18 @@
+---
+title: Santa Marta
+description: Biografia, milagres, curiosidades e mapa de Santa Marta.
+---
+
 # Santa Marta
 
 ![Santa Marta](imagens/portrait.jpg)
 
-**"A Padroeira das Donas de Casa e dos Profissionais da Hospitalidade"**
+> "A Padroeira das Donas de Casa e dos Profissionais da Hospitalidade"
 
-**Nascimento:** Século I (Betânia, Judeia)<br>
-**Morte:** Século I (Tradicionalmente em Tarascon, França)<br>
-**Canonização:** Por aclamação popular (Culto antiquíssimo)<br>
-**Festa Litúrgica:** 29 de julho
+- **Nascimento:** Século I (Betânia, Judeia)
+- **Morte:** Século I (Tradicionalmente em Tarascon, França)
+- **Canonização:** Por aclamação popular (Culto antiquíssimo)
+- **Festa Litúrgica:** 29 de julho
 
 <TextToSpeech />
 
@@ -49,14 +54,15 @@ Ela teria fundado um convento em Tarascon, onde viveu uma vida de oração e asc
 * **Saintes-Maries-de-la-Mer, França:** Segundo a tradição, o porto de desembarque na Gália.
 * **Tarascon, França:** Cidade onde viveu a última parte de sua vida, fundou um convento, morreu e está sepultada.
 
+<MiracleMap :items='[
+  { lat: 31.7644, lng: 35.2444, type: "nascimento", title: "Betânia", description: "Casa de Marta, Maria e Lázaro. Local da hospitalidade e da ressurreição de Lázaro. Local de nascimento (Século I)." },
+  { lat: 43.4519, lng: 4.4286, type: "vida", title: "Saintes-Maries-de-la-Mer", description: "Segundo a tradição, local de desembarque miraculoso na França." },
+  { lat: 43.8048, lng: 4.6568, type: "morte", title: "Tarascon, França", description: "Local da morte (Século I)." },
+  { lat: 43.8048, lng: 4.6568, type: "tumulo", title: "Tarascon, França", description: "Onde Santa Marta subjugou o monstro Tarasca e onde está seu túmulo na Colegiada Real de Santa Marta." }
+]' />
+
 ## Impacto Hoje
 
 Santa Marta é celebrada como um modelo cristão inquestionável de serviço e hospitalidade. Ela nos lembra a dignidade e a santidade do trabalho doméstico e do serviço aos outros. O Papa Francisco destacou fortemente a figura de Santa Marta ao decidir residir na *Casa Santa Marta*, o alojamento do Vaticano, valorizando o ambiente acolhedor, simples e servil da casa.
 
 Em 2021, o Papa Francisco aprovou um decreto que alterou o calendário litúrgico romano geral, estendendo a memória de Santa Marta para incluir, no mesmo dia (29 de julho), seus irmãos Santa Maria e São Lázaro, enfatizando a santidade de toda a família de Betânia.
-
-<MiracleMap :items='[
-  { lat: 31.7644, lng: 35.2444, title: "Betânia", description: "Casa de Marta, Maria e Lázaro. Local da hospitalidade e da ressurreição de Lázaro." },
-  { lat: 43.4519, lng: 4.4286, title: "Saintes-Maries-de-la-Mer", description: "Segundo a tradição, local de desembarque miraculoso na França." },
-  { lat: 43.8048, lng: 4.6568, title: "Tarascon, França", description: "Onde Santa Marta subjugou o monstro Tarasca e onde está seu túmulo na Colegiada Real de Santa Marta." }
-]' />

@@ -1,13 +1,18 @@
+---
+title: São Tomás de Vilanova
+description: Biografia, milagres, curiosidades e mapa de São Tomás de Vilanova.
+---
+
 # São Tomás de Vilanova
 
 ![São Tomás de Vilanova](imagens/portrait.jpg)
 
-**"Pai dos Pobres"**
+> "Pai dos Pobres"
 
-**Nascimento:** 1488, Fuenllana, Espanha<br>
-**Morte:** 8 de setembro de 1555, Valência, Espanha<br>
-**Festa Litúrgica:** 10 de outubro<br>
-**Canonização:** 1 de novembro de 1658, pelo Papa Alexandre VII<br>
+- **Nascimento:** 1488, Fuenllana, Espanha
+- **Morte:** 8 de setembro de 1555, Valência, Espanha
+- **Canonização:** 1 de novembro de 1658, pelo Papa Alexandre VII
+- **Festa Litúrgica:** 10 de outubro
 
 <TextToSpeech />
 
@@ -32,11 +37,11 @@ Durante e após sua vida, vários milagres foram atribuídos à sua intercessão
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 38.7564, lng: -2.9567, title: "Fuenllana, Espanha", description: "Local de nascimento de São Tomás de Vilanova." },
-  { lat: 38.7369, lng: -3.0131, title: "Villanueva de los Infantes, Espanha", description: "Cidade onde cresceu e cuja parte do nome adotou." },
-  { lat: 40.9634, lng: -5.6692, title: "Salamanca, Espanha", description: "Onde ingressou na Ordem dos Agostinianos." },
-  { lat: 40.4819, lng: -3.3639, title: "Alcalá de Henares, Espanha", description: "Onde estudou e lecionou na famosa Universidade de Alcalá." },
-  { lat: 39.4699, lng: -0.3763, title: "Valência, Espanha", description: "Onde atuou como arcebispo e faleceu, e onde seu corpo descansa na Catedral de Valência." }
+  { lat: 38.7564, lng: -2.9567, type: "nascimento", title: "Fuenllana, Espanha", description: "Local de nascimento de São Tomás de Vilanova." },
+  { lat: 38.7369, lng: -3.0131, type: "vida", title: "Villanueva de los Infantes, Espanha", description: "Cidade onde cresceu e cuja parte do nome adotou." },
+  { lat: 40.9634, lng: -5.6692, type: "vida", title: "Salamanca, Espanha", description: "Onde ingressou na Ordem dos Agostinianos." },
+  { lat: 40.4819, lng: -3.3639, type: "vida", title: "Alcalá de Henares, Espanha", description: "Onde estudou e lecionou na famosa Universidade de Alcalá." },
+  { lat: 39.4699, lng: -0.3763, type: "morte", title: "Valência, Espanha", description: "Onde atuou como arcebispo e faleceu, e onde seu corpo descansa na Catedral de Valência." }
 ]' />
 
 ## Impacto Hoje

@@ -1,18 +1,22 @@
+---
+title: São Basílio Magno
+description: Biografia, milagres, curiosidades e mapa de São Basílio Magno.
+---
+
 # São Basílio Magno
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-<img src="./imagens/portrait.jpg" alt="São Basílio Magno" style="width: 200px; border-radius: 8px;">
-<div>
-<i>"A árvore não é avaliada por suas folhas, mas por seus frutos. Assim também, a nossa piedade não será julgada pelas palavras, mas pelas obras."</i><br><br>
+![São Basílio Magno](imagens/portrait.jpg)
 
-**Nascimento:** 329 d.C., Cesareia, Capadócia (atual Turquia)<br>
-**Morte:** 1 de janeiro de 379 d.C., Cesareia, Capadócia<br>
-**Canonização:** Por aclamação popular logo após a morte (reconhecido formalmente depois pela Igreja)<br>
-**Festa Litúrgica:** 2 de janeiro
-</div>
-</div>
+> "A árvore não é avaliada por suas folhas, mas por seus frutos. Assim também, a nossa piedade não será julgada pelas palavras, mas pelas obras."
+
+- **Nascimento:** 329 d.C., Cesareia, Capadócia (atual Turquia)
+- **Morte:** 1 de janeiro de 379 d.C., Cesareia, Capadócia
+- **Canonização:** Por aclamação popular logo após a morte (reconhecido formalmente depois pela Igreja)
+- **Festa Litúrgica:** 2 de janeiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,10 +43,11 @@ Em 370 d.C., foi consagrado Bispo de Cesareia. Como bispo, foi um gigante na def
 São Basílio Magno estudou, ensinou e pregou em vários centros importantes do Império Romano do Oriente.
 
 <MiracleMap :items='[
-  { lat: 38.7205, lng: 35.4826, title: "Cesareia (Kayseri)", description: "Local de nascimento e onde serviu como bispo, construindo a notável Basilíada." },
-  { lat: 41.0082, lng: 28.9784, title: "Constantinopla", description: "Estudou retórica e filosofia nesta capital imperial." },
-  { lat: 37.9838, lng: 23.7275, title: "Atenas", description: "Completou seus estudos avançados e conheceu São Gregório Nazianzeno." },
-  { lat: 40.5898, lng: 36.9388, title: "Ponto", description: "Fundou seu mosteiro na propriedade de sua família e redigiu suas Regras monásticas." }
+  { lat: 38.7205, lng: 35.4826, type: "nascimento", title: "Cesareia (Kayseri)", description: "Local de nascimento e onde serviu como bispo, construindo a notável Basilíada." },
+  { lat: 41.0082, lng: 28.9784, type: "vida", title: "Constantinopla", description: "Estudou retórica e filosofia nesta capital imperial." },
+  { lat: 37.9838, lng: 23.7275, type: "vida", title: "Atenas", description: "Completou seus estudos avançados e conheceu São Gregório Nazianzeno." },
+  { lat: 40.5898, lng: 36.9388, type: "vida", title: "Ponto", description: "Fundou seu mosteiro na propriedade de sua família e redigiu suas Regras monásticas." },
+  { lat: 38.7205, lng: 35.4826, type: "morte", title: "Cesareia (Kayseri)", description: "Local da morte (1 de janeiro de 379 d.C.)." }
 ]' />
 
 ## Impacto Hoje

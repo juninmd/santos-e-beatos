@@ -1,17 +1,22 @@
+---
+title: São Valentim
+description: Biografia, milagres, curiosidades e mapa de São Valentim.
+---
+
 # São Valentim
 
 ![São Valentim](imagens/portrait.jpg)
 
-**"O amor é a única força capaz de transformar um inimigo num amigo."**
+> "O amor é a única força capaz de transformar um inimigo num amigo."
 
-**Nascimento:** c. 176, Terni, Itália<br>
-**Morte:** 14 de fevereiro de 269, Roma, Itália<br>
-**Festa Litúrgica:** 14 de fevereiro<br>
-**Canonização:** Pré-Congregação
-
----
+- **Nascimento:** c. 176, Terni, Itália
+- **Morte:** 14 de fevereiro de 269, Roma, Itália
+- **Canonização:** Pré-Congregação
+- **Festa Litúrgica:** 14 de fevereiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -29,6 +34,15 @@ Um dos milagres mais famosos atribuídos a São Valentim ocorreu durante sua pri
 2.  **Cartas de Valentim:** A lenda conta que, antes de sua execução, ele escreveu uma carta para a filha do carcereiro assinada "do seu Valentim", originando a tradição de enviar cartões no Dia dos Namorados.
 3.  **Relíquias:** Existem várias relíquias atribuídas a ele espalhadas por igrejas na Europa, incluindo em Roma, Terni, Dublin e Glasgow.
 
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a São Valentim: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: 42.5636, lng: 12.6465, type: "nascimento", title: "Terni", description: "Cidade natal e local de seu bispado." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma", description: "Local de seu martírio e morte." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, São Valentim é mundialmente conhecido como o santo padroeiro dos namorados, do amor e dos casamentos felizes. O dia 14 de fevereiro é celebrado em muitos países como o "Dia de São Valentim" (Valentine's Day), uma data dedicada a celebrar o amor e a afeição entre companheiros íntimos.
@@ -38,8 +52,3 @@ Hoje, São Valentim é mundialmente conhecido como o santo padroeiro dos namorad
 | Capa |
 | --- |
 | ![Capa de São Valentim](imagens/cover.jpg) |
-
-<MiracleMap :items="[
-  { lat: 42.5636, lng: 12.6465, title: 'Terni', description: 'Cidade natal e local de seu bispado.' },
-  { lat: 41.9028, lng: 12.4964, title: 'Roma', description: 'Local de seu martírio e morte.' }
-]" />

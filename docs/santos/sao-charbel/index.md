@@ -1,13 +1,18 @@
+---
+title: São Charbel Makhlouf
+description: Biografia, milagres, curiosidades e mapa de São Charbel Makhlouf.
+---
+
 # São Charbel Makhlouf
 
-![São Charbel](imagens/charbel.jpg)
+![São Charbel Makhlouf](imagens/charbel.jpg)
 
-**"O Eremita do Líbano"**
+> "O Eremita do Líbano"
 
-**Nascimento:** 8 de maio de 1828, Bekaa Kafra (Líbano)
-**Morte:** 24 de dezembro de 1898, Annaya (Líbano)
-**Festa Litúrgica:** 24 de julho
-**Canonização:** 9 de outubro de 1977, pelo Papa Paulo VI
+- **Nascimento:** 8 de maio de 1828, Bekaa Kafra (Líbano)
+- **Morte:** 24 de dezembro de 1898, Annaya (Líbano)
+- **Canonização:** 9 de outubro de 1977, pelo Papa Paulo VI
+- **Festa Litúrgica:** 24 de julho
 
 <TextToSpeech />
 
@@ -42,9 +47,9 @@ Milhares de curas foram registradas em seu santuário. Cegos recuperaram a visã
 São Charbel viveu toda a sua vida no Líbano, movendo-se apenas entre mosteiros e sua aldeia natal.
 
 <MiracleMap :items='[
-  { lat: 34.2417, lng: 36.0086, title: "Bekaa Kafra, Líbano", description: "Local de nascimento e infância de São Charbel." },
-  { lat: 34.1167, lng: 35.8000, title: "Mosteiro de São Maron, Annaya", description: "Onde viveu como monge e onde está seu túmulo e santuário." },
-  { lat: 34.1167, lng: 35.8000, title: "Ermida de São Pedro e São Paulo", description: "Local onde viveu como eremita por 23 anos." }
+  { lat: 34.2417, lng: 36.0086, type: "nascimento", title: "Bekaa Kafra, Líbano", description: "Local de nascimento e infância de São Charbel." },
+  { lat: 34.1167, lng: 35.8, type: "morte", title: "Ermida de São Pedro e São Paulo", description: "Local onde viveu como eremita por 23 anos. Local da morte (24 de dezembro de 1898)." },
+  { lat: 34.1167, lng: 35.8, type: "tumulo", title: "Mosteiro de São Maron, Annaya", description: "Onde viveu como monge e onde está seu túmulo e santuário." }
 ]' />
 
 ## Impacto Hoje

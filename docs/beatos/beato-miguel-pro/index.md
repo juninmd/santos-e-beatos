@@ -1,13 +1,18 @@
+---
+title: Beato Miguel Pro
+description: Biografia, milagres, curiosidades e mapa do Beato Miguel Pro.
+---
+
 # Beato Miguel Pro
 
-![Beato Miguel Pro](https://placehold.co/400x600/png?text=Beato+Miguel+Pro)
+![Beato Miguel Pro](imagens/retrato.svg)
 
-**"Viva Cristo Rei!"**
+> "Viva Cristo Rei!"
 
-**Nascimento:** 13 de janeiro de 1891, Guadalupe (México)
-**Morte:** 23 de novembro de 1927, Cidade do México (México)
-**Festa Litúrgica:** 23 de novembro
-**Beatificação:** 25 de setembro de 1988, pelo Papa João Paulo II
+- **Nascimento:** 13 de janeiro de 1891, Guadalupe (México)
+- **Morte:** 23 de novembro de 1927, Cidade do México (México)
+- **Beatificação:** 25 de setembro de 1988, pelo Papa João Paulo II
+- **Festa Litúrgica:** 23 de novembro
 
 <TextToSpeech />
 
@@ -42,8 +47,8 @@ Sua beatificação foi impulsionada pela fama de santidade e martírio, e muitos
 Nasceu em Guadalupe (Zacatecas), estudou na Europa e foi martirizado na Cidade do México.
 
 <MiracleMap :items='[
-  { lat: 19.4326, lng: -99.1332, title: "Cidade do México, México", description: "Local de seu ministério clandestino e martírio." },
-  { lat: 22.7500, lng: -102.5000, title: "Guadalupe, Zacatecas", description: "Cidade natal." }
+  { lat: 22.75, lng: -102.5, type: "nascimento", title: "Guadalupe, Zacatecas", description: "Cidade natal." },
+  { lat: 19.4326, lng: -99.1332, type: "morte", title: "Cidade do México, México", description: "Local de seu ministério clandestino e martírio." }
 ]' />
 
 ## Impacto Hoje

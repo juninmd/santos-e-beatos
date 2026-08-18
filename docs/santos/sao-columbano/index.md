@@ -1,18 +1,22 @@
+---
+title: São Columbano
+description: Biografia, milagres, curiosidades e mapa de São Columbano.
+---
+
 # São Columbano
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <img src="./imagens/portrait.jpg" alt="São Columbano" style="width: 300px; border-radius: 50%; border: 4px solid #d4af37; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">
-  <h3 style="margin-top: 0; color: #555;">"Deixemos o que somos para sermos o que não somos."</h3>
-</div>
+![São Columbano](imagens/portrait.jpg)
 
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); margin-bottom: 30px;">
-  <p style="margin: 0;"><strong>Nascimento:</strong> 540 d.C.<br>
-  <strong>Morte:</strong> 23 de novembro de 615 d.C.<br>
-  <strong>Canonização:</strong> Culto imemorial (Santo pré-congregação)<br>
-  <strong>Festa Litúrgica:</strong> 23 de novembro<br></p>
-</div>
+> "Deixemos o que somos para sermos o que não somos."
+
+- **Nascimento:** 540 d.C., Leinster (Irlanda)
+- **Morte:** 23 de novembro de 615 d.C.
+- **Canonização:** Culto imemorial (Santo pré-congregação)
+- **Festa Litúrgica:** 23 de novembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 São Columbano nasceu por volta do ano 540, na província de Leinster, Irlanda, em uma família nobre. Na juventude, após experimentar as tentações do mundo e buscar o conselho de uma eremita, ele decidiu dedicar sua vida a Deus, resistindo às fortes oposições de sua mãe.
@@ -33,11 +37,13 @@ Ele então viajou pela Alemanha, Suíça e finalmente chegou à Itália, onde fo
 - A "Regra de São Columbano" era conhecida por ser muito severa, incluindo longos jejuns e punições corporais para faltas menores, diferindo da Regra de São Bento, que mais tarde se tornou o padrão.
 
 ## Cidades por onde passou
+
 <MiracleMap :items='[
-  { lat: 53.0, lng: -7.0, title: "Leinster, Irlanda", description: "Local de nascimento e primeiros anos de vida." },
-  { lat: 54.654, lng: -5.670, title: "Bangor, Irlanda", description: "Mosteiro onde viveu muitos anos antes de sua jornada missionária." },
-  { lat: 47.816, lng: 6.383, title: "Luxeuil, França", description: "Um dos principais mosteiros que fundou na Gália." },
-  { lat: 44.766, lng: 9.383, title: "Bobbio, Itália", description: "Fundou a famosa Abadia de Bobbio e local onde faleceu e está sepultado." }
+  { lat: 53, lng: -7, type: "nascimento", title: "Leinster, Irlanda", description: "Local de nascimento e primeiros anos de vida." },
+  { lat: 54.654, lng: -5.67, type: "vida", title: "Bangor, Irlanda", description: "Mosteiro onde viveu muitos anos antes de sua jornada missionária." },
+  { lat: 47.816, lng: 6.383, type: "vida", title: "Luxeuil, França", description: "Um dos principais mosteiros que fundou na Gália." },
+  { lat: 44.766, lng: 9.383, type: "morte", title: "Bobbio, Itália", description: "Local da morte (23 de novembro de 615 d.C.)." },
+  { lat: 44.766, lng: 9.383, type: "tumulo", title: "Bobbio, Itália", description: "Fundou a famosa Abadia de Bobbio e local onde faleceu e está sepultado." }
 ]' />
 
 ## Impacto Hoje

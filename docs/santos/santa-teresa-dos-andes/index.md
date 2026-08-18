@@ -1,17 +1,22 @@
+---
+title: Santa Teresa dos Andes
+description: Biografia, milagres, curiosidades e mapa de Santa Teresa dos Andes.
+---
+
 # Santa Teresa dos Andes
 
 ![Santa Teresa dos Andes](imagens/portrait.jpg)
 
-**"A primeira santa chilena"**
+> "A primeira santa chilena"
 
-**Nascimento:** 13 de julho de 1900, Santiago (Chile)<br>
-**Morte:** 12 de abril de 1920, Los Andes (Chile)<br>
-**Canonização:** 21 de março de 1993, pelo Papa João Paulo II<br>
-**Festa Litúrgica:** 13 de julho
-
----
+- **Nascimento:** 13 de julho de 1900, Santiago (Chile)
+- **Morte:** 12 de abril de 1920, Los Andes (Chile)
+- **Canonização:** 21 de março de 1993, pelo Papa João Paulo II
+- **Festa Litúrgica:** 13 de julho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -36,10 +41,11 @@ Os milagres atribuídos a Santa Teresa dos Andes são muitos, sendo a maioria cu
 - **Santiago, Chile:** Cidade de nascimento e onde viveu a maior parte de sua vida.
 - **Los Andes, Chile:** Cidade onde entrou no mosteiro carmelita e onde faleceu.
 
+<MiracleMap :items='[
+  { lat: -33.4489, lng: -70.6693, type: "nascimento", title: "Cura de Marcela Antúnez", description: "Cura milagrosa de uma doença cerebral grave em uma jovem chilena. Local de nascimento (13 de julho de 1900)." },
+  { lat: -32.8333, lng: -70.5983, type: "morte", title: "Los Andes (Chile)", description: "Local da morte (12 de abril de 1920)." }
+]' />
+
 ## Impacto Hoje
 
 O Santuário de Santa Teresa dos Andes, localizado em Auco, Rinconada (próximo a Los Andes), é um dos locais de peregrinação mais importantes do Chile, atraindo centenas de milhares de devotos anualmente. A sua vida é um exemplo de entrega total a Deus em tenra idade e a sua correspondência continua a guiar e inspirar jovens e religiosos ao redor do mundo a buscar a santidade nas pequenas coisas.
-
-<MiracleMap :miracles="[
-  { title: 'Cura de Marcela Antúnez', description: 'Cura milagrosa de uma doença cerebral grave em uma jovem chilena.', coordinates: [-33.4489, -70.6693] }
-]" />

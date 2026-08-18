@@ -1,15 +1,22 @@
+---
+title: Beata Madre Esperança de Jesus
+description: Biografia, milagres, curiosidades e mapa da Beata Madre Esperança de Jesus.
+---
+
 # Beata Madre Esperança de Jesus
 
-![Beata Madre Esperança de Jesus](./imagens/portrait.jpg)
+![Beata Madre Esperança de Jesus](imagens/portrait.jpg)
 
-*"Uma vida dedicada ao Amor Misericordioso"*
+> "Uma vida dedicada ao Amor Misericordioso"
 
-**Nascimento:** 30 de setembro de 1893<br>
-**Morte:** 8 de fevereiro de 1983<br>
-**Beatificação:** 31 de maio de 2014<br>
-**Festa Litúrgica:** 8 de fevereiro<br>
+- **Nascimento:** 30 de setembro de 1893, Santomera, Múrcia (Espanha)
+- **Morte:** 8 de fevereiro de 1983, Collevalenza, Úmbria (Itália)
+- **Beatificação:** 31 de maio de 2014
+- **Festa Litúrgica:** 8 de fevereiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,8 +46,11 @@ A trajetória de Madre Esperança reflete seu ardor missionário em diferentes p
 * **Roma (Itália):** Onde serviu durante o período conturbado da Segunda Guerra Mundial, ajudando os pobres e necessitados.
 * **Collevalenza, Todi (Itália):** O centro do seu trabalho e vida, onde fundou o Santuário do Amor Misericordioso e a Congregação dos Filhos do Amor Misericordioso.
 
+<MiracleMap :items='[
+  { lat: 38.0601, lng: -1.0494, type: "nascimento", title: "Santomera", description: "Sua cidade natal na Espanha." },
+  { lat: 42.748, lng: 12.4764, type: "morte", title: "Collevalenza", description: "Onde fundou o Santuário do Amor Misericordioso e viveu grande parte de sua vida. Local da morte (8 de fevereiro de 1983)." }
+]' />
+
 ## Impacto Hoje
 
 O legado da Beata Madre Esperança continua vigoroso, especialmente no Santuário do Amor Misericordioso em Collevalenza, frequentemente chamado de "Pequena Lourdes Italiana", devido à grande afluência de peregrinos que buscam o perdão, a cura e os sacramentos, em especial o da Reconciliação. As duas Congregações por ela fundadas operam hoje em vários países, proporcionando educação, assistência aos pobres e suporte essencial ao clero diocesano. Sua mensagem central — a de que Deus não é um juiz severo, mas um Pai infinitamente terno que busca todas as almas — permanece de imensa relevância e encontra eco profundo na contemporaneidade, unindo-se à devoção universal à Divina Misericórdia.
-
-<MiracleMap :items='[{ lat: 38.0601, lng: -1.0494, title: "Santomera", description: "Sua cidade natal na Espanha." }, { lat: 42.7480, lng: 12.4764, title: "Collevalenza", description: "Onde fundou o Santuário do Amor Misericordioso e viveu grande parte de sua vida." }]' />

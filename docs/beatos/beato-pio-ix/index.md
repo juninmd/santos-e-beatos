@@ -1,17 +1,22 @@
+---
+title: Beato Pio IX
+description: Biografia, milagres, curiosidades e mapa do Beato Pio IX.
+---
+
 # Beato Pio IX
 
 ![Beato Pio IX](imagens/portrait.jpg)
 
-**"O Papa do Dogma da Imaculada Conceição"**
+> "O Papa do Dogma da Imaculada Conceição"
 
-**Nascimento:** 13 de maio de 1792, Senigallia (Itália)<br>
-**Morte:** 7 de fevereiro de 1878, Roma (Itália)<br>
-**Festa Litúrgica:** 7 de fevereiro<br>
-**Beatificação:** 3 de setembro de 2000, pelo Papa João Paulo II<br>
-
----
+- **Nascimento:** 13 de maio de 1792, Senigallia (Itália)
+- **Morte:** 7 de fevereiro de 1878, Roma (Itália)
+- **Beatificação:** 3 de setembro de 2000, pelo Papa João Paulo II
+- **Festa Litúrgica:** 7 de fevereiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -43,8 +48,14 @@ Este milagre, junto com outro examinado e aprovado pela Congregação para as Ca
 - **Ímola:** Serviu como bispo antes de ser elevado a cardeal.
 - **Gaeta:** A cidade no Reino das Duas Sicílias para onde fugiu temporariamente (1848-1850) devido às rebeliões romanas.
 
+<MiracleMap :items='[
+  { lat: 43.7132, lng: 13.2185, type: "nascimento", title: "Senigallia", description: "Sua cidade natal na província de Ancona, Itália." },
+  { lat: 42.7363, lng: 12.7388, type: "vida", title: "Spoleto", description: "Onde serviu como arcebispo, pacificando rebeliões com doçura e caridade." },
+  { lat: 44.3533, lng: 11.7133, type: "vida", title: "Ímola", description: "Serviu como bispo antes de ser elevado a cardeal." },
+  { lat: 41.2153, lng: 13.5714, type: "vida", title: "Gaeta", description: "A cidade no Reino das Duas Sicílias para onde fugiu temporariamente (1848-1850) devido às rebeliões romanas." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma", description: "Onde estudou e, mais tarde, reinou como Sumo Pontífice. Local da morte (7 de fevereiro de 1878)." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de Pio IX na Igreja contemporânea é monumental. A definição da Imaculada Conceição continua a ser o fundamento da devoção mariana moderna. O Concílio Vaticano I, convocado por ele, moldou a eclesiologia e o primado papal, solidificando a autoridade espiritual do papado frente à secularização global. Sua beatificação reafirma o exemplo de um líder que, ao mesmo tempo que sofria um imenso declínio do poder terreno da Igreja, reforçou infinitamente o seu poder espiritual.
-
-<MiracleMap :items='[{"lat": 43.7132, "lng": 13.2185, "title": "Senigallia", "description": "Sua cidade natal na província de Ancona, Itália."}, {"lat": 41.9028, "lng": 12.4964, "title": "Roma", "description": "Onde estudou e, mais tarde, reinou como Sumo Pontífice."}, {"lat": 42.7363, "lng": 12.7388, "title": "Spoleto", "description": "Onde serviu como arcebispo, pacificando rebeliões com doçura e caridade."}, {"lat": 44.3533, "lng": 11.7133, "title": "Ímola", "description": "Serviu como bispo antes de ser elevado a cardeal."}, {"lat": 41.2153, "lng": 13.5714, "title": "Gaeta", "description": "A cidade no Reino das Duas Sicílias para onde fugiu temporariamente (1848-1850) devido às rebeliões romanas."}]' />

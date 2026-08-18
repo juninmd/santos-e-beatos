@@ -1,22 +1,22 @@
 ---
 title: Santa Helena
-description: Biografia, milagres e impacto de Santa Helena
+description: Biografia, milagres, curiosidades e mapa de Santa Helena, a imperatriz que encontrou a Verdadeira Cruz.
 ---
 
-<div class="profile-container">
-  <div class="profile-image">
-    <img src="./imagens/portrait.jpg" alt="Santa Helena" />
-  </div>
-  <div class="profile-info">
-    <h1>Santa Helena</h1>
-    <p class="subtitle">A Imperatriz e Primeira Peregrina, descobridora da Verdadeira Cruz.</p>
-    <div class="metadata">
-<p><strong>Nascimento:</strong> 246 / 248 d.C.<br><strong>Morte:</strong> 330 d.C.<br><strong>Canonização:</strong> Pré-Congregação<br><strong>Festa Litúrgica:</strong> 18 de Agosto</p>
-    </div>
-  </div>
-</div>
+# Santa Helena
+
+![Santa Helena](imagens/portrait.jpg)
+
+> "A imperatriz e primeira peregrina, descobridora da Verdadeira Cruz."
+
+- **Nascimento:** 246 / 248 d.C., Drepano da Bitínia (atual Turquia)
+- **Morte:** 330 d.C., Nicomédia (atual İzmit, Turquia)
+- **Canonização:** Pré-Congregação
+- **Festa Litúrgica:** 18 de Agosto
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -50,6 +50,11 @@ A história de Santa Helena é profundamente marcada pelos fatos miraculosos env
 - **Jerusalém, Palestina:** Destino de sua maior missão de vida, onde promoveu escavações intensas na colina do Gólgota para descobrir a verdadeira cruz.
 - **Constantinopla:** Antiga capital do Império Bizantino e local onde foi sepultada após a sua morte.
 
+<MiracleMap :items='[
+  { lat: 40.7167, lng: 29.5167, type: "nascimento", title: "Drepano", description: "Local de nascimento (246 / 248 d.C.)." },
+  { lat: 40.7654, lng: 29.9408, type: "morte", title: "Nicomédia", description: "Local da morte (330 d.C.)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje em dia, a importância de Santa Helena permanece monumental. Ela é o símbolo definitivo do poder da influência familiar e materna na história da Igreja Católica; através dela e de seu filho Constantino, o Império Romano passou de perseguidor implacável dos cristãos a pátria segura do Evangelho.
@@ -57,5 +62,3 @@ Hoje em dia, a importância de Santa Helena permanece monumental. Ela é o símb
 O seu impacto material e histórico também é incalculável. Os locais identificados e protegidos por Helena – em particular o Santo Sepulcro em Jerusalém e a Igreja da Natividade em Belém – continuam, até os dias de hoje, sendo o centro de devoção e peregrinação de milhões de cristãos vindos do mundo inteiro. Ela iniciou uma tradição de veneração que conecta a fé às suas raízes geográficas concretas.
 
 Os fragmentos da Vera Cruz que ela recuperou e distribuiu foram espalhados para várias igrejas ao longo dos séculos, e permanecem como uma das relíquias mais sagradas e reverenciadas no cristianismo, lembrando continuamente aos fiéis o sacrifício e amor de Jesus Cristo.
-
-<MiracleMap />

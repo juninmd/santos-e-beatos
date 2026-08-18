@@ -1,13 +1,18 @@
+---
+title: Beato Solanus Casey
+description: Biografia, milagres, curiosidades e mapa do Beato Solanus Casey.
+---
+
 # Beato Solanus Casey
 
 ![Beato Solanus Casey](imagens/portrait.jpg)
 
-**"O Porteiro de Deus"**
+> "O Porteiro de Deus"
 
-**Nascimento:** 25 de novembro de 1870, Oak Grove, Wisconsin, EUA
-**Morte:** 31 de julho de 1957, Detroit, Michigan, EUA
-**Festa Litúrgica:** 30 de julho
-**Beatificação:** 18 de novembro de 2017, em Detroit
+- **Nascimento:** 25 de novembro de 1870, Oak Grove, Wisconsin, EUA
+- **Morte:** 31 de julho de 1957, Detroit, Michigan, EUA
+- **Beatificação:** 18 de novembro de 2017, em Detroit
+- **Festa Litúrgica:** 30 de julho
 
 <TextToSpeech />
 
@@ -42,11 +47,12 @@ Para sua beatificação, o Vaticano reconheceu a cura milagrosa de Paula Medina 
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 44.7570, lng: -92.5152, title: "Oak Grove, Wisconsin", description: "Local de nascimento de Bernard Casey (Beato Solanus)." },
-  { lat: 42.3526, lng: -83.0115, title: "Detroit, Michigan", description: "Mosteiro de São Boaventura, onde serviu como porteiro por muitos anos e onde está seu túmulo." },
-  { lat: 40.9312, lng: -73.8987, title: "Yonkers, Nova York", description: "Serviu como porteiro no mosteiro local." },
-  { lat: 40.8792, lng: -85.4953, title: "Huntington, Indiana", description: "Noviciado Capuchinho onde viveu seus últimos anos." },
-  { lat: 46.7208, lng: -92.1041, title: "Superior, Wisconsin", description: "Sua primeira designação após a ordenação." }
+  { lat: 44.757, lng: -92.5152, type: "nascimento", title: "Oak Grove, Wisconsin", description: "Local de nascimento de Bernard Casey (Beato Solanus)." },
+  { lat: 40.9312, lng: -73.8987, type: "vida", title: "Yonkers, Nova York", description: "Serviu como porteiro no mosteiro local." },
+  { lat: 40.8792, lng: -85.4953, type: "vida", title: "Huntington, Indiana", description: "Noviciado Capuchinho onde viveu seus últimos anos." },
+  { lat: 46.7208, lng: -92.1041, type: "vida", title: "Superior, Wisconsin", description: "Sua primeira designação após a ordenação." },
+  { lat: 42.3526, lng: -83.0115, type: "morte", title: "Detroit, Michigan", description: "Local da morte (31 de julho de 1957)." },
+  { lat: 42.3526, lng: -83.0115, type: "tumulo", title: "Detroit, Michigan", description: "Mosteiro de São Boaventura, onde serviu como porteiro por muitos anos e onde está seu túmulo." }
 ]' />
 
 ## Impacto Hoje

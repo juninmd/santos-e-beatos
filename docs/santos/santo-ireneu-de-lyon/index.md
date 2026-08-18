@@ -1,21 +1,22 @@
+---
+title: Santo Ireneu de Lyon
+description: Biografia, milagres, curiosidades e mapa de Santo Ireneu de Lyon.
+---
+
 # Santo Ireneu de Lyon
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
-  <div style="flex: 0 0 200px;">
-    <img src="./imagens/portrait.jpg" alt="Santo Ireneu de Lyon" style="width: 100%; border-radius: 8px;">
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <p><i>"A glória de Deus é o homem vivo; e a vida do homem é a visão de Deus."</i></p>
-    <p>
-      <b>Nascimento:</b> c. 130 d.C.<br>
-      <b>Morte:</b> c. 202 d.C.<br>
-      <b>Canonização:</b> Canonização pré-congregação, reconhecido Doutor da Igreja pelo Papa Francisco em 2022.<br>
-      <b>Festa Litúrgica:</b> 28 de junho<br>
-    </p>
-  </div>
-</div>
+![Santo Ireneu de Lyon](imagens/portrait.jpg)
+
+> "A glória de Deus é o homem vivo; e a vida do homem é a visão de Deus."
+
+- **Nascimento:** c. 130 d.C., Esmirna (atual İzmir, Turquia)
+- **Morte:** c. 202 d.C., Lyon (França)
+- **Canonização:** Canonização pré-congregação, reconhecido Doutor da Igreja pelo Papa Francisco em 2022.
+- **Festa Litúrgica:** 28 de junho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -47,14 +48,12 @@ Os "milagres" de Santo Ireneu estão mais intrinsecamente ligados à sua poderos
 *   **Roma, Itália:** Para onde viajou como emissário da Igreja de Lyon, interagindo com a comunidade cristã local e o Papa.
 *   **Lyon (antiga Lugduno, França):** Onde serviu como presbítero e posteriormente como bispo, sendo o centro de sua atividade teológica e pastoral.
 
+<MiracleMap :items='[
+  { lat: 38.4237, lng: 27.1428, type: "nascimento", title: "Esmirna, Turquia", description: "Local de nascimento e educação sob São Policarpo." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Viajou para cá como enviado e para mediar disputas na Igreja." },
+  { lat: 45.764, lng: 4.8357, type: "morte", title: "Lyon, França", description: "Sede de seu episcopado, onde defendeu a Igreja e escreveu suas obras mais importantes. Local da morte (c. 202 d.C.)." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de Santo Ireneu ressoa profundamente até os dias atuais. Ele é venerado como o fundador da teologia cristã sistemática. Seus ensinamentos sobre a sucessão apostólica continuam sendo um pilar fundamental na eclesiologia católica e ortodoxa. A ênfase de Ireneu na encarnação — que o Verbo se fez carne para salvar a carne — permanece uma poderosa afirmação do valor da vida humana e do mundo material em contraste com visões gnósticas que os depreciam. Sua declaração "A glória de Deus é o homem vivo" continua a inspirar o pensamento antropológico e teológico contemporâneo, sublinhando que Deus é glorificado quando os seres humanos florescem plenamente na sua graça.
-
-<MiracleMap
-  :miracles="[
-    { lat: 38.4237, lng: 27.1428, title: 'Esmirna, Turquia', description: 'Local de nascimento e educação sob São Policarpo.' },
-    { lat: 45.7640, lng: 4.8357, title: 'Lyon, França', description: 'Sede de seu episcopado, onde defendeu a Igreja e escreveu suas obras mais importantes.' },
-    { lat: 41.9028, lng: 12.4964, title: 'Roma, Itália', description: 'Viajou para cá como enviado e para mediar disputas na Igreja.' }
-  ]"
-/>

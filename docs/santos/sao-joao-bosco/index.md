@@ -1,13 +1,20 @@
+---
+title: São João Bosco
+description: Biografia, milagres, curiosidades e mapa de São João Bosco.
+---
+
 # São João Bosco
 
 ![São João Bosco](imagens/dom-bosco.jpg)
 
-**"Pai e Mestre da Juventude"**
+> "Pai e Mestre da Juventude"
 
-**Nascimento:** 16 de agosto de 1815, Becchi (Itália)
-**Morte:** 31 de janeiro de 1888, Turim (Itália)
-**Festa Litúrgica:** 31 de janeiro
-**Canonização:** 1 de abril de 1934, pelo Papa Pio XI
+- **Nascimento:** 16 de agosto de 1815, Becchi (Itália)
+- **Morte:** 31 de janeiro de 1888, Turim (Itália)
+- **Canonização:** 1 de abril de 1934, pelo Papa Pio XI
+- **Festa Litúrgica:** 31 de janeiro
+
+<TextToSpeech />
 
 ---
 
@@ -40,6 +47,11 @@ Entre seus milagres, relata-se a multiplicação de pães e hóstias, curas inex
 ## Cidades por onde passou
 
 Embora tenha vivido a maior parte de sua vida no Piemonte, Itália (especialmente em Turim e Chieri), Dom Bosco viajou pela França e Espanha para expandir sua obra e buscar apoio.
+
+<MiracleMap :items='[
+  { lat: 45.0333, lng: 7.9833, type: "nascimento", title: "Becchi (Itália)", description: "Local de nascimento (16 de agosto de 1815)." },
+  { lat: 45.0703, lng: 7.6869, type: "morte", title: "Turim (Itália)", description: "Local da morte (31 de janeiro de 1888)." }
+]' />
 
 ## Impacto Hoje
 

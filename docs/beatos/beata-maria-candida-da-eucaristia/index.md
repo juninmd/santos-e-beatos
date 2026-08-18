@@ -1,17 +1,22 @@
-# Beata Maria Cândida da Eucaristia
-
-![Beata Maria Cândida da Eucaristia](./imagens/portrait.jpg)
-
-**"A Eucaristia é o paraíso na terra."**
-
-**Nascimento:** 16 de janeiro de 1884, Catanzaro, Itália<br>
-**Morte:** 12 de junho de 1949, Ragusa, Sicília, Itália<br>
-**Beatificação:** 21 de março de 2004 pelo Papa João Paulo II<br>
-**Festa Litúrgica:** 12 de junho<br>
-
+---
+title: Beata Maria Cândida da Eucaristia
+description: Biografia, milagres, curiosidades e mapa da Beata Maria Cândida da Eucaristia.
 ---
 
+# Beata Maria Cândida da Eucaristia
+
+![Beata Maria Cândida da Eucaristia](imagens/portrait.jpg)
+
+> "A Eucaristia é o paraíso na terra."
+
+- **Nascimento:** 16 de janeiro de 1884, Catanzaro, Itália
+- **Morte:** 12 de junho de 1949, Ragusa, Sicília, Itália
+- **Beatificação:** 21 de março de 2004 pelo Papa João Paulo II
+- **Festa Litúrgica:** 12 de junho
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -40,13 +45,14 @@ A beatificação de Maria Cândida da Eucaristia foi impulsionada por milagres a
 - **Palermo, Itália:** Onde a sua família viveu durante muitos anos, e onde ela esperou pacientemente a permissão para entrar na vida religiosa.
 - **Ragusa, Itália:** Local do mosteiro das Carmelitas Descalças onde ela entrou, viveu sua vida religiosa e faleceu.
 
+<MiracleMap :items='[
+  { lat: 38.9056, lng: 16.593, type: "nascimento", title: "Catanzaro", description: "Local de seu nascimento." },
+  { lat: 36.9282, lng: 14.7297, type: "vida", title: "Mosteiro em Ragusa", description: "Onde viveu toda a sua vida religiosa como Carmelita Descalça." },
+  { lat: 38.0469, lng: 13.1186, type: "morte", title: "Ragusa, Itália", description: "Local da morte (12 de junho de 1949)." }
+]' />
+
 ## Impacto Hoje
 
 No mundo contemporâneo, marcado pela pressa e ansiedade, a Beata Maria Cândida é um farol que aponta para o valor inestimável da Eucaristia. Ela ensina a importância de "saber esperar" o tempo de Deus e mostra que o sofrimento e a oposição podem ser transformados em profunda graça. Seu legado continua a inspirar muitos a buscar em Jesus Sacramentado a fonte de toda a força e paz.
 
 ![Capa](./imagens/cover.jpg)
-
-<MiracleMap :items='[
-  { lat: 38.9056, lng: 16.5930, title: "Catanzaro", description: "Local de seu nascimento." },
-  { lat: 36.9282, lng: 14.7297, title: "Mosteiro em Ragusa", description: "Onde viveu toda a sua vida religiosa como Carmelita Descalça." }
-]' />

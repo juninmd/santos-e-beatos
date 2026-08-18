@@ -1,13 +1,20 @@
+---
+title: São Jorge
+description: Biografia, milagres, curiosidades e mapa de São Jorge.
+---
+
 # São Jorge
 
 ![São Jorge](imagens/sao-jorge.jpg)
 
-**"Eu andarei vestido e armado com as armas de São Jorge."**
+> "Eu andarei vestido e armado com as armas de São Jorge."
 
-**Nascimento:** Entre 275 e 280, Capadócia (Turquia) ou Lida (Israel)
-**Morte:** 23 de abril de 303, Nicomédia
-**Festa Litúrgica:** 23 de abril
-**Canonização:** Reconhecido como santo pré-congregação (século V)
+- **Nascimento:** Entre 275 e 280, Capadócia (Turquia) ou Lida (Israel)
+- **Morte:** 23 de abril de 303, Nicomédia
+- **Canonização:** Reconhecido como santo pré-congregação (século V)
+- **Festa Litúrgica:** 23 de abril
+
+<TextToSpeech />
 
 ---
 
@@ -19,7 +26,7 @@ Seguindo a carreira militar, Jorge tornou-se tribuno militar e membro da guarda 
 
 Furioso, Diocleciano ordenou que Jorge fosse torturado para que renunciasse à sua fé. Segundo a tradição, ele suportou terríveis suplícios, incluindo a roda de espadas, sem renegar Cristo. Por fim, foi decapitado em 23 de abril de 303, em Nicomédia.
 
-## A Lenda do Dragão
+## Milagres e a Lenda do Dragão
 
 A imagem mais famosa de São Jorge o retrata montado em um cavalo branco, lutando contra um dragão. Esta lenda, popularizada na Idade Média (especialmente na "Lenda Dourada" de Jacopo de Voragine), conta que um dragão aterrorizava a cidade de Silene, na Líbia, exigindo sacrifícios humanos.
 
@@ -41,6 +48,11 @@ Embora os detalhes históricos precisos sejam escassos, a figura de São Jorge d
 ## Cidades por onde passou
 
 Historicamente, sua vida está ligada à **Capadócia**, **Lida** (onde estaria seu túmulo) e **Nicomédia**. Como figura lendária e espiritual, sua devoção "passou" e se enraizou em todo o mundo cristão, das Ilhas Britânicas ao Oriente Médio.
+
+<MiracleMap :items='[
+  { lat: 31.9515, lng: 34.8953, type: "nascimento", title: "Lida", description: "Local de nascimento (Entre 275 e 280)." },
+  { lat: 40.7654, lng: 29.9408, type: "morte", title: "Nicomédia", description: "Local da morte (23 de abril de 303)." }
+]' />
 
 ## Impacto Hoje
 

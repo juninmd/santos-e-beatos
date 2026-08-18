@@ -1,34 +1,22 @@
 ---
 title: São José de Cupertino
-description: Biografia, milagres e impacto de São José de Cupertino, o santo voador.
-head:
-  - - meta
-    - name: description
-      content: Biografia, milagres e impacto de São José de Cupertino, o santo voador.
-  - - meta
-    - name: keywords
-      content: São José de Cupertino, padroeiro dos estudantes, santo voador, levitação, santos católicos
+description: Biografia, milagres, curiosidades e mapa de São José de Cupertino.
 ---
 
 # São José de Cupertino
 
-![São José de Cupertino](./imagens/cover.jpg)
+![São José de Cupertino](imagens/cover.jpg)
 
-<div class="profile">
-    <div class="profile-image">
-        <img src="./imagens/portrait.jpg" alt="São José de Cupertino">
-    </div>
-    <div class="profile-info">
-        <blockquote>"O santo que não conseguia esconder seu amor por Deus, levitando em êxtase e mostrando a glória do Senhor aos homens."</blockquote>
-        <br>
-        <b>Nascimento:</b> 17 de junho de 1603<br>
-        <b>Morte:</b> 18 de setembro de 1663<br>
-        <b>Canonização:</b> 16 de julho de 1767<br>
-        <b>Festa Litúrgica:</b> 18 de setembro<br>
-    </div>
-</div>
+> "O santo que não conseguia esconder seu amor por Deus, levitando em êxtase e mostrando a glória do Senhor aos homens."
+
+- **Nascimento:** 17 de junho de 1603, Copertino, Apúlia (Itália)
+- **Morte:** 18 de setembro de 1663, Osimo (Itália)
+- **Canonização:** 16 de julho de 1767
+- **Festa Litúrgica:** 18 de setembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -62,13 +50,13 @@ Os milagres de São José de Cupertino estão em grande parte associados às sua
 - **Assis, Itália:** Para evitar a multidão, foi transferido para Assis, onde passou anos em sofrimento e isolamento.
 - **Osimo, Itália:** A cidade onde passou os últimos anos de sua vida, sempre sob estrita vigilância, mas em profunda comunhão com Deus, e onde faleceu e foi sepultado.
 
+<MiracleMap :items='[
+  { lat: 40.2721, lng: 18.0531, type: "nascimento", title: "Nascimento (Copertino)", description: "Local de nascimento (17 de junho de 1603)." },
+  { lat: 40.28, lng: 18.06, type: "vida", title: "Vida Religiosa (Grotella)", description: "" },
+  { lat: 43.0759, lng: 12.6146, type: "vida", title: "Isolamento (Assis)", description: "" },
+  { lat: 43.4862, lng: 13.4828, type: "morte", title: "Morte (Osimo)", description: "Local da morte (18 de setembro de 1663)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, São José de Cupertino permanece uma figura de grande inspiração, especialmente para aqueles que sofrem com dificuldades de aprendizado, exclusão ou que se sentem inadequados. Ele nos ensina que a santidade não requer inteligência brilhante ou talentos mundanos, mas sim um coração inteiramente devotado ao amor de Deus. A sua basílica em Osimo atrai milhares de peregrinos, e sua intercessão é incessantemente buscada por estudantes em períodos de provas. Ele é um lembrete contínuo da loucura divina que eleva os mais humildes.
-
-<MiracleMap :markers="[
-  { name: 'Nascimento (Copertino)', coordinates: [40.2721, 18.0531] },
-  { name: 'Vida Religiosa (Grotella)', coordinates: [40.2800, 18.0600] },
-  { name: 'Isolamento (Assis)', coordinates: [43.0759, 12.6146] },
-  { name: 'Morte (Osimo)', coordinates: [43.4862, 13.4828] }
-]" />

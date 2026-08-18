@@ -1,34 +1,22 @@
 ---
 title: Beato Ivan Merz
-description: Biografia, milagres e impacto do Beato Ivan Merz, apóstolo da juventude na Croácia.
-head:
-  - - meta
-    - name: description
-      content: Biografia, milagres e impacto do Beato Ivan Merz, apóstolo da juventude na Croácia.
-  - - meta
-    - name: keywords
-      content: Beato Ivan Merz, apóstolo da juventude, Croácia, Ação Católica, santos católicos
+description: Biografia, milagres, curiosidades e mapa do Beato Ivan Merz.
 ---
 
 # Beato Ivan Merz
 
-![Beato Ivan Merz](./imagens/cover.jpg)
+![Beato Ivan Merz](imagens/cover.jpg)
 
-<div class="profile">
-    <div class="profile-image">
-        <img src="./imagens/portrait.jpg" alt="Beato Ivan Merz">
-    </div>
-    <div class="profile-info">
-        <blockquote>"A vida não tem sentido sem Cristo; com Ele, tudo ganha uma dimensão de eternidade e amor infinito."</blockquote>
-        <br>
-        <b>Nascimento:</b> 16 de dezembro de 1896<br>
-        <b>Morte:</b> 10 de maio de 1928<br>
-        <b>Beatificação:</b> 22 de junho de 2003<br>
-        <b>Festa Litúrgica:</b> 10 de maio<br>
-    </div>
-</div>
+> "A vida não tem sentido sem Cristo; com Ele, tudo ganha uma dimensão de eternidade e amor infinito."
+
+- **Nascimento:** 16 de dezembro de 1896, Banja Luka (Bósnia)
+- **Morte:** 10 de maio de 1928, Zagreb (Croácia)
+- **Beatificação:** 22 de junho de 2003
+- **Festa Litúrgica:** 10 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -59,13 +47,13 @@ Apesar de sua juventude, sua saúde era frágil, possivelmente devido às duras 
 - **Paris, França:** Onde completou seu doutorado na Sorbonne e aprofundou sua espiritualidade eucarística.
 - **Zagreb, Croácia:** O centro de sua atividade apostólica, onde ensinou, liderou a Ação Católica e onde repousam seus restos mortais na Basílica do Sagrado Coração.
 
+<MiracleMap :items='[
+  { lat: 44.7722, lng: 17.191, type: "nascimento", title: "Nascimento (Banja Luka)", description: "Local de nascimento (16 de dezembro de 1896)." },
+  { lat: 48.2082, lng: 16.3738, type: "vida", title: "Estudos (Viena)", description: "" },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Doutorado (Paris)", description: "" },
+  { lat: 45.815, lng: 15.9819, type: "morte", title: "Atividade e Morte (Zagreb)", description: "Local da morte (10 de maio de 1928)." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Ivan Merz é hoje reconhecido como um patrono e modelo para a juventude, especialmente na Croácia e Bósnia. Ele demonstra de forma clara como a fé católica e uma alta formação acadêmica podem não apenas coexistir, mas enriquecer uma à outra. O Papa João Paulo II, que o beatificou, apresentou-o como um "programa de vida e de ação para os jovens", enfatizando a importância do engajamento laical para a renovação da Igreja e da sociedade.
-
-<MiracleMap :markers="[
-  { name: 'Nascimento (Banja Luka)', coordinates: [44.7722, 17.1910] },
-  { name: 'Estudos (Viena)', coordinates: [48.2082, 16.3738] },
-  { name: 'Doutorado (Paris)', coordinates: [48.8566, 2.3522] },
-  { name: 'Atividade e Morte (Zagreb)', coordinates: [45.8150, 15.9819] }
-]" />

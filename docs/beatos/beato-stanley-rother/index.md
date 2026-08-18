@@ -1,17 +1,22 @@
+---
+title: Beato Stanley Rother
+description: Biografia, milagres, curiosidades e mapa do Beato Stanley Rother.
+---
+
 # Beato Stanley Rother
 
 ![Beato Stanley Rother](imagens/portrait.jpg)
 
-**"O Pastor que não abandona o rebanho"**
+> "O Pastor que não abandona o rebanho"
 
-**Nascimento:** 27 de março de 1935, Okarche, Oklahoma, EUA
-**Morte:** 28 de julho de 1981, Santiago Atitlán, Guatemala
-**Beatificação:** 23 de setembro de 2017, em Oklahoma City, pelo Papa Francisco (representado pelo Cardeal Angelo Amato)
-**Festa Litúrgica:** 28 de julho
-
----
+- **Nascimento:** 27 de março de 1935, Okarche, Oklahoma, EUA
+- **Morte:** 28 de julho de 1981, Santiago Atitlán, Guatemala
+- **Beatificação:** 23 de setembro de 2017, em Oklahoma City, pelo Papa Francisco (representado pelo Cardeal Angelo Amato)
+- **Festa Litúrgica:** 28 de julho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -22,8 +27,6 @@ Em 1968, o Padre Stanley (ou "Padre A'plas", como era carinhosamente chamado pel
 Durante a violenta guerra civil guatemalteca, a Igreja Católica foi alvo de perseguição. Catequistas e paroquianos começaram a desaparecer e ser assassinados. O nome do Padre Rother apareceu em listas de morte. Ele retornou brevemente a Oklahoma para visitar a família, mas declarou: "O pastor não pode fugir ao primeiro sinal de perigo".
 
 Voltou à Guatemala, sabendo dos riscos. Na madrugada de 28 de julho de 1981, três homens armados invadiram a reitoria e o assassinaram. Ele resistiu para proteger os outros na casa, gritando "Matem-me aqui!".
-
-<MiracleMap />
 
 ## Vida Pessoal e Espiritualidade
 
@@ -49,6 +52,11 @@ Seu coração e seu sangue, recolhidos após o assassinato, permanecem incorrupt
 *   **Okarche, Oklahoma (EUA):** Cidade natal, onde cresceu e está sepultado.
 *   **San Antonio, Texas (EUA):** Onde completou seus estudos no seminário.
 *   **Santiago Atitlán (Guatemala):** Onde serviu como missionário por 13 anos e foi martirizado.
+
+<MiracleMap :items='[
+  { lat: 35.7256, lng: -97.9739, type: "nascimento", title: "Okarche, EUA", description: "Local de nascimento (27 de março de 1935)." },
+  { lat: 14.6383, lng: -91.2286, type: "morte", title: "Santiago Atitlán", description: "Local da morte (28 de julho de 1981)." }
+]' />
 
 ## Impacto Hoje
 

@@ -1,17 +1,22 @@
-# Santo André Kim Taegõn
-
-![Santo André Kim Taegõn](./imagens/portrait.jpg)
-
-**"Nesta vida, se a nossa vida for cheia de tristezas, e por fim morrermos e formos ao inferno, como seria lamentável! Em contrapartida, se alcançarmos a glória do paraíso depois da nossa morte, todas as dores desta vida nada são."**
-
-**Nascimento:** 21 de agosto de 1821, Solmoe, Chungcheong, Dinastia Joseon (Coreia)<br>
-**Morte:** 16 de setembro de 1846, Saenamteo, Seul, Dinastia Joseon (Coreia)<br>
-**Festa Litúrgica:** 20 de setembro<br>
-**Canonização:** 6 de maio de 1984 por São João Paulo II<br>
-
+---
+title: Santo André Kim Taegõn
+description: Biografia, milagres, curiosidades e mapa de Santo André Kim Taegõn.
 ---
 
+# Santo André Kim Taegõn
+
+![Santo André Kim Taegõn](imagens/portrait.jpg)
+
+> "Nesta vida, se a nossa vida for cheia de tristezas, e por fim morrermos e formos ao inferno, como seria lamentável! Em contrapartida, se alcançarmos a glória do paraíso depois da nossa morte, todas as dores desta vida nada são."
+
+- **Nascimento:** 21 de agosto de 1821, Solmoe, Chungcheong, Dinastia Joseon (Coreia)
+- **Morte:** 16 de setembro de 1846, Saenamteo, Seul, Dinastia Joseon (Coreia)
+- **Canonização:** 6 de maio de 1984 por São João Paulo II
+- **Festa Litúrgica:** 20 de setembro
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -42,13 +47,14 @@ Os milagres atribuídos a Santo André Kim Taegõn e aos Mártires Coreanos (103
 - **Xangai, China:** Onde foi ordenado o primeiro padre católico coreano.
 - **Seul (Saenamteo), Coreia do Sul:** Onde sofreu martírio por decapitação.
 
+<MiracleMap :items='[
+  { lat: 36.8143, lng: 126.757, type: "nascimento", title: "Santuário de Solmoe", description: "Local de nascimento de Santo André Kim, hoje um grande santuário de peregrinação em Dangjin, Coreia do Sul." },
+  { lat: 36.8467, lng: 126.6386, type: "nascimento", title: "Solmoe", description: "Local de nascimento (21 de agosto de 1821)." },
+  { lat: 22.1987, lng: 113.5439, type: "vida", title: "Macau", description: "Local onde Santo André Kim estudou no seminário, abrigado pela Missão Estrangeira de Paris." },
+  { lat: 31.2304, lng: 121.4737, type: "vida", title: "Xangai", description: "Onde André Kim foi ordenado sacerdote em 1845." },
+  { lat: 37.5276, lng: 126.9616, type: "morte", title: "Saenamteo (Seul)", description: "Local onde foi decapitado e martirizado aos 25 anos em 1846." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, Santo André Kim Taegõn é amplamente reverenciado não apenas na Coreia do Sul, mas por comunidades católicas coreanas ao redor do mundo. O catolicismo floresceu no país e tem crescido constantemente desde meados do século XX. O Santuário de Solmoe, onde ele nasceu, e o local de seu martírio em Saenamteo são enormes centros de peregrinação, inspirando milhares de pessoas todos os anos com a história de sua coragem, dedicação e sacrifício total pela fé cristã. Ele representa o compromisso e o zelo que pavimentaram a base para uma das igrejas católicas mais dinâmicas da Ásia na atualidade.
-
-<MiracleMap :items="[
-  { lat: 36.8143, lng: 126.7570, title: 'Santuário de Solmoe', description: 'Local de nascimento de Santo André Kim, hoje um grande santuário de peregrinação em Dangjin, Coreia do Sul.' },
-  { lat: 22.1987, lng: 113.5439, title: 'Macau', description: 'Local onde Santo André Kim estudou no seminário, abrigado pela Missão Estrangeira de Paris.' },
-  { lat: 31.2304, lng: 121.4737, title: 'Xangai', description: 'Onde André Kim foi ordenado sacerdote em 1845.' },
-  { lat: 37.5276, lng: 126.9616, title: 'Saenamteo (Seul)', description: 'Local onde foi decapitado e martirizado aos 25 anos em 1846.' }
-]" />

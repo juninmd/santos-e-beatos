@@ -1,12 +1,18 @@
+---
+title: São João Batista
+description: Biografia, milagres, curiosidades e mapa de São João Batista.
+---
+
 # São João Batista
 
 ![São João Batista](imagens/portrait.jpg)
 
-**"A Voz que Clama no Deserto"**<br>
-**Nascimento:** Final do século I a.C., Judeia<br>
-**Morte:** Entre 28 e 36 d.C., Maquero (atual Jordânia)<br>
-**Festa Litúrgica:** 24 de junho (Nascimento) e 29 de agosto (Martírio)<br>
-**Canonização:** Culto Imemorial<br>
+> "A Voz que Clama no Deserto"
+
+- **Nascimento:** Final do século I a.C., Judeia
+- **Morte:** Entre 28 e 36 d.C., Maquero (atual Jordânia)
+- **Canonização:** Culto Imemorial
+- **Festa Litúrgica:** 24 de junho (Nascimento) e 29 de agosto (Martírio)
 
 <TextToSpeech />
 
@@ -39,15 +45,15 @@ A tradição cristã também lhe atribui uma série de milagres e curas operados
 
 João Batista pregou na região da Judeia, nas proximidades do rio Jordão, e faleceu na fortaleza de Maquero.
 
+<MiracleMap :items='[
+  { lat: 31.7683, lng: 35.2137, type: "nascimento", title: "Ain Karim, Judeia", description: "Local tradicional do seu nascimento." },
+  { lat: 31.8333, lng: 35.5333, type: "vida", title: "Rio Jordão", description: "Onde realizou seu ministério de pregação e batismos, incluindo o batismo de Jesus." },
+  { lat: 31.5667, lng: 35.6167, type: "morte", title: "Maquero, Jordânia", description: "Fortaleza onde foi preso e decapitado por ordem de Herodes Antipas." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, a figura de São João Batista continua a inspirar milhões de pessoas a uma vida de conversão, coragem e compromisso com a verdade. Suas festas juninas são algumas das mais expressivas no Brasil, e inúmeras igrejas e comunidades levam o seu nome. Ele nos desafia continuamente a sermos vozes da verdade em meio a injustiças e a nos preparar para receber a mensagem do Evangelho no mundo contemporâneo.
-
-<MiracleMap :items='[
-  { lat: 31.7683, lng: 35.2137, title: "Ain Karim, Judeia", description: "Local tradicional do seu nascimento." },
-  { lat: 31.8333, lng: 35.5333, title: "Rio Jordão", description: "Onde realizou seu ministério de pregação e batismos, incluindo o batismo de Jesus." },
-  { lat: 31.5667, lng: 35.6167, title: "Maquero, Jordânia", description: "Fortaleza onde foi preso e decapitado por ordem de Herodes Antipas." }
-]' />
 
 ## Galeria de Imagens
 

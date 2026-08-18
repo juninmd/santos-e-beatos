@@ -1,15 +1,22 @@
+---
+title: Beata Maria Repetto
+description: Biografia, milagres, curiosidades e mapa da Beata Maria Repetto.
+---
+
 # Beata Maria Repetto
 
 ![Beata Maria Repetto](imagens/portrait.jpg)
 
 > "As chaves do paraíso estão nas mãos dos pobres."
 
-**Nascimento:** 1º de novembro de 1807<br>
-**Morte:** 5 de janeiro de 1890<br>
-**Beatificação:** 4 de outubro de 1981<br>
-**Festa Litúrgica:** 5 de janeiro<br>
+- **Nascimento:** 1º de novembro de 1807
+- **Morte:** 5 de janeiro de 1890, Génova (Itália)
+- **Beatificação:** 4 de outubro de 1981
+- **Festa Litúrgica:** 5 de janeiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -40,11 +47,11 @@ Ao contrário de muitos missionários, a vida de Maria Repetto decorreu num raio
 1. **Voltaggio, Itália:** A sua cidade natal, onde viveu com a sua numerosa família até aos 22 anos.
 2. **Gênova, Itália:** A cidade onde entrou para o convento das Irmãs de Nossa Senhora do Refúgio e onde viveu, serviu como porteira e faleceu mais de sessenta anos depois.
 
+<MiracleMap :items='[
+  { lat: 44.6225, lng: 8.8447, type: "nascimento", title: "Voltaggio, Itália", description: "Sua cidade natal." },
+  { lat: 44.4056, lng: 8.9463, type: "morte", title: "Gênova, Itália", description: "Onde passou toda a sua vida religiosa no convento como porteira e intercessora. Local da morte (5 de janeiro de 1890)." }
+]' />
+
 ## Impacto Hoje
 
 A Beata Maria Repetto é uma inspiração profunda para aqueles cujas vidas são compostas por deveres cotidianos simples e ocultos. O seu legado recorda ao mundo contemporâneo, muitas vezes obcecado com grandes realizações e visibilidade, que o serviço humilde, a escuta atenta e a oração têm um poder transformador imenso. A Congregação das Irmãs de Nossa Senhora do Refúgio continua a honrar o seu espírito de caridade e hospitalidade. Ela permanece um símbolo de conforto e intercessão, especialmente invocada por aqueles que enfrentam problemas familiares ou dificuldades que parecem insuperáveis.
-
-<MiracleMap :items='[
-  { lat: 44.6225, lng: 8.8447, title: "Voltaggio, Itália", description: "Sua cidade natal." },
-  { lat: 44.4056, lng: 8.9463, title: "Gênova, Itália", description: "Onde passou toda a sua vida religiosa no convento como porteira e intercessora." }
-]' />

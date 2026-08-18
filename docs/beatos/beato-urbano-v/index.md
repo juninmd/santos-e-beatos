@@ -1,18 +1,22 @@
+---
+title: Beato Urbano V
+description: Biografia, milagres, curiosidades e mapa do Beato Urbano V.
+---
+
 # Beato Urbano V
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-<img src="./imagens/portrait.jpg" alt="Beato Urbano V" style="width: 200px; border-radius: 8px;">
-<div>
-<i>"A Igreja e a fé são construídas não em muros e ouro, mas em corações firmes em Cristo."</i><br><br>
+![Beato Urbano V](imagens/portrait.jpg)
 
-**Nascimento:** 1310, Castelo de Grisac, França<br>
-**Morte:** 19 de dezembro de 1370, Avignon, França<br>
-**Beatificação:** 10 de março de 1870 pelo Papa Pio IX<br>
-**Festa Litúrgica:** 19 de dezembro
-</div>
-</div>
+> "A Igreja e a fé são construídas não em muros e ouro, mas em corações firmes em Cristo."
+
+- **Nascimento:** 1310, Castelo de Grisac, França
+- **Morte:** 19 de dezembro de 1370, Avignon, França
+- **Beatificação:** 10 de março de 1870 pelo Papa Pio IX
+- **Festa Litúrgica:** 19 de dezembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,10 +43,10 @@ Ele conseguiu retornar a Roma em 1367, onde começou a restaurar as basílicas d
 O Beato Urbano V dividiu sua vida entre estudos na França e seus deveres diplomáticos e papais.
 
 <MiracleMap :items='[
-  { lat: 44.3792, lng: 3.7388, title: "Grisac (Le Pont-de-Montvert)", description: "Local de nascimento no Castelo de Grisac." },
-  { lat: 43.6108, lng: 3.8767, title: "Montpellier", description: "Onde ensinou e fundou um importante colégio universitário." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma", description: "Retornou temporariamente a sede papal para cá entre 1367 e 1370." },
-  { lat: 43.9493, lng: 4.8055, title: "Avignon", description: "Local onde foi eleito Papa e para onde retornou antes de sua morte." }
+  { lat: 44.3792, lng: 3.7388, type: "nascimento", title: "Grisac (Le Pont-de-Montvert)", description: "Local de nascimento no Castelo de Grisac." },
+  { lat: 43.6108, lng: 3.8767, type: "vida", title: "Montpellier", description: "Onde ensinou e fundou um importante colégio universitário." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma", description: "Retornou temporariamente a sede papal para cá entre 1367 e 1370." },
+  { lat: 43.9493, lng: 4.8055, type: "morte", title: "Avignon", description: "Local onde foi eleito Papa e para onde retornou antes de sua morte." }
 ]' />
 
 ## Impacto Hoje

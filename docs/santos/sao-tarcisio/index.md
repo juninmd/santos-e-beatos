@@ -1,13 +1,18 @@
+---
+title: São Tarcísio
+description: Biografia, milagres, curiosidades e mapa de São Tarcísio.
+---
+
 # São Tarcísio
 
 ![São Tarcísio](imagens/portrait.jpg)
 
-**"Mártir da Eucaristia"**
+> "Mártir da Eucaristia"
 
-**Nascimento:** Século III, Roma, Império Romano<br>
-**Morte:** 257 d.C., Roma, Império Romano<br>
-**Festa Litúrgica:** 15 de agosto<br>
-**Canonização:** Reconhecido como Santo nos primeiros séculos da Igreja (Pré-Congregação)
+- **Nascimento:** Século III, Roma, Império Romano
+- **Morte:** 257 d.C., Roma, Império Romano
+- **Canonização:** Reconhecido como Santo nos primeiros séculos da Igreja (Pré-Congregação)
+- **Festa Litúrgica:** 15 de agosto
 
 <TextToSpeech />
 
@@ -43,14 +48,14 @@ São Tarcísio é frequentemente invocado por ministros extraordinários e acól
 
 São Tarcísio viveu, serviu e morreu na cidade de Roma.
 
+<MiracleMap :items='[
+  { lat: 41.8902, lng: 12.4922, type: "nascimento", title: "Roma, Itália", description: "Cidade de nascimento e serviço do jovem mártir." },
+  { lat: 41.8606, lng: 12.5087, type: "morte", title: "Catacumbas de São Calisto, Roma", description: "Local do sepultamento original de São Tarcísio. Local da morte (257 d.C.)." },
+  { lat: 41.9028, lng: 12.4807, type: "tumulo", title: "Igreja de San Silvestro in Capite", description: "Onde parte de suas relíquias repousam hoje." }
+]' />
+
 ## Impacto Hoje
 
 São Tarcísio é o modelo definitivo de reverência profunda e heroica pelo Santíssimo Sacramento. Seu impacto permanece vital e inspirador nos dias de hoje, especialmente para crianças e jovens envolvidos no serviço do altar, que recebem dele uma lição sobre a dignidade do serviço e o valor da Eucaristia.
 
 O testemunho de São Tarcísio nos convida a meditar sobre nosso próprio zelo ao nos aproximarmos e adorarmos a Eucaristia, promovendo um profundo respeito e amor pela presença real de Jesus na Hóstia Consagrada na cultura católica contemporânea.
-
-<MiracleMap :items='[
-  { lat: 41.8902, lng: 12.4922, title: "Roma, Itália", description: "Cidade de nascimento e serviço do jovem mártir." },
-  { lat: 41.8606, lng: 12.5087, title: "Catacumbas de São Calisto, Roma", description: "Local do sepultamento original de São Tarcísio." },
-  { lat: 41.9028, lng: 12.4807, title: "Igreja de San Silvestro in Capite", description: "Onde parte de suas relíquias repousam hoje." }
-]' />

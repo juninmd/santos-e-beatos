@@ -1,13 +1,18 @@
+---
+title: São Benedito
+description: Biografia, milagres, curiosidades e mapa de São Benedito.
+---
+
 # São Benedito
 
 ![São Benedito](imagens/portrait.jpg)
 
-**"Um coração puro e humilde atrai a graça de Deus."**
+> "Um coração puro e humilde atrai a graça de Deus."
 
-**Nascimento:** 1524, San Fratello, Sicília, Itália<br>
-**Morte:** 4 de abril de 1589, Palermo, Itália<br>
-**Festa Litúrgica:** 5 de outubro (no Brasil)<br>
-**Canonização:** 24 de maio de 1807, pelo Papa Pio VII
+- **Nascimento:** 1524, San Fratello, Sicília, Itália
+- **Morte:** 4 de abril de 1589, Palermo, Itália
+- **Canonização:** 24 de maio de 1807, pelo Papa Pio VII
+- **Festa Litúrgica:** 5 de outubro (no Brasil)
 
 <TextToSpeech />
 
@@ -41,8 +46,8 @@ Embora não soubesse ler nem escrever e trabalhasse a maior parte do tempo como 
 Sua vida foi concentrada na Sicília, dividindo seu tempo entre o trabalho humilde e o serviço a Deus na ordem franciscana.
 
 <MiracleMap :items='[
-  { lat: 38.0167, lng: 14.5986, title: "San Fratello, Itália", description: "Local de nascimento e de sua juventude como pastor." },
-  { lat: 38.1157, lng: 13.3615, title: "Palermo, Itália", description: "Cidade onde viveu a maior parte de sua vida no Convento de Santa Maria de Jesus, e onde faleceu." }
+  { lat: 38.0167, lng: 14.5986, type: "nascimento", title: "San Fratello, Itália", description: "Local de nascimento e de sua juventude como pastor." },
+  { lat: 38.1157, lng: 13.3615, type: "morte", title: "Palermo, Itália", description: "Cidade onde viveu a maior parte de sua vida no Convento de Santa Maria de Jesus, e onde faleceu." }
 ]' />
 
 ## Impacto Hoje

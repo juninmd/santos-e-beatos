@@ -1,13 +1,20 @@
+---
+title: Beata Isabel Cristina
+description: Biografia, milagres, curiosidades e mapa da Beata Isabel Cristina.
+---
+
 # Beata Isabel Cristina
 
 ![Beata Isabel Cristina](imagens/isabel-cristina.jpg)
 
-**"Mártir da Castidade e do Respeito à Mulher"**
+> "Mártir da Castidade e do Respeito à Mulher"
 
-**Nascimento:** 29 de julho de 1962, Barbacena (MG), Brasil
-**Morte:** 1 de setembro de 1982, Juiz de Fora (MG), Brasil
-**Festa Litúrgica:** 1 de setembro
-**Beatificação:** 10 de dezembro de 2022, em Barbacena
+- **Nascimento:** 29 de julho de 1962, Barbacena (MG), Brasil
+- **Morte:** 1 de setembro de 1982, Juiz de Fora (MG), Brasil
+- **Beatificação:** 10 de dezembro de 2022, em Barbacena
+- **Festa Litúrgica:** 1 de setembro
+
+<TextToSpeech />
 
 ---
 
@@ -21,7 +28,7 @@ Em 1 de setembro de 1982, um homem que foi montar um guarda-roupa em seu apartam
 
 Isabel era conhecida por sua alegria, fé e caridade. Ajudava os pobres e idosos com os Vicentinos. Sua morte não foi apenas uma tragédia, mas um testemunho supremo de fidelidade aos valores cristãos, preferindo morrer a pecar.
 
-## Processo de Beatificação
+## Milagres e Processo de Beatificação
 
 O processo de beatificação foi aberto em 2001. O Papa Francisco reconheceu seu martírio "in odium fidei" (por ódio à fé) em 2020, o que dispensou a necessidade de um milagre para a beatificação (embora milagres sejam necessários para a canonização).
 
@@ -29,6 +36,15 @@ O processo de beatificação foi aberto em 2001. O Papa Francisco reconheceu seu
 
 1.  **Mártir da Castidade:** Assim como Santa Maria Goretti e a Beata Benigna, Isabel Cristina é venerada por defender a pureza até o fim.
 2.  **Lírios:** É frequentemente representada com lírios brancos (pureza) e a palma (martírio).
+
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a Beata Isabel Cristina: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: -21.2258, lng: -43.7736, type: "nascimento", title: "Barbacena (MG), Brasil", description: "Local de nascimento (29 de julho de 1962)." },
+  { lat: -21.7642, lng: -43.3503, type: "morte", title: "Juiz de Fora (MG), Brasil", description: "Local da morte (1 de setembro de 1982)." }
+]' />
 
 ## Impacto Hoje
 

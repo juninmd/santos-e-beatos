@@ -1,13 +1,18 @@
+---
+title: Beato Marcos de Aviano
+description: Biografia, milagres, curiosidades e mapa do Beato Marcos de Aviano.
+---
+
 # Beato Marcos de Aviano
 
 ![Beato Marcos de Aviano](imagens/portrait.jpg)
 
-**"O Monge de Viena e Apóstolo da Europa"**
+> "O Monge de Viena e Apóstolo da Europa"
 
-**Nascimento:** 17 de novembro de 1631, Aviano, República de Veneza (atual Itália)<br>
-**Morte:** 13 de agosto de 1699, Viena, Áustria<br>
-**Festa Litúrgica:** 13 de agosto<br>
-**Beatificação:** 27 de abril de 2003, pelo Papa João Paulo II
+- **Nascimento:** 17 de novembro de 1631, Aviano, República de Veneza (atual Itália)
+- **Morte:** 13 de agosto de 1699, Viena, Áustria
+- **Beatificação:** 27 de abril de 2003, pelo Papa João Paulo II
+- **Festa Litúrgica:** 13 de agosto
 
 <TextToSpeech />
 
@@ -42,11 +47,11 @@ Após a batalha de Viena, ele libertou um grupo de prisioneiros muçulmanos cond
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 46.0718, lng: 12.5855, title: "Aviano, Itália", description: "Sua cidade natal." },
-  { lat: 45.4064, lng: 11.8767, title: "Pádua, Itália", description: "Onde realizou a cura milagrosa em 1676 que iniciou sua fama europeia." },
-  { lat: 48.2082, lng: 16.3738, title: "Viena, Áustria", description: "Onde unificou o exército cristão e faleceu em 1699." },
-  { lat: 47.4979, lng: 19.0402, title: "Budapeste, Hungria", description: "Onde agiu ativamente na libertação cristã após quase dois séculos de domínio otomano." },
-  { lat: 44.8125, lng: 20.4612, title: "Belgrado, Sérvia", description: "Local de outra grande vitória militar da qual participou, defendendo os direitos civis e prisioneiros." }
+  { lat: 46.0718, lng: 12.5855, type: "nascimento", title: "Aviano, Itália", description: "Sua cidade natal." },
+  { lat: 47.4979, lng: 19.0402, type: "vida", title: "Budapeste, Hungria", description: "Onde agiu ativamente na libertação cristã após quase dois séculos de domínio otomano." },
+  { lat: 44.8125, lng: 20.4612, type: "vida", title: "Belgrado, Sérvia", description: "Local de outra grande vitória militar da qual participou, defendendo os direitos civis e prisioneiros." },
+  { lat: 45.4064, lng: 11.8767, type: "milagre", title: "Pádua, Itália", description: "Onde realizou a cura milagrosa em 1676 que iniciou sua fama europeia." },
+  { lat: 48.2082, lng: 16.3738, type: "morte", title: "Viena, Áustria", description: "Onde unificou o exército cristão e faleceu em 1699." }
 ]' />
 
 ## Impacto Hoje

@@ -1,19 +1,22 @@
+---
+title: Santo Inácio de Antioquia
+description: Biografia, milagres, curiosidades e mapa de Santo Inácio de Antioquia.
+---
+
 # Santo Inácio de Antioquia
 
-<div class="profile-container">
-  <div class="profile-image">
-    <img src="./imagens/portrait.jpg" alt="Santo Inácio de Antioquia" />
-  </div>
-  <div class="profile-info">
-    <blockquote>"Sou trigo de Deus e devo ser moído pelos dentes das feras, para tornar-me pão puro de Cristo."</blockquote>
-    <p><b>Nascimento:</b> c. 35 d.C.</p><br>
-    <p><b>Morte:</b> c. 107 d.C.</p><br>
-    <p><b>Canonização:</b> Reconhecimento pré-congregacional</p><br>
-    <p><b>Festa Litúrgica:</b> 17 de Outubro</p>
-  </div>
-</div>
+![Santo Inácio de Antioquia](imagens/portrait.jpg)
+
+> "Sou trigo de Deus e devo ser moído pelos dentes das feras, para tornar-me pão puro de Cristo."
+
+- **Nascimento:** c. 35 d.C., Síria (província romana)
+- **Morte:** c. 107 d.C., Roma (Itália)
+- **Canonização:** Reconhecimento pré-congregacional
+- **Festa Litúrgica:** 17 de Outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -45,26 +48,13 @@ Como mártir da Igreja primitiva, os "milagres" associados a Santo Inácio são 
 - **Filipos, Macedônia:** Ponto de passagem mencionado por Policarpo.
 - **Roma, Itália:** Local de seu martírio no Coliseu.
 
+<MiracleMap :items='[
+  { lat: 34.8021, lng: 38.9968, type: "nascimento", title: "Síria", description: "Local de nascimento (c. 35 d.C.)." },
+  { lat: 36.2021, lng: 36.1606, type: "vida", title: "Ministério em Antioquia", description: "Liderou a influente comunidade cristã na Síria e moldou o cristianismo primitivo." },
+  { lat: 38.4237, lng: 27.1428, type: "vida", title: "Passagem por Esmirna", description: "Encontro com São Policarpo e escrita de diversas epístolas." },
+  { lat: 41.8902, lng: 12.4922, type: "morte", title: "Roma", description: "Lançado às feras no Coliseu, sacrificando a vida pela fé em Cristo. Local da morte (c. 107 d.C.)." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de Santo Inácio de Antioquia ressoa profundamente até hoje, especialmente nas áreas da eclesiologia e teologia eucarística. Suas cartas continuam a ser estudadas intensivamente por teólogos, historiadores e fiéis para entender as origens da Igreja Cristã e a sucessão apostólica. Ele é venerado como o padroeiro do leste do Mediterrâneo e do norte da África, e sua insistência na unidade da igreja ao redor do bispo e na Eucaristia como o "remédio da imortalidade" continua a ser uma pedra angular da doutrina e da liturgia cristã contemporânea. A sua corajosa aceitação do martírio permanece como um dos exemplos mais comoventes de fé cristã absoluta.
-
-<MiracleMap
-  :miracles="[
-    {
-      title: 'Ministério em Antioquia',
-      description: 'Liderou a influente comunidade cristã na Síria e moldou o cristianismo primitivo.',
-      coordinates: [36.2021, 36.1606]
-    },
-    {
-      title: 'Passagem por Esmirna',
-      description: 'Encontro com São Policarpo e escrita de diversas epístolas.',
-      coordinates: [38.4237, 27.1428]
-    },
-    {
-      title: 'Martírio em Roma',
-      description: 'Lançado às feras no Coliseu, sacrificando a vida pela fé em Cristo.',
-      coordinates: [41.8902, 12.4922]
-    }
-  ]"
-/>

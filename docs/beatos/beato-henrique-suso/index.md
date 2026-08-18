@@ -1,17 +1,22 @@
+---
+title: Beato Henrique Suso
+description: Biografia, milagres, curiosidades e mapa do Beato Henrique Suso.
+---
+
 # Beato Henrique Suso
 
 ![Beato Henrique Suso](imagens/portrait.jpg)
 
-**"O Minnesänger da Sabedoria Divina"**
+> "O Minnesänger da Sabedoria Divina"
 
-**Nascimento:** 21 de março de 1295, Constança (Alemanha)<br>
-**Morte:** 25 de janeiro de 1366, Ulm (Alemanha)<br>
-**Festa Litúrgica:** 2 de março<br>
-**Beatificação:** 16 de abril de 1831, pelo Papa Gregório XVI<br>
-
----
+- **Nascimento:** 21 de março de 1295, Constança (Alemanha)
+- **Morte:** 25 de janeiro de 1366, Ulm (Alemanha)
+- **Beatificação:** 16 de abril de 1831, pelo Papa Gregório XVI
+- **Festa Litúrgica:** 2 de março
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -47,10 +52,14 @@ Seus milagres após a morte estão principalmente ligados a curas espirituais e 
 - Aachen, Alemanha (Viagens de pregação)
 - Ulm, Alemanha (Passou seus últimos anos no convento dominicano e faleceu)
 
+<MiracleMap :items='[
+  { lat: 47.6592, lng: 9.175, type: "nascimento", title: "Nascimento e Conversão", description: "Constança (Alemanha), cidade natal onde teve sua grande conversão aos 18 anos." },
+  { lat: 50.9375, lng: 6.9603, type: "vida", title: "Estudos com Mestre Eckhart", description: "Colônia (Alemanha), onde se tornou um expoente da Mística Renana." },
+  { lat: 48.3984, lng: 9.9915, type: "morte", title: "Ulm", description: "Ulm (Alemanha), cidade onde passou seus últimos dias em oração e contemplação. Local da morte (25 de janeiro de 1366)." }
+]' />
+
 ## Impacto Hoje
 
 Henrique Suso permanece como uma figura central na história da mística cristã. Seu "Livro da Eterna Sabedoria" ainda é lido hoje como um clássico da espiritualidade. Seu exemplo de suportar calúnias e acusações injustas com paz interior e união à Paixão de Cristo continua a inspirar muitos cristãos que enfrentam perseguições semelhantes.
 
 Sua teologia do amor e sua devoção ao Sagrado Coração de Jesus (prefigurando as revelações a Santa Margarida Maria Alacoque séculos depois) deixaram uma marca indelével na devoção católica.
-
-<MiracleMap :items='[{ lat: 47.6592, lng: 9.1750, title: "Nascimento e Conversão", description: "Constança (Alemanha), cidade natal onde teve sua grande conversão aos 18 anos." }, { lat: 50.9375, lng: 6.9603, title: "Estudos com Mestre Eckhart", description: "Colônia (Alemanha), onde se tornou um expoente da Mística Renana." }, { lat: 48.3984, lng: 9.9915, title: "Morte em Ulm", description: "Ulm (Alemanha), cidade onde passou seus últimos dias em oração e contemplação." }]' />

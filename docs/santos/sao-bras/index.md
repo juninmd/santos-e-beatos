@@ -1,34 +1,22 @@
 ---
 title: São Brás
-description: História de São Brás, Bispo e Mártir, protetor das gargantas.
-head:
-  - - meta
-    - name: keywords
-      content: São Brás, Santo, Igreja Católica, Mártir, Gargantas, Milagres, Bispo de Sebaste
+description: Biografia, milagres, curiosidades e mapa de São Brás.
 ---
-
-<script setup>
-import MiracleMap from '../../.vitepress/components/MiracleMap.vue'
-import TextToSpeech from '../../.vitepress/components/TextToSpeech.vue'
-import SaintOfTheDay from '../../.vitepress/components/SaintOfTheDay.vue'
-</script>
 
 # São Brás
 
-<div class="saint-profile">
-  <img src="./imagens/portrait.jpg" alt="São Brás" class="saint-portrait" />
-  <div class="saint-info">
-    <p class="quote">"Ó glorioso São Brás, que restituístes com uma breve oração a perfeita saúde a um menino que, por uma espinha de peixe atravessada na garganta, estava prestes a expirar, obtende para nós todos a graça de experimentarmos a eficácia do vosso patrocínio."</p>
-    <div class="metadata">
-      <p><strong>Nascimento:</strong> Séc. III<br>
-      <strong>Morte:</strong> 316<br>
-      <strong>Canonização:</strong> Pré-Congregação<br>
-      <strong>Festa Litúrgica:</strong> 03 de Fevereiro</p>
-    </div>
-  </div>
-</div>
+![São Brás](imagens/portrait.jpg)
+
+> "Ó glorioso São Brás, que restituístes com uma breve oração a perfeita saúde a um menino que, por uma espinha de peixe atravessada na garganta, estava prestes a expirar, obtende para nós todos a graça de experimentarmos a eficácia do vosso patrocínio."
+
+- **Nascimento:** Séc. III, Sebaste da Armênia (atual Sivas, Turquia)
+- **Morte:** 316, Sebaste da Armênia (atual Sivas, Turquia)
+- **Canonização:** Pré-Congregação
+- **Festa Litúrgica:** 03 de Fevereiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -56,13 +44,14 @@ Outro relato milagroso conta que uma pobre mulher teve seu único porco roubado 
 *   **Sebaste (Sivas, Turquia):** Cidade onde nasceu, exerceu a medicina, foi bispo e sofreu o martírio.
 *   **Monte Argeu:** Local de seu retiro eremítico.
 
+<MiracleMap :items='[
+  { lat: 39.7505, lng: 37.015, type: "nascimento", title: "Sebaste (Sivas)", description: "Local de nascimento, episcopado e martírio de São Brás." },
+  { lat: 38.5306, lng: 35.445, type: "vida", title: "Monte Argeu", description: "Local onde São Brás viveu como eremita em uma caverna." },
+  { lat: 39.7505, lng: 37.015, type: "morte", title: "Sebaste (Sivas)", description: "Local da morte (316)." }
+]' />
+
 ## Impacto Hoje
 
 A devoção a São Brás permanece extremamente viva e atual. Milhares de fiéis lotam as igrejas no dia 3 de fevereiro para receber a bênção da garganta, buscando proteção não apenas contra doenças físicas, mas também pedindo a graça de usar bem a voz para louvar a Deus e edificar o próximo.
 
 Num mundo onde a comunicação é central, São Brás nos lembra a importância da palavra curadora e da fé que salva. Seu exemplo de coragem diante da perseguição e sua caridade inabalável continuam a inspirar médicos e profissionais de saúde a verem em cada paciente a imagem de Cristo.
-
-<MiracleMap :markers="[
-  { lat: 39.7505, lng: 37.0150, title: 'Sebaste (Sivas)', description: 'Local de nascimento, episcopado e martírio de São Brás.' },
-  { lat: 38.5306, lng: 35.4450, title: 'Monte Argeu', description: 'Local onde São Brás viveu como eremita em uma caverna.' }
-]" />

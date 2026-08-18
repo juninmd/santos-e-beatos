@@ -1,13 +1,18 @@
+---
+title: Santa Kateri Tekakwitha
+description: Biografia, milagres, curiosidades e mapa de Santa Kateri Tekakwitha.
+---
+
 # Santa Kateri Tekakwitha
 
 ![Santa Kateri Tekakwitha](imagens/portrait.jpg)
 
-**"O Lírio dos Mohawks"**
+> "O Lírio dos Mohawks"
 
-**Nascimento:** 1656, Ossernenon (atual Auriesville, Nova York, EUA)<br>
-**Morte:** 17 de abril de 1680, Kahnawake, Quebec, Canadá<br>
-**Festa Litúrgica:** 17 de abril (no Canadá) e 14 de julho (nos EUA)<br>
-**Canonização:** 21 de outubro de 2012, pelo Papa Bento XVI<br>
+- **Nascimento:** 1656, Ossernenon (atual Auriesville, Nova York, EUA)
+- **Morte:** 17 de abril de 1680, Kahnawake, Quebec, Canadá
+- **Canonização:** 21 de outubro de 2012, pelo Papa Bento XVI
+- **Festa Litúrgica:** 17 de abril (no Canadá) e 14 de julho (nos EUA)
 
 <TextToSpeech />
 
@@ -42,8 +47,9 @@ O milagre que levou à sua canonização envolveu a cura de Jake Finkbonner, um 
 Sua vida foi um testemunho de fé nas terras que hoje são os Estados Unidos e o Canadá.
 
 <MiracleMap :items='[
-  { lat: 42.9238, lng: -74.3216, title: "Ossernenon (Auriesville, NY)", description: "Local de nascimento e de sua sobrevivência à epidemia de varíola." },
-  { lat: 45.4150, lng: -73.6775, title: "Kahnawake (Quebec, Canadá)", description: "Comunidade cristã onde viveu seus últimos anos em profunda oração e onde faleceu." }
+  { lat: 42.9238, lng: -74.3216, type: "nascimento", title: "Ossernenon (Auriesville, NY)", description: "Local de nascimento e de sua sobrevivência à epidemia de varíola." },
+  { lat: 48.8465, lng: -122.5915, type: "milagre", title: "Ferndale (Washington), EUA", description: "Cura de Jake Finkbonner, da tribo Lummi, de fasciíte necrosante — milagre da canonização." },
+  { lat: 45.415, lng: -73.6775, type: "morte", title: "Kahnawake (Quebec, Canadá)", description: "Comunidade cristã onde viveu seus últimos anos em profunda oração e onde faleceu." }
 ]' />
 
 ## Impacto Hoje

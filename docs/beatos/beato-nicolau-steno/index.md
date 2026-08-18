@@ -1,21 +1,22 @@
+---
+title: Beato Nicolau Steno
+description: Biografia, milagres, curiosidades e mapa do Beato Nicolau Steno.
+---
+
 # Beato Nicolau Steno
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
-  <div style="flex: 0 0 200px;">
-    <img src="./imagens/portrait.jpg" alt="Beato Nicolau Steno" style="width: 100%; border-radius: 8px;">
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <p><i>"Belo é o que vemos, mais belo o que sabemos, mas muito mais belo é o que ignoramos."</i></p>
-    <p>
-      <b>Nascimento:</b> 11 de janeiro de 1638<br>
-      <b>Morte:</b> 25 de novembro de 1686<br>
-      <b>Beatificação:</b> 23 de outubro de 1988 (pelo Papa João Paulo II)<br>
-      <b>Festa Litúrgica:</b> 5 de dezembro<br>
-    </p>
-  </div>
-</div>
+![Beato Nicolau Steno](imagens/portrait.jpg)
+
+> "Belo é o que vemos, mais belo o que sabemos, mas muito mais belo é o que ignoramos."
+
+- **Nascimento:** 11 de janeiro de 1638, Copenhague (Dinamarca)
+- **Morte:** 25 de novembro de 1686, Schwerin (Alemanha)
+- **Beatificação:** 23 de outubro de 1988 (pelo Papa João Paulo II)
+- **Festa Litúrgica:** 5 de dezembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -46,14 +47,12 @@ Apesar de ofertas de posições prestigiosas na Dinamarca e em outros lugares, S
 *   **Florença, Itália:** O local de seus maiores triunfos científicos, sua conversão ao catolicismo e onde seus restos mortais repousam.
 *   **Münster, Hanôver e Schwerin, Alemanha:** Cidades onde serviu como bispo, vivendo em extrema pobreza e dedicação pastoral até sua morte.
 
+<MiracleMap :items='[
+  { lat: 55.6761, lng: 12.5683, type: "nascimento", title: "Copenhague, Dinamarca", description: "Local de nascimento e estudos iniciais de medicina." },
+  { lat: 53.6333, lng: 11.4167, type: "morte", title: "Schwerin, Alemanha", description: "Local onde faleceu após anos de árduo trabalho pastoral e vida ascética como bispo." },
+  { lat: 43.7696, lng: 11.2558, type: "tumulo", title: "Florença, Itália", description: "Realizou importantes descobertas geológicas, converteu-se ao catolicismo e está sepultado na Basílica de São Lourenço." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Nicolau Steno é um poderoso padroeiro para cientistas. Em uma época onde a ciência e a religião são frequentemente (e falsamente) retratadas em conflito, a vida de Steno é um testemunho brilhante de que a busca pela verdade no mundo natural pode levar diretamente à busca pela Verdade suprema em Deus. Ele inspira pesquisadores a manterem o rigor científico e, ao mesmo tempo, uma humildade profunda perante o mistério da criação.
-
-<MiracleMap
-  :miracles="[
-    { lat: 55.6761, lng: 12.5683, title: 'Copenhague, Dinamarca', description: 'Local de nascimento e estudos iniciais de medicina.' },
-    { lat: 43.7696, lng: 11.2558, title: 'Florença, Itália', description: 'Realizou importantes descobertas geológicas, converteu-se ao catolicismo e está sepultado na Basílica de São Lourenço.' },
-    { lat: 53.6333, lng: 11.4167, title: 'Schwerin, Alemanha', description: 'Local onde faleceu após anos de árduo trabalho pastoral e vida ascética como bispo.' }
-  ]"
-/>

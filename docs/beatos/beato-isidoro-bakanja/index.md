@@ -1,13 +1,18 @@
+---
+title: Beato Isidoro Bakanja
+description: Biografia, milagres, curiosidades e mapa do Beato Isidoro Bakanja.
+---
+
 # Beato Isidoro Bakanja
 
 ![Beato Isidoro Bakanja](imagens/portrait.jpg)
 
-**"Se eu encontrar Jesus, rezarei muito por ti."**
+> "Se eu encontrar Jesus, rezarei muito por ti."
 
-**Nascimento:** c. 1885, Bokendela (Congo)
-**Morte:** 15 de agosto de 1909, Busira (Congo)
-**Festa Litúrgica:** 12 de agosto (Carmelitas) / 15 de agosto
-**Beatificação:** 24 de abril de 1994, pelo Papa João Paulo II
+- **Nascimento:** c. 1885, Bokendela (Congo)
+- **Morte:** 15 de agosto de 1909, Busira (Congo)
+- **Beatificação:** 24 de abril de 1994, pelo Papa João Paulo II
+- **Festa Litúrgica:** 12 de agosto (Carmelitas) / 15 de agosto
 
 <TextToSpeech />
 
@@ -46,8 +51,9 @@ Ele faleceu em 15 de agosto de 1909, na Solenidade da Assunção de Nossa Senhor
 Isidoro viveu toda sua vida na região do Congo.
 
 <MiracleMap :items='[
-  { lat: 0.0485, lng: 18.2603, title: "Mbandaka, R.D. Congo", description: "Cidade onde conheceu os missionários e foi batizado." },
-  { lat: 0.8167, lng: 19.3333, title: "Busira, R.D. Congo", description: "Local onde faleceu após meses de agonia." }
+  { lat: -0.28, lng: 20.42, type: "nascimento", title: "Bokendela", description: "Local de nascimento (c. 1885)." },
+  { lat: 0.0485, lng: 18.2603, type: "vida", title: "Mbandaka, R.D. Congo", description: "Cidade onde conheceu os missionários e foi batizado." },
+  { lat: 0.8167, lng: 19.3333, type: "morte", title: "Busira, R.D. Congo", description: "Local onde faleceu após meses de agonia." }
 ]' />
 
 ## Impacto Hoje

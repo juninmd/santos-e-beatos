@@ -1,13 +1,18 @@
+---
+title: Beata Maria Bolognesi
+description: Biografia, milagres, curiosidades e mapa da Beata Maria Bolognesi.
+---
+
 # Beata Maria Bolognesi
 
 ![Beata Maria Bolognesi](imagens/portrait.jpg)
 
-**"A Mística dos Pobres e Sofredores"**
+> "A Mística dos Pobres e Sofredores"
 
-**Nascimento:** 21 de outubro de 1924, Bosaro, Itália<br>
-**Morte:** 30 de janeiro de 1980, Rovigo, Itália<br>
-**Festa Litúrgica:** 30 de janeiro<br>
-**Beatificação:** 2 de maio de 2013, pelo Papa Francisco (cerimônia presidida pelo Cardeal Angelo Amato)
+- **Nascimento:** 21 de outubro de 1924, Bosaro, Itália
+- **Morte:** 30 de janeiro de 1980, Rovigo, Itália
+- **Beatificação:** 2 de maio de 2013, pelo Papa Francisco (cerimônia presidida pelo Cardeal Angelo Amato)
+- **Festa Litúrgica:** 30 de janeiro
 
 <TextToSpeech />
 
@@ -36,11 +41,11 @@ Inúmeros relatos de graças e favores celestes cercaram sua vida, incluindo cap
 - **Bosaro, Itália:** Cidade natal, onde passou sua infância marcada por dificuldades e onde começou a ter suas primeiras experiências místicas.
 - **Rovigo, Itália:** Onde ela realizou a maior parte do seu trabalho caritativo, viveu os anos mais intensos de seu misticismo e onde veio a falecer. Seus restos mortais repousam hoje nesta cidade.
 
+<MiracleMap :items='[
+  { lat: 45.0069, lng: 11.7516, type: "nascimento", title: "Bosaro, Itália", description: "Local de nascimento e primeiros anos." },
+  { lat: 45.0716, lng: 11.7905, type: "morte", title: "Rovigo, Itália", description: "Onde realizou grande parte de suas obras de caridade e onde faleceu." }
+]' />
+
 ## Impacto Hoje
 
 A vida da Beata Maria Bolognesi é um testemunho pungente do valor redentor do sofrimento quando unido a Cristo. Num mundo que frequentemente foge da dor e da marginalização, Maria demonstrou como uma vida envolta em doenças físicas, pobreza extrema e mal-entendidos pode se tornar um farol brilhante de caridade. Sua dedicação inabalável aos mais vulneráveis continua a inspirar obras de assistência na região de Rovigo e serve como um modelo de fé resiliente para todos os cristãos.
-
-<MiracleMap :items='[
-  { lat: 45.0069, lng: 11.7516, title: "Bosaro, Itália", description: "Local de nascimento e primeiros anos." },
-  { lat: 45.0716, lng: 11.7905, title: "Rovigo, Itália", description: "Onde realizou grande parte de suas obras de caridade e onde faleceu." }
-]' />

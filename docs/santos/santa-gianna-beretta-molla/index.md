@@ -1,13 +1,18 @@
+---
+title: Santa Gianna Beretta Molla
+description: Biografia, milagres, curiosidades e mapa de Santa Gianna Beretta Molla.
+---
+
 # Santa Gianna Beretta Molla
 
 ![Santa Gianna Beretta Molla](imagens/portrait.jpg)
 
-**"O amor é o sentimento mais bonito que o Senhor colocou na alma dos homens e das mulheres."**
+> "O amor é o sentimento mais bonito que o Senhor colocou na alma dos homens e das mulheres."
 
-**Nascimento:** 4 de outubro de 1922, Magenta, Itália<br>
-**Morte:** 28 de abril de 1962, Monza, Itália<br>
-**Canonização:** 16 de maio de 2004, pelo Papa João Paulo II<br>
-**Festa Litúrgica:** 28 de abril<br>
+- **Nascimento:** 4 de outubro de 1922, Magenta, Itália
+- **Morte:** 28 de abril de 1962, Monza, Itália
+- **Canonização:** 16 de maio de 2004, pelo Papa João Paulo II
+- **Festa Litúrgica:** 28 de abril
 
 <TextToSpeech />
 
@@ -46,10 +51,10 @@ Santa Gianna é um ícone do movimento pró-vida e padroeira das mães, dos méd
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 45.4641, lng: 8.8837, title: "Magenta, Itália", description: "Local de nascimento de Santa Gianna." },
-  { lat: 45.5000, lng: 8.8667, title: "Mesero, Itália", description: "Onde viveu, exerceu a medicina e onde está sepultada." },
-  { lat: 45.5845, lng: 9.2744, title: "Monza, Itália", description: "Hospital onde faleceu." },
-  { lat: 45.4642, lng: 9.1900, title: "Milão, Itália", description: "Onde estudou medicina." }
+  { lat: 45.4641, lng: 8.8837, type: "nascimento", title: "Magenta, Itália", description: "Local de nascimento de Santa Gianna." },
+  { lat: 45.4642, lng: 9.19, type: "vida", title: "Milão, Itália", description: "Onde estudou medicina." },
+  { lat: 45.5845, lng: 9.2744, type: "morte", title: "Monza, Itália", description: "Hospital onde faleceu." },
+  { lat: 45.5, lng: 8.8667, type: "tumulo", title: "Mesero, Itália", description: "Onde viveu, exerceu a medicina e onde está sepultada." }
 ]' />
 
 ## Galeria de Imagens e Restaurações

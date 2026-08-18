@@ -1,13 +1,18 @@
-# Beata Antonieta Meo
+---
+title: Venerável Antonietta Meo (Nennolina)
+description: Biografia, milagres, curiosidades e mapa da Venerável Antonietta Meo, a menina romana chamada Nennolina.
+---
 
-![Beata Antonieta Meo](imagens/portrait.jpg)
+# Venerável Antonietta Meo (Nennolina)
 
-**"A Pequena Nennolina"**
+![Venerável Antonietta Meo (Nennolina)](imagens/portrait.jpg)
 
-**Nascimento:** 15 de dezembro de 1930, Roma, Itália<br>
-**Morte:** 3 de julho de 1937, Roma, Itália<br>
-**Festa Litúrgica:** 3 de julho<br>
-**Beatificação:** Reconhecida Venerável pelo Papa Bento XVI em 2007 (comumente referida como a mais jovem "venerável" candidata à beatificação). *Nota: O processo de beatificação está em curso.*<br>
+> "A Pequena Nennolina"
+
+- **Nascimento:** 15 de dezembro de 1930, Roma, Itália
+- **Morte:** 3 de julho de 1937, Roma, Itália
+- **Beatificação:** Declarada Venerável em 17 de dezembro de 2007, pelo Papa Bento XVI (processo de beatificação em curso)
+- **Festa Litúrgica:** 3 de julho
 
 <TextToSpeech />
 
@@ -15,7 +20,7 @@
 
 ## Biografia
 
-Antonieta Meo, carinhosamente chamada de "Nennolina", nasceu em uma família abastada e profundamente católica em Roma. Foi uma criança vivaz, alegre e brincalhona, frequentando a escola e as aulas de catecismo em sua paróquia. Aos cinco anos, foi diagnosticada com osteossarcoma (câncer ósseo) em uma de suas pernas, que precisou ser amputada.
+Antonietta Meo, carinhosamente chamada de "Nennolina", nasceu em uma família abastada e profundamente católica em Roma. Foi uma criança vivaz, alegre e brincalhona, frequentando a escola e as aulas de catecismo em sua paróquia. Aos cinco anos, foi diagnosticada com osteossarcoma (câncer ósseo) em uma de suas pernas, que precisou ser amputada.
 
 Apesar da dor excruciante e da pouca idade, Nennolina surpreendeu médicos, familiares e sacerdotes com sua maturidade espiritual e sua capacidade de oferecer seus sofrimentos a Jesus, pela conversão dos pecadores, pelos missionários na África e pela paz.
 
@@ -44,10 +49,11 @@ Sua breve vida já foi reconhecida oficialmente pela Igreja por suas "virtudes h
 Nennolina passou sua breve e intensa vida em Roma.
 
 <MiracleMap :items='[
-  { lat: 41.8902, lng: 12.4922, title: "Roma, Itália", description: "Cidade onde nasceu, viveu sua vocação à dor com alegria e faleceu." },
-  { lat: 41.8885, lng: 12.5158, title: "Basílica da Santa Cruz em Jerusalém (Roma)", description: "Local onde se encontra o seu túmulo." }
+  { lat: 41.8902, lng: 12.4922, type: "nascimento", title: "Roma, Itália", description: "Cidade onde nasceu, viveu sua vocação à dor com alegria e faleceu." },
+  { lat: 41.8902, lng: 12.4922, type: "morte", title: "Roma, Itália", description: "Local da morte (3 de julho de 1937)." },
+  { lat: 41.8885, lng: 12.5158, type: "tumulo", title: "Basílica da Santa Cruz em Jerusalém (Roma)", description: "Local onde se encontra o seu túmulo." }
 ]' />
 
 ## Impacto Hoje
 
-Venerável Antonieta Meo é um testemunho extraordinário para as crianças e adultos de hoje. Ela ensina que a santidade não é questão de idade ou grandes obras, mas de amar muito e oferecer até as pequenas (ou grandes) dores com um sorriso. Para as crianças doentes, ela é uma amiguinha no Céu que entende a dor e ensina como transformá-la em amor. Para a teologia, suas "cartinhas" continuam sendo um mistério maravilhoso da graça divina agindo na simplicidade de uma criança.
+Venerável Antonietta Meo é um testemunho extraordinário para as crianças e adultos de hoje. Ela ensina que a santidade não é questão de idade ou grandes obras, mas de amar muito e oferecer até as pequenas (ou grandes) dores com um sorriso. Para as crianças doentes, ela é uma amiguinha no Céu que entende a dor e ensina como transformá-la em amor. Para a teologia, suas "cartinhas" continuam sendo um mistério maravilhoso da graça divina agindo na simplicidade de uma criança.

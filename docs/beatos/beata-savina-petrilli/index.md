@@ -1,17 +1,22 @@
+---
+title: Beata Savina Petrilli
+description: Biografia, milagres, curiosidades e mapa da Beata Savina Petrilli.
+---
+
 # Beata Savina Petrilli
 
 ![Beata Savina Petrilli](imagens/portrait.jpg)
 
-**"Onde há caridade, aí está Deus."**
+> "Onde há caridade, aí está Deus."
 
-**Nascimento:** 29 de agosto de 1851, Siena, Itália
-**Morte:** 18 de abril de 1923, Siena, Itália
-**Festa Litúrgica:** 18 de abril
-**Beatificação:** 24 de abril de 1988, pelo Papa João Paulo II
-
----
+- **Nascimento:** 29 de agosto de 1851, Siena, Itália
+- **Morte:** 18 de abril de 1923, Siena, Itália
+- **Beatificação:** 24 de abril de 1988, pelo Papa João Paulo II
+- **Festa Litúrgica:** 18 de abril
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -37,8 +42,11 @@ Sua beatificação por João Paulo II em 1988 foi possível após o reconhecimen
 *   **Onano (Itália):** Local da primeira casa fundada fora de Siena.
 *   **Belém (Brasil):** Destino das primeiras missionárias enviadas por ela.
 
+<MiracleMap :items='[
+  { lat: 43.3188, lng: 11.3308, type: "nascimento", title: "Siena, Itália", description: "Local de nascimento (29 de agosto de 1851)." },
+  { lat: 43.3188, lng: 11.3308, type: "morte", title: "Siena, Itália", description: "Local da morte (18 de abril de 1923)." }
+]' />
+
 ## Impacto Hoje
 
 O legado da Beata Savina Petrilli vive através das Irmãs dos Pobres de Santa Catarina de Sena, que continuam a servir os mais vulneráveis em diversos países. Sua vida é um testemunho de que a caridade concreta e o abandono à vontade de Deus podem transformar o mundo. No Brasil, sua obra é especialmente forte, com escolas e hospitais que levam seu nome e carisma.
-
-<MiracleMap />

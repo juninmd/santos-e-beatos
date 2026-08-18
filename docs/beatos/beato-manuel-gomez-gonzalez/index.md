@@ -1,13 +1,18 @@
+---
+title: Beato Manuel Gómez González
+description: Biografia, milagres, curiosidades e mapa do Beato Manuel Gómez González.
+---
+
 # Beato Manuel Gómez González
 
 ![Beato Manuel Gómez González](imagens/portrait.jpg)
 
-**"Mártir do Brasil"**
+> "Mártir do Brasil"
 
-**Nascimento:** 29 de maio de 1877, San José de Ribarteme, Espanha<br>
-**Morte:** 21 de outubro de 1924, Três Passos, Rio Grande do Sul, Brasil<br>
-**Festa Litúrgica:** 21 de outubro<br>
-**Beatificação:** 21 de outubro de 2007, pelo Papa Bento XVI (cerimônia presidida pelo Cardeal José Saraiva Martins)
+- **Nascimento:** 29 de maio de 1877, San José de Ribarteme, Espanha
+- **Morte:** 21 de outubro de 1924, Três Passos, Rio Grande do Sul, Brasil
+- **Beatificação:** 21 de outubro de 2007, pelo Papa Bento XVI (cerimônia presidida pelo Cardeal José Saraiva Martins)
+- **Festa Litúrgica:** 21 de outubro
 
 <TextToSpeech />
 
@@ -46,14 +51,14 @@ O milagre formalmente reconhecido para a sua beatificação não envolveu uma cu
 - **Nonoai, Rio Grande do Sul, Brasil:** Cidade onde foi pároco e desenvolveu um extenso trabalho missionário.
 - **Três Passos, Rio Grande do Sul, Brasil:** Local de seu martírio.
 
+<MiracleMap :items='[
+  { lat: 42.15, lng: -8.45, type: "nascimento", title: "San José de Ribarteme, Espanha", description: "Local de nascimento do Beato Manuel." },
+  { lat: -27.3592, lng: -52.7667, type: "vida", title: "Nonoai, RS, Brasil", description: "Paróquia onde atuou como pároco e missionário." },
+  { lat: -27.455, lng: -53.9317, type: "morte", title: "Três Passos, RS, Brasil", description: "Local onde sofreu o martírio junto com o Beato Adílio Daronch." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Manuel Gómez González, junto com o Beato Adílio Daronch, é um poderoso símbolo de fidelidade ao ministério sacerdotal e de compromisso inabalável com a missão, mesmo diante da ameaça de morte. O santuário dedicado a eles em Nonoai atrai anualmente milhares de peregrinos que buscam inspiração em sua coragem e dedicação.
 
 Sua história ressoa particularmente na América Latina como um testemunho contra a violência política e o ódio religioso. O exemplo de Padre Manuel incentiva sacerdotes e leigos a permanecerem firmes em sua fé e nos seus deveres para com os mais necessitados, reafirmando que o verdadeiro amor cristão vai até as últimas consequências.
-
-<MiracleMap :items='[
-  { lat: 42.1500, lng: -8.4500, title: "San José de Ribarteme, Espanha", description: "Local de nascimento do Beato Manuel." },
-  { lat: -27.3592, lng: -52.7667, title: "Nonoai, RS, Brasil", description: "Paróquia onde atuou como pároco e missionário." },
-  { lat: -27.4550, lng: -53.9317, title: "Três Passos, RS, Brasil", description: "Local onde sofreu o martírio junto com o Beato Adílio Daronch." }
-]' />

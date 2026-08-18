@@ -1,17 +1,22 @@
+---
+title: Beato Ceferino Giménez Malla
+description: Biografia, milagres, curiosidades e mapa do Beato Ceferino Giménez Malla.
+---
+
 # Beato Ceferino Giménez Malla
 
 ![Beato Ceferino Giménez Malla](imagens/portrait.jpg)
 
-**"O Mártir Cigano."**
+> "O Mártir Cigano."
 
-**Nascimento:** 26 de agosto de 1861, Fraga, Espanha<br>
-**Morte:** 9 de agosto de 1936, Barbastro, Espanha<br>
-**Beatificação:** 4 de maio de 1997, pelo Papa João Paulo II<br>
-**Festa Litúrgica:** 2 de agosto<br>
-
----
+- **Nascimento:** 26 de agosto de 1861, Fraga, Espanha
+- **Morte:** 9 de agosto de 1936, Barbastro, Espanha
+- **Beatificação:** 4 de maio de 1997, pelo Papa João Paulo II
+- **Festa Litúrgica:** 2 de agosto
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -32,11 +37,11 @@ Ceferino Giménez Malla, carinhosamente conhecido como "El Pelé", nasceu na Esp
 - **Fraga, Espanha:** Sua cidade natal.
 - **Barbastro, Espanha:** Onde viveu grande parte de sua vida e onde foi martirizado.
 
+<MiracleMap :items='[
+  { lat: 41.5236, lng: 0.3475, type: "nascimento", title: "Fraga", description: "Local do nascimento de Ceferino em 1861." },
+  { lat: 42.0362, lng: 0.1265, type: "morte", title: "Barbastro", description: "Onde viveu e foi martirizado durante a Guerra Civil Espanhola em 1936." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, Ceferino Giménez Malla é reverenciado como o padroeiro dos Ciganos ao redor do mundo. Ele é um poderoso lembrete de que a santidade é um chamado universal, destinado a pessoas de todas as raças, culturas e classes sociais. O seu testemunho até o derramamento de sangue encoraja a defesa da fé de modo corajoso e público.
-
-<MiracleMap :items="[
-  { lat: 41.5236, lng: 0.3475, title: 'Fraga', description: 'Local do nascimento de Ceferino em 1861.' },
-  { lat: 42.0362, lng: 0.1265, title: 'Barbastro', description: 'Onde viveu e foi martirizado durante a Guerra Civil Espanhola em 1936.' }
-]" />

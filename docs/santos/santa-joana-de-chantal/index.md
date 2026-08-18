@@ -1,13 +1,18 @@
+---
+title: Santa Joana de Chantal
+description: Biografia, milagres, curiosidades e mapa de Santa Joana de Chantal.
+---
+
 # Santa Joana de Chantal
 
 ![Santa Joana de Chantal](imagens/portrait.jpg)
 
-**"Fundadora da Ordem da Visitação e Mãe de Família"**
+> "Fundadora da Ordem da Visitação e Mãe de Família"
 
-**Nascimento:** 28 de janeiro de 1572, Dijon, França<br>
-**Morte:** 13 de dezembro de 1641, Moulins, França<br>
-**Festa Litúrgica:** 12 de agosto<br>
-**Canonização:** 16 de julho de 1767, pelo Papa Clemente XIII
+- **Nascimento:** 28 de janeiro de 1572, Dijon, França
+- **Morte:** 13 de dezembro de 1641, Moulins, França
+- **Canonização:** 16 de julho de 1767, pelo Papa Clemente XIII
+- **Festa Litúrgica:** 12 de agosto
 
 <TextToSpeech />
 
@@ -39,12 +44,12 @@ Santa Joana de Chantal viajou extensivamente pela França para estabelecer novos
 - **Paris, França:** Onde ela fundou uma importante casa da Ordem e teve contato com São Vicente de Paulo.
 - **Moulins, França:** Onde faleceu durante uma viagem para visitar conventos.
 
+<MiracleMap :items='[
+  { lat: 47.322, lng: 5.0415, type: "nascimento", title: "Dijon, França", description: "Cidade onde nasceu Santa Joana de Chantal." },
+  { lat: 45.8992, lng: 6.1294, type: "vida", title: "Annecy, França", description: "Local de fundação da Ordem da Visitação." },
+  { lat: 46.5653, lng: 3.3326, type: "morte", title: "Moulins, França", description: "Cidade onde ela faleceu em 1641." }
+]' />
+
 ## Impacto Hoje
 
 Santa Joana de Chantal continua sendo um poderoso exemplo para mulheres de todas as esferas da vida, tendo vivenciado os papéis de filha, esposa, mãe, viúva e freira. Sua congregação, a Ordem da Visitação, cresceu substancialmente. Na época de sua morte, havia 86 mosteiros, e hoje existem conventos da Visitação ao redor de todo o mundo. A espiritualidade salesiana que ela ajudou a moldar — baseada na doçura, paciência e pequenas virtudes do cotidiano — continua sendo uma das correntes espirituais mais acessíveis e amadas do catolicismo moderno.
-
-<MiracleMap :items='[
-  { lat: 47.3220, lng: 5.0415, title: "Dijon, França", description: "Cidade onde nasceu Santa Joana de Chantal." },
-  { lat: 45.8992, lng: 6.1294, title: "Annecy, França", description: "Local de fundação da Ordem da Visitação." },
-  { lat: 46.5653, lng: 3.3326, title: "Moulins, França", description: "Cidade onde ela faleceu em 1641." }
-]' />

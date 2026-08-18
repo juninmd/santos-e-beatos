@@ -1,13 +1,18 @@
+---
+title: Beata Laura Vicuña
+description: Biografia, milagres, curiosidades e mapa da Beata Laura Vicuña.
+---
+
 # Beata Laura Vicuña
 
 ![Beata Laura Vicuña](imagens/laura-vicuna.jpg)
 
-**"A Flor dos Andes"**
+> "A Flor dos Andes"
 
-**Nascimento:** 5 de abril de 1891, Santiago, Chile
-**Morte:** 22 de janeiro de 1904, Junín de los Andes, Argentina
-**Festa Litúrgica:** 22 de janeiro
-**Beatificação:** 3 de setembro de 1988, pelo Papa João Paulo II
+- **Nascimento:** 5 de abril de 1891, Santiago, Chile
+- **Morte:** 22 de janeiro de 1904, Junín de los Andes, Argentina
+- **Beatificação:** 3 de setembro de 1988, pelo Papa João Paulo II
+- **Festa Litúrgica:** 22 de janeiro
 
 <TextToSpeech />
 
@@ -41,10 +46,10 @@ Mas o maior "milagre" foi a conversão de sua própria mãe. No leito de morte, 
 Laura nasceu no Chile, mas viveu a maior parte de sua breve vida e santidade na Argentina.
 
 <MiracleMap :items='[
-  { lat: -33.4489, lng: -70.6693, title: "Santiago, Chile", description: "Cidade onde Laura Vicuña nasceu e foi batizada." },
-  { lat: -39.9500, lng: -71.0833, title: "Junín de los Andes, Argentina", description: "Local onde estudou no colégio das Salesianas e onde faleceu." },
-  { lat: -38.9516, lng: -68.0591, title: "Neuquén, Argentina", description: "Cidade próxima à fazenda onde sua família viveu inicialmente na Argentina e onde foi sepultada primeiramente." },
-  { lat: -38.7167, lng: -62.2833, title: "Bahía Blanca, Argentina", description: "Cidade onde seus restos mortais são venerados atualmente." }
+  { lat: -33.4489, lng: -70.6693, type: "nascimento", title: "Santiago, Chile", description: "Cidade onde Laura Vicuña nasceu e foi batizada." },
+  { lat: -38.7167, lng: -62.2833, type: "vida", title: "Bahía Blanca, Argentina", description: "Cidade onde seus restos mortais são venerados atualmente." },
+  { lat: -39.95, lng: -71.0833, type: "morte", title: "Junín de los Andes, Argentina", description: "Local onde estudou no colégio das Salesianas e onde faleceu." },
+  { lat: -38.9516, lng: -68.0591, type: "tumulo", title: "Neuquén, Argentina", description: "Cidade próxima à fazenda onde sua família viveu inicialmente na Argentina e onde foi sepultada primeiramente." }
 ]' />
 
 ## Impacto Hoje

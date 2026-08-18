@@ -1,16 +1,22 @@
+---
+title: São Pedro Julião Eymard
+description: Biografia, milagres, curiosidades e mapa de São Pedro Julião Eymard.
+---
+
 # São Pedro Julião Eymard
 
 ![São Pedro Julião Eymard](imagens/portrait.jpg)
 
-**"O Apóstolo da Eucaristia"**<br>
-**Nascimento:** 4 de fevereiro de 1811 (La Mure, Isère, França)<br>
-**Morte:** 1 de agosto de 1868 (La Mure, Isère, França)<br>
-**Canonização:** 9 de dezembro de 1962 (Papa João XXIII)<br>
-**Festa Litúrgica:** 2 de agosto<br>
+> "O Apóstolo da Eucaristia"
 
----
+- **Nascimento:** 4 de fevereiro de 1811 (La Mure, Isère, França)
+- **Morte:** 1 de agosto de 1868 (La Mure, Isère, França)
+- **Canonização:** 9 de dezembro de 1962 (Papa João XXIII)
+- **Festa Litúrgica:** 2 de agosto
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -44,13 +50,14 @@ Eymard enfrentou extremas dificuldades, pobreza, e a incompreensão de muitos no
 * **Paris, França:** A cidade onde, em meio a grandes dificuldades, estabeleceu a primeira comunidade da nova congregação e iniciou formalmente sua obra eucarística.
 * **Roma, Itália:** Para onde viajou buscando e recebendo aprovação pontifícia e reconhecimento das regras das congregações que ele fundara por parte da Santa Sé (Papa Pio IX).
 
+<MiracleMap :items='[
+  { lat: 44.9038, lng: 5.7876, type: "nascimento", title: "Nascimento e Morte em La Mure", description: "São Pedro Julião Eymard nasceu e faleceu em sua cidade natal, La Mure, em Isère." },
+  { lat: 45.7628, lng: 4.8219, type: "vida", title: "Inspiração em Fourvière", description: "No santuário de Nossa Senhora de Fourvière, em Lyon, recebeu a inspiração definitiva de fundar uma ordem focada no Sacramento da Eucaristia." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Reconhecimento Pontifício", description: "Ele visitou o Papa Pio IX em Roma, assegurando o reconhecimento e as bênçãos para sua obra eucarística recém-iniciada." },
+  { lat: 48.8566, lng: 2.3522, type: "milagre", title: "Fundação da Ordem Sacramentina", description: "Na cidade de Paris, ele iniciou e estabeleceu as primeiras casas da Congregação do Santíssimo Sacramento sob severas provações e milagres de providência." },
+  { lat: 44.9017, lng: 5.7869, type: "morte", title: "Nascimento e Morte em La Mure", description: "Local da morte (1 de agosto de 1868)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, as obras de São Pedro Julião Eymard estão espalhadas pelos cinco continentes através das Congregações dos Padres Sacramentinos e das Servas do Santíssimo Sacramento. A sua mensagem central reverbera enormemente em uma época de renovada ênfase na Adoração Eucarística dentro do catolicismo. Seu impacto também persiste com milhares de leigos engajados no "Ramo Secular" ou associações de leigos eucarísticos, promovendo que o centro de cada paróquia e do coração humano deve ser Jesus na Hóstia Consagrada.
-
-<MiracleMap :items='[
-  { lat: 44.9038, lng: 5.7876, title: "Nascimento e Morte em La Mure", description: "São Pedro Julião Eymard nasceu e faleceu em sua cidade natal, La Mure, em Isère." },
-  { lat: 45.7628, lng: 4.8219, title: "Inspiração em Fourvière", description: "No santuário de Nossa Senhora de Fourvière, em Lyon, recebeu a inspiração definitiva de fundar uma ordem focada no Sacramento da Eucaristia." },
-  { lat: 48.8566, lng: 2.3522, title: "Fundação da Ordem Sacramentina", description: "Na cidade de Paris, ele iniciou e estabeleceu as primeiras casas da Congregação do Santíssimo Sacramento sob severas provações e milagres de providência." },
-  { lat: 41.9028, lng: 12.4964, title: "Reconhecimento Pontifício", description: "Ele visitou o Papa Pio IX em Roma, assegurando o reconhecimento e as bênçãos para sua obra eucarística recém-iniciada." }
-]' />

@@ -1,17 +1,22 @@
+---
+title: Santo Expedito
+description: Biografia, milagres, curiosidades e mapa de Santo Expedito.
+---
+
 # Santo Expedito
 
 ![Santo Expedito](imagens/portrait.png)
 
-**"O Santo das Causas Justas e Urgentes"**
+> "O Santo das Causas Justas e Urgentes"
 
-**Nascimento:** Século III (Melitene, Armênia)  
-**Morte:** 19 de abril de 303 (Melitene, Armênia)  
-**Canonização:** Reconhecido como Mártir nos primeiros séculos (Culto imemorial)  
-**Festa Litúrgica:** 19 de abril
-
----
+- **Nascimento:** Século III (Melitene, Armênia)
+- **Morte:** 19 de abril de 303 (Melitene, Armênia)
+- **Canonização:** Reconhecido como Mártir nos primeiros séculos (Culto imemorial)
+- **Festa Litúrgica:** 19 de abril
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -42,8 +47,11 @@ Ele é frequentemente invocado por pessoas que se encontram em becos sem saída,
 Sendo militar romano, Santo Expedito possivelmente viajou por várias partes do império, mas os registros históricos o ligam principalmente a:
 * **Melitene (Armênia Menor, atual Malatya, na Turquia):** Onde ele serviu como comandante, se converteu e finalmente foi martirizado.
 
+<MiracleMap :items='[
+  { lat: 38.3552, lng: 38.3095, type: "nascimento", title: "Melitene", description: "Local de nascimento (Século III)." },
+  { lat: 38.3552, lng: 38.3095, type: "morte", title: "Melitene", description: "Local da morte (19 de abril de 303)." }
+]' />
+
 ## Impacto Hoje
 
 A devoção a Santo Expedito cresceu imensamente ao longo dos séculos, e sua figura é hoje uma das mais populares em diversas partes do mundo, incluindo países da Europa, América do Norte e, muito fortemente, na América Latina (como Brasil e Argentina). Milhões de fiéis recorrem à sua intercessão em momentos de aflição, buscando a coragem para enfrentar os desafios de imediato e não adiar as resoluções de vida, especialmente a conversão e a prática do amor cristão.
-
-<MiracleMap />

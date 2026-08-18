@@ -1,13 +1,18 @@
+---
+title: São Pedro Claver
+description: Biografia, milagres, curiosidades e mapa de São Pedro Claver.
+---
+
 # São Pedro Claver
 
 ![São Pedro Claver](imagens/portrait.jpg)
 
-**"O Escravo dos Escravos para Sempre"**
+> "O Escravo dos Escravos para Sempre"
 
-**Nascimento:** 26 de junho de 1580, Verdú, Catalunha, Espanha<br>
-**Morte:** 8 de setembro de 1654, Cartagena das Índias, Colômbia<br>
-**Festa Litúrgica:** 9 de setembro<br>
-**Canonização:** 15 de janeiro de 1888, pelo Papa Leão XIII
+- **Nascimento:** 26 de junho de 1580, Verdú, Catalunha, Espanha
+- **Morte:** 8 de setembro de 1654, Cartagena das Índias, Colômbia
+- **Canonização:** 15 de janeiro de 1888, pelo Papa Leão XIII
+- **Festa Litúrgica:** 9 de setembro
 
 <TextToSpeech />
 
@@ -46,14 +51,14 @@ Ele era frequentemente visto cercado por um halo de luz quando orava ou administ
 - **Bogotá (Santa Fé) e Tunja, Colômbia:** Onde completou seus estudos de teologia.
 - **Cartagena das Índias, Colômbia:** Onde desenvolveu sua vida sacerdotal e missionária por quase 40 anos, tornando-se o "escravo dos escravos".
 
+<MiracleMap :items='[
+  { lat: 41.6111, lng: 1.1444, type: "nascimento", title: "Verdú, Espanha", description: "Local de nascimento de São Pedro Claver em 1580." },
+  { lat: 39.5696, lng: 2.6502, type: "vida", title: "Palma de Maiorca, Espanha", description: "Onde ele estudou e foi influenciado por Santo Afonso Rodrigues." },
+  { lat: 10.4236, lng: -75.5494, type: "morte", title: "Cartagena das Índias, Colômbia", description: "Porto onde desembarcavam os escravos e onde ele os acolheu, batizou e serviu. Local da morte (8 de setembro de 1654)." }
+]' />
+
 ## Impacto Hoje
 
 São Pedro Claver é lembrado como um dos grandes missionários da história da Igreja e um pioneiro na defesa dos direitos humanos. O Papa Leão XIII declarou-o padroeiro das missões católicas entre os povos negros em todo o mundo.
 
 Seu impacto continua a inspirar organizações de defesa dos direitos civis e defensores das minorias e dos marginalizados. Na Colômbia moderna, ele é venerado como o "Apóstolo de Cartagena", e seus restos mortais repousam no altar maior da igreja dos jesuítas em Cartagena. O Dia Nacional dos Direitos Humanos na Colômbia é celebrado na data de sua festa litúrgica, 9 de setembro. Seu exemplo atemporal desafia os cristãos a enxergar a dignidade de cada pessoa, especialmente daquelas que são desprezadas ou exploradas pela sociedade.
-
-<MiracleMap :items='[
-  { lat: 41.6111, lng: 1.1444, title: "Verdú, Espanha", description: "Local de nascimento de São Pedro Claver em 1580." },
-  { lat: 10.4236, lng: -75.5494, title: "Cartagena das Índias, Colômbia", description: "Porto onde desembarcavam os escravos e onde ele os acolheu, batizou e serviu." },
-  { lat: 39.5696, lng: 2.6502, title: "Palma de Maiorca, Espanha", description: "Onde ele estudou e foi influenciado por Santo Afonso Rodrigues." }
-]' />

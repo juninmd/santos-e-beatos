@@ -1,17 +1,22 @@
+---
+title: Beata Ana de São Bartolomeu
+description: Biografia, milagres, curiosidades e mapa da Beata Ana de São Bartolomeu.
+---
+
 # Beata Ana de São Bartolomeu
 
 ![Beata Ana de São Bartolomeu](imagens/portrait.png)
 
-**"Companheira Inseparável e Herdeira Espiritual de Santa Teresa de Ávila"**
+> "Companheira Inseparável e Herdeira Espiritual de Santa Teresa de Ávila"
 
-**Nascimento:** 1 de outubro de 1549 (Almendral, Espanha)  
-**Morte:** 7 de junho de 1626 (Antuérpia, Bélgica)  
-**Beatificação:** 6 de maio de 1917, pelo Papa Bento XV  
-**Festa Litúrgica:** 7 de junho
-
----
+- **Nascimento:** 1 de outubro de 1549 (Almendral, Espanha)
+- **Morte:** 7 de junho de 1626 (Antuérpia, Bélgica)
+- **Beatificação:** 6 de maio de 1917, pelo Papa Bento XV
+- **Festa Litúrgica:** 7 de junho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -46,8 +51,11 @@ Ana viajou incansavelmente como companheira de Santa Teresa, e depois por conta 
 *   **França:** Paris, Pontoise, e Tours (onde trabalhou na expansão do Carmelo na França).
 *   **Bélgica:** Antuérpia (onde fundou um convento, viveu seus últimos anos e é venerada como libertadora).
 
+<MiracleMap :items='[
+  { lat: 38.7833, lng: -6.8167, type: "nascimento", title: "Almendral, Espanha", description: "Local de nascimento (1 de outubro de 1549)." },
+  { lat: 51.2194, lng: 4.4025, type: "morte", title: "Antuérpia, Bélgica", description: "Local da morte (7 de junho de 1626)." }
+]' />
+
 ## Impacto Hoje
 
 A Beata Ana de São Bartolomeu é um símbolo poderoso de como uma alma simples e humilde pode realizar grandes obras para a Igreja. Sua contribuição para a expansão do Carmelo Descalço na Europa foi essencial para que a Ordem ganhasse a dimensão mundial que tem hoje. Ela nos ensina o valor do serviço silencioso, da obediência carinhosa e da amizade espiritual como caminhos de santidade.
-
-<MiracleMap />

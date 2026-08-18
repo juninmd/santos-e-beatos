@@ -1,19 +1,22 @@
+---
+title: São João Diego Cuauhtlatoatzin
+description: Biografia, milagres, curiosidades e mapa de São João Diego Cuauhtlatoatzin.
+---
+
 # São João Diego Cuauhtlatoatzin
 
-<div class="flex-start-gap-20">
-  <img src="./imagens/portrait.jpg" alt="São João Diego Cuauhtlatoatzin" width="200" class="rounded-image" />
-  <div>
-    <p><em>"Eu sou nada, sou uma pequena corda, uma escada de tábuas..."</em></p>
-    <p>
-      <strong>Nascimento:</strong> 1474 (ou ao redor deste ano)<br>
-      <strong>Morte:</strong> 30 de maio de 1548<br>
-      <strong>Canonização:</strong> 31 de julho de 2002<br>
-      <strong>Festa Litúrgica:</strong> 9 de dezembro
-    </p>
-  </div>
-</div>
+![São João Diego Cuauhtlatoatzin](imagens/portrait.jpg)
+
+> "Eu sou nada, sou uma pequena corda, uma escada de tábuas..."
+
+- **Nascimento:** 1474 (ou ao redor deste ano)
+- **Morte:** 30 de maio de 1548, Tepeyac, Cidade do México
+- **Canonização:** 31 de julho de 2002
+- **Festa Litúrgica:** 9 de dezembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -60,16 +63,16 @@ O maior milagre associado a São João Diego é o próprio evento milagroso da V
 *   **Colina de Tepeyac (México):** Local das aparições da Virgem de Guadalupe.
 *   **Cidade do México (México):** Onde ele se encontrava com o bispo, e onde viveu seus últimos anos, junto à ermida de Tepeyac.
 
+<MiracleMap :items='[
+  { lat: 19.6667, lng: -99.1667, type: "nascimento", title: "Cuauhtitlán, México", description: "Local de nascimento (1474)." },
+  { lat: 19.55, lng: -99.0833, type: "vida", title: "Tolpetlac, México", description: "" },
+  { lat: 19.45, lng: -99.1333, type: "vida", title: "Tlatelolco, México", description: "" },
+  { lat: 19.4326, lng: -99.1332, type: "vida", title: "Cidade do México, México", description: "" },
+  { lat: 19.485, lng: -99.1167, type: "morte", title: "Colina de Tepeyac, México", description: "Local da morte (30 de maio de 1548)." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de São João Diego hoje é incalculável. Ele é intrinsecamente ligado ao culto de Nossa Senhora de Guadalupe, que é a Padroeira das Américas, do México e das Filipinas, sendo uma das maiores devoções marianas do mundo.
 
 O Santuário de Nossa Senhora de Guadalupe, na Cidade do México, construído aos pés do monte Tepeyac, é um dos santuários católicos mais visitados em todo o mundo, recebendo milhões de peregrinos anualmente.
-
-<MiracleMap :places="[
-  { name: 'Cuauhtitlán, México', lat: 19.6667, lng: -99.1667 },
-  { name: 'Tolpetlac, México', lat: 19.5500, lng: -99.0833 },
-  { name: 'Tlatelolco, México', lat: 19.4500, lng: -99.1333 },
-  { name: 'Colina de Tepeyac, México', lat: 19.4850, lng: -99.1167 },
-  { name: 'Cidade do México, México', lat: 19.4326, lng: -99.1332 }
-]" />

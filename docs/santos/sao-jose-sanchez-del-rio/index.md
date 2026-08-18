@@ -1,15 +1,22 @@
+---
+title: São José Sánchez del Río
+description: Biografia, milagres, curiosidades e mapa de São José Sánchez del Río.
+---
+
 # São José Sánchez del Río
 
 ![São José Sánchez del Río](imagens/cover.jpg)
 
-**"Viva Cristo Rey!"**
+> "Viva Cristo Rey!"
 
-**Nascimento:** 28 de março de 1913, Sahuayo, Michoacán, México<br>
-**Morte:** 10 de fevereiro de 1928, Sahuayo, Michoacán, México<br>
-**Festa Litúrgica:** 10 de fevereiro<br>
-**Canonização:** 16 de outubro de 2016 pelo Papa Francisco<br>
+- **Nascimento:** 28 de março de 1913, Sahuayo, Michoacán, México
+- **Morte:** 10 de fevereiro de 1928, Sahuayo, Michoacán, México
+- **Canonização:** 16 de outubro de 2016 pelo Papa Francisco
+- **Festa Litúrgica:** 10 de fevereiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -36,11 +43,12 @@ A canonização de São José Sánchez del Río foi impulsionada por um milagre 
 * Sahuayo, Michoacán (Nascimento e morte)
 * Cotija, Michoacán (Local onde foi capturado durante a batalha)
 
+<MiracleMap :items='[
+  { lat: 20.0617, lng: -102.7303, type: "nascimento", title: "Sahuayo, Michoacán", description: "Local de nascimento e martírio de São José Sánchez del Río." },
+  { lat: 19.8144, lng: -102.7033, type: "vida", title: "Cotija, Michoacán", description: "Cidade onde José foi capturado pelas forças governamentais durante a Guerra Cristera." },
+  { lat: 20.0617, lng: -102.7303, type: "morte", title: "Sahuayo, Michoacán", description: "Local da morte (10 de fevereiro de 1928)." }
+]' />
+
 ## Impacto Hoje
 
 São José Sánchez del Río é um farol de coragem e fidelidade inabalável para a juventude católica atual. Ele é venerado como o padroeiro dos adolescentes, dos jovens perseguidos por sua fé e, não oficialmente, das crianças mexicanas. O seu testemunho continua a inspirar milhões de fiéis a permanecerem firmes nas suas crenças, mesmo diante da adversidade extrema, lembrando ao mundo o valor da liberdade religiosa.
-
-<MiracleMap :items='[
-  { lat: 20.0617, lng: -102.7303, title: "Sahuayo, Michoacán", description: "Local de nascimento e martírio de São José Sánchez del Río." },
-  { lat: 19.8144, lng: -102.7033, title: "Cotija, Michoacán", description: "Cidade onde José foi capturado pelas forças governamentais durante a Guerra Cristera." }
-]' />

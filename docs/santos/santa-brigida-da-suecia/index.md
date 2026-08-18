@@ -1,13 +1,18 @@
+---
+title: Santa Brígida da Suécia
+description: Biografia, milagres, curiosidades e mapa de Santa Brígida da Suécia.
+---
+
 # Santa Brígida da Suécia
 
 ![Santa Brígida da Suécia](imagens/portrait.jpg)
 
-**"Senhor, mostra-me o caminho e torna-me disposta a percorrê-lo."**
+> "Senhor, mostra-me o caminho e torna-me disposta a percorrê-lo."
 
-**Nascimento:** 1303, Finsta, Suécia<br>
-**Morte:** 23 de julho de 1373, Roma, Itália<br>
-**Festa Litúrgica:** 23 de julho<br>
-**Canonização:** 7 de outubro de 1391, pelo Papa Bonifácio IX<br>
+- **Nascimento:** 1303, Finsta, Suécia
+- **Morte:** 23 de julho de 1373, Roma, Itália
+- **Canonização:** 7 de outubro de 1391, pelo Papa Bonifácio IX
+- **Festa Litúrgica:** 23 de julho
 
 <TextToSpeech />
 
@@ -41,12 +46,13 @@ Inúmeros milagres foram atribuídos a Santa Brígida tanto em vida quanto após
 - **Roma, Itália:** Cidade onde viveu grande parte de sua vida adulta, trabalhou por reformas da Igreja e veio a falecer.
 - **Jerusalém, Terra Santa:** Onde realizou sua última peregrinação e teve visões importantes pouco antes de sua morte.
 
+<MiracleMap :items='[
+  { lat: 59.6833, lng: 18.4167, type: "nascimento", title: "Finsta, Suécia", description: "Local de nascimento (1303)." },
+  { lat: 58.4485, lng: 14.8872, type: "vida", title: "Vadstena", description: "Local onde fundou a Ordem do Santíssimo Salvador." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma", description: "Cidade onde faleceu e realizou o milagre da ressurreição de um menino." },
+  { lat: 31.7683, lng: 35.2137, type: "morte", title: "Jerusalém", description: "Terra Santa onde teve poderosas visões místicas antes de sua morte." }
+]' />
+
 ## Impacto Hoje
 
 Santa Brígida da Suécia é reconhecida não apenas como padroeira da Europa, mas também como um símbolo de força, sabedoria feminina e influência dentro da Igreja Católica. Sua Ordem (Brigidinas) ainda existe hoje, com mosteiros em várias partes do mundo. As suas *Revelações* continuam a inspirar muitos que procuram uma relação mais próxima e mística com Cristo, especialmente através da meditação sobre a Sua Paixão.
-
-<MiracleMap :places="[
-  { name: 'Roma', coordinates: [41.9028, 12.4964], description: 'Cidade onde faleceu e realizou o milagre da ressurreição de um menino.' },
-  { name: 'Vadstena', coordinates: [58.4485, 14.8872], description: 'Local onde fundou a Ordem do Santíssimo Salvador.' },
-  { name: 'Jerusalém', coordinates: [31.7683, 35.2137], description: 'Terra Santa onde teve poderosas visões místicas antes de sua morte.' }
-]" />

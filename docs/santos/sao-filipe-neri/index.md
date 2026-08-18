@@ -1,13 +1,20 @@
+---
+title: São Filipe Neri
+description: Biografia, milagres, curiosidades e mapa de São Filipe Neri.
+---
+
 # São Filipe Neri
 
 ![São Filipe Neri](imagens/sao-filipe-neri.jpg)
 
-**"Prefiro o paraíso!"**
+> "Prefiro o paraíso!"
 
-**Nascimento:** 21 de julho de 1515, Florença, Itália
-**Morte:** 26 de maio de 1595, Roma, Itália
-**Festa Litúrgica:** 26 de maio
-**Canonização:** 12 de março de 1622, pelo Papa Gregório XV
+- **Nascimento:** 21 de julho de 1515, Florença, Itália
+- **Morte:** 26 de maio de 1595, Roma, Itália
+- **Canonização:** 12 de março de 1622, pelo Papa Gregório XV
+- **Festa Litúrgica:** 26 de maio
+
+<TextToSpeech />
 
 ---
 
@@ -32,6 +39,15 @@ Durante sua vida, muitos milagres foram atribuídos à sua intercessão. Um dos 
 1.  **Coração Dilatado:** A autópsia realizada após sua morte revelou que duas de suas costelas estavam quebradas e arqueadas para dar espaço ao seu coração, que era significativamente maior que o normal, resultado de sua experiência mística.
 2.  **Santo da Alegria:** É frequentemente chamado de "Santo da Alegria" ou "O Bobo de Deus" por seu bom humor.
 3.  **Amizade com Santos:** Foi amigo pessoal de Santo Inácio de Loyola e São Carlos Borromeu.
+
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a São Filipe Neri: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: 43.7696, lng: 11.2558, type: "nascimento", title: "Florença, Itália", description: "Local de nascimento (21 de julho de 1515)." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Local da morte (26 de maio de 1595)." }
+]' />
 
 ## Impacto Hoje
 

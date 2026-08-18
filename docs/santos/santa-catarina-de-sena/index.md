@@ -1,13 +1,18 @@
+---
+title: Santa Catarina de Sena
+description: Biografia, milagres, curiosidades e mapa de Santa Catarina de Sena.
+---
+
 # Santa Catarina de Sena
 
-![Santa Catarina de Sena](https://placehold.co/400x600/png?text=Santa+Catarina+de+Sena)
+![Santa Catarina de Sena](imagens/retrato.svg)
 
-**"Sejais quem Deus quis que fôsseis e incendiareis o mundo."**
+> "Sejais quem Deus quis que fôsseis e incendiareis o mundo."
 
-**Nascimento:** 25 de março de 1347, Siena, Itália
-**Morte:** 29 de abril de 1380, Roma, Itália
-**Festa Litúrgica:** 29 de abril
-**Canonização:** 1461, pelo Papa Pio II
+- **Nascimento:** 25 de março de 1347, Siena, Itália
+- **Morte:** 29 de abril de 1380, Roma, Itália
+- **Canonização:** 1461, pelo Papa Pio II
+- **Festa Litúrgica:** 29 de abril
 
 <TextToSpeech />
 
@@ -42,11 +47,11 @@ Um dos eventos mais marcantes foi o recebimento dos estigmas (as chagas de Crist
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 43.3188, lng: 11.3308, title: "Siena, Itália", description: "Cidade natal, onde viveu grande parte de sua vida e iniciou sua missão." },
-  { lat: 43.7228, lng: 10.4017, title: "Pisa, Itália", description: "Local onde recebeu os estigmas invisíveis na Igreja de Santa Cristina." },
-  { lat: 43.9493, lng: 4.8055, title: "Avignon, França", description: "Onde convenceu o Papa Gregório XI a retornar a Roma." },
-  { lat: 43.7696, lng: 11.2558, title: "Florença, Itália", description: "Atuou como pacificadora nas disputas políticas da cidade." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Onde passou seus últimos anos lutando pela unidade da Igreja e onde faleceu." }
+  { lat: 43.3188, lng: 11.3308, type: "nascimento", title: "Siena, Itália", description: "Cidade natal, onde viveu grande parte de sua vida e iniciou sua missão." },
+  { lat: 43.7228, lng: 10.4017, type: "vida", title: "Pisa, Itália", description: "Local onde recebeu os estigmas invisíveis na Igreja de Santa Cristina." },
+  { lat: 43.9493, lng: 4.8055, type: "vida", title: "Avignon, França", description: "Onde convenceu o Papa Gregório XI a retornar a Roma." },
+  { lat: 43.7696, lng: 11.2558, type: "vida", title: "Florença, Itália", description: "Atuou como pacificadora nas disputas políticas da cidade." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Onde passou seus últimos anos lutando pela unidade da Igreja e onde faleceu." }
 ]' />
 
 ## Impacto Hoje

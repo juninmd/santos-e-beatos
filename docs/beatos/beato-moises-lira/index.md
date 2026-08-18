@@ -1,13 +1,18 @@
+---
+title: Beato Moisés Lira
+description: Biografia, milagres, curiosidades e mapa do Beato Moisés Lira.
+---
+
 # Beato Moisés Lira
 
 ![Beato Moisés Lira](imagens/beato-moises-lira.jpg)
 
-**"É preciso saber viver e conviver."**
+> "É preciso saber viver e conviver."
 
-**Nascimento:** 16 de setembro de 1893, Maragogi, Alagoas (Brasil)
-**Morte:** 25 de outubro de 1950, Rio de Janeiro (Brasil)
-**Festa Litúrgica:** 25 de outubro
-**Beatificação:** 14 de setembro de 2024, pelo Papa Francisco
+- **Nascimento:** 16 de setembro de 1893, Maragogi, Alagoas (Brasil)
+- **Morte:** 25 de outubro de 1950, Rio de Janeiro (Brasil)
+- **Beatificação:** 14 de setembro de 2024, pelo Papa Francisco
+- **Festa Litúrgica:** 25 de outubro
 
 <TextToSpeech />
 
@@ -42,10 +47,10 @@ Contra todos os prognósticos médicos, o líquido desapareceu completamente e o
 Do Nordeste ao Sudeste, o Beato Moisés Lira deixou marcas de santidade.
 
 <MiracleMap :items='[
-  { lat: -9.0122, lng: -35.2225, title: "Maragogi, Alagoas", description: "Cidade natal do Beato Moisés Lira." },
-  { lat: -22.6631, lng: -45.0111, title: "Cachoeira Paulista, SP", description: "Local onde fez parte de sua formação e viveu no seminário." },
-  { lat: -22.9068, lng: -43.1729, title: "Rio de Janeiro, RJ", description: "Cidade onde exerceu grande parte de seu ministério e onde faleceu." },
-  { lat: -19.9167, lng: -43.9345, title: "Belo Horizonte, MG", description: "Região onde fundou a Congregação das Missionárias de Nossa Senhora das Dores." }
+  { lat: -9.0122, lng: -35.2225, type: "nascimento", title: "Maragogi, Alagoas", description: "Cidade natal do Beato Moisés Lira." },
+  { lat: -22.6631, lng: -45.0111, type: "vida", title: "Cachoeira Paulista, SP", description: "Local onde fez parte de sua formação e viveu no seminário." },
+  { lat: -19.9167, lng: -43.9345, type: "vida", title: "Belo Horizonte, MG", description: "Região onde fundou a Congregação das Missionárias de Nossa Senhora das Dores." },
+  { lat: -22.9068, lng: -43.1729, type: "morte", title: "Rio de Janeiro, RJ", description: "Cidade onde exerceu grande parte de seu ministério e onde faleceu." }
 ]' />
 
 ## Impacto Hoje

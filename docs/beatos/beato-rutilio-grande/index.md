@@ -1,17 +1,22 @@
-# Beato Rutilio Grande
-
-![Beato Rutilio Grande Cover](imagens/cover.jpg)
-
-**"O Evangelho tem que criar raízes nas realidades do povo."**
-
-**Nascimento:** 5 de julho de 1928, El Paisnal, El Salvador<br>
-**Morte:** 12 de março de 1977, Aguilares, El Salvador<br>
-**Beatificação:** 22 de janeiro de 2022, pelo Papa Francisco (rito presidido pelo Cardeal Gregorio Rosa Chávez)<br>
-**Festa Litúrgica:** 12 de março<br>
-
+---
+title: Beato Rutilio Grande
+description: Biografia, milagres, curiosidades e mapa do Beato Rutilio Grande.
 ---
 
+# Beato Rutilio Grande
+
+![Beato Rutilio Grande](imagens/cover.jpg)
+
+> "O Evangelho tem que criar raízes nas realidades do povo."
+
+- **Nascimento:** 5 de julho de 1928, El Paisnal, El Salvador
+- **Morte:** 12 de março de 1977, Aguilares, El Salvador
+- **Beatificação:** 22 de janeiro de 2022, pelo Papa Francisco (rito presidido pelo Cardeal Gregorio Rosa Chávez)
+- **Festa Litúrgica:** 12 de março
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -52,6 +57,12 @@ Sua intercessão, no entanto, é constantemente invocada por aqueles que lutam p
 *   **Bruxelas, Bélgica:** Onde completou estudos no Instituto Internacional Lúmen Vitae.
 *   **Aguilares, El Salvador:** A paróquia onde desenvolveu seu trabalho pastoral revolucionário e perto de onde foi assassinado.
 
+<MiracleMap :items='[
+  { lat: 14.0531, lng: -89.2153, type: "nascimento", title: "El Paisnal, El Salvador", description: "Sua cidade natal, destino de sua viagem no dia 12 de março de 1977." },
+  { lat: 13.6929, lng: -89.2182, type: "vida", title: "San Salvador, El Salvador", description: "Local do seminário onde lecionou e atuou no início do sacerdócio." },
+  { lat: 14.0044, lng: -89.1764, type: "morte", title: "Aguilares, El Salvador", description: "Paróquia do Beato Rutilio Grande e localidade próxima ao seu martírio." }
+]' />
+
 ## Impacto Hoje
 
 O legado do Beato Rutilio Grande é um farol para a Igreja engajada na Doutrina Social. Ele personifica a "Igreja em saída" e a "opção preferencial pelos pobres", temas centrais do pontificado do Papa Francisco.
@@ -59,5 +70,3 @@ O legado do Beato Rutilio Grande é um farol para a Igreja engajada na Doutrina 
 Sua vida e morte lembram ao mundo que a fé autêntica exige um compromisso ativo com a justiça e a dignidade humana. Em El Salvador e em toda a América Latina, ele é venerado como um profeta que deu a voz (e a vida) aos sem-voz, inspirando novas gerações de agentes pastorais, ativistas de direitos humanos e líderes comunitários a lutarem por um mundo mais justo e equitativo.
 
 ![Retrato do Beato Rutilio Grande](imagens/portrait.jpg)
-
-<MiracleMap :items='[{ lat: 14.0044, lng: -89.1764, title: "Aguilares, El Salvador", description: "Paróquia do Beato Rutilio Grande e localidade próxima ao seu martírio." }, { lat: 14.0531, lng: -89.2153, title: "El Paisnal, El Salvador", description: "Sua cidade natal, destino de sua viagem no dia 12 de março de 1977." }, { lat: 13.6929, lng: -89.2182, title: "San Salvador, El Salvador", description: "Local do seminário onde lecionou e atuou no início do sacerdócio." }]' />

@@ -1,13 +1,18 @@
+---
+title: Beata Ana de Jesus
+description: Biografia, milagres, curiosidades e mapa da Beata Ana de Jesus.
+---
+
 # Beata Ana de Jesus
 
-![Beata Ana de Jesus](https://placehold.co/400x600/png?text=Beata+Ana+de+Jesus)
+![Beata Ana de Jesus](imagens/retrato.svg)
 
-**"A grande capitã das prioras."** (Santa Teresa de Ávila sobre Ana de Jesus)
+> "A grande capitã das prioras."** (Santa Teresa de Ávila sobre Ana de Jesus)"
 
-**Nascimento:** 25 de novembro de 1545, Medina del Campo, Espanha
-**Morte:** 4 de março de 1621, Bruxelas, Bélgica
-**Beatificação:** 29 de setembro de 2024 (Papa Francisco)
-**Festa Litúrgica:** 25 de novembro
+- **Nascimento:** 25 de novembro de 1545, Medina del Campo, Espanha
+- **Morte:** 4 de março de 1621, Bruxelas, Bélgica
+- **Beatificação:** 29 de setembro de 2024 (Papa Francisco)
+- **Festa Litúrgica:** 25 de novembro
 
 <TextToSpeech />
 
@@ -37,13 +42,13 @@ O processo de beatificação de Ana de Jesus foi longo, iniciado logo após sua 
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 41.3068, lng: -4.9144, title: 'Medina del Campo, Espanha', description: 'Cidade natal de Ana de Lobera Torres.' },
-  { lat: 40.6572, lng: -4.7007, title: 'Ávila, Espanha', description: 'Berço da reforma carmelita onde viveu e trabalhou com Santa Teresa.' },
-  { lat: 39.8628, lng: -4.0273, title: 'Toledo, Espanha', description: 'Onde conheceu Santa Teresa e ingressou na ordem.' },
-  { lat: 48.8566, lng: 2.3522, title: 'Paris, França', description: 'Liderou a fundação do primeiro Carmelo reformado na França.' },
-  { lat: 50.8503, lng: 4.3517, title: 'Bruxelas, Bélgica', description: 'Onde fundou mosteiros e faleceu em 1621. Local de sua beatificação em 2024.' }
-]" />
+<MiracleMap :items='[
+  { lat: 41.3068, lng: -4.9144, type: "nascimento", title: "Medina del Campo, Espanha", description: "Cidade natal de Ana de Lobera Torres." },
+  { lat: 40.6572, lng: -4.7007, type: "nascimento", title: "Ávila, Espanha", description: "Berço da reforma carmelita onde viveu e trabalhou com Santa Teresa." },
+  { lat: 39.8628, lng: -4.0273, type: "vida", title: "Toledo, Espanha", description: "Onde conheceu Santa Teresa e ingressou na ordem." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Liderou a fundação do primeiro Carmelo reformado na França." },
+  { lat: 50.8503, lng: 4.3517, type: "morte", title: "Bruxelas, Bélgica", description: "Onde fundou mosteiros e faleceu em 1621. Local de sua beatificação em 2024." }
+]' />
 
 ## Galeria
 
@@ -54,3 +59,9 @@ O processo de beatificação de Ana de Jesus foi longo, iniciado logo após sua 
 
 ---
 *Beata Ana de Jesus, rogai por nós!*
+
+## Impacto Hoje
+
+Ana de Jesus é a responsável direta pela expansão do Carmelo Descalço para fora da Espanha: os mosteiros que fundou na França e nos Países Baixos deram origem à rede carmelita europeia, da qual descendem comunidades presentes hoje em dezenas de países — incluindo aquelas de onde saíram Santa Teresinha de Lisieux e Santa Teresa Benedita da Cruz.
+
+Seu papel na preservação dos escritos de Santa Teresa de Ávila é igualmente decisivo: sem o cuidado com que reuniu e defendeu os manuscritos, boa parte da obra teresiana poderia ter se perdido. O *Cântico Espiritual* de São João da Cruz, um dos ápices da poesia mística ocidental, foi comentado a pedido dela. Sua beatificação em Bruxelas, em 2024, durante a viagem apostólica do Papa Francisco à Bélgica, recolocou seu nome no debate sobre a autoria feminina na tradição espiritual do Carmelo.

@@ -1,13 +1,20 @@
+---
+title: Beato Antonio Rosmini
+description: Biografia, milagres, curiosidades e mapa do Beato Antonio Rosmini.
+---
+
 # Beato Antonio Rosmini
 
 ![Beato Antonio Rosmini](imagens/cover.jpg)
 
-**"Adorar, Calar, Gozar."**
+> "Adorar, Calar, Gozar."
 
-**Nascimento:** 24 de março de 1797, Rovereto, Itália
-**Morte:** 1 de julho de 1855, Stresa, Itália
-**Festa Litúrgica:** 1 de julho
-**Beatificação:** 18 de novembro de 2007, pelo Papa Bento XVI
+- **Nascimento:** 24 de março de 1797, Rovereto, Itália
+- **Morte:** 1 de julho de 1855, Stresa, Itália
+- **Beatificação:** 18 de novembro de 2007, pelo Papa Bento XVI
+- **Festa Litúrgica:** 1 de julho
+
+<TextToSpeech />
 
 ---
 
@@ -37,17 +44,22 @@ Sua reabilitação doutrinal, iniciada pelo Papa João XXIII e continuada por Pa
 2.  **As Cinco Chagas:** Sua obra mais famosa e polêmica, *Das Cinco Chagas da Santa Igreja*, propunha reformas corajosas para a Igreja de seu tempo, muitas das quais foram adotadas no Concílio Vaticano II (como a maior participação dos leigos na liturgia).
 3.  **Filósofo:** É considerado um dos maiores filósofos italianos do século XIX.
 
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a Beato Antonio Rosmini: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: 45.89, lng: 11.04, type: "nascimento", title: "Rovereto, Itália", description: "Local de nascimento (24 de março de 1797)." },
+  { lat: 45.8833, lng: 8.5333, type: "morte", title: "Stresa, Itália", description: "Local da morte (1 de julho de 1855)." }
+]' />
+
 ## Impacto Hoje
 
 Antonio Rosmini é um modelo de fidelidade à Igreja e de honestidade intelectual. Seu pensamento antecipou muitas questões modernas e continua a inspirar teólogos e filósofos. Ele mostra que é possível ser um pensador livre e profundo e, ao mesmo tempo, um filho obediente da Igreja.
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
   <div style="flex: 1; min-width: 300px;">
-    <TextToSpeech />
-  </div>
+    </div>
   <div style="flex: 1; min-width: 300px;">
-    <MiracleMap :places="['Rovereto', 'Stresa', 'Domodossola', 'Milão']" />
-  </div>
+    </div>
 </div>
-
-<SaintOfTheDay />

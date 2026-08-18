@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Santos e Beatos da Igreja Católica">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#241706"/>
+      <stop offset="55%" stop-color="#6b4514"/>
+      <stop offset="100%" stop-color="#1b2540"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f3c969" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#f3c969" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <circle cx="150" cy="150" r="120" fill="url(#glow)"/>
+  <circle cx="150" cy="150" r="62" fill="none" stroke="#f3c969" stroke-opacity="0.85" stroke-width="3"/>
+  <path d="M150 104 v92 M127 132 h46" stroke="#f3c969" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <text x="300" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#fdf6e6">Santos e Beatos</text>
+  <text x="300" y="188" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#f3c969">da Igreja Católica</text>
+  <text x="300" y="228" font-family="Georgia, serif" font-size="18" fill="#fdf6e6" opacity="0.75">Biografias, milagres e mapas de nascimento, morte e devoção</text>
+</svg>

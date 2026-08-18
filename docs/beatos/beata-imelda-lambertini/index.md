@@ -1,17 +1,22 @@
+---
+title: Beata Imelda Lambertini
+description: Biografia, milagres, curiosidades e mapa da Beata Imelda Lambertini.
+---
+
 # Beata Imelda Lambertini
 
 ![Beata Imelda Lambertini](imagens/portrait.jpg)
 
-**"Dizei-me, vós podeis receber Jesus em vosso coração e não morrer de alegria?"**
+> "Dizei-me, vós podeis receber Jesus em vosso coração e não morrer de alegria?"
 
-**Nascimento:** 1322, Bolonha, Itália
-**Morte:** 12 de maio de 1333, Bolonha, Itália
-**Festa Litúrgica:** 13 de maio
-**Beatificação:** 1826, pelo Papa Leão XII
-
----
+- **Nascimento:** 1322, Bolonha, Itália
+- **Morte:** 12 de maio de 1333, Bolonha, Itália
+- **Beatificação:** 1826, pelo Papa Leão XII
+- **Festa Litúrgica:** 13 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -32,10 +37,10 @@ O padre, vendo o milagre, entendeu que era a vontade de Deus. Pegou a patena, re
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 44.4949, lng: 11.3426, title: 'Bolonha', description: 'Cidade natal e local do milagre.' },
-  { lat: 44.4985, lng: 11.3536, title: 'Igreja de San Sigismondo', description: 'Local onde se encontra o corpo da Beata Imelda.' }
-]" />
+<MiracleMap :items='[
+  { lat: 44.4949, lng: 11.3426, type: "nascimento", title: "Bolonha", description: "Cidade natal e local do milagre." },
+  { lat: 44.4985, lng: 11.3536, type: "morte", title: "Igreja de San Sigismondo", description: "Local onde se encontra o corpo da Beata Imelda. Local da morte (12 de maio de 1333)." }
+]' />
 
 ## Impacto Hoje
 

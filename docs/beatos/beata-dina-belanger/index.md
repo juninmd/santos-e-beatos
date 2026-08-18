@@ -1,13 +1,18 @@
+---
+title: Beata Dina Bélanger
+description: Biografia, milagres, curiosidades e mapa da Beata Dina Bélanger.
+---
+
 # Beata Dina Bélanger
 
-![Beata Dina Bélanger](./imagens/portrait.jpg)
+![Beata Dina Bélanger](imagens/portrait.jpg)
 
-**"A música não era para mim uma arte, mas uma linguagem onde minha alma derramava seu amor por Deus."**
+> "A música não era para mim uma arte, mas uma linguagem onde minha alma derramava seu amor por Deus."
 
-**Nascimento:** 30 de abril de 1897, Québec, Canadá<br>
-**Morte:** 4 de setembro de 1929, Sillery, Canadá<br>
-**Festa Litúrgica:** 4 de setembro<br>
-**Beatificação:** 20 de março de 1993, pelo Papa João Paulo II
+- **Nascimento:** 30 de abril de 1897, Québec, Canadá
+- **Morte:** 4 de setembro de 1929, Sillery, Canadá
+- **Beatificação:** 20 de março de 1993, pelo Papa João Paulo II
+- **Festa Litúrgica:** 4 de setembro
 
 <TextToSpeech />
 
@@ -38,9 +43,9 @@ Um dos milagres reconhecidos para sua beatificação foi a cura repentina, perfe
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 46.8139, lng: -71.2080, title: "Québec, Canadá", description: "Sua cidade natal e local onde desenvolveu seus primeiros talentos." },
-  { lat: 40.7128, lng: -74.0060, title: "Nova York, EUA", description: "Onde estudou música no Instituto de Arte Musical (Juilliard School)." },
-  { lat: 46.7725, lng: -71.2514, title: "Sillery (Québec), Canadá", description: "Onde ingressou na vida religiosa e onde faleceu de tuberculose." }
+  { lat: 46.8139, lng: -71.208, type: "nascimento", title: "Québec, Canadá", description: "Sua cidade natal e local onde desenvolveu seus primeiros talentos." },
+  { lat: 40.7128, lng: -74.006, type: "vida", title: "Nova York, EUA", description: "Onde estudou música no Instituto de Arte Musical (Juilliard School)." },
+  { lat: 46.7725, lng: -71.2514, type: "morte", title: "Sillery (Québec), Canadá", description: "Onde ingressou na vida religiosa e onde faleceu de tuberculose." }
 ]' />
 
 ## Impacto Hoje

@@ -1,17 +1,22 @@
 ---
-image: imagens/portrait.jpg
-quote: "Eu te agradeço, meu Deus, porque fazes florescer o amor no deserto."
-born: 8 de agosto de 1936<br>Dovadola, Itália
-died: 23 de janeiro de 1964<br>Sirmione, Itália
-beatified: 14 de setembro de 2019<br>em Forlì, Itália
-feast: 23 de janeiro
+title: Beata Benedetta Bianchi Porro
+description: Biografia, milagres, curiosidades e mapa da Beata Benedetta Bianchi Porro.
 ---
 
 # Beata Benedetta Bianchi Porro
 
-<div class="divider"></div>
+![Beata Benedetta Bianchi Porro](imagens/portrait.jpg)
+
+> "Eu te agradeço, meu Deus, porque fazes florescer o amor no deserto."
+
+- **Nascimento:** 8 de agosto de 1936 Dovadola, Itália
+- **Morte:** 23 de janeiro de 1964 Sirmione, Itália
+- **Beatificação:** 14 de setembro de 2019 em Forlì, Itália
+- **Festa Litúrgica:** 23 de janeiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -22,14 +27,6 @@ Apesar de suas limitações físicas, Benedetta era uma estudante brilhante e so
 A doença gradualmente a privou de seus sentidos. Ela perdeu a audição, depois a visão, o olfato, o paladar e, finalmente, a capacidade de se mover, ficando paralisada. Benedetta foi forçada a abandonar seus estudos de medicina a poucos exames da formatura.
 
 Em vez de se desesperar, Benedetta abraçou sua cruz com uma fé inabalável. Ela passou seus últimos anos em Sirmione, confinada à cama, comunicando-se com o mundo exterior apenas através do toque de sua mão, onde sua mãe soletrava as letras do alfabeto. Ela faleceu em 23 de janeiro de 1964, aos 27 anos, deixando um legado de alegria e esperança. Foi beatificada em 14 de setembro de 2019.
-
-<MiracleMap :places="[
-  { lat: 44.1167, lng: 11.8833, name: 'Dovadola', description: 'Local de nascimento e onde repousam seus restos mortais.' },
-  { lat: 45.4925, lng: 10.6083, name: 'Sirmione', description: 'Cidade onde viveu com sua família e faleceu.' },
-  { lat: 45.5417, lng: 10.2167, name: 'Brescia', description: 'Onde frequentou o ensino médio nas Ursulinas.' },
-  { lat: 45.4669, lng: 9.1900, name: 'Milão', description: 'Onde estudou medicina na Universidade Estadual.' },
-  { lat: 43.0942, lng: -0.0469, name: 'Lourdes', description: 'Local de peregrinação onde encontrou força espiritual.' }
-]" />
 
 ## Vida Pessoal
 
@@ -51,16 +48,22 @@ Além deste milagre oficial, muitos relatam graças alcançadas e uma profunda p
 2.  **Comunicação Tátil**: Quando ficou surda e cega, ela se comunicava através de um método onde o interlocutor "escrevia" com os dedos na palma de sua mão ou ela usava um alfabeto de sinais táteis.
 3.  **Rosa Branca**: Ela é frequentemente associada a uma rosa branca, símbolo de pureza e oferta a Deus, e diz-se que uma rosa branca floresceu fora de estação em seu jardim no dia de sua morte.
 
-## Cidades que passou
-
+## Cidades por onde passou
 *   **Dovadola**: Sua cidade natal, onde hoje se encontra seu santuário na Abadia de Santo André.
 *   **Sirmione**: Onde a família se mudou e onde ela passou os anos de sua doença e morte.
 *   **Milão**: Cidade de seus estudos universitários e tratamentos médicos.
 *   **Brescia**: Onde estudou na adolescência.
 *   **Lourdes**: Ela peregrinou a Lourdes duas vezes, não pedindo a cura física, mas a força para carregar sua cruz.
 
-## O Impacto Hoje
+<MiracleMap :items='[
+  { lat: 44.1167, lng: 11.8833, type: "nascimento", title: "Dovadola", description: "Local de nascimento e onde repousam seus restos mortais." },
+  { lat: 45.5417, lng: 10.2167, type: "vida", title: "Brescia", description: "Onde frequentou o ensino médio nas Ursulinas." },
+  { lat: 45.4669, lng: 9.19, type: "vida", title: "Milão", description: "Onde estudou medicina na Universidade Estadual." },
+  { lat: 43.0942, lng: -0.0469, type: "vida", title: "Lourdes", description: "Local de peregrinação onde encontrou força espiritual." },
+  { lat: 45.4925, lng: 10.6083, type: "morte", title: "Sirmione", description: "Cidade onde viveu com sua família e faleceu." }
+]' />
 
+## Impacto Hoje
 A Beata Benedetta Bianchi Porro é um modelo luminoso para o mundo moderno, especialmente para os doentes e pessoas com deficiência. Ela ensina que a dignidade humana não depende da saúde ou da produtividade, mas do amor.
 
 Sua vida desafia a "cultura do descarte" e mostra que o sofrimento, quando vivido com amor, pode ser fecundo. Ela é venerada como padroeira dos doentes e daqueles que sofrem de doenças raras ou neurológicas. Seu testemunho continua a atrair jovens e profissionais de saúde, inspirando uma medicina mais humana e compassiva.

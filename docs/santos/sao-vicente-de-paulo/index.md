@@ -1,13 +1,20 @@
+---
+title: São Vicente de Paulo
+description: Biografia, milagres, curiosidades e mapa de São Vicente de Paulo.
+---
+
 # São Vicente de Paulo
 
-![São Vicente de Paulo](https://placehold.co/400x600/png?text=Sao+Vicente+de+Paulo)
+![São Vicente de Paulo](imagens/retrato.svg)
 
-**"Não me basta amar a Deus se não o amo no meu próximo."**
+> "Não me basta amar a Deus se não o amo no meu próximo."
 
-**Nascimento:** 24 de abril de 1581, Pouy (hoje Saint-Vincent-de-Paul), França
-**Morte:** 27 de setembro de 1660, Paris, França
-**Festa Litúrgica:** 27 de setembro
-**Canonização:** 16 de junho de 1737, pelo Papa Clemente XII
+- **Nascimento:** 24 de abril de 1581, Pouy (hoje Saint-Vincent-de-Paul), França
+- **Morte:** 27 de setembro de 1660, Paris, França
+- **Canonização:** 16 de junho de 1737, pelo Papa Clemente XII
+- **Festa Litúrgica:** 27 de setembro
+
+<TextToSpeech />
 
 ---
 
@@ -41,8 +48,7 @@ A vida de São Vicente foi um milagre contínuo de caridade, mas muitos milagres
 3.  **Influência no Clero:** Ele foi fundamental na reforma do clero francês no século XVII, criando seminários e retiros para padres, elevando o nível moral e intelectual da igreja na época.
 4.  **Nome de Cidade:** Sua vila natal, Pouy, foi renomeada para Saint-Vincent-de-Paul em sua homenagem em 1828.
 
-## Cidades que passou
-
+## Cidades por onde passou
 A vida de São Vicente foi marcada por viagens e missões:
 *   **Pouy (França):** Local de seu nascimento e infância.
 *   **Dax (França):** Onde realizou seus primeiros estudos.
@@ -53,6 +59,11 @@ A vida de São Vicente foi marcada por viagens e missões:
 *   **Folleville (França):** Local do "primeiro sermão da missão".
 *   **Châtillon-les-Dombes (França):** Onde fundou a primeira Confraria da Caridade.
 *   **Marselha (França):** Porto de onde partiu e trabalhou com os galés (prisioneiros condenados a remar).
+
+<MiracleMap :items='[
+  { lat: 43.75, lng: -1.0333, type: "nascimento", title: "Pouy (Saint-Vincent-de-Paul), França", description: "Local de nascimento (24 de abril de 1581)." },
+  { lat: 48.8566, lng: 2.3522, type: "morte", title: "Paris, França", description: "Local da morte (27 de setembro de 1660)." }
+]' />
 
 ## Impacto Hoje
 

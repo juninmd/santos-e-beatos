@@ -1,17 +1,22 @@
-# São Francisco de Sales
-
-![São Francisco de Sales Cover](imagens/cover.jpg)
-
-**"A doçura é a flor da caridade; a amabilidade é o seu perfume."**
-
-**Nascimento:** 21 de agosto de 1567, Castelo de Sales, Saboia (atual França)<br>
-**Morte:** 28 de dezembro de 1622, Lyon, França<br>
-**Canonização:** 19 de abril de 1665, pelo Papa Alexandre VII<br>
-**Festa Litúrgica:** 24 de janeiro<br>
-
+---
+title: São Francisco de Sales
+description: Biografia, milagres, curiosidades e mapa de São Francisco de Sales.
 ---
 
+# São Francisco de Sales
+
+![São Francisco de Sales](imagens/cover.jpg)
+
+> "A doçura é a flor da caridade; a amabilidade é o seu perfume."
+
+- **Nascimento:** 21 de agosto de 1567, Castelo de Sales, Saboia (atual França)
+- **Morte:** 28 de dezembro de 1622, Lyon, França
+- **Canonização:** 19 de abril de 1665, pelo Papa Alexandre VII
+- **Festa Litúrgica:** 24 de janeiro
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -55,6 +60,13 @@ Inúmeros milagres foram atribuídos à intercessão de São Francisco de Sales,
 *   **Genebra, Suíça:** A diocese da qual era titular, embora impedido de residir nela devido aos conflitos religiosos.
 *   **Lyon, França:** A cidade onde veio a falecer.
 
+<MiracleMap :items='[
+  { lat: 45.9833, lng: 6.2333, type: "nascimento", title: "Castelo de Sales", description: "Local de nascimento (21 de agosto de 1567)." },
+  { lat: 46.2043, lng: 6.1431, type: "vida", title: "Genebra, Suíça", description: "Diocese titular de São Francisco de Sales, epicentro da sua missão de reconciliação." },
+  { lat: 45.764, lng: 4.8356, type: "morte", title: "Lyon, França", description: "Cidade onde faleceu em 1622." },
+  { lat: 45.8992, lng: 6.1293, type: "tumulo", title: "Annecy, França", description: "Basílica da Visitação, onde repousam as relíquias de São Francisco de Sales." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de São Francisco de Sales no mundo contemporâneo é vasto e duradouro. Seu ensinamento de que a santidade é possível no meio do mundo, independentemente da profissão ou estado de vida, antecipou os ensinamentos do Concílio Vaticano II sobre a vocação universal à santidade.
@@ -62,5 +74,3 @@ O impacto de São Francisco de Sales no mundo contemporâneo é vasto e duradour
 Suas obras, especialmente "Introdução à Vida Devota", continuam sendo best-sellers espirituais, oferecendo um guia acessível e prático para a oração e a virtude. A congregação fundada sob sua inspiração espiritual por São João Bosco, os Salesianos, espalhou seu espírito de alegria, doçura e educação para jovens em todo o mundo. A Ordem da Visitação continua sendo um testemunho de vida contemplativa no mundo de hoje.
 
 ![Retrato de São Francisco de Sales](imagens/portrait.jpg)
-
-<MiracleMap :items='[{ lat: 45.8992, lng: 6.1293, title: "Annecy, França", description: "Basílica da Visitação, onde repousam as relíquias de São Francisco de Sales." }, { lat: 46.2043, lng: 6.1431, title: "Genebra, Suíça", description: "Diocese titular de São Francisco de Sales, epicentro da sua missão de reconciliação." }, { lat: 45.7640, lng: 4.8356, title: "Lyon, França", description: "Cidade onde faleceu em 1622." }]' />

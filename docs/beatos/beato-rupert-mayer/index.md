@@ -1,15 +1,22 @@
+---
+title: Beato Rupert Mayer
+description: Biografia, milagres, curiosidades e mapa do Beato Rupert Mayer.
+---
+
 # Beato Rupert Mayer
 
-![Beato Rupert Mayer](./imagens/portrait.jpg)
+![Beato Rupert Mayer](imagens/portrait.jpg)
 
 > "Senhor, seja feita a tua vontade."
 
-**Nascimento**: 23 de janeiro de 1876<br>
-**Morte**: 1 de novembro de 1945<br>
-**Beatificação**: 3 de maio de 1987<br>
-**Festa Litúrgica**: 3 de novembro<br>
+- **Nascimento:** 23 de janeiro de 1876, Stuttgart (Alemanha)
+- **Morte:** 1 de novembro de 1945, Munique (Alemanha)
+- **Beatificação:** 3 de maio de 1987
+- **Festa Litúrgica:** 3 de novembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -43,15 +50,16 @@ A vida singular do Beato Rupert Mayer revela aspectos notáveis sobre seu carát
 - Ettal, Alemanha (Local de confinamento pelas autoridades nazistas)
 - Oranienburg, Alemanha (Campo de concentração de Sachsenhausen, onde esteve preso)
 
+<MiracleMap :items='[
+  { lat: 48.7758, lng: 9.1829, type: "nascimento", title: "Stuttgart, Alemanha", description: "Nascimento" },
+  { lat: 47.5694, lng: 11.0924, type: "vida", title: "Ettal, Alemanha", description: "Confinamento na Abadia de Ettal" },
+  { lat: 52.7554, lng: 13.2384, type: "vida", title: "Oranienburg, Alemanha", description: "Campo de concentração de Sachsenhausen" },
+  { lat: 48.1351, lng: 11.582, type: "morte", title: "Munique, Alemanha", description: "Local da morte (1 de novembro de 1945)." },
+  { lat: 48.1351, lng: 11.582, type: "tumulo", title: "Munique, Alemanha", description: "Ministério, ativismo anti-nazista, morte e túmulo" }
+]' />
+
 ## Impacto Hoje
 
 O legado do Beato Rupert Mayer ressoa poderosamente na atualidade, especialmente nos momentos em que a liberdade religiosa e a dignidade humana enfrentam ameaças em várias partes do mundo. Ele é amplamente reconhecido como um farol de coragem moral e um modelo extraordinário de resistência cristã pacífica contra o totalitarismo, a injustiça e o extremismo político. Sua oposição decidida ao nazismo e seu compromisso inquebrantável com a verdade do Evangelho, mesmo diante de perigos iminentes e sofrimentos atrozes, inspiram e desafiam os fiéis católicos e pessoas de boa vontade de todas as crenças a permanecerem firmes e resolutos em seus princípios morais.
 
 Seu túmulo, localizado na igreja jesuíta da Bürgersaal, no coração de Munique, continua a ser um local de profunda veneração, atraindo peregrinos que buscam conforto espiritual e força em tempos de provação. Seu exemplo ilumina as consciências, lembrando ao mundo a vital importância de defender a fé em face da opressão sistêmica e de lutar sem descanso em prol da justiça social, do respeito aos vulneráveis e da paz.
-
-<MiracleMap :locations="[
-  { name: 'Stuttgart, Alemanha', coordinates: [48.7758, 9.1829], description: 'Nascimento' },
-  { name: 'Munique, Alemanha', coordinates: [48.1351, 11.5820], description: 'Ministério, ativismo anti-nazista, morte e túmulo' },
-  { name: 'Ettal, Alemanha', coordinates: [47.5694, 11.0924], description: 'Confinamento na Abadia de Ettal' },
-  { name: 'Oranienburg, Alemanha', coordinates: [52.7554, 13.2384], description: 'Campo de concentração de Sachsenhausen' }
-]" />

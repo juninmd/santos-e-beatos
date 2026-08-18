@@ -1,17 +1,22 @@
-# São Jerônimo
-
-![São Jerônimo](./imagens/cover.jpg)
-
-**"A ignorância das Escrituras é a ignorância de Cristo."**
-
-**Nascimento:** c. 347, Estridão, Dalmácia (atual Croácia/Eslovênia)<br>
-**Morte:** 30 de setembro de 420, Belém, Judeia<br>
-**Festa Litúrgica:** 30 de setembro<br>
-**Canonização:** Pré-congregação<br>
-
+---
+title: São Jerônimo
+description: Biografia, milagres, curiosidades e mapa de São Jerônimo.
 ---
 
+# São Jerônimo
+
+![São Jerônimo](imagens/cover.jpg)
+
+> "A ignorância das Escrituras é a ignorância de Cristo."
+
+- **Nascimento:** c. 347, Estridão, Dalmácia (atual Croácia/Eslovênia)
+- **Morte:** 30 de setembro de 420, Belém, Judeia
+- **Canonização:** Pré-congregação
+- **Festa Litúrgica:** 30 de setembro
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,14 +44,15 @@ Sua vida pessoal foi marcada por um profundo chamado ascético. Após ser ordena
 - Alexandria, Egito (Estudos)
 - Belém, Judeia (Mosteiro e morada final)
 
+<MiracleMap :items='[
+  { lat: 45.1, lng: 15.5, type: "nascimento", title: "Estridão", description: "Local de nascimento (c. 347)." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma", description: "Local onde estudou, foi batizado e atuou como secretário do Papa Dâmaso I." },
+  { lat: 36.2021, lng: 36.1606, type: "vida", title: "Antioquia", description: "Cidade onde foi ordenado sacerdote e aprofundou seus estudos." },
+  { lat: 31.7049, lng: 35.2038, type: "morte", title: "Belém", description: "Onde fundou mosteiros, completou a Vulgata e viveu seus últimos dias. Local da morte (30 de setembro de 420)." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de São Jerônimo continua fundamental para a cristandade ocidental. Sua *Vulgata* não apenas moldou o pensamento teológico católico, mas também a língua e a cultura europeias, influenciando imensamente o latim medieval. Seu rigor e busca pela verdade textual inspiram tradutores modernos, acadêmicos bíblicos e amantes da literatura cristã até os dias de hoje. Além disso, o dia de sua festa, 30 de setembro, é celebrado internacionalmente como o Dia Mundial da Tradução.
-
-<MiracleMap :items="[
-  { lat: 41.9028, lng: 12.4964, title: 'Roma', description: 'Local onde estudou, foi batizado e atuou como secretário do Papa Dâmaso I.' },
-  { lat: 31.7049, lng: 35.2038, title: 'Belém', description: 'Onde fundou mosteiros, completou a Vulgata e viveu seus últimos dias.' },
-  { lat: 36.2021, lng: 36.1606, title: 'Antioquia', description: 'Cidade onde foi ordenado sacerdote e aprofundou seus estudos.' }
-]" />
 
 ![Retrato de São Jerônimo](./imagens/portrait.jpg)

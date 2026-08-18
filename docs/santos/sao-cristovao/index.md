@@ -1,17 +1,22 @@
+---
+title: São Cristóvão
+description: Biografia, milagres, curiosidades e mapa de São Cristóvão.
+---
+
 # São Cristóvão
 
 ![São Cristóvão](imagens/portrait.jpg)
 
-**"Carregador de Cristo"**
+> "Carregador de Cristo"
 
-**Nascimento:** Século III, Canaã (possivelmente)
-**Morte:** Século III (martirizado em 251 d.C.), Lícia (atual Turquia)
-**Festa Litúrgica:** 25 de julho
-**Canonização:** Santo da Igreja Católica e Ortodoxa (Pré-Congregação)
-
----
+- **Nascimento:** Século III, Canaã (possivelmente)
+- **Morte:** Século III (martirizado em 251 d.C.), Lícia (atual Turquia)
+- **Canonização:** Santo da Igreja Católica e Ortodoxa (Pré-Congregação)
+- **Festa Litúrgica:** 25 de julho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -20,8 +25,6 @@ São Cristóvão, cujo nome significa "Portador de Cristo", é um dos santos mai
 Após servir a um rei e depois ao próprio diabo (ao perceber que este temia a cruz), Reprobus encontrou um eremita que o instruiu na fé cristã. Como penitência e forma de servir a Deus, ele foi encarregado de ajudar os viajantes a atravessar um rio perigoso, onde muitos morriam afogados.
 
 Certa noite, uma criança pediu para ser levada à outra margem. Cristóvão a colocou nos ombros e iniciou a travessia. No entanto, à medida que avançava, o peso da criança aumentava insuportavelmente, como se ele carregasse o mundo inteiro. Ao chegar ao outro lado, a criança revelou ser o próprio Cristo, que carregava sobre si os pecados do mundo. Foi então que ele recebeu o nome de Cristóvão.
-
-<MiracleMap />
 
 ## Vida Pessoal e Espiritualidade
 
@@ -46,6 +49,11 @@ Outro milagre associado a ele é o florescimento de seu cajado. Para provar a ve
 
 *   **Canaã:** Provável local de nascimento.
 *   **Lícia (Ásia Menor/Turquia):** Local onde exerceu seu ministério, converteu milhares e foi martirizado.
+
+<MiracleMap :items='[
+  { lat: 31.5, lng: 35, type: "nascimento", title: "Canaã", description: "Local de nascimento (Século III)." },
+  { lat: 36.3, lng: 30.1, type: "morte", title: "Lícia", description: "Local da morte (Século III)." }
+]' />
 
 ## Impacto Hoje
 

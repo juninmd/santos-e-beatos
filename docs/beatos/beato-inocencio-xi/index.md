@@ -1,16 +1,22 @@
 ---
 title: Beato Inocêncio XI
+description: Biografia, milagres, curiosidades e mapa do Beato Inocêncio XI.
 ---
 
-![Beato Inocêncio XI](./imagens/portrait.jpg)
+# Beato Inocêncio XI
+
+![Beato Inocêncio XI](imagens/portrait.jpg)
+
 > "Tudo o que se faz por Deus é eterno."
 
-**Nascimento:** 16 de maio de 1611 <br>
-**Morte:** 12 de agosto de 1689 <br>
-**Beatificação:** 7 de outubro de 1956 <br>
-**Festa Litúrgica:** 12 de agosto <br>
+- **Nascimento:** 16 de maio de 1611, Como (Itália)
+- **Morte:** 12 de agosto de 1689, Roma (Itália)
+- **Beatificação:** 7 de outubro de 1956
+- **Festa Litúrgica:** 12 de agosto
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -38,21 +44,12 @@ Os milagres reconhecidos para a beatificação do Papa Inocêncio XI envolviam p
 - Ferrara: Atuou com dedicação como legado papal para ajudar os pobres.
 - Novara: Serviu fielmente como bispo, reformando a diocese e cuidando dos enfermos.
 
+<MiracleMap :items='[
+  { lat: 45.8081, lng: 9.0852, type: "nascimento", title: "Como", description: "Local de nascimento (16 de maio de 1611)." },
+  { lat: 48.2082, lng: 16.3738, type: "vida", title: "Defesa de Viena", description: "Sua intercessão e financiamento uniram a Europa contra o cerco otomano." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Cura Inexplicável", description: "O milagre aceito para sua beatificação ocorreu na Itália. Local da morte (12 de agosto de 1689)." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Inocêncio XI é lembrado hoje como um modelo de Papa reformador, firme e ascético, cujo desapego ao luxo e cujas fortes convicções morais são frequentemente lembrados como o padrão que deveria nortear a liderança da Igreja Católica. Sua corajosa defesa da cristandade europeia contra as investidas do Império Otomano ainda é comemorada por historiadores como um ponto de virada na história ocidental. Na Igreja moderna, sua ênfase na pureza e em um sacerdócio bem-formado reflete a perene necessidade de renovação moral entre o clero.
-
-<MiracleMap :miracles="[
-  {
-    title: 'Defesa de Viena',
-    description: 'Sua intercessão e financiamento uniram a Europa contra o cerco otomano.',
-    lat: 48.2082,
-    lng: 16.3738
-  },
-  {
-    title: 'Cura Inexplicável',
-    description: 'O milagre aceito para sua beatificação ocorreu na Itália.',
-    lat: 41.9028,
-    lng: 12.4964
-  }
-]" />

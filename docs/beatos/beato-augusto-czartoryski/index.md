@@ -1,12 +1,18 @@
+---
+title: Beato Augusto Czartoryski
+description: Biografia, milagres, curiosidades e mapa do Beato Augusto Czartoryski.
+---
+
 # Beato Augusto Czartoryski
 
 ![Beato Augusto Czartoryski](imagens/portrait.jpg)
 
-**"Um Príncipe para os Jovens"**<br>
-**Nascimento:** 2 de agosto de 1858, Paris (França)<br>
-**Morte:** 8 de abril de 1893, Alassio (Itália)<br>
-**Festa Litúrgica:** 2 de agosto<br>
-**Beatificação:** 25 de abril de 2004, pelo Papa João Paulo II<br>
+> "Um Príncipe para os Jovens"
+
+- **Nascimento:** 2 de agosto de 1858, Paris (França)
+- **Morte:** 8 de abril de 1893, Alassio (Itália)
+- **Beatificação:** 25 de abril de 2004, pelo Papa João Paulo II
+- **Festa Litúrgica:** 2 de agosto
 
 <TextToSpeech />
 
@@ -36,15 +42,15 @@ Para sua beatificação, um milagre reconhecido pela Igreja ocorreu na cura inex
 
 Augusto Czartoryski nasceu em Paris, mas a maior parte da sua formação e vida religiosa se deu na Itália, entre a corte e a casa dos salesianos.
 
+<MiracleMap :items='[
+  { lat: 48.8566, lng: 2.3522, type: "nascimento", title: "Paris, França", description: "Local do seu nascimento no exílio." },
+  { lat: 45.0703, lng: 7.6869, type: "vida", title: "Turim, Itália", description: "Onde conheceu São João Bosco e decidiu seguir a vida salesiana." },
+  { lat: 44.0049, lng: 8.1755, type: "morte", title: "Alassio, Itália", description: "Onde residiu como sacerdote e onde veio a falecer devido à tuberculose." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Augusto Czartoryski é um exemplo poderoso de renúncia às glórias terrenas por um amor maior a Deus e ao próximo. Para a Congregação Salesiana e para a Igreja, ele simboliza o compromisso radical com o serviço aos mais necessitados. Seu legado nos inspira, em um mundo frequentemente focado em poder e riquezas materiais, a procurar a verdadeira alegria no serviço e na vida dedicada aos valores espirituais e aos jovens vulneráveis.
-
-<MiracleMap :items='[
-  { lat: 48.8566, lng: 2.3522, title: "Paris, França", description: "Local do seu nascimento no exílio." },
-  { lat: 45.0703, lng: 7.6869, title: "Turim, Itália", description: "Onde conheceu São João Bosco e decidiu seguir a vida salesiana." },
-  { lat: 44.0049, lng: 8.1755, title: "Alassio, Itália", description: "Onde residiu como sacerdote e onde veio a falecer devido à tuberculose." }
-]' />
 
 ## Galeria de Imagens
 

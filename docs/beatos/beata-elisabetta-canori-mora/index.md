@@ -1,13 +1,18 @@
+---
+title: Beata Elisabetta Canori Mora
+description: Biografia, milagres, curiosidades e mapa da Beata Elisabetta Canori Mora.
+---
+
 # Beata Elisabetta Canori Mora
 
 ![Beata Elisabetta Canori Mora](imagens/portrait.jpg)
 
-**"Senhor, que a vossa vontade seja feita em mim."**
+> "Senhor, que a vossa vontade seja feita em mim."
 
-**Nascimento:** 21 de novembro de 1774, Roma, Itália<br>
-**Morte:** 5 de fevereiro de 1825, Roma, Itália<br>
-**Festa Litúrgica:** 5 de fevereiro<br>
-**Beatificação:** 24 de abril de 1994, pelo Papa João Paulo II<br>
+- **Nascimento:** 21 de novembro de 1774, Roma, Itália
+- **Morte:** 5 de fevereiro de 1825, Roma, Itália
+- **Beatificação:** 24 de abril de 1994, pelo Papa João Paulo II
+- **Festa Litúrgica:** 5 de fevereiro
 
 <TextToSpeech />
 
@@ -39,10 +44,11 @@ O milagre aprovado para sua beatificação foi a cura inexplicável de uma pesso
 
 - **Roma, Itália:** Viveu toda a sua vida em Roma, onde suportou os sofrimentos de seu casamento e onde desenvolveu sua intensa vida mística.
 
+<MiracleMap :items='[
+  { lat: 41.902782, lng: 12.496366, type: "nascimento", title: "Roma, Itália", description: "Local de nascimento, vida, matrimônio, sofrimento místico e morte da Beata." },
+  { lat: 41.902782, lng: 12.496366, type: "morte", title: "Roma, Itália", description: "Local da morte (5 de fevereiro de 1825)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, a Beata Elisabetta Canori Mora é um farol de esperança para muitas famílias, especialmente para cônjuges que enfrentam infidelidade, dificuldades financeiras e sofrimentos no casamento. Sua história ensina que o sacramento do matrimônio é um caminho autêntico para a santidade e que o perdão, a paciência e a oração podem transformar até mesmo as situações mais difíceis, como demonstrou a conversão de seu próprio marido.
-
-<MiracleMap :items='[
-  { lat: 41.902782, lng: 12.496366, title: "Roma, Itália", description: "Local de nascimento, vida, matrimônio, sofrimento místico e morte da Beata." }
-]' />

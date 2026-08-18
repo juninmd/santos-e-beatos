@@ -1,13 +1,18 @@
+---
+title: Beato Antônio Frederico Ozanam
+description: Biografia, milagres, curiosidades e mapa do Beato Antônio Frederico Ozanam, fundador da Sociedade de São Vicente de Paulo.
+---
+
 # Beato Antônio Frederico Ozanam
 
 ![Beato Antônio Frederico Ozanam](imagens/portrait.jpg)
 
-**"Fundador da Sociedade de São Vicente de Paulo e Apóstolo da Caridade"**
+> "A fé sem obras é morta."
 
-**Nascimento:** 23 de abril de 1813, Milão, Itália<br>
-**Morte:** 8 de setembro de 1853, Marselha, França<br>
-**Beatificação:** 22 de agosto de 1997, pelo Papa João Paulo II<br>
-**Festa Litúrgica:** 9 de setembro
+- **Nascimento:** 23 de abril de 1813, Milão, Itália
+- **Morte:** 8 de setembro de 1853, Marselha, França
+- **Beatificação:** 22 de agosto de 1997, pelo Papa João Paulo II
+- **Festa Litúrgica:** 9 de setembro
 
 <TextToSpeech />
 
@@ -36,10 +41,11 @@ Atualmente, investiga-se um possível segundo milagre (necessário para a canoni
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 45.4642, lng: 9.1900, title: "Milão, Itália", description: "Local de nascimento de Frederico Ozanam em 1813." },
-  { lat: 45.7640, lng: 4.8357, title: "Lyon, França", description: "Cidade onde cresceu, estudou em sua juventude e formou seu caráter religioso." },
-  { lat: 48.8566, lng: 2.3522, title: "Paris, França", description: "Onde estudou Direito na Sorbonne, lecionou e fundou a Sociedade de São Vicente de Paulo." },
-  { lat: 43.2965, lng: 5.3698, title: "Marselha, França", description: "Cidade onde faleceu aos 40 anos de idade, enquanto retornava de uma viagem à Itália buscando melhoras para sua saúde." }
+  { lat: 45.4642, lng: 9.19, type: "nascimento", title: "Milão, Itália", description: "Local de nascimento de Frederico Ozanam em 1813." },
+  { lat: 45.764, lng: 4.8357, type: "vida", title: "Lyon, França", description: "Cidade onde cresceu, estudou em sua juventude e formou seu caráter religioso." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde estudou Direito na Sorbonne, lecionou e fundou a Sociedade de São Vicente de Paulo." },
+  { lat: -19.5, lng: -40.5, type: "milagre", title: "Espírito Santo, Brasil", description: "Cura do menino Fernando Luiz B. da Silva, de difteria maligna (1926-1927)." },
+  { lat: 43.2965, lng: 5.3698, type: "morte", title: "Marselha, França", description: "Cidade onde faleceu aos 40 anos de idade, enquanto retornava de uma viagem à Itália buscando melhoras para sua saúde." }
 ]' />
 
 ## Impacto Hoje

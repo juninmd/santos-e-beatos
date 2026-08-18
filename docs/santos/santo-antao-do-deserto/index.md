@@ -1,13 +1,18 @@
+---
+title: Santo Antão do Deserto
+description: Biografia, milagres, curiosidades e mapa de Santo Antão do Deserto.
+---
+
 # Santo Antão do Deserto
 
-![Santo Antão do Deserto](./imagens/portrait.jpg)
+![Santo Antão do Deserto](imagens/portrait.jpg)
 
-**"Aquele que se senta na solidão e se aquieta escapou de três guerras: audição, fala, visão; mas há uma coisa contra a qual ele deve lutar constantemente: seu próprio coração."**
+> "Aquele que se senta na solidão e se aquieta escapou de três guerras: audição, fala, visão; mas há uma coisa contra a qual ele deve lutar constantemente: seu próprio coração."
 
-**Nascimento:** c. 251, Coma, Egito<br>
-**Morte:** c. 356, Monte Colzim, Egito<br>
-**Festa Litúrgica:** 17 de janeiro<br>
-**Canonização:** Pré-congregação
+- **Nascimento:** c. 251, Coma, Egito
+- **Morte:** c. 356, Monte Colzim, Egito
+- **Canonização:** Pré-congregação
+- **Festa Litúrgica:** 17 de janeiro
 
 <TextToSpeech />
 
@@ -34,9 +39,9 @@ Em vida, inúmeros milagres foram atribuídos a ele. A sua sabedoria atraía pes
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 28.7188, lng: 30.7042, title: "Coma, Egito", description: "Cidade natal, onde doou seus bens e iniciou sua vida de ascetismo." },
-  { lat: 29.5, lng: 31.0, title: "Deserto de Pispir, Egito", description: "Onde viveu isolado num forte abandonado, sendo muito tentado e também atraindo seus primeiros seguidores." },
-  { lat: 28.9221, lng: 32.3486, title: "Monte Colzim, Egito", description: "Seu último refúgio e o local de seu falecimento, atual Mosteiro de Santo Antão." }
+  { lat: 28.7188, lng: 30.7042, type: "nascimento", title: "Coma, Egito", description: "Cidade natal, onde doou seus bens e iniciou sua vida de ascetismo." },
+  { lat: 29.5, lng: 31, type: "vida", title: "Deserto de Pispir, Egito", description: "Onde viveu isolado num forte abandonado, sendo muito tentado e também atraindo seus primeiros seguidores." },
+  { lat: 28.9221, lng: 32.3486, type: "morte", title: "Monte Colzim, Egito", description: "Seu último refúgio e o local de seu falecimento, atual Mosteiro de Santo Antão." }
 ]' />
 
 ## Impacto Hoje

@@ -1,13 +1,18 @@
+---
+title: São Vicente Pallotti
+description: Biografia, milagres, curiosidades e mapa de São Vicente Pallotti.
+---
+
 # São Vicente Pallotti
 
 ![São Vicente Pallotti](imagens/portrait.jpg)
 
-**"A caridade de Cristo nos impele."**
+> "A caridade de Cristo nos impele."
 
-**Nascimento:** 21 de abril de 1795, Roma, Itália<br>
-**Morte:** 22 de janeiro de 1850, Roma, Itália<br>
-**Festa Litúrgica:** 22 de janeiro<br>
-**Canonização:** 20 de janeiro de 1963, pelo Papa João XXIII<br>
+- **Nascimento:** 21 de abril de 1795, Roma, Itália
+- **Morte:** 22 de janeiro de 1850, Roma, Itália
+- **Canonização:** 20 de janeiro de 1963, pelo Papa João XXIII
+- **Festa Litúrgica:** 22 de janeiro
 
 <TextToSpeech />
 
@@ -39,12 +44,13 @@ Um dos milagres reconhecidos para sua canonização foi a cura milagrosa de um h
 - **Frascati, Itália:** Local de retiro e missão pastoral.
 - **Nápoles, Itália:** Realizou pregações e retiros em diversas ocasiões.
 
+<MiracleMap :items='[
+  { lat: 41.902782, lng: 12.496366, type: "nascimento", title: "Roma, Itália", description: "Local de nascimento, vida e fundação da União do Apostolado Católico." },
+  { lat: 41.808056, lng: 12.681111, type: "vida", title: "Frascati, Itália", description: "Local de pregações e retiros espirituais." },
+  { lat: 40.851775, lng: 14.268124, type: "vida", title: "Nápoles, Itália", description: "Missões e pregações realizadas pelo santo." },
+  { lat: 41.902782, lng: 12.496366, type: "morte", title: "Roma, Itália", description: "Local da morte (22 de janeiro de 1850)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, a família Palotina (Padres, Irmãos, Irmãs e leigos da UAC) está espalhada pelos cinco continentes, levando adiante o carisma de São Vicente Pallotti. Seu chamado para que todos os batizados sejam apóstolos continua a ressoar profundamente na Igreja atual, inspirando milhares de leigos a assumirem ativamente seu papel na evangelização e na promoção da caridade no mundo.
-
-<MiracleMap :items='[
-  { lat: 41.902782, lng: 12.496366, title: "Roma, Itália", description: "Local de nascimento, vida e fundação da União do Apostolado Católico." },
-  { lat: 41.808056, lng: 12.681111, title: "Frascati, Itália", description: "Local de pregações e retiros espirituais." },
-  { lat: 40.851775, lng: 14.268124, title: "Nápoles, Itália", description: "Missões e pregações realizadas pelo santo." }
-]' />

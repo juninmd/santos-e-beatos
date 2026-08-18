@@ -1,13 +1,18 @@
+---
+title: Beato Fra Angelico (João de Fiesole)
+description: Biografia, milagres, curiosidades e mapa do Beato Fra Angelico (João de Fiesole).
+---
+
 # Beato Fra Angelico (João de Fiesole)
 
-![Beato Fra Angelico](imagens/fra-angelico.jpg)
+![Beato Fra Angelico (João de Fiesole)](imagens/fra-angelico.jpg)
 
-**"Para pintar as coisas de Cristo, é preciso viver com Cristo."**
+> "Para pintar as coisas de Cristo, é preciso viver com Cristo."
 
-**Nascimento:** c. 1395, Rupecanina (perto de Fiesole), Itália
-**Morte:** 18 de fevereiro de 1455, Roma, Itália
-**Beatificação:** 3 de outubro de 1982, pelo Papa João Paulo II
-**Festa Litúrgica:** 18 de fevereiro
+- **Nascimento:** c. 1395, Rupecanina (perto de Fiesole), Itália
+- **Morte:** 18 de fevereiro de 1455, Roma, Itália
+- **Beatificação:** 3 de outubro de 1982, pelo Papa João Paulo II
+- **Festa Litúrgica:** 18 de fevereiro
 
 <TextToSpeech />
 
@@ -38,10 +43,10 @@ Sua beatificação reconheceu o culto imemorial e a fama de santidade que o acom
 Fra Angelico viveu e trabalhou nos principais centros da Itália renascentista.
 
 <MiracleMap :items='[
-  { lat: 43.8069, lng: 11.2928, title: "Fiesole, Itália", description: "Onde entrou para a ordem dominicana e viveu muitos anos." },
-  { lat: 43.7696, lng: 11.2558, title: "Florença, Itália", description: "Pintou os famosos afrescos do Convento de São Marcos." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Trabalhou no Vaticano (Capela Nicolina) e onde faleceu." },
-  { lat: 42.7167, lng: 12.1167, title: "Orvieto, Itália", description: "Pintou a Capela de San Brizio na Catedral." }
+  { lat: 43.8069, lng: 11.2928, type: "nascimento", title: "Fiesole, Itália", description: "Onde entrou para a ordem dominicana e viveu muitos anos. Local de nascimento (c. 1395)." },
+  { lat: 43.7696, lng: 11.2558, type: "vida", title: "Florença, Itália", description: "Pintou os famosos afrescos do Convento de São Marcos." },
+  { lat: 42.7167, lng: 12.1167, type: "vida", title: "Orvieto, Itália", description: "Pintou a Capela de San Brizio na Catedral." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Trabalhou no Vaticano (Capela Nicolina) e onde faleceu." }
 ]' />
 
 ## Galeria de Arte Sacra

@@ -1,17 +1,22 @@
+---
+title: Beata Maria de San José Alvarado
+description: Biografia, milagres, curiosidades e mapa da Beata Maria de San José Alvarado.
+---
+
 # Beata Maria de San José Alvarado
 
-<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
-  <img src="./imagens/portrait.jpg" alt="Beata Maria de San José Alvarado" style="width: 200px; border-radius: 8px;" />
-  <div>
-    <p><em>"Fundadora dedicada aos necessitados da Venezuela."</em></p>
-    <p><strong>Nascimento:</strong> 25 de abril de 1875, Choroní, Venezuela<br>
-    <strong>Morte:</strong> 2 de abril de 1967, Maracay, Venezuela<br>
-    <strong>Beatificação:</strong> 7 de maio de 1995 pelo Papa João Paulo II<br>
-    <strong>Festa Litúrgica:</strong> 7 de maio</p>
-  </div>
-</div>
+![Beata Maria de San José Alvarado](imagens/portrait.jpg)
+
+> "Fundadora dedicada aos necessitados da Venezuela."
+
+- **Nascimento:** 25 de abril de 1875, Choroní, Venezuela
+- **Morte:** 2 de abril de 1967, Maracay, Venezuela
+- **Beatificação:** 7 de maio de 1995 pelo Papa João Paulo II
+- **Festa Litúrgica:** 7 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 Laura Evangelista Alvarado Cardozo, conhecida na vida religiosa como Maria de São José, nasceu numa família cristã em Choroní, no estado venezuelano de Aragua. Desde a infância demonstrou profunda vida interior e preocupação com a educação cristã das crianças da sua paróquia, ajudando ativamente o sacerdote local.
@@ -35,10 +40,11 @@ A sua vida foi dedicada sobretudo à Venezuela, tendo fundado casas em diversas 
 * **Maracay (Venezuela):** Onde trabalhou inicialmente num hospital de caridade, fundou a congregação e faleceu. É a sede do seu santuário.
 * **Caracas, Valência, e outras cidades (Venezuela):** Onde estabeleceu os diversos hospitais, orfanatos e lares de idosos geridos pelas suas irmãs.
 
+<MiracleMap :items='[
+  { lat: 10.4912, lng: -67.6163, type: "nascimento", title: "Choroní, Venezuela", description: "Onde nasceu e descobriu a sua vocação religiosa." },
+  { lat: 10.2469, lng: -67.5958, type: "morte", title: "Maracay, Venezuela", description: "Local da morte (2 de abril de 1967)." },
+  { lat: 10.2469, lng: -67.5958, type: "tumulo", title: "Maracay, Venezuela", description: "Onde fundou a sua congregação, viveu, faleceu e hoje repousa o seu corpo incorrupto." }
+]' />
+
 ## Impacto Hoje
 Madre Maria de San José permanece um símbolo luminoso da caridade e da devoção na Venezuela. A congregação por ela fundada continua a desenvolver o seu trabalho em favor da educação, apoio hospitalar e assistência aos desamparados em vários países. É um testemunho de que a resposta aos problemas sociais, à luz da fé cristã, se faz unindo o trabalho incansável a uma vida de profunda espiritualidade e confiança na Eucaristia.
-
-<MiracleMap :items='[
-  { lat: 10.4912, lng: -67.6163, title: "Choroní, Venezuela", description: "Onde nasceu e descobriu a sua vocação religiosa." },
-  { lat: 10.2469, lng: -67.5958, title: "Maracay, Venezuela", description: "Onde fundou a sua congregação, viveu, faleceu e hoje repousa o seu corpo incorrupto." }
-]' />

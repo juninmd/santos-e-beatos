@@ -1,13 +1,18 @@
+---
+title: Beata Maria Pierina De Micheli
+description: Biografia, milagres, curiosidades e mapa da Beata Maria Pierina De Micheli.
+---
+
 # Beata Maria Pierina De Micheli
 
 ![Beata Maria Pierina De Micheli](imagens/portrait.jpg)
 
-**"Quero que o meu Rosto, que reflete as penas íntimas do meu ânimo, a dor e o amor do meu Coração, seja mais honrado. Quem me contempla, me consola."**
+> "Quero que o meu Rosto, que reflete as penas íntimas do meu ânimo, a dor e o amor do meu Coração, seja mais honrado. Quem me contempla, me consola."
 
-**Nascimento:** 11 de setembro de 1890, Milão, Itália
-**Morte:** 26 de julho de 1945, Centonara, Itália
-**Beatificação:** 30 de maio de 2010, em Roma
-**Festa Litúrgica:** 26 de julho
+- **Nascimento:** 11 de setembro de 1890, Milão, Itália
+- **Morte:** 26 de julho de 1945, Centonara, Itália
+- **Beatificação:** 30 de maio de 2010, em Roma
+- **Festa Litúrgica:** 26 de julho
 
 <TextToSpeech />
 
@@ -40,10 +45,10 @@ A devoção à Sagrada Face, propagada pela Beata Maria Pierina, é associada a 
 Sua missão a levou da Itália à América do Sul e de volta, espalhando a devoção onde quer que fosse.
 
 <MiracleMap :items='[
-  { lat: 45.4642, lng: 9.1900, title: "Milão, Itália", description: "Cidade natal onde nasceu e viveu sua infância." },
-  { lat: -34.6037, lng: -58.3816, title: "Buenos Aires, Argentina", description: "Onde viveu seus primeiros anos como religiosa na Casa Mãe da congregação." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Onde trabalhou incansavelmente pela aprovação da medalha e onde foi beatificada." },
-  { lat: 45.7833, lng: 8.4167, title: "Centonara, Itália", description: "Local de seu falecimento." }
+  { lat: 45.4642, lng: 9.19, type: "nascimento", title: "Milão, Itália", description: "Cidade natal onde nasceu e viveu sua infância." },
+  { lat: -34.6037, lng: -58.3816, type: "vida", title: "Buenos Aires, Argentina", description: "Onde viveu seus primeiros anos como religiosa na Casa Mãe da congregação." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Onde trabalhou incansavelmente pela aprovação da medalha e onde foi beatificada." },
+  { lat: 45.7833, lng: 8.4167, type: "morte", title: "Centonara, Itália", description: "Local de seu falecimento." }
 ]' />
 
 ## Impacto Hoje

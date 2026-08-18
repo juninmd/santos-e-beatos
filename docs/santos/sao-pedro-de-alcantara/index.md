@@ -1,17 +1,22 @@
-# São Pedro de Alcântara
-
-![São Pedro de Alcântara](./imagens/portrait.jpg)
-
-**"A oração é a porta de todos os bens; é o canal da graça e a fonte de toda a perfeição."**
-
-**Nascimento:** 1499, Alcántara, Espanha<br>
-**Morte:** 18 de outubro de 1562, Arenas de San Pedro, Espanha<br>
-**Canonização:** 28 de abril de 1669 por Papa Clemente IX<br>
-**Festa Litúrgica:** 19 de outubro<br>
-
+---
+title: São Pedro de Alcântara
+description: Biografia, milagres, curiosidades e mapa de São Pedro de Alcântara.
 ---
 
+# São Pedro de Alcântara
+
+![São Pedro de Alcântara](imagens/portrait.jpg)
+
+> "A oração é a porta de todos os bens; é o canal da graça e a fonte de toda a perfeição."
+
+- **Nascimento:** 1499, Alcántara, Espanha
+- **Morte:** 18 de outubro de 1562, Arenas de San Pedro, Espanha
+- **Canonização:** 28 de abril de 1669 por Papa Clemente IX
+- **Festa Litúrgica:** 19 de outubro
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -42,13 +47,14 @@ Inúmeros milagres foram atribuídos a São Pedro de Alcântara tanto em vida qu
 - **Ávila, Espanha:** Onde se encontrou com Santa Teresa, tornando-se seu grande apoiador.
 - **Lisboa e diversas outras cidades em Portugal:** Onde atuou na reforma e fundou conventos.
 
+<MiracleMap :items='[
+  { lat: 39.7188, lng: -6.886, type: "nascimento", title: "Alcántara", description: "Onde nasceu e passou os primeiros anos de vida." },
+  { lat: 40.21, lng: -5.09, type: "morte", title: "Santuário em Arenas de San Pedro", description: "Local da morte (18 de outubro de 1562)." },
+  { lat: 40.2104, lng: -5.0837, type: "tumulo", title: "Santuário em Arenas de San Pedro", description: "Onde faleceu e onde está seu túmulo venerado por peregrinos." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, São Pedro de Alcântara continua a ser um modelo de desapego material e intimidade com Deus em um mundo marcado pelo consumismo. Seus escritos sobre a oração mental, particularmente o "Tratado da Oração e Meditação", permanecem como joias da literatura mística, influenciando gerações de cristãos. Ele nos lembra que a verdadeira riqueza está no espírito e na proximidade com o Criador.
 
 ![Capa](./imagens/cover.jpg)
-
-<MiracleMap :items='[
-  { lat: 39.7188, lng: -6.8860, title: "Nascimento em Alcántara", description: "Onde nasceu e passou os primeiros anos de vida." },
-  { lat: 40.2104, lng: -5.0837, title: "Santuário em Arenas de San Pedro", description: "Onde faleceu e onde está seu túmulo venerado por peregrinos." }
-]' />

@@ -1,14 +1,22 @@
+---
+title: Santo Alberto Magno
+description: Biografia, milagres, curiosidades e mapa de Santo Alberto Magno.
+---
+
 # Santo Alberto Magno
 
 ![Santo Alberto Magno](imagens/portrait.jpg)
-*"Nos assuntos da fé e da moral, Santo Agostinho é a nossa autoridade; na medicina, Galeno; na filosofia, Aristóteles."*
 
-**Nascimento**: c. 1200, Lauingen, Suábia, Baviera (atual Alemanha)<br>
-**Morte**: 15 de novembro de 1280, Colônia, Alemanha<br>
-**Canonização**: 16 de dezembro de 1931 pelo Papa Pio XI (Canonização Equipolente e declarado Doutor da Igreja)<br>
-**Festa Litúrgica**: 15 de novembro<br>
+> "Nos assuntos da fé e da moral, Santo Agostinho é a nossa autoridade; na medicina, Galeno; na filosofia, Aristóteles."
+
+- **Nascimento:** c. 1200, Lauingen, Suábia, Baviera (atual Alemanha)
+- **Morte:** 15 de novembro de 1280, Colônia, Alemanha
+- **Canonização:** 16 de dezembro de 1931 pelo Papa Pio XI (Canonização Equipolente e declarado Doutor da Igreja)
+- **Festa Litúrgica:** 15 de novembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 Santo Alberto Magno, também conhecido como Alberto, o Grande, ou Alberto de Colônia, foi um frade dominicano, filósofo, teólogo, bispo e um dos maiores intelectuais da Idade Média. Ele é famoso por seu amplo conhecimento, especialmente por introduzir a filosofia aristotélica e as ciências naturais no pensamento cristão europeu.
@@ -44,16 +52,16 @@ Santo Alberto foi um grande viajante a pé pela Europa medieval (nunca andava a 
 6. **Regensburg (Ratisbona), Alemanha:** Onde serviu como bispo diocesano.
 7. **Roma, Itália:** Onde atuou como teólogo a serviço da Cúria Romana sob o Papa Alexandre IV.
 
+<MiracleMap :items='[
+  { lat: 48.5684, lng: 10.43, type: "nascimento", title: "Lauingen, Alemanha", description: "Local de seu nascimento." },
+  { lat: 45.4064, lng: 11.8768, type: "vida", title: "Pádua, Itália", description: "Onde estudou as artes liberais e ingressou na Ordem Dominicana após ouvir o Beato Jordão de Saxônia." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde obteve seu mestrado em teologia e iniciou sua carreira de ensino inovadora." },
+  { lat: 49.0134, lng: 12.1016, type: "vida", title: "Regensburg, Alemanha", description: "Serviu brevemente como Bispo, ajudando a sanear as finanças da diocese antes de renunciar para voltar à vida acadêmica." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Defendeu as ordens mendicantes como teólogo papal na Cúria." },
+  { lat: 50.9375, lng: 6.9603, type: "morte", title: "Colônia, Alemanha", description: "Local onde fundou um Studium Generale, lecionou para Tomás de Aquino e faleceu." }
+]' />
+
 ## Impacto Hoje
 Hoje, Santo Alberto Magno é reconhecido não apenas como uma figura central do escolasticismo católico, mas como um modelo para a harmonia entre ciência e fé. Ele mostrou que o estudo diligente do mundo natural não desvia do Criador, mas sim conduz a Ele, revelando Sua inteligência e glória.
 
 Em um mundo frequentemente polarizado entre a fé religiosa e a investigação científica, Alberto serve como um exemplo luminoso de que ambas são maneiras de buscar e encontrar a mesma verdade. Escolas, faculdades, institutos de ciências e muitas paróquias em todo o mundo carregam o seu nome, celebrando seu legado formidável como o maior naturalista alemão e o maior teólogo germânico da Idade Média.
-
-<MiracleMap :miracles="[
-  { lat: 48.5684, lng: 10.4300, title: 'Lauingen, Alemanha', description: 'Local de seu nascimento.' },
-  { lat: 45.4064, lng: 11.8768, title: 'Pádua, Itália', description: 'Onde estudou as artes liberais e ingressou na Ordem Dominicana após ouvir o Beato Jordão de Saxônia.' },
-  { lat: 48.8566, lng: 2.3522, title: 'Paris, França', description: 'Onde obteve seu mestrado em teologia e iniciou sua carreira de ensino inovadora.' },
-  { lat: 50.9375, lng: 6.9603, title: 'Colônia, Alemanha', description: 'Local onde fundou um Studium Generale, lecionou para Tomás de Aquino e faleceu.' },
-  { lat: 49.0134, lng: 12.1016, title: 'Regensburg, Alemanha', description: 'Serviu brevemente como Bispo, ajudando a sanear as finanças da diocese antes de renunciar para voltar à vida acadêmica.' },
-  { lat: 41.9028, lng: 12.4964, title: 'Roma, Itália', description: 'Defendeu as ordens mendicantes como teólogo papal na Cúria.' }
-]" />

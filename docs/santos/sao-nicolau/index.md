@@ -1,13 +1,18 @@
+---
+title: São Nicolau
+description: Biografia, milagres, curiosidades e mapa de São Nicolau.
+---
+
 # São Nicolau
 
-![São Nicolau](./img/portrait.jpg)
+![São Nicolau](img/portrait.jpg)
 
-**"O protetor das crianças e dos pobres."**
+> "O protetor das crianças e dos pobres."
 
-**Nascimento:** 15 de março de 270 (aprox.), Pátara (Ásia Menor)
-**Morte:** 6 de dezembro de 343 (aprox.), Mira (Ásia Menor)
-**Canonização:** Culto imemorial
-**Festa Litúrgica:** 6 de dezembro
+- **Nascimento:** 15 de março de 270 (aprox.), Pátara (Ásia Menor)
+- **Morte:** 6 de dezembro de 343 (aprox.), Mira (Ásia Menor)
+- **Canonização:** Culto imemorial
+- **Festa Litúrgica:** 6 de dezembro
 
 <TextToSpeech />
 
@@ -43,9 +48,9 @@ Muitos milagres são atribuídos a São Nicolau, valendo-lhe o título de "Tauma
 São Nicolau viveu toda a sua vida na Ásia Menor (atual Turquia), mas suas relíquias viajaram para a Itália.
 
 <MiracleMap :items='[
-  { lat: 36.2612, lng: 29.3146, title: "Pátara, Turquia", description: "Cidade natal de São Nicolau." },
-  { lat: 36.2577, lng: 29.9853, title: "Mira (Demre), Turquia", description: "Cidade onde serviu como bispo e faleceu." },
-  { lat: 41.1171, lng: 16.8719, title: "Bari, Itália", description: "Local onde repousam a maior parte de suas relíquias na Basílica de São Nicolau." }
+  { lat: 36.2612, lng: 29.3146, type: "nascimento", title: "Pátara, Turquia", description: "Cidade natal de São Nicolau." },
+  { lat: 36.2577, lng: 29.9853, type: "morte", title: "Mira (Demre), Turquia", description: "Cidade onde serviu como bispo e faleceu." },
+  { lat: 41.1171, lng: 16.8719, type: "tumulo", title: "Bari, Itália", description: "Local onde repousam a maior parte de suas relíquias na Basílica de São Nicolau." }
 ]' />
 
 ## Impacto Hoje

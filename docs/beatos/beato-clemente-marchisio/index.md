@@ -1,13 +1,18 @@
+---
+title: Beato Clemente Marchisio
+description: Biografia, milagres, curiosidades e mapa do Beato Clemente Marchisio.
+---
+
 # Beato Clemente Marchisio
 
 ![Beato Clemente Marchisio](imagens/portrait.jpg)
 
-**"O Pároco da Eucaristia e das Operárias"**
+> "O Pároco da Eucaristia e das Operárias"
 
-**Nascimento:** 1 de março de 1833, Racconigi (Itália)<br>
-**Morte:** 16 de dezembro de 1903, Rivalba (Itália)<br>
-**Festa Litúrgica:** 16 de dezembro<br>
-**Beatificação:** 30 de setembro de 1984, pelo Papa João Paulo II<br>
+- **Nascimento:** 1 de março de 1833, Racconigi (Itália)
+- **Morte:** 16 de dezembro de 1903, Rivalba (Itália)
+- **Beatificação:** 30 de setembro de 1984, pelo Papa João Paulo II
+- **Festa Litúrgica:** 16 de dezembro
 
 <TextToSpeech />
 
@@ -37,10 +42,14 @@ A cura de uma irmã da sua própria Congregação, Irmã Agostina, que sofria de
 
 O trabalho incansável de Dom Clemente esteve concentrado em poucas cidades do norte da Itália, onde a revolução industrial trazia novos desafios sociais e pastorais.
 
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a Beato Clemente Marchisio: nascimento, morte, milagres e locais de devoção.
+
 <MiracleMap :items='[
-  { lat: 44.7671, lng: 7.6695, title: "Racconigi, Itália", description: "Sua cidade natal e onde passou sua juventude e início de sua formação religiosa." },
-  { lat: 45.0703, lng: 7.6868, title: "Turim, Itália", description: "Onde estudou no seminário, foi ordenado sacerdote e interagiu com São João Bosco." },
-  { lat: 45.1209, lng: 7.8860, title: "Rivalba, Itália", description: "Paróquia onde foi pároco a maior parte de sua vida, onde fundou o seu Instituto e onde morreu em 1903." }
+  { lat: 44.7671, lng: 7.6695, type: "nascimento", title: "Racconigi, Itália", description: "Sua cidade natal e onde passou sua juventude e início de sua formação religiosa." },
+  { lat: 45.0703, lng: 7.6868, type: "vida", title: "Turim, Itália", description: "Onde estudou no seminário, foi ordenado sacerdote e interagiu com São João Bosco." },
+  { lat: 45.1209, lng: 7.886, type: "morte", title: "Rivalba, Itália", description: "Paróquia onde foi pároco a maior parte de sua vida, onde fundou o seu Instituto e onde morreu em 1903." }
 ]' />
 
 ## Impacto Hoje

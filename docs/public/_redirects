@@ -1,2 +1,14 @@
-# Redirects from what the browser requests to what we serve
+# Páginas que mudaram de lugar após revisão de conteúdo.
+# Carlo Acutis, Pier Giorgio Frassati, José Gregorio Hernández, Bartolo Longo e
+# Maria Troncatti foram canonizados em 2025 e deixaram de ser "beatos".
+/beatos/carlo_acutis/                 /santos/carlo-acutis/          301
+/beatos/beato-carlo-acutis/           /santos/carlo-acutis/          301
+/beatos/pier-giorgio-frassati/        /santos/pier-giorgio-frassati/ 301
+/beatos/beato-jose-gregorio-hernandez/ /santos/sao-jose-gregorio-hernandez/ 301
+/beatos/beato-bartolo-longo/          /santos/sao-bartolo-longo/     301
+/beatos/beata-maria-troncatti/        /santos/santa-maria-troncatti/ 301
+# Página duplicada de Frederico Ozanam, unificada na entrada completa.
+/beatos/beato-frederico-ozanam/       /beatos/beato-antonio-frederico-ozanam/ 301
+
+# Fallback do SPA — precisa ficar por último.
 /*  /index.html  200

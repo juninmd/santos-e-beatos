@@ -1,16 +1,22 @@
+---
+title: Beata Edviges Carboni
+description: Biografia, milagres, curiosidades e mapa da Beata Edviges Carboni.
+---
+
 # Beata Edviges Carboni
 
 ![Beata Edviges Carboni](imagens/portrait.jpg)
 
-**"A Mística Estigmatizada da Sardenha"**<br>
-**Nascimento:** 2 de maio de 1880 (Pozzomaggiore, Sardenha, Itália)<br>
-**Morte:** 17 de fevereiro de 1952 (Roma, Itália)<br>
-**Beatificação:** 15 de junho de 2019 (Papa Francisco)<br>
-**Festa Litúrgica:** 4 de maio<br>
+> "A Mística Estigmatizada da Sardenha"
 
----
+- **Nascimento:** 2 de maio de 1880 (Pozzomaggiore, Sardenha, Itália)
+- **Morte:** 17 de fevereiro de 1952 (Roma, Itália)
+- **Beatificação:** 15 de junho de 2019 (Papa Francisco)
+- **Festa Litúrgica:** 4 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -41,11 +47,11 @@ Faleceu pacificamente em 1952 em Roma. Sua vida de humildade heroica e abnegaç�
 * **Pozzomaggiore, Sardenha:** Sua terra natal, onde viveu por décadas servindo a família, os pobres e onde primeiramente recebeu os estigmas.
 * **Roma, Itália:** Mudou-se para lá em 1938 e passou a última fase de sua vida, servindo os necessitados e onde faleceu no odor de santidade.
 
+<MiracleMap :items='[
+  { lat: 40.3985, lng: 8.6601, type: "nascimento", title: "Pozzomaggiore", description: "Nasceu, cresceu, cuidou de sua família, dedicou-se à caridade e recebeu os estigmas na Sardenha." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma", description: "Passou seus últimos anos em Roma, mantendo sua vida de ocultação, caridade e oração até sua morte." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, a figura de Beata Edviges Carboni ressurge fortemente, particularmente na Sardenha, onde é muito venerada, como um exemplo da santidade no mundo laical e no contexto do sofrimento familiar. Ela mostra que a santidade mais extraordinária pode ser encontrada no escondimento do cotidiano, enquanto se cumprem os deveres familiares. Seu testemunho de obediência heroica perante os escrutínios severos que sofreu da Igreja é hoje visto como um exemplo de fidelidade e submissão autênticas.
-
-<MiracleMap :items='[
-  { lat: 40.3985, lng: 8.6601, title: "Nascimento em Pozzomaggiore", description: "Nasceu, cresceu, cuidou de sua família, dedicou-se à caridade e recebeu os estigmas na Sardenha." },
-  { lat: 41.9028, lng: 12.4964, title: "Morte em Roma", description: "Passou seus últimos anos em Roma, mantendo sua vida de ocultação, caridade e oração até sua morte." }
-]' />

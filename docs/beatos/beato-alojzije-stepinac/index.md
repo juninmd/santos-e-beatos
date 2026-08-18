@@ -1,13 +1,18 @@
+---
+title: Beato Alojzije Stepinac
+description: Biografia, milagres, curiosidades e mapa do Beato Alojzije Stepinac.
+---
+
 # Beato Alojzije Stepinac
 
 ![Beato Alojzije Stepinac](imagens/cover.jpg)
 
-**"Arcebispo e Mártir da Croácia"**
+> "Arcebispo e Mártir da Croácia"
 
-**Nascimento:** 8 de maio de 1898, Krašić (Croácia)<br>
-**Morte:** 10 de fevereiro de 1960, Krašić (Croácia)<br>
-**Festa Litúrgica:** 10 de fevereiro<br>
-**Beatificação:** 3 de outubro de 1998, pelo Papa João Paulo II<br>
+- **Nascimento:** 8 de maio de 1898, Krašić (Croácia)
+- **Morte:** 10 de fevereiro de 1960, Krašić (Croácia)
+- **Beatificação:** 3 de outubro de 1998, pelo Papa João Paulo II
+- **Festa Litúrgica:** 10 de fevereiro
 
 <TextToSpeech />
 
@@ -48,14 +53,13 @@ Em relação a Stepinac, como mártir (alguém morto devido aos danos infringido
 *   **Zagreb (Croácia):** A capital croata, sendo eleição e sede do seu inabalável apostolado, epicentro dos seus discursos corajosos em defesa das minorias perseguidas e palco do seu injusto julgamento.
 *   **Lepoglava (Croácia):** Local do brutal complexo carcerário para onde o enviaram após o seu julgamento pelos comunistas e onde a sua saúde deteriorou significativamente.
 
+<MiracleMap :items='[
+  { lat: 45.6457, lng: 15.5135, type: "nascimento", title: "Krašić, Croácia", description: "Local do seu nascimento e de sua prisão domiciliar onde viveu o fim de seus dias e faleceu." },
+  { lat: 45.815, lng: 15.9819, type: "vida", title: "Zagreb, Croácia", description: "Onde serviu heroicamente como arcebispo enfrentando ditaduras nazistas e comunistas." },
+  { lat: 46.2163, lng: 16.0378, type: "vida", title: "Lepoglava, Croácia", description: "A notória prisão e campo onde realizou trabalhos forçados." },
+  { lat: 45.6457, lng: 15.5135, type: "morte", title: "Krašić, Croácia", description: "Local da morte (10 de fevereiro de 1960)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, o Beato Alojzije Stepinac é reverenciado como um gigante da fé na modernidade. Seu exemplo inspira especialmente nas nações do Leste Europeu que sofreram os flagelos da cortina de ferro comunista. Ele continua a ser lembrado e citado em debates contemporâneos como um exemplo singular de oposição cristã moral, firmeza inabalável dos direitos humanos sob os mais monstruosos totalitarismos do Século XX, e total devoção da liberdade religiosa e consciência sobre quaisquer leis estatais opressivas. Ele figura como herói nacional intocável da Croácia moderna.
-
-<MiracleMap
-  :locations="[
-    { lat: 45.6457, lng: 15.5135, title: 'Krašić, Croácia', description: 'Local do seu nascimento e de sua prisão domiciliar onde viveu o fim de seus dias e faleceu.' },
-    { lat: 45.8150, lng: 15.9819, title: 'Zagreb, Croácia', description: 'Onde serviu heroicamente como arcebispo enfrentando ditaduras nazistas e comunistas.' },
-    { lat: 46.2163, lng: 16.0378, title: 'Lepoglava, Croácia', description: 'A notória prisão e campo onde realizou trabalhos forçados.' }
-  ]"
-/>

@@ -1,24 +1,22 @@
 ---
 title: Beata Ana dos Anjos Monteagudo
-description: Conheça a história da Beata Ana dos Anjos Monteagudo, freira dominicana peruana conhecida por sua santidade e visões.
+description: Biografia, milagres, curiosidades e mapa da Beata Ana dos Anjos Monteagudo.
 ---
 
 # Beata Ana dos Anjos Monteagudo
 
-<div class="saint-header">
-  <div class="saint-image-container">
-    <img src="./imagens/portrait.jpg" alt="Beata Ana dos Anjos Monteagudo" class="saint-image">
-  </div>
-  <div class="saint-info">
-    <p class="quote">"O amor de Deus é a minha única regra de vida."</p>
-    <p><strong>Nascimento:</strong> 26 de julho de 1602, Arequipa, Vice-Reino do Peru (atual Peru)<br>
-    <strong>Morte:</strong> 10 de janeiro de 1686, Arequipa, Vice-Reino do Peru<br>
-    <strong>Beatificação:</strong> 2 de fevereiro de 1985 pelo Papa João Paulo II<br>
-    <strong>Festa Litúrgica:</strong> 10 de janeiro</p>
-  </div>
-</div>
+![Beata Ana dos Anjos Monteagudo](imagens/portrait.jpg)
+
+> "O amor de Deus é a minha única regra de vida."
+
+- **Nascimento:** 26 de julho de 1602, Arequipa, Vice-Reino do Peru (atual Peru)
+- **Morte:** 10 de janeiro de 1686, Arequipa, Vice-Reino do Peru
+- **Beatificação:** 2 de fevereiro de 1985 pelo Papa João Paulo II
+- **Festa Litúrgica:** 10 de janeiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 Ana de Monteagudo y Ponce de León nasceu em Arequipa, numa família nobre de origem espanhola. Seu pai era Sebastián de Monteagudo, um oficial espanhol, e sua mãe era Francisca Ponce de León. Desde muito jovem, Ana demonstrou grande inclinação para a piedade, a oração e a vida reclusa. Seus pais, embora devotos, desejavam que ela seguisse um caminho na alta sociedade, possivelmente um casamento vantajoso, e resistiram fortemente à sua vocação religiosa.
@@ -44,16 +42,10 @@ A Beata Ana dos Anjos foi agraciada com muitos dons místicos. Ela tinha visões
 ## Cidades por onde passou
 - **Arequipa (Peru):** A única cidade em que viveu, no Mosteiro de Santa Catalina, onde nasceu, passou toda a sua vida consagrada e faleceu.
 
+<MiracleMap :items='[
+  { lat: -16.3988, lng: -71.5369, type: "nascimento", title: "Cura Miraculosa (Beatificação)", description: "A Igreja aprovou a cura miraculosa de uma mulher com câncer uterino incurável que invocou a intercessão da Beata Ana, resultando em sua cura total. Local de nascimento (26 de julho de 1602)." },
+  { lat: -16.409, lng: -71.5375, type: "morte", title: "Cura Miraculosa (Beatificação)", description: "Local da morte (10 de janeiro de 1686)." }
+]' />
+
 ## Impacto Hoje
 A Beata Ana dos Anjos Monteagudo é uma figura muito querida e venerada no Peru, especialmente em Arequipa. Sua vida serve como um poderoso testemunho do valor da vida contemplativa, da penitência e da oração pelas almas. O Mosteiro de Santa Catalina, preservando seu legado, atrai milhares de visitantes que vêm para conhecer sua história e rezar em sua antiga cela, perpetuando sua memória e inspirando novas gerações na fé católica e na busca pela santidade nas tarefas cotidianas.
-
-<MiracleMap
-  :miracles="[
-    {
-      title: 'Cura Miraculosa (Beatificação)',
-      description: 'A Igreja aprovou a cura miraculosa de uma mulher com câncer uterino incurável que invocou a intercessão da Beata Ana, resultando em sua cura total.',
-      coordinates: [-16.3988, -71.5369],
-      location: 'Arequipa, Peru'
-    }
-  ]"
-/>
