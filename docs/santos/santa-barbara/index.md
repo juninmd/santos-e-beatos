@@ -1,16 +1,22 @@
+---
+title: Santa Bárbara
+description: Biografia, milagres, curiosidades e mapa de Santa Bárbara.
+---
+
 # Santa Bárbara
 
 ![Santa Bárbara](imagens/portrait.jpg)
 
-**"Protetora contra raios e tempestades"**<br>
-**Nascimento:** Século III (Nicomédia, atual İzmit, Turquia)<br>
-**Morte:** c. 290 ou 306 (Nicomédia)<br>
-**Canonização:** Pré-Congregação (Reconhecida nos primeiros séculos)<br>
-**Festa Litúrgica:** 4 de dezembro<br>
+> "Protetora contra raios e tempestades"
 
----
+- **Nascimento:** Século III (Nicomédia, atual İzmit, Turquia)
+- **Morte:** c. 290 ou 306 (Nicomédia)
+- **Canonização:** Pré-Congregação (Reconhecida nos primeiros séculos)
+- **Festa Litúrgica:** 4 de dezembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -40,8 +46,11 @@ Como a história de Santa Bárbara ocorreu em reclusão, ela não viajou extensi
 *   **Nicomédia (atual İzmit, Turquia):** Cidade onde nasceu, foi reclusa em sua torre, converteu-se e onde ocorreu seu martírio e morte.
 *   **Montanhas Próximas a Nicomédia:** Local onde se refugiou temporariamente durante a sua fuga do pai.
 
+<MiracleMap :items='[
+  { lat: 40.7654, lng: 29.9408, type: "nascimento", title: "Nicomédia, Turquia", description: "Local de nascimento (Século III)." },
+  { lat: 40.7654, lng: 29.9408, type: "morte", title: "Nicomédia, Turquia", description: "Local da morte (c. 290 ou 306)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, Santa Bárbara é invocada ao redor de todo o mundo, com forte devoção popular contra mortes trágicas ou mortes em acidentes. Sua intercessão traz proteção a profissionais em carreiras de alta periculosidade, como artilharia e mineração, a ponto de ser frequentemente invocada nos exércitos. Ela continua sendo um modelo de coragem, que suportou até as torturas extremas da própria família em nome de sua fidelidade inabalável a Jesus Cristo e à Santíssima Trindade.
-
-<MiracleMap />

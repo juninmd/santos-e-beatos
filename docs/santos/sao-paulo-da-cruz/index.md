@@ -1,20 +1,22 @@
 ---
 title: São Paulo da Cruz
-description: Fundador da Congregação da Paixão de Jesus Cristo (Passionistas)
+description: Biografia, milagres, curiosidades e mapa de São Paulo da Cruz.
 ---
 
 # São Paulo da Cruz
 
-![São Paulo da Cruz](./imagens/cover.jpg)
+![São Paulo da Cruz](imagens/cover.jpg)
 
 > "A oração é a chave de ouro que abre o céu."
 
-**Nascimento:** 3 de Janeiro de 1694 <br>
-**Morte:** 18 de Outubro de 1775 <br>
-**Canonização:** 29 de Junho de 1867 <br>
-**Festa Litúrgica:** 19 de Outubro <br>
+- **Nascimento:** 3 de Janeiro de 1694, Ovada, Piemonte (Itália)
+- **Morte:** 18 de Outubro de 1775, Roma (Itália)
+- **Canonização:** 29 de Junho de 1867
+- **Festa Litúrgica:** 19 de Outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -50,13 +52,13 @@ São Paulo da Cruz desenvolveu sua missão pastoral principalmente na Itália, c
 *   **Monte Argentario, Itália:** Local da fundação do primeiro retiro (convento) passionista.
 *   **Roma, Itália:** Cidade onde faleceu e onde está sepultado, na Basílica de São João e São Paulo.
 
+<MiracleMap :items='[
+  { lat: 44.6397, lng: 8.6475, type: "nascimento", title: "Ovada, Itália", description: "Cidade natal de São Paulo da Cruz." },
+  { lat: 44.8461, lng: 8.5833, type: "vida", title: "Castellazzo Bormida", description: "Local do seu retiro de quarenta dias onde escreveu a Regra." },
+  { lat: 42.3917, lng: 11.1611, type: "vida", title: "Monte Argentario", description: "Fundação do primeiro retiro Passionista." },
+  { lat: 41.8872, lng: 12.4925, type: "morte", title: "Roma", description: "Onde fundou a sede da Congregação e local do seu falecimento." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, o legado de São Paulo da Cruz vive vibrantemente através da Congregação dos Passionistas, que conta com milhares de sacerdotes, irmãos e irmãs contemplativas em mais de 60 países. Seu carisma, centrado em meditar e anunciar o amor infinito de Deus revelado na Cruz de Cristo, continua a oferecer consolo, esperança e um profundo sentido de solidariedade aos que sofrem física e espiritualmente em todo o mundo. A congregação também lidera numerosos retiros, paróquias e santuários.
-
-<MiracleMap :items='[
-  { lat: 44.6397, lng: 8.6475, title: "Ovada, Itália", description: "Cidade natal de São Paulo da Cruz." },
-  { lat: 44.8461, lng: 8.5833, title: "Castellazzo Bormida", description: "Local do seu retiro de quarenta dias onde escreveu a Regra." },
-  { lat: 42.3917, lng: 11.1611, title: "Monte Argentario", description: "Fundação do primeiro retiro Passionista." },
-  { lat: 41.8872, lng: 12.4925, title: "Roma", description: "Onde fundou a sede da Congregação e local do seu falecimento." }
-]' />

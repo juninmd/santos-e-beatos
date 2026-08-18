@@ -1,13 +1,18 @@
+---
+title: Beata Maria Assunta Pallotta
+description: Biografia, milagres, curiosidades e mapa da Beata Maria Assunta Pallotta.
+---
+
 # Beata Maria Assunta Pallotta
 
-![Beata Maria Assunta Pallotta](./imagens/portrait.jpg)
+![Beata Maria Assunta Pallotta](imagens/portrait.jpg)
 
-**"Eu irei a qualquer lugar que o Senhor quiser."**
+> "Eu irei a qualquer lugar que o Senhor quiser."
 
-**Nascimento:** 20 de agosto de 1878, Force, Itália<br>
-**Morte:** 7 de abril de 1905, Tong-Eul-Keou, China<br>
-**Festa Litúrgica:** 7 de abril<br>
-**Beatificação:** 7 de novembro de 1954, pelo Papa Pio XII<br>
+- **Nascimento:** 20 de agosto de 1878, Force, Itália
+- **Morte:** 7 de abril de 1905, Tong-Eul-Keou, China
+- **Beatificação:** 7 de novembro de 1954, pelo Papa Pio XII
+- **Festa Litúrgica:** 7 de abril
 
 <TextToSpeech />
 
@@ -38,10 +43,10 @@ Durante a sua agonia na China, um perfume misterioso e celestial de violetas esp
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 42.9632, lng: 13.4908, title: "Force, Itália", description: "Cidade natal, onde nasceu, cresceu e trabalhou duro como pedreira antes de entrar para a vida religiosa." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Onde completou a sua formação inicial com as Missionárias Franciscanas de Maria." },
-  { lat: 43.7696, lng: 11.2558, title: "Florença, Itália", description: "Atuou em conventos da ordem realizando serviços domésticos e cuidando dos necessitados." },
-  { lat: 37.8706, lng: 112.5489, title: "Taiyuan (próximo a Tong-Eul-Keou), China", description: "A região onde serviu como missionária no orfanato e faleceu de tifo pouco tempo depois de chegar." }
+  { lat: 42.9632, lng: 13.4908, type: "nascimento", title: "Force, Itália", description: "Cidade natal, onde nasceu, cresceu e trabalhou duro como pedreira antes de entrar para a vida religiosa." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Onde completou a sua formação inicial com as Missionárias Franciscanas de Maria." },
+  { lat: 43.7696, lng: 11.2558, type: "vida", title: "Florença, Itália", description: "Atuou em conventos da ordem realizando serviços domésticos e cuidando dos necessitados." },
+  { lat: 37.8706, lng: 112.5489, type: "morte", title: "Taiyuan (próximo a Tong-Eul-Keou), China", description: "A região onde serviu como missionária no orfanato e faleceu de tifo pouco tempo depois de chegar." }
 ]' />
 
 ## Impacto Hoje

@@ -1,18 +1,22 @@
+---
+title: Beato Cláudio Granzotto
+description: Biografia, milagres, curiosidades e mapa do Beato Cláudio Granzotto.
+---
+
 # Beato Cláudio Granzotto
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <img src="./imagens/portrait.jpg" alt="Beato Cláudio Granzotto" style="width: 300px; border-radius: 10px; margin-bottom: 20px;">
-    <i>"A arte para glorificar a Deus deve ser uma expressão de vida espiritual e não de glória vã."</i>
-</div>
+![Beato Cláudio Granzotto](imagens/portrait.jpg)
 
-<br>
+> "A arte para glorificar a Deus deve ser uma expressão de vida espiritual e não de glória vã."
 
-**Nascimento:** 23 de agosto de 1900<br>
-**Morte:** 15 de agosto de 1947<br>
-**Beatificação:** 20 de novembro de 1994<br>
-**Festa Litúrgica:** 2 de setembro<br>
+- **Nascimento:** 23 de agosto de 1900, Santa Lucia di Piave, Treviso (Itália)
+- **Morte:** 15 de agosto de 1947, Pádua (Itália)
+- **Beatificação:** 20 de novembro de 1994
+- **Festa Litúrgica:** 2 de setembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -44,12 +48,13 @@ Numerosos outros relatos locais de intervenções miraculosas e curas sem explic
 - **Veneza, Itália**: Onde aperfeiçoou seu talento na célebre Academia de Belas Artes e iniciou sua carreira como escultor.
 - **Chiampo, Itália**: Cidade onde ingressou na vida franciscana, servindo intensamente aos pobres e criando suas obras mais significativas, e também onde viria a falecer.
 
+<MiracleMap :items='[
+  { lat: 45.845, lng: 12.2858, type: "nascimento", title: "Santa Lúcia di Piave, Itália", description: "Onde o Beato Cláudio Granzotto nasceu e cresceu em uma família camponesa modesta." },
+  { lat: 45.4408, lng: 12.3155, type: "vida", title: "Veneza, Itália", description: "Sua formação e consagração inicial nas belas artes na Academia de Belas Artes de Veneza." },
+  { lat: 45.5457, lng: 11.2828, type: "morte", title: "Chiampo, Itália", description: "Onde ingressou na ordem Franciscana, criou obras incríveis, como a réplica da Gruta de Lourdes, e onde faleceu." },
+  { lat: 45.4064, lng: 11.8768, type: "morte", title: "Pádua", description: "Local da morte (15 de agosto de 1947)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, o Beato Cláudio Granzotto é profundamente admirado por muitos como um modelo formidável para artistas católicos que lutam para harmonizar a sua vocação artística com uma vida espiritual autêntica e humilde. Suas esculturas permanecem expostas em várias paróquias, santuários e mosteiros, servindo de testemunho duradouro de uma arte que, de modo inigualável, se faz prece, levando os corações a contemplar os mistérios cristãos e a glória divina. O Santuário de Chiampo é hoje um importante centro de peregrinação no norte da Itália, onde milhares deixam seus pedidos e testemunhos de graças alcançadas.
-
-<MiracleMap :items="[
-    { title: 'Santa Lúcia di Piave, Itália', description: 'Onde o Beato Cláudio Granzotto nasceu e cresceu em uma família camponesa modesta.', lat: 45.8450, lng: 12.2858 },
-    { title: 'Veneza, Itália', description: 'Sua formação e consagração inicial nas belas artes na Academia de Belas Artes de Veneza.', lat: 45.4408, lng: 12.3155 },
-    { title: 'Chiampo, Itália', description: 'Onde ingressou na ordem Franciscana, criou obras incríveis, como a réplica da Gruta de Lourdes, e onde faleceu.', lat: 45.5457, lng: 11.2828 }
-]" />

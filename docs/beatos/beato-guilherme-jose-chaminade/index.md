@@ -1,13 +1,18 @@
+---
+title: Beato Guilherme José Chaminade
+description: Biografia, milagres, curiosidades e mapa do Beato Guilherme José Chaminade.
+---
+
 # Beato Guilherme José Chaminade
 
 ![Beato Guilherme José Chaminade](imagens/portrait.jpg)
 
-**"Aquilo que Ele vos disser, fazei-o."**
+> "Aquilo que Ele vos disser, fazei-o."
 
-**Nascimento:** 8 de abril de 1761, Périgueux (França)<br>
-**Morte:** 22 de janeiro de 1850, Bordéus (França)<br>
-**Festa Litúrgica:** 22 de janeiro<br>
-**Beatificação:** 3 de setembro de 2000, pelo Papa João Paulo II
+- **Nascimento:** 8 de abril de 1761, Périgueux (França)
+- **Morte:** 22 de janeiro de 1850, Bordéus (França)
+- **Beatificação:** 3 de setembro de 2000, pelo Papa João Paulo II
+- **Festa Litúrgica:** 22 de janeiro
 
 <TextToSpeech />
 
@@ -36,11 +41,11 @@ Após orações intensas de sua família, dos marianistas locais e da comunidade
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 45.1833, lng: 0.7167, title: "Périgueux, França", description: "Cidade natal, onde passou a infância e iniciou sua educação religiosa." },
-  { lat: 44.9333, lng: 0.3667, title: "Mussidan, França", description: "Onde estudou e mais tarde lecionou e atuou como padre antes da revolução." },
-  { lat: 44.8378, lng: -0.5792, title: "Bordéus, França", description: "Centro principal de sua atividade apostólica clandestina e onde fundou as Congregações e Sociedades Marianistas." },
-  { lat: 41.6500, lng: -0.8833, title: "Saragoça, Espanha", description: "Local de seu exílio (1797-1800), onde recebeu a inspiração aos pés de Nossa Senhora do Pilar para fundar a Família Marianista." },
-  { lat: 44.2000, lng: 0.3333, title: "Agen (Trenquelléon), França", description: "Onde colaborou com a Beata Adèle de Batz de Trenquelléon para a fundação das Filhas de Maria Imaculada." }
+  { lat: 45.1833, lng: 0.7167, type: "nascimento", title: "Périgueux, França", description: "Cidade natal, onde passou a infância e iniciou sua educação religiosa." },
+  { lat: 44.9333, lng: 0.3667, type: "vida", title: "Mussidan, França", description: "Onde estudou e mais tarde lecionou e atuou como padre antes da revolução." },
+  { lat: 41.65, lng: -0.8833, type: "vida", title: "Saragoça, Espanha", description: "Local de seu exílio (1797-1800), onde recebeu a inspiração aos pés de Nossa Senhora do Pilar para fundar a Família Marianista." },
+  { lat: 44.2, lng: 0.3333, type: "vida", title: "Agen (Trenquelléon), França", description: "Onde colaborou com a Beata Adèle de Batz de Trenquelléon para a fundação das Filhas de Maria Imaculada." },
+  { lat: 44.8378, lng: -0.5792, type: "morte", title: "Bordéus, França", description: "Centro principal de sua atividade apostólica clandestina e onde fundou as Congregações e Sociedades Marianistas. Local da morte (22 de janeiro de 1850)." }
 ]' />
 
 ## Impacto Hoje

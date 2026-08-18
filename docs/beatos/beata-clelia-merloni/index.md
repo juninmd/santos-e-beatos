@@ -1,13 +1,18 @@
+---
+title: Beata Clélia Merloni
+description: Biografia, milagres, curiosidades e mapa da Beata Clélia Merloni.
+---
+
 # Beata Clélia Merloni
 
 ![Beata Clélia Merloni](imagens/portrait.jpg)
 
-**"Só Deus... e depois, nada mais!"**
+> "Só Deus... e depois, nada mais!"
 
-**Nascimento:** 10 de março de 1861, Forlì, Itália
-**Morte:** 21 de novembro de 1930, Roma, Itália
-**Festa Litúrgica:** 21 de novembro
-**Beatificação:** 3 de novembro de 2018, pelo Papa Francisco
+- **Nascimento:** 10 de março de 1861, Forlì, Itália
+- **Morte:** 21 de novembro de 1930, Roma, Itália
+- **Beatificação:** 3 de novembro de 2018, pelo Papa Francisco
+- **Festa Litúrgica:** 21 de novembro
 
 <TextToSpeech />
 
@@ -39,9 +44,9 @@ O milagre que permitiu sua beatificação ocorreu no Brasil, em 1951. O médico 
 Clélia nasceu em Forlì, fundou a obra em Viareggio, mas estabeleceu-se posteriormente em Roma.
 
 <MiracleMap :items='[
-  { lat: 44.2227, lng: 12.0407, title: "Forlì, Itália", description: "Cidade natal de Madre Clélia." },
-  { lat: 43.8668, lng: 10.2505, title: "Viareggio, Itália", description: "Local da fundação do Instituto." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Onde viveu seus últimos anos e onde está seu corpo (Casa Generalícia)." }
+  { lat: 44.2227, lng: 12.0407, type: "nascimento", title: "Forlì, Itália", description: "Cidade natal de Madre Clélia." },
+  { lat: 43.8668, lng: 10.2505, type: "vida", title: "Viareggio, Itália", description: "Local da fundação do Instituto." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Onde viveu seus últimos anos e onde está seu corpo (Casa Generalícia). Local da morte (21 de novembro de 1930)." }
 ]' />
 
 ## Impacto Hoje

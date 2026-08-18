@@ -1,14 +1,22 @@
+---
+title: Beato Contardo Ferrini
+description: Biografia, milagres, curiosidades e mapa do Beato Contardo Ferrini.
+---
+
 # Beato Contardo Ferrini
 
-![Beato Contardo Ferrini](./imagens/portrait.jpg "Beato Contardo Ferrini")
-*O Professor da Santidade*
+![Beato Contardo Ferrini](imagens/portrait.jpg)
 
-**Nascimento:** 4 de abril de 1859<br>
-**Morte:** 17 de outubro de 1902<br>
-**Beatificação:** 13 de abril de 1947 pelo Papa Pio XII<br>
-**Festa Litúrgica:** 17 de outubro<br>
+> "O Professor da Santidade"
+
+- **Nascimento:** 4 de abril de 1859, Milão (Itália)
+- **Morte:** 17 de outubro de 1902, Suna, Verbania (Itália)
+- **Beatificação:** 13 de abril de 1947 pelo Papa Pio XII
+- **Festa Litúrgica:** 17 de outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,13 +47,14 @@ A sua fama de santidade espalhou-se rapidamente, especialmente entre os estudant
 - **Berlim, Alemanha:** Onde aperfeiçoou os seus estudos e deu testemunho da sua fé num ambiente académico fortemente protestante e secularizado.
 - **Suna (Verbania), Itália:** Nas margens do Lago Maggiore, onde passava as férias, praticava alpinismo, contemplava a criação e onde acabou por falecer.
 
+<MiracleMap :items='[
+  { lat: 45.4642, lng: 9.19, type: "nascimento", title: "Milão, Itália", description: "Local de nascimento (4 de abril de 1859)." },
+  { lat: 45.1844, lng: 9.1582, type: "vida", title: "Pavia, Itália", description: "Universidade onde estudou e lecionou Direito Romano." },
+  { lat: 52.52, lng: 13.405, type: "vida", title: "Berlim, Alemanha", description: "Onde realizou estudos avançados de Direito." },
+  { lat: 45.922, lng: 8.551, type: "morte", title: "Suna (Verbania), Itália", description: "Local da sua morte, às margens do Lago Maggiore." },
+  { lat: 45.4642, lng: 9.19, type: "tumulo", title: "Milão, Itália", description: "Local de nascimento e onde o seu corpo repousa hoje (Universidade Católica do Sagrado Coração)." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Contardo Ferrini é um farol para intelectuais, estudantes e professores universitários. Num mundo que frequentemente tenta separar a razão da fé, a vida de Ferrini demonstra que a excelência académica não só é compatível com a santidade, como pode ser um caminho direto para ela. Ele é o patrono dos professores universitários, e o seu túmulo na capela da Universidade Católica do Sagrado Coração, em Milão, continua a ser um local de peregrinação e inspiração para jovens em busca de conciliar o estudo rigoroso com um amor apaixonado por Cristo e pela Igreja.
-
-<MiracleMap :markers="[
-  { lat: 45.4642, lng: 9.1900, title: 'Milão, Itália', description: 'Local de nascimento e onde o seu corpo repousa hoje (Universidade Católica do Sagrado Coração).' },
-  { lat: 45.1844, lng: 9.1582, title: 'Pavia, Itália', description: 'Universidade onde estudou e lecionou Direito Romano.' },
-  { lat: 52.5200, lng: 13.4050, title: 'Berlim, Alemanha', description: 'Onde realizou estudos avançados de Direito.' },
-  { lat: 45.9220, lng: 8.5510, title: 'Suna (Verbania), Itália', description: 'Local da sua morte, às margens do Lago Maggiore.' }
-]" />

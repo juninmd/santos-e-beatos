@@ -1,13 +1,20 @@
+---
+title: Beato Justo Takayama Ukon
+description: Biografia, milagres, curiosidades e mapa do Beato Justo Takayama Ukon.
+---
+
 # Beato Justo Takayama Ukon
 
-![Beato Justo Takayama Ukon](https://placehold.co/400x600/png?text=Justo+Takayama+Ukon)
+![Beato Justo Takayama Ukon](imagens/retrato.svg)
 
-**"A honra de servir a Cristo é maior que qualquer glória terrena."**
+> "A honra de servir a Cristo é maior que qualquer glória terrena."
 
-**Nascimento:** 1552, Haibara-cho (Nara), Japão
-**Morte:** 3 de fevereiro de 1615, Manila, Filipinas
-**Festa Litúrgica:** 3 de fevereiro
-**Beatificação:** 7 de fevereiro de 2017, em Osaka, Japão, pelo Papa Francisco
+- **Nascimento:** 1552, Haibara-cho (Nara), Japão
+- **Morte:** 3 de fevereiro de 1615, Manila, Filipinas
+- **Beatificação:** 7 de fevereiro de 2017, em Osaka, Japão, pelo Papa Francisco
+- **Festa Litúrgica:** 3 de fevereiro
+
+<TextToSpeech />
 
 ---
 
@@ -39,8 +46,7 @@ Sua vida inteira foi um testemunho milagroso de fidelidade em meio à perseguiç
 2.  **Estátua nas Filipinas:** Em Manila, há uma estátua dele no Parque Rizal, vestindo o traje tradicional de samurai, mas segurando uma cruz em vez de uma katana, simbolizando sua escolha pela paz e pela fé.
 3.  **Proposta de Canonização:** A causa de sua canonização foi introduzida logo após sua morte, no século XVII, mas ficou parada por séculos devido à política de isolamento do Japão e à perseguição. Foi retomada com vigor no século XX.
 
-## Cidades que passou
-
+## Cidades por onde passou
 A jornada de Justo Takayama Ukon cruzou o Japão e o mar:
 *   **Sawa (Japão):** Provável local de nascimento.
 *   **Takatsuki (Japão):** Cidade onde governou como Daimyo e estabeleceu uma comunidade cristã vibrante.
@@ -48,6 +54,11 @@ A jornada de Justo Takayama Ukon cruzou o Japão e o mar:
 *   **Kanazawa (Japão):** Cidade onde viveu em "exílio interno" protegido pelo clã Maeda, aprofundando sua vida espiritual e artística.
 *   **Nagasaki (Japão):** Porto de onde partiu para o exílio definitivo, deixando sua pátria para sempre.
 *   **Manila (Filipinas):** Cidade que o acolheu com honras reais e onde entregou sua alma a Deus. Seus restos mortais repousam na Igreja de Paco.
+
+<MiracleMap :items='[
+  { lat: 34.5167, lng: 135.95, type: "nascimento", title: "Haibara-cho (Nara), Japão", description: "Local de nascimento (1552)." },
+  { lat: 14.5995, lng: 120.9842, type: "morte", title: "Manila", description: "Local da morte (3 de fevereiro de 1615)." }
+]' />
 
 ## Impacto Hoje
 

@@ -1,15 +1,22 @@
+---
+title: São João de Brito
+description: Biografia, milagres, curiosidades e mapa de São João de Brito.
+---
+
 # São João de Brito
 
 ![São João de Brito](imagens/portrait.jpg)
 
-**"O Mártir de Madura"**
+> "O Mártir de Madura"
 
-**Nascimento:** 1 de março de 1647, Lisboa (Portugal)<br>
-**Morte:** 4 de fevereiro de 1693, Oriyur (Índia)<br>
-**Festa Litúrgica:** 4 de fevereiro<br>
-**Canonização:** 22 de junho de 1947, pelo Papa Pio XII<br>
+- **Nascimento:** 1 de março de 1647, Lisboa (Portugal)
+- **Morte:** 4 de fevereiro de 1693, Oriyur (Índia)
+- **Canonização:** 22 de junho de 1947, pelo Papa Pio XII
+- **Festa Litúrgica:** 4 de fevereiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -43,12 +50,12 @@ Em vida, relatam-se casos em que ele sobreviveu a venenos e a ataques de animais
 *   Madura (Madurai), Índia (Principal campo de missão)
 *   Oriyur, Índia (Local do martírio)
 
+<MiracleMap :items='[
+  { lat: 38.7223, lng: -9.1393, type: "nascimento", title: "Lisboa", description: "Nasceu em 1 de março de 1647." },
+  { lat: 9.9252, lng: 78.1198, type: "vida", title: "Madurai", description: "Centro da Missão de Madura onde passou grande parte da sua vida." },
+  { lat: 9.8821, lng: 79.0558, type: "morte", title: "Oriyur", description: "Local do seu martírio em 4 de fevereiro de 1693." }
+]' />
+
 ## Impacto Hoje
 
 São João de Brito é lembrado como um dos maiores exemplos de inculturação na história das missões cristãs — a capacidade de apresentar o Evangelho respeitando e adotando a cultura local. Em Portugal e no Brasil, muitas escolas e instituições carregam o seu nome, incluindo o famoso Colégio São João de Brito em Lisboa. Na Índia, o santuário de Oriyur é um centro de peregrinação inter-religiosa, onde sua figura transcende as fronteiras do catolicismo.
-
-<MiracleMap :items='[
-  { lat: 38.7223, lng: -9.1393, title: "Lisboa", description: "Nasceu em 1 de março de 1647." },
-  { lat: 9.8821, lng: 79.0558, title: "Oriyur", description: "Local do seu martírio em 4 de fevereiro de 1693." },
-  { lat: 9.9252, lng: 78.1198, title: "Madurai", description: "Centro da Missão de Madura onde passou grande parte da sua vida." }
-]' />

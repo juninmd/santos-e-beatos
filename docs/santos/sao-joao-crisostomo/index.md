@@ -1,15 +1,22 @@
+---
+title: São João Crisóstomo
+description: Biografia, milagres, curiosidades e mapa de São João Crisóstomo.
+---
+
 # São João Crisóstomo
 
 ![São João Crisóstomo](imagens/portrait.jpg)
 
-**"A Boca de Ouro da Igreja"**
+> "A Boca de Ouro da Igreja"
 
-**Nascimento:** c. 347, Antioquia (atual Turquia)<br>
-**Morte:** 14 de setembro de 407, Comana Pôntica (atual Turquia)<br>
-**Festa Litúrgica:** 13 de setembro<br>
-**Canonização:** Reconhecido como Santo e Doutor da Igreja desde os primeiros séculos<br>
+- **Nascimento:** c. 347, Antioquia (atual Turquia)
+- **Morte:** 14 de setembro de 407, Comana Pôntica (atual Turquia)
+- **Canonização:** Reconhecido como Santo e Doutor da Igreja desde os primeiros séculos
+- **Festa Litúrgica:** 13 de setembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,8 +46,11 @@ Após sua morte, vários milagres de cura foram atribuídos à sua intercessão,
 - **Constantinopla:** Capital do Império Romano do Oriente, onde serviu como Patriarca.
 - **Comana Pôntica:** A cidade onde faleceu em exílio, desgastado pelos maus-tratos.
 
+<MiracleMap :items='[
+  { lat: 36.2021, lng: 36.1606, type: "nascimento", title: "Antioquia (Turquia)", description: "Local de nascimento (c. 347)." },
+  { lat: 40.3, lng: 36.63, type: "morte", title: "Comana Pôntica", description: "Local da morte (14 de setembro de 407)." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de São João Crisóstomo reverbera intensamente até hoje. Suas homilias e comentários bíblicos continuam sendo uma das fontes mais ricas de teologia pastoral e moral. Sua denúncia da desigualdade social e seu apelo veemente à caridade cristã são surpreendentemente atuais, servindo de inspiração para a doutrina social cristã. Além disso, a Divina Liturgia que ele estruturou é o centro da vida espiritual de grande parte dos cristãos orientais em todo o mundo.
-
-<MiracleMap />

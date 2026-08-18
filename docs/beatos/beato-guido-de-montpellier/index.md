@@ -1,17 +1,22 @@
+---
+title: Beato Guido de Montpellier
+description: Biografia, milagres, curiosidades e mapa do Beato Guido de Montpellier.
+---
+
 # Beato Guido de Montpellier
 
 ![Beato Guido de Montpellier](imagens/portrait.png)
 
-**"Servir aos pobres e doentes é servir ao próprio Cristo."**
+> "Servir aos pobres e doentes é servir ao próprio Cristo."
 
-**Nascimento:** c. 1160, Montpellier, França
-**Morte:** 1208, Roma, Itália
-**Festa Litúrgica:** 7 de fevereiro
-**Beatificação:** 18 de maio de 2024, pelo Papa Francisco (culto confirmado)
-
----
+- **Nascimento:** c. 1160, Montpellier, França
+- **Morte:** 1208, Roma, Itália
+- **Beatificação:** 18 de maio de 2024, pelo Papa Francisco (culto confirmado)
+- **Festa Litúrgica:** 7 de fevereiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -28,11 +33,15 @@ Guido via em cada pobre e doente a face de Cristo sofredor. Sua espiritualidade 
 - **Reconhecimento Papal:** O Papa Inocêncio III tinha tanta confiança em Guido que lhe confiou a diaconia de Santa Maria in Trastevere e o hospital romano.
 - **Confirmação de Culto:** Embora venerado há séculos, seu culto foi oficialmente confirmado e ele foi inscrito no catálogo dos beatos pelo Papa Francisco em 2024.
 
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a Beato Guido de Montpellier: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: 43.6108, lng: 3.8767, type: "nascimento", title: "Montpellier", description: "Cidade natal e local da fundação da Ordem." },
+  { lat: 41.9015, lng: 12.4608, type: "morte", title: "Hospital de Santo Spirito in Sassia, Roma", description: "Hospital administrado por Guido e local de sua morte." }
+]' />
+
 ## Impacto Hoje
 
 A Ordem do Espírito Santo teve um impacto imenso na história da hospitalidade e da medicina na Europa, influenciando a criação de inúmeros hospitais. O carisma de Guido de Montpellier continua vivo nas obras de misericórdia e no cuidado com os mais vulneráveis.
-
-<MiracleMap :items="[
-  { lat: 43.6108, lng: 3.8767, title: 'Montpellier', description: 'Cidade natal e local da fundação da Ordem.' },
-  { lat: 41.9015, lng: 12.4608, title: 'Hospital de Santo Spirito in Sassia, Roma', description: 'Hospital administrado por Guido e local de sua morte.' }
-]" />

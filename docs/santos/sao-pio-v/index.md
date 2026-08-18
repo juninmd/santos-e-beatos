@@ -1,16 +1,22 @@
 ---
 title: São Pio V
+description: Biografia, milagres, curiosidades e mapa de São Pio V.
 ---
 
-![São Pio V](./imagens/portrait.jpg)
+# São Pio V
+
+![São Pio V](imagens/portrait.jpg)
+
 > "Sede como um navio de guerra que avança contra o mar furioso do pecado."
 
-**Nascimento:** 17 de janeiro de 1504 <br>
-**Morte:** 1 de maio de 1572 <br>
-**Canonização:** 22 de maio de 1712 <br>
-**Festa Litúrgica:** 30 de abril <br>
+- **Nascimento:** 17 de janeiro de 1504, Bosco Marengo, Piemonte (Itália)
+- **Morte:** 1 de maio de 1572, Roma (Itália)
+- **Canonização:** 22 de maio de 1712
+- **Festa Litúrgica:** 30 de abril
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -41,21 +47,12 @@ Após sua morte, fiéis relataram curas inexplicáveis após visitar seu túmulo
 - Como: Atuou como inquisidor.
 - Roma: Exerceu o papado e deixou um legado eterno, onde seus restos mortais encontram-se hoje.
 
+<MiracleMap :items='[
+  { lat: 44.85, lng: 8.6833, type: "nascimento", title: "Bosco Marengo", description: "Local de nascimento (17 de janeiro de 1504)." },
+  { lat: 38.2568, lng: 21.7335, type: "vida", title: "Vitória de Lepanto", description: "Atribuiu-se a vitória naval em Lepanto à sua exortação ao Rosário." },
+  { lat: 41.8973, lng: 12.4984, type: "morte", title: "Cura Inexplicável", description: "Cura de devotos em oração diante de seus restos mortais. Local da morte (1 de maio de 1572)." }
+]' />
+
 ## Impacto Hoje
 
 São Pio V é lembrado por sua coragem moral, seu profundo amor à pureza da fé e à Igreja e sua defesa da Cristandade. Suas reformas consolidaram a resposta católica no período pós-conciliar, estruturando a teologia, a oração e a hierarquia por séculos. A Missa Tridentina (ou forma extraordinária do rito romano), que ele codificou, ainda tem grande influência espiritual sobre muitos católicos tradicionais contemporâneos. A devoção ao Santo Rosário, fortalecida por seu ensino, continua a ser uma das orações mais praticadas e reverenciadas no catolicismo moderno.
-
-<MiracleMap :miracles="[
-  {
-    title: 'Cura Inexplicável',
-    description: 'Cura de devotos em oração diante de seus restos mortais.',
-    lat: 41.8973,
-    lng: 12.4984
-  },
-  {
-    title: 'Vitória de Lepanto',
-    description: 'Atribuiu-se a vitória naval em Lepanto à sua exortação ao Rosário.',
-    lat: 38.2568,
-    lng: 21.7335
-  }
-]" />

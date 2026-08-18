@@ -1,14 +1,17 @@
 {
   "name": "santos-e-beatos",
   "version": "1.0.0",
-  "description": "![Alt text](santo.jpg)",
+  "description": "Biografias, milagres e mapas de santos e beatos da Igreja Católica.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node scripts/verificar-conteudo.mjs",
+    "conteudo:verificar": "node scripts/verificar-conteudo.mjs",
+    "conteudo:indices": "node scripts/gerar-indices.mjs",
+    "conteudo:retratos": "node scripts/gerar-retratos.mjs"
   },
   "repository": {
     "type": "git",

@@ -1,13 +1,18 @@
+---
+title: Santa Luzia
+description: Biografia, milagres, curiosidades e mapa de Santa Luzia.
+---
+
 # Santa Luzia
 
-![Santa Luzia](https://placehold.co/400x600/png?text=Santa+Luzia)
+![Santa Luzia](imagens/retrato.svg)
 
-**"Adoro a um só Deus verdadeiro, e a Ele prometi amor e fidelidade."**
+> "Adoro a um só Deus verdadeiro, e a Ele prometi amor e fidelidade."
 
-**Nascimento:** Aproximadamente 283 d.C., Siracusa, Itália
-**Morte:** 304 d.C., Siracusa, Itália
-**Festa Litúrgica:** 13 de dezembro
-**Canonização:** Santa dos primeiros séculos (Pré-congregacional)
+- **Nascimento:** Aproximadamente 283 d.C., Siracusa, Itália
+- **Morte:** 304 d.C., Siracusa, Itália
+- **Canonização:** Santa dos primeiros séculos (Pré-congregacional)
+- **Festa Litúrgica:** 13 de dezembro
 
 <TextToSpeech />
 
@@ -43,8 +48,9 @@ Uma das tradições mais famosas sobre Santa Luzia, embora não conste nas atas 
 Luzia viveu e morreu em Siracusa, na ilha da Sicília. Também peregrinou a Catânia.
 
 <MiracleMap :items='[
-  { lat: 37.0755, lng: 15.2866, title: "Siracusa, Itália", description: "Cidade natal e local do martírio de Santa Luzia." },
-  { lat: 37.5079, lng: 15.0830, title: "Catânia, Itália", description: "Local do túmulo de Santa Ágata, onde Luzia peregrinou e obteve a cura de sua mãe." }
+  { lat: 37.0755, lng: 15.2866, type: "nascimento", title: "Siracusa, Itália", description: "Cidade natal e local do martírio de Santa Luzia." },
+  { lat: 37.0755, lng: 15.2866, type: "morte", title: "Siracusa, Itália", description: "Local da morte (304 d.C.)." },
+  { lat: 37.5079, lng: 15.083, type: "tumulo", title: "Catânia, Itália", description: "Local do túmulo de Santa Ágata, onde Luzia peregrinou e obteve a cura de sua mãe." }
 ]' />
 
 ## Impacto Hoje

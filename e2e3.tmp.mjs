@@ -1,0 +1,15 @@
+import { chromium } from 'playwright'
+const b = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium' })
+const p = await b.newPage({ viewport: { width: 1100, height: 900 } })
+await p.goto('http://localhost:4173/santos/carlo-acutis/', { waitUntil: 'networkidle' })
+await p.waitForTimeout(2500)
+const el = await p.$('.miracle-map-wrapper')
+await el.scrollIntoViewIfNeeded()
+await p.waitForTimeout(600)
+await el.screenshot({ path: '/tmp/claude-0/-home-user-santos-e-beatos/d9e268a0-3671-53cd-a654-ce62d726e43c/scratchpad/mapa.png' })
+// abre um popup
+await p.click('.miracle-map-pin')
+await p.waitForTimeout(600)
+const popup = await p.$eval('.leaflet-popup-content', (e) => e.innerText).catch(() => 'sem popup')
+console.log('popup:', JSON.stringify(popup))
+await b.close()

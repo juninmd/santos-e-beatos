@@ -1,22 +1,22 @@
 ---
 title: Beata Maria Teresa Ledóchowska
-description: História da Beata Maria Teresa Ledóchowska, missionária e fundadora da Congregação das Irmãs Missionárias de São Pedro Claver.
+description: Biografia, milagres, curiosidades e mapa da Beata Maria Teresa Ledóchowska.
 ---
 
 # Beata Maria Teresa Ledóchowska
 
-<div class="profile-container">
-    <img src="./imagens/portrait.jpg" alt="Beata Maria Teresa Ledóchowska" class="portrait"/>
-    <div class="profile-info">
-        <blockquote>"Minha vocação é trabalhar pelas missões africanas e pela libertação dos escravos."</blockquote>
-        <p><strong>Nascimento:</strong> 29 de abril de 1863<br>
-        <strong>Morte:</strong> 6 de julho de 1922<br>
-        <strong>Beatificação:</strong> 19 de outubro de 1975<br>
-        <strong>Festa Litúrgica:</strong> 6 de julho</p>
-    </div>
-</div>
+![Beata Maria Teresa Ledóchowska](imagens/portrait.jpg)
+
+> "Minha vocação é trabalhar pelas missões africanas e pela libertação dos escravos."
+
+- **Nascimento:** 29 de abril de 1863, Loosdorf (Áustria)
+- **Morte:** 6 de julho de 1922, Roma (Itália)
+- **Beatificação:** 19 de outubro de 1975
+- **Festa Litúrgica:** 6 de julho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -48,26 +48,14 @@ Maria Teresa Ledóchowska foi beatificada pelo Papa Paulo VI em 19 de outubro de
 - Roma, Itália (Onde passou a maior parte de sua vida religiosa, fundou sua congregação e faleceu)
 - Várias cidades da Europa Central (viagens para promover a conscientização missionária e arrecadar fundos)
 
+<MiracleMap :items='[
+  { lat: 48.2, lng: 15.4, type: "nascimento", title: "Loosdorf", description: "Maria Teresa nasceu em 29 de abril de 1863, na Áustria." },
+  { lat: 47.8095, lng: 13.055, type: "vida", title: "Salzburgo", description: "Foi viver em Salzburgo em 1883, onde conheceu as realidades das missões africanas." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Fundação e Falecimento em Roma", description: "Foi em Roma que fundou a Congregação das Irmãs Missionárias de São Pedro Claver e onde faleceu em 1922." }
+]' />
+
 ## Impacto Hoje
 
 O impacto da Beata Maria Teresa Ledóchowska continua através da Congregação das Irmãs Missionárias de São Pedro Claver, que estão espalhadas pelos cinco continentes. Hoje, elas não apenas coordenam o envio de material de imprensa, roupas e suprimentos médicos para missões e regiões necessitadas em todo o mundo, mas também estão ativamente envolvidas no trabalho catequético e pastoral com refugiados e imigrantes.
 
 Seu legado destaca a importância de que cada cristão pode ser um missionário em sua própria casa. Ela provou que os esforços de apoio (conscientização, publicações e angariação de fundos) são tão vitais para o sucesso das missões da Igreja quanto o trabalho direto em países de missão.
-
-<MiracleMap :miracles="[
-  {
-    title: 'Nascimento em Loosdorf',
-    description: 'Maria Teresa nasceu em 29 de abril de 1863, na Áustria.',
-    coordinates: [48.2000, 15.4000]
-  },
-  {
-    title: 'Fundação e Falecimento em Roma',
-    description: 'Foi em Roma que fundou a Congregação das Irmãs Missionárias de São Pedro Claver e onde faleceu em 1922.',
-    coordinates: [41.9028, 12.4964]
-  },
-  {
-    title: 'Salzburgo',
-    description: 'Foi viver em Salzburgo em 1883, onde conheceu as realidades das missões africanas.',
-    coordinates: [47.8095, 13.0550]
-  }
-]" />

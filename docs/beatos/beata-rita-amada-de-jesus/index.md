@@ -1,22 +1,22 @@
 ---
 title: Beata Rita Amada de Jesus
-description: Biografia, milagres e impacto da Beata Rita Amada de Jesus
+description: Biografia, milagres, curiosidades e mapa da Beata Rita Amada de Jesus, apóstola do Rosário e da família.
 ---
 
-<div class="profile-container">
-  <div class="profile-image">
-    <img src="./imagens/portrait.jpg" alt="Beata Rita Amada de Jesus" />
-  </div>
-  <div class="profile-info">
-    <h1>Beata Rita Amada de Jesus</h1>
-    <p class="subtitle">Apóstola do Rosário, da Família e da Eucaristia.</p>
-    <div class="metadata">
-<p><strong>Nascimento:</strong> 5 de Março de 1848<br><strong>Morte:</strong> 6 de Janeiro de 1913<br><strong>Beatificação:</strong> 28 de Maio de 2006<br><strong>Festa Litúrgica:</strong> 24 de Setembro</p>
-    </div>
-  </div>
-</div>
+# Beata Rita Amada de Jesus
+
+![Beata Rita Amada de Jesus](imagens/portrait.jpg)
+
+> "Apóstola do Rosário, da Família e da Eucaristia."
+
+- **Nascimento:** 5 de Março de 1848, Ribafeita, Viseu (Portugal)
+- **Morte:** 6 de Janeiro de 1913, Ermida, Viseu (Portugal)
+- **Beatificação:** 28 de Maio de 2006
+- **Festa Litúrgica:** 24 de Setembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -50,6 +50,11 @@ Além deste milagre atestado formalmente, os seus biógrafos apontam um constant
 - **Ribafeita (e Casalmendinho), Viseu, Portugal:** A aldeia de seu nascimento, e o lugar onde atuou vigorosamente como apóstola leiga e, mais tarde, fundou o seu amado Instituto.
 - **Aldeias e Vilas de Viseu:** Peregrinou incansavelmente por pequenas povoações da província para rezar o terço e atrair as almas de volta a Cristo.
 
+<MiracleMap :items='[
+  { lat: 40.75, lng: -7.9333, type: "nascimento", title: "Ribafeita", description: "Local de nascimento (5 de Março de 1848)." },
+  { lat: 40.72, lng: -7.88, type: "morte", title: "Ermida", description: "Local da morte (6 de Janeiro de 1913)." }
+]' />
+
 ## Impacto Hoje
 
 O Instituto das Irmãs de Jesus Maria José, idealizado sob imenso sacrifício pessoal e perseguição política, existe e floresce amplamente nos dias de hoje, especialmente no Brasil e em diversos outros países (Angola, Moçambique, Bolívia, Paraguai). As obras que Madre Rita iniciou continuam educando milhares de crianças e acolhendo jovens e famílias marginalizadas, dando continuidade ao seu trabalho compassivo e cristão.
@@ -57,5 +62,3 @@ O Instituto das Irmãs de Jesus Maria José, idealizado sob imenso sacrifício p
 Em 2014, foi inaugurado o Centro de Interpretação da Vida e Obra da Beata na sua freguesia em Ribafeita, para ajudar os peregrinos a aprofundar sua vida de fé à luz da história inspiradora desta Beata.
 
 A sua vida é um forte testemunho para a sociedade moderna. Madre Rita enfrentou barreiras políticas severas, incompreensões de autoridades religiosas e perseguições mortais com mansidão, paciência, mas sobretudo com determinação apostólica inabalável. O legado da "Apóstola da Família e do Rosário" ressoa no amor ativo pela Eucaristia e pelo auxílio aos mais carentes.
-
-<MiracleMap />

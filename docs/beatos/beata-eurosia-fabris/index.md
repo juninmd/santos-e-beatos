@@ -1,3 +1,8 @@
+---
+title: Beata Eurosia Fabris
+description: Biografia, milagres, curiosidades e mapa da Beata Eurosia Fabris.
+---
+
 # Beata Eurosia Fabris
 
 ![Beata Eurosia Fabris](imagens/cover.jpg)
@@ -5,11 +10,13 @@
 > "Fazer o bem aos outros não custa nada."
 
 - **Nascimento:** Quinto Vicentino, Itália, 27 de setembro de 1866
-- **Morte:** 8 de janeiro de 1932
+- **Morte:** 8 de janeiro de 1932, Marola, Vicenza (Itália)
 - **Beatificação:** 6 de novembro de 2005
 - **Festa Litúrgica:** 9 de janeiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -42,20 +49,12 @@ Para sua beatificação, a Igreja reconheceu milagres alcançados por sua interc
 
 <br>
 
-<MiracleMap :miracles="[
-  {
-    title: 'Quinto Vicentino, Itália',
-    description: 'A vila onde nasceu e passou seus primeiros anos de vida.',
-    coordinates: [45.5746, 11.6253]
-  },
-  {
-    title: 'Torri di Quartesolo (Marola), Itália',
-    description: 'A vila onde passou a maior parte de sua vida, onde viveu sua vocação de esposa, mãe e irmã compassiva da comunidade. Local de seu falecimento.',
-    coordinates: [45.5186, 11.6115]
-  }
-]" />
-
 <br>
+
+<MiracleMap :items='[
+  { lat: 45.5746, lng: 11.6253, type: "nascimento", title: "Quinto Vicentino, Itália", description: "A vila onde nasceu e passou seus primeiros anos de vida." },
+  { lat: 45.5186, lng: 11.6115, type: "morte", title: "Torri di Quartesolo (Marola), Itália", description: "A vila onde passou a maior parte de sua vida, onde viveu sua vocação de esposa, mãe e irmã compassiva da comunidade. Local de seu falecimento." }
+]' />
 
 ## Impacto Hoje
 

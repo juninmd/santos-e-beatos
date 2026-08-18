@@ -1,17 +1,22 @@
+---
+title: Beata Maria Laura Mainetti
+description: Biografia, milagres, curiosidades e mapa da Beata Maria Laura Mainetti.
+---
+
 # Beata Maria Laura Mainetti
 
 ![Beata Maria Laura Mainetti](imagens/portrait.jpg)
 
-**"Mártir do Perdão"**
+> "Mártir do Perdão"
 
-**Nascimento:** 20 de agosto de 1939, Colico (Itália)<br>
-**Morte:** 6 de junho de 2000, Chiavenna (Itália)<br>
-**Festa Litúrgica:** 6 de junho<br>
-**Beatificação:** 6 de junho de 2021, pelo Papa Francisco
-
----
+- **Nascimento:** 20 de agosto de 1939, Colico (Itália)
+- **Morte:** 6 de junho de 2000, Chiavenna (Itália)
+- **Beatificação:** 6 de junho de 2021, pelo Papa Francisco
+- **Festa Litúrgica:** 6 de junho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -38,8 +43,11 @@ O reconhecimento de seu martírio pela Igreja, "in odium fidei" (por ódio à f�
 - **Chiavenna:** Onde viveu, trabalhou e foi martirizada.
 - **Roma, Parma:** Onde também serviu durante sua vida religiosa.
 
+<MiracleMap :items='[
+  { lat: 46.1333, lng: 9.3667, type: "nascimento", title: "Colico (Itália)", description: "Local de nascimento (20 de agosto de 1939)." },
+  { lat: 46.32, lng: 9.4, type: "morte", title: "Chiavenna (Itália)", description: "Local da morte (6 de junho de 2000)." }
+]' />
+
 ## Impacto Hoje
 
 A Beata Maria Laura Mainetti é um poderoso símbolo do perdão cristão e da vitória do amor sobre o ódio. Sua beatificação trouxe à luz a realidade do mal, mas sobretudo a força redentora da misericórdia. Ela é invocada como intercessora pelas vítimas de violência e pelos jovens em perigo espiritual.
-
-<MiracleMap />

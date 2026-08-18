@@ -1,13 +1,18 @@
+---
+title: São José Moscati
+description: Biografia, milagres, curiosidades e mapa de São José Moscati.
+---
+
 # São José Moscati
 
 ![São José Moscati](imagens/portrait.jpg)
 
-**"O Médico dos Pobres"**
+> "O Médico dos Pobres"
 
-**Nascimento:** 25 de julho de 1880, Benevento (Itália)<br>
-**Morte:** 12 de abril de 1927, Nápoles (Itália)<br>
-**Festa Litúrgica:** 16 de novembro<br>
-**Canonização:** 25 de outubro de 1987 pelo Papa João Paulo II<br>
+- **Nascimento:** 25 de julho de 1880, Benevento (Itália)
+- **Morte:** 12 de abril de 1927, Nápoles (Itália)
+- **Canonização:** 25 de outubro de 1987 pelo Papa João Paulo II
+- **Festa Litúrgica:** 16 de novembro
 
 <TextToSpeech />
 
@@ -41,8 +46,8 @@ Outro milagre reconhecido na canonização foi o de Giuseppe Montefusco, um jove
 Nasceu em Benevento, mas foi em Nápoles que viveu, estudou e desempenhou todo o seu apostolado de cura.
 
 <MiracleMap :items='[
-  { lat: 41.1300, lng: 14.7770, title: "Benevento, Itália", description: "Local de nascimento de São José Moscati, em 25 de julho de 1880." },
-  { lat: 40.8518, lng: 14.2681, title: "Nápoles, Itália", description: "Cidade onde viveu a maior parte de sua vida, formou-se em medicina e dedicou-se aos pobres e doentes até a sua morte." }
+  { lat: 41.13, lng: 14.777, type: "nascimento", title: "Benevento, Itália", description: "Local de nascimento de São José Moscati, em 25 de julho de 1880." },
+  { lat: 40.8518, lng: 14.2681, type: "morte", title: "Nápoles, Itália", description: "Cidade onde viveu a maior parte de sua vida, formou-se em medicina e dedicou-se aos pobres e doentes até a sua morte." }
 ]' />
 
 ## Impacto Hoje

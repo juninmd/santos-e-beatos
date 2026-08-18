@@ -1,26 +1,22 @@
 ---
 title: Beato Luigi Novarese
-description: História do Beato Luigi Novarese, apóstolo dos doentes.
+description: Biografia, milagres, curiosidades e mapa do Beato Luigi Novarese.
 ---
 
 # Beato Luigi Novarese
 
-<div class="hero-header">
-    <img src="./imagens/portrait.jpg" alt="Beato Luigi Novarese" class="portrait"/>
-    <div class="hero-info">
-        <div class="quote">
-            <p>“O doente deve ser o autor do seu próprio apostolado.”</p>
-        </div>
-        <div class="metadata">
-            <p><strong>Nascimento:</strong> 29 de julho de 1914 (Casale Monferrato, Itália)<br>
-            <strong>Morte:</strong> 20 de julho de 1984 (Rocca Priora, Itália)<br>
-            <strong>Beatificação:</strong> 11 de maio de 2013<br>
-            <strong>Festa Litúrgica:</strong> 20 de julho</p>
-        </div>
-    </div>
-</div>
+![Beato Luigi Novarese](imagens/portrait.jpg)
+
+> "O doente deve ser o autor do seu próprio apostolado."
+
+- **Nascimento:** 29 de julho de 1914 (Casale Monferrato, Itália)
+- **Morte:** 20 de julho de 1984 (Rocca Priora, Itália)
+- **Beatificação:** 11 de maio de 2013
+- **Festa Litúrgica:** 20 de julho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -55,12 +51,12 @@ O milagre que abriu caminho para a sua beatificação foi reconhecido em dezembr
 - **Lourdes:** Promoveu inúmeras e frequentes peregrinações com doentes, mudando o foco dessas viagens de "busca pela cura física" para "valorização do sofrimento".
 - **Rocca Priora (Valleluogo):** Local próximo a Roma, onde faleceu e onde manteve um centro de repouso e espiritualidade fundamental para suas obras.
 
-<MiracleMap :items="[
-  { title: 'Casale Monferrato', lat: 45.1378, lng: 8.4526, description: 'Cidade natal de Luigi Novarese e local de sua juventude marcada pela doença.' },
-  { title: 'Roma', lat: 41.9028, lng: 12.4964, description: 'Local de seus estudos, ordenação e trabalho incansável nas fundações das Obras.' },
-  { title: 'Lourdes', lat: 43.0915, lng: -0.0457, description: 'Destino de inúmeras peregrinações de doentes lideradas por Pe. Luigi.' },
-  { title: 'Rocca Priora', lat: 41.7915, lng: 12.7667, description: 'Local de seu falecimento em 1984.' }
-]" />
+<MiracleMap :items='[
+  { lat: 45.1378, lng: 8.4526, type: "nascimento", title: "Casale Monferrato", description: "Cidade natal de Luigi Novarese e local de sua juventude marcada pela doença." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma", description: "Local de seus estudos, ordenação e trabalho incansável nas fundações das Obras." },
+  { lat: 43.0915, lng: -0.0457, type: "vida", title: "Lourdes", description: "Destino de inúmeras peregrinações de doentes lideradas por Pe. Luigi." },
+  { lat: 41.7915, lng: 12.7667, type: "morte", title: "Rocca Priora", description: "Local de seu falecimento em 1984." }
+]' />
 
 ## Impacto Hoje
 

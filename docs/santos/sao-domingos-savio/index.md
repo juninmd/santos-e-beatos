@@ -1,17 +1,22 @@
+---
+title: São Domingos Sávio
+description: Biografia, milagres, curiosidades e mapa de São Domingos Sávio.
+---
+
 # São Domingos Sávio
 
 ![São Domingos Sávio](imagens/portrait.jpg)
 
-**"A morte, mas não o pecado!"**
+> "A morte, mas não o pecado!"
 
-**Nascimento:** 2 de abril de 1842, Riva presso Chieri (Itália)<br>
-**Morte:** 9 de março de 1857, Mondonio (Itália)<br>
-**Festa Litúrgica:** 6 de maio<br>
-**Canonização:** 12 de junho de 1954, pelo Papa Pio XII
-
----
+- **Nascimento:** 2 de abril de 1842, Riva presso Chieri (Itália)
+- **Morte:** 9 de março de 1857, Mondonio (Itália)
+- **Canonização:** 12 de junho de 1954, pelo Papa Pio XII
+- **Festa Litúrgica:** 6 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -45,8 +50,11 @@ Sua intercessão é invocada especialmente para partos difíceis, devido a um ep
 - **Mondonio:** Onde viveu com a família e faleceu.
 - **Turim:** Onde estudou no Oratório de Dom Bosco.
 
+<MiracleMap :items='[
+  { lat: 44.9833, lng: 7.8833, type: "nascimento", title: "Riva presso Chieri (Itália)", description: "Local de nascimento (2 de abril de 1842)." },
+  { lat: 45.05, lng: 8.0167, type: "morte", title: "Mondonio (Itália)", description: "Local da morte (9 de março de 1857)." }
+]' />
+
 ## Impacto Hoje
 
 São Domingos Sávio continua sendo um modelo luminoso para a juventude, mostrando que a santidade é possível em qualquer idade e condição. Sua mensagem de alegria e pureza ressoa em encontros de jovens, grupos de coroinhas e escolas católicas em todo o mundo.
-
-<MiracleMap />

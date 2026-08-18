@@ -1,13 +1,18 @@
+---
+title: Beata Chiara Luce Badano
+description: Biografia, milagres, curiosidades e mapa da Beata Chiara Luce Badano.
+---
+
 # Beata Chiara Luce Badano
 
-![Beata Chiara Luce Badano](./imagens/portrait.jpg)
+![Beata Chiara Luce Badano](imagens/portrait.jpg)
 
-**"Eu não tenho mais nada, mas ainda tenho o meu coração com o qual posso amar a Jesus."**
+> "Eu não tenho mais nada, mas ainda tenho o meu coração com o qual posso amar a Jesus."
 
-**Nascimento:** 29 de outubro de 1971, Sassello, Itália<br>
-**Morte:** 7 de outubro de 1990, Sassello, Itália<br>
-**Festa Litúrgica:** 29 de outubro<br>
-**Beatificação:** 25 de setembro de 2010, pelo Papa Bento XVI<br>
+- **Nascimento:** 29 de outubro de 1971, Sassello, Itália
+- **Morte:** 7 de outubro de 1990, Sassello, Itália
+- **Beatificação:** 25 de setembro de 2010, pelo Papa Bento XVI
+- **Festa Litúrgica:** 29 de outubro
 
 <TextToSpeech />
 
@@ -44,9 +49,10 @@ Incontáveis graças, tanto espirituais quanto físicas, têm sido creditadas à
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 44.4789, lng: 8.4908, title: "Sassello, Itália", description: "Cidade natal, onde cresceu, descobriu sua fé no movimento Focolare e viveu a maior parte de sua vida." },
-  { lat: 45.0703, lng: 7.6869, title: "Turim, Itália", description: "Onde recebeu grande parte de seu longo tratamento médico e onde continuou a inspirar amigos e médicos do hospital." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Sua história, vida e beatificação atraíram milhares de jovens para honrar seu legado luminoso de amor em sua cerimônia liderada pela Igreja." }
+  { lat: 44.4789, lng: 8.4908, type: "nascimento", title: "Sassello, Itália", description: "Cidade natal, onde cresceu, descobriu sua fé no movimento Focolare e viveu a maior parte de sua vida." },
+  { lat: 45.0703, lng: 7.6869, type: "vida", title: "Turim, Itália", description: "Onde recebeu grande parte de seu longo tratamento médico e onde continuou a inspirar amigos e médicos do hospital." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Sua história, vida e beatificação atraíram milhares de jovens para honrar seu legado luminoso de amor em sua cerimônia liderada pela Igreja." },
+  { lat: 44.4789, lng: 8.4908, type: "morte", title: "Sassello, Itália", description: "Local da morte (7 de outubro de 1990)." }
 ]' />
 
 ## Impacto Hoje

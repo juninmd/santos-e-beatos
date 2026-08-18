@@ -1,21 +1,22 @@
+---
+title: Beato Luigi Beltrame Quattrocchi
+description: Biografia, milagres, curiosidades e mapa do Beato Luigi Beltrame Quattrocchi.
+---
+
 # Beato Luigi Beltrame Quattrocchi
 
-<div class="saint-header">
-  <div class="saint-image">
-    <img src="./imagens/portrait.jpg" alt="Beato Luigi Beltrame Quattrocchi" />
-  </div>
-  <div class="saint-details">
-    <p><em>"Um modelo de santidade na vida conjugal e familiar."</em></p>
-    <p>
-      <strong>Nascimento:</strong> 12 de janeiro de 1880, em Catânia, Sicília, Itália<br>
-      <strong>Morte:</strong> 9 de novembro de 1951, em Roma, Itália<br>
-      <strong>Beatificação:</strong> 21 de outubro de 2001, pelo Papa João Paulo II<br>
-      <strong>Festa Litúrgica:</strong> 25 de novembro (aniversário de casamento)<br>
-    </p>
-  </div>
-</div>
+![Beato Luigi Beltrame Quattrocchi](imagens/portrait.jpg)
+
+> "Um modelo de santidade na vida conjugal e familiar."
+
+- **Nascimento:** 12 de janeiro de 1880, em Catânia, Sicília, Itália
+- **Morte:** 9 de novembro de 1951, em Roma, Itália
+- **Beatificação:** 21 de outubro de 2001, pelo Papa João Paulo II
+- **Festa Litúrgica:** 25 de novembro (aniversário de casamento)
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -42,14 +43,12 @@ O milagre que abriu caminho para a beatificação conjunta de Luigi e sua esposa
 - **Catânia, Itália:** Sua cidade natal na Sicília.
 - **Roma, Itália:** Onde estudou, casou-se, trabalhou toda sua vida no serviço público, formou sua família e onde faleceu.
 
+<MiracleMap :items='[
+  { lat: 37.5078, lng: 15.083, type: "nascimento", title: "Catânia, Sicília, Itália", description: "Cidade de nascimento de Luigi Beltrame Quattrocchi." },
+  { lat: 41.8973, lng: 12.4984, type: "vida", title: "Basílica de Santa Maria Maggiore, Roma, Itália", description: "Onde Luigi casou-se com Maria Corsini em 1905." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Onde o casal viveu, trabalhou e realizou grande parte de sua obra de caridade. Local da morte (9 de novembro de 1951)." }
+]' />
+
 ## Impacto Hoje
 
 Luigi e Maria Beltrame Quattrocchi têm um impacto profundo na teologia moderna da família. Eles demonstraram que a santidade não está restrita à vida religiosa ou monástica, mas pode (e deve) ser alcançada no casamento e na vida familiar cotidiana, conciliando os deveres profissionais, a educação dos filhos e as tribulações de um casamento com uma vida espiritual intensa e engajamento caritativo. Eles são frequentemente invocados como padroeiros e exemplos por casais modernos, grupos de preparação para o matrimônio e movimentos de pastoral familiar.
-
-<MiracleMap
-  :locations="[
-    { lat: 37.5078, lng: 15.0830, title: 'Catânia, Sicília, Itália', description: 'Cidade de nascimento de Luigi Beltrame Quattrocchi.' },
-    { lat: 41.8973, lng: 12.4984, title: 'Basílica de Santa Maria Maggiore, Roma, Itália', description: 'Onde Luigi casou-se com Maria Corsini em 1905.' },
-    { lat: 41.9028, lng: 12.4964, title: 'Roma, Itália', description: 'Onde o casal viveu, trabalhou e realizou grande parte de sua obra de caridade.' }
-  ]"
-/>

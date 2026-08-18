@@ -1,17 +1,22 @@
-# Beata Maria Clara do Menino Jesus
-
-![Beata Maria Clara do Menino Jesus](./imagens/cover.jpg)
-
-**"Onde há o bem a fazer, que se faça."**
-
-**Nascimento:** 15 de junho de 1843, Amadora, Portugal<br>
-**Morte:** 1 de dezembro de 1899, Lisboa, Portugal<br>
-**Festa Litúrgica:** 1 de dezembro<br>
-**Beatificação:** 21 de maio de 2011, por Papa Bento XVI (delegado Cardeal Angelo Amato)<br>
-
+---
+title: Beata Maria Clara do Menino Jesus
+description: Biografia, milagres, curiosidades e mapa da Beata Maria Clara do Menino Jesus.
 ---
 
+# Beata Maria Clara do Menino Jesus
+
+![Beata Maria Clara do Menino Jesus](imagens/cover.jpg)
+
+> "Onde há o bem a fazer, que se faça."
+
+- **Nascimento:** 15 de junho de 1843, Amadora, Portugal
+- **Morte:** 1 de dezembro de 1899, Lisboa, Portugal
+- **Beatificação:** 21 de maio de 2011, por Papa Bento XVI (delegado Cardeal Angelo Amato)
+- **Festa Litúrgica:** 1 de dezembro
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -37,14 +42,14 @@ Acolhida nas pensionistas das Irmãs Capuchinhas e, posteriormente, mudando-se p
 - Lisboa, Portugal (Fundação da congregação e sua principal sede de ação)
 - Calais, França (Onde realizou seu noviciado para preparar a fundação de sua ordem)
 
+<MiracleMap :items='[
+  { lat: 38.7596, lng: -9.2245, type: "nascimento", title: "Amadora", description: "Local de nascimento de Libânia do Carmo, a futura Beata Maria Clara." },
+  { lat: 50.9513, lng: 1.8587, type: "vida", title: "Calais", description: "Onde completou seu noviciado na França." },
+  { lat: 38.7223, lng: -9.1393, type: "morte", title: "Lisboa", description: "Local principal da sua ação, fundação e falecimento." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, as Irmãs Franciscanas Hospitaleiras da Imaculada Conceição, congregação fundada por ela, estão presentes em mais de 15 países, englobando centenas de instituições como escolas, hospitais, creches e asilos. O legado da Beata Maria Clara continua a ser um farol de caridade, mostrando a relevância contínua da hospitalidade sem fronteiras. A sua figura inspiradora é o pilar da obra assistencial e educacional levada a cabo pelas suas irmãs.
-
-<MiracleMap :items="[
-  { lat: 38.7596, lng: -9.2245, title: 'Amadora', description: 'Local de nascimento de Libânia do Carmo, a futura Beata Maria Clara.' },
-  { lat: 38.7223, lng: -9.1393, title: 'Lisboa', description: 'Local principal da sua ação, fundação e falecimento.' },
-  { lat: 50.9513, lng: 1.8587, title: 'Calais', description: 'Onde completou seu noviciado na França.' }
-]" />
 
 ![Retrato da Beata Maria Clara](./imagens/portrait.jpg)

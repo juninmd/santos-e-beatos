@@ -1,13 +1,18 @@
+---
+title: Beato Clemente August von Galen
+description: Biografia, milagres, curiosidades e mapa do Beato Clemente August von Galen.
+---
+
 # Beato Clemente August von Galen
 
 ![Beato Clemente August von Galen](imagens/portrait.jpg)
 
-**"O Leão de Münster, defensor da vida."**
+> "O Leão de Münster, defensor da vida."
 
-**Nascimento:** 16 de março de 1878, Dinklage, Império Alemão<br>
-**Morte:** 22 de março de 1946, Münster, Alemanha<br>
-**Festa Litúrgica:** 22 de março<br>
-**Beatificação:** 9 de outubro de 2005, pelo Papa Bento XVI<br>
+- **Nascimento:** 16 de março de 1878, Dinklage, Império Alemão
+- **Morte:** 22 de março de 1946, Münster, Alemanha
+- **Beatificação:** 9 de outubro de 2005, pelo Papa Bento XVI
+- **Festa Litúrgica:** 22 de março
 
 <TextToSpeech />
 
@@ -38,12 +43,12 @@ O milagre que levou à sua beatificação envolveu a cura inexplicável e comple
 - **Münster, Alemanha:** Cidade de sua diocese, onde pregou seus famosos sermões e de onde recebeu o título de "Leão de Münster".
 - **Roma, Itália:** Para onde viajou após a guerra para ser elevado a Cardeal por Pio XII.
 
+<MiracleMap :items='[
+  { lat: 52.6617, lng: 8.1256, type: "nascimento", title: "Dinklage", description: "Local do seu nascimento no castelo de Dinklage." },
+  { lat: 51.9607, lng: 7.6261, type: "morte", title: "Münster", description: "Sua diocese, onde proferiu seus famosos sermões contra o regime nazista. Local da morte (22 de março de 1946)." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma", description: "Onde foi elevado a Cardeal pouco antes de sua morte." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Clemente August von Galen permanece como um farol de coragem moral contra o totalitarismo e a violação da dignidade da vida humana. Ele é frequentemente lembrado nos debates atuais sobre a eutanásia, os direitos humanos e a necessidade de a Igreja falar abertamente contra as injustiças dos Estados, inspirando ativistas e defensores da vida ao redor do mundo.
-
-<MiracleMap :places="[
-  { name: 'Münster', coordinates: [51.9607, 7.6261], description: 'Sua diocese, onde proferiu seus famosos sermões contra o regime nazista.' },
-  { name: 'Dinklage', coordinates: [52.6617, 8.1256], description: 'Local do seu nascimento no castelo de Dinklage.' },
-  { name: 'Roma', coordinates: [41.9028, 12.4964], description: 'Onde foi elevado a Cardeal pouco antes de sua morte.' }
-]" />

@@ -1,14 +1,21 @@
+---
+title: Santa Teresinha do Menino Jesus
+description: Biografia, milagres, curiosidades e mapa de Santa Teresinha do Menino Jesus.
+---
+
 # Santa Teresinha do Menino Jesus
 
 ![Santa Teresinha do Menino Jesus](imagens/santa-teresinha.jpg)
 
-**"Quero passar o meu céu fazendo o bem na terra."**
+> "Quero passar o meu céu fazendo o bem na terra."
 
-**Nascimento:** 2 de janeiro de 1873, Alençon, França
-**Morte:** 30 de setembro de 1897, Lisieux, França
-**Festa Litúrgica:** 1 de outubro
-**Beatificação:** 29 de abril de 1923, pelo Papa Pio XI
-**Canonização:** 17 de maio de 1925, pelo Papa Pio XI
+- **Nascimento:** 2 de janeiro de 1873, Alençon, França
+- **Morte:** 30 de setembro de 1897, Lisieux, França
+- **Beatificação:** 29 de abril de 1923, pelo Papa Pio XI
+- **Canonização:** 17 de maio de 1925, pelo Papa Pio XI
+- **Festa Litúrgica:** 1 de outubro
+
+<TextToSpeech />
 
 ---
 
@@ -34,6 +41,15 @@ Foi declarada Padroeira das Missões (sem nunca ter saído do convento) e Doutor
 
 1.  **Doutora da Igreja:** É a terceira mulher a receber este título e a mais jovem.
 2.  **Rosas:** Muitas vezes, a resposta às novenas feitas a ela vem acompanhada do recebimento de uma rosa.
+
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a Santa Teresinha do Menino Jesus: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: 48.4306, lng: 0.0931, type: "nascimento", title: "Alençon, França", description: "Local de nascimento (2 de janeiro de 1873)." },
+  { lat: 49.1462, lng: 0.2268, type: "morte", title: "Lisieux, França", description: "Local da morte (30 de setembro de 1897)." }
+]' />
 
 ## Impacto Hoje
 

@@ -1,21 +1,22 @@
 ---
 title: Beato Jordão da Saxônia
-head:
-  - - meta
-    - name: description
-      content: Biografia e história do Beato Jordão da Saxônia, o segundo Mestre Geral da Ordem dos Pregadores (Dominicanos).
+description: Biografia, milagres, curiosidades e mapa do Beato Jordão da Saxônia.
 ---
 
-<img src="./imagens/portrait.png" alt="Beato Jordão da Saxônia" style="width: 100%; max-width: 400px; border-radius: 10px; margin-bottom: 20px;">
+# Beato Jordão da Saxônia
+
+![Beato Jordão da Saxônia](imagens/portrait.png)
 
 > "O primeiro sucessor de São Domingos e caçador de almas"
 
-**Nascimento**: c. 1190, Borgentreich (Westfália), Sacro Império Romano-Germânico<br>
-**Morte**: 13 de fevereiro de 1237, num naufrágio na costa da Síria<br>
-**Beatificação**: 10 de maio de 1828, pelo Papa Leão XII<br>
-**Festa Litúrgica**: 13 de fevereiro<br>
+- **Nascimento:** c. 1190, Borgentreich (Westfália), Sacro Império Romano-Germânico
+- **Morte:** 13 de fevereiro de 1237, num naufrágio na costa da Síria
+- **Beatificação:** 10 de maio de 1828, pelo Papa Leão XII
+- **Festa Litúrgica:** 13 de fevereiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 Jordão nasceu por volta de 1190 na região da Saxônia (atual Alemanha), em uma família nobre, possivelmente os Condes de Eberstein. Em 1210, ele foi para Paris, o maior centro intelectual da Europa na época, para estudar teologia e matemática. Foi lá que ele conheceu São Domingos de Gusmão, o fundador da recém-criada Ordem dos Pregadores (Dominicanos), cuja pregação fervorosa e estilo de vida mendicante o cativaram profundamente.
@@ -38,12 +39,14 @@ Embora Jordão não fosse especialmente conhecido por milagres espetaculares dur
 4. **O Salve Regina:** Foi Jordão da Saxônia quem instituiu a bela tradição (que perdura até hoje) de os dominicanos cantarem solenemente o *Salve Regina* em procissão após as Completas (a última oração do dia), um costume adotado inicialmente para acalmar frades que estavam sofrendo com a opressão de demônios.
 
 ## Cidades por onde passou
-<MiracleMap :markers="[
-  { lat: 51.5700, lng: 9.2400, title: 'Borgentreich, Alemanha', description: 'Local onde nasceu, na região da Saxônia.' },
-  { lat: 48.8566, lng: 2.3522, title: 'Paris, França', description: 'Onde estudou teologia, conheceu São Domingos e mais tarde pregou ativamente na universidade.' },
-  { lat: 44.4949, lng: 11.3426, title: 'Bolonha, Itália', description: 'Onde São Domingos faleceu e onde Jordão participou dos Capítulos Gerais e guiou Diana d\'Andalò.' },
-  { lat: 34.0000, lng: 35.0000, title: 'Costa da Síria', description: 'Local aproximado do naufrágio no qual perdeu a vida em 1237, ao retornar da Terra Santa.' }
-]" />
+
+<MiracleMap :items='[
+  { lat: 51.57, lng: 9.24, type: "nascimento", title: "Borgentreich, Alemanha", description: "Local onde nasceu, na região da Saxônia." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde estudou teologia, conheceu São Domingos e mais tarde pregou ativamente na universidade." },
+  { lat: 34, lng: 35, type: "vida", title: "Costa da Síria", description: "Local aproximado do naufrágio no qual perdeu a vida em 1237, ao retornar da Terra Santa." },
+  { lat: 44.4949, lng: 11.3426, type: "morte", title: "Bolonha, Itália", description: "Onde São Domingos faleceu e onde Jordão participou dos Capítulos Gerais e guiou Diana d&#39;Andalò." },
+  { lat: 32.9236, lng: 35.07, type: "morte", title: "Acre", description: "Local da morte (13 de fevereiro de 1237)." }
+]' />
 
 ## Impacto Hoje
 O impacto do Beato Jordão da Saxônia perdura principalmente através da Ordem Dominicana, que ele consolidou estrutural e intelectualmente. Se Domingos foi o fundador carismático, Jordão foi o grande organizador e multiplicador. O fato de ele ter focado sua pregação no meio universitário moldou irrevogavelmente a identidade dominicana como uma ordem profundamente intelectual e erudita – pavimentando o caminho para gigantes como Santo Tomás de Aquino.

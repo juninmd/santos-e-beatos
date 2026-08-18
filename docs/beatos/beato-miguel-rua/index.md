@@ -1,16 +1,22 @@
+---
+title: Beato Miguel Rua
+description: Biografia, milagres, curiosidades e mapa do Beato Miguel Rua.
+---
+
 # Beato Miguel Rua
 
 ![Beato Miguel Rua](imagens/portrait.jpg)
 
-**"O primeiro sucessor de Dom Bosco"**<br>
-**Nascimento:** 9 de junho de 1837 (Turim, Itália)<br>
-**Morte:** 6 de abril de 1910 (Turim, Itália)<br>
-**Beatificação:** 29 de outubro de 1972, pelo Papa Paulo VI<br>
-**Festa Litúrgica:** 29 de outubro<br>
+> "O primeiro sucessor de Dom Bosco"
 
----
+- **Nascimento:** 9 de junho de 1837 (Turim, Itália)
+- **Morte:** 6 de abril de 1910 (Turim, Itália)
+- **Beatificação:** 29 de outubro de 1972, pelo Papa Paulo VI
+- **Festa Litúrgica:** 29 de outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,8 +45,11 @@ Com a morte de São João Bosco em 1888, o Papa Leão XIII nomeou Miguel Rua com
 *   **Mirabello (Itália):** Cidade para onde foi enviado aos 26 anos como diretor do primeiro colégio salesiano fundado fora da cidade de Turim.
 *   **Outros Países:** Durante seu tempo como Reitor-Mor, ele fez longas viagens internacionais, passando pela França, Espanha, Portugal, Suíça, Áustria, Inglaterra e Oriente Médio para visitar as casas salesianas fundadas durante a sua expansão.
 
+<MiracleMap :items='[
+  { lat: 45.0703, lng: 7.6869, type: "nascimento", title: "Turim, Itália", description: "Local de nascimento (9 de junho de 1837)." },
+  { lat: 45.0703, lng: 7.6869, type: "morte", title: "Turim, Itália", description: "Local da morte (6 de abril de 1910)." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Miguel Rua é lembrado na Família Salesiana como o "Fidelíssimo de Dom Bosco", a rocha sobre a qual a grandiosa obra se apoiou após a morte do fundador. Se Dom Bosco foi a inspiração carismática, Miguel Rua foi o consolidador que organizou, documentou as regras e expandiu as missões pelo mundo todo (incluindo o Brasil e toda a América). O seu legado continua pulsante em todas as paróquias, escolas e missões que trabalham pela juventude no mundo. Seu corpo incorrupto é venerado na Basílica de Maria Auxiliadora em Turim, próximo ao de São João Bosco.
-
-<MiracleMap />

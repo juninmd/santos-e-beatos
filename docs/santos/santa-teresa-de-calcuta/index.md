@@ -1,13 +1,18 @@
+---
+title: Santa Teresa de Calcutá
+description: Biografia, milagres, curiosidades e mapa de Santa Teresa de Calcutá.
+---
+
 # Santa Teresa de Calcutá
 
-![Santa Teresa de Calcutá](https://placehold.co/400x600/png?text=Santa+Teresa+de+Calcuta)
+![Santa Teresa de Calcutá](imagens/retrato.svg)
 
-**"Não podemos fazer grandes coisas, mas podemos fazer pequenas coisas com grande amor."**
+> "Não podemos fazer grandes coisas, mas podemos fazer pequenas coisas com grande amor."
 
-**Nascimento:** 26 de agosto de 1910, Skopje (atual Macedônia do Norte)
-**Morte:** 5 de setembro de 1997, Calcutá, Índia
-**Canonização:** 4 de setembro de 2016 (Papa Francisco)
-**Festa Litúrgica:** 5 de setembro
+- **Nascimento:** 26 de agosto de 1910, Skopje (atual Macedônia do Norte)
+- **Morte:** 5 de setembro de 1997, Calcutá, Índia
+- **Canonização:** 4 de setembro de 2016 (Papa Francisco)
+- **Festa Litúrgica:** 5 de setembro
 
 <TextToSpeech />
 
@@ -39,14 +44,16 @@ Para sua canonização, a Igreja reconheceu dois milagres atribuídos à sua int
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 41.9981, lng: 21.4254, title: 'Skopje, Macedônia do Norte', description: 'Cidade natal de Agnes Gonxha Bojaxhiu.' },
-  { lat: 53.3498, lng: -6.2603, title: 'Dublin, Irlanda', description: 'Onde ingressou nas Irmãs de Loreto para aprender inglês.' },
-  { lat: 27.0410, lng: 88.2663, title: 'Darjeeling, Índia', description: 'Destino da viagem de trem onde recebeu o \'chamado dentro do chamado\'.' },
-  { lat: 22.5726, lng: 88.3639, title: 'Calcutá, Índia', description: 'Onde fundou as Missionárias da Caridade e serviu aos pobres até sua morte.' },
-  { lat: 59.9139, lng: 10.7522, title: 'Oslo, Noruega', description: 'Onde recebeu o Prêmio Nobel da Paz em 1979.' },
-  { lat: 41.9028, lng: 12.4964, title: 'Roma, Vaticano', description: 'Onde foi canonizada pelo Papa Francisco na Praça de São Pedro.' }
-]" />
+<MiracleMap :items='[
+  { lat: 41.9981, lng: 21.4254, type: "nascimento", title: "Skopje, Macedônia do Norte", description: "Cidade natal de Agnes Gonxha Bojaxhiu." },
+  { lat: 53.3498, lng: -6.2603, type: "vida", title: "Dublin, Irlanda", description: "Onde ingressou nas Irmãs de Loreto para aprender inglês." },
+  { lat: 27.041, lng: 88.2663, type: "vida", title: "Darjeeling, Índia", description: "Destino da viagem de trem onde recebeu o &#39;chamado dentro do chamado&#39;." },
+  { lat: 59.9139, lng: 10.7522, type: "vida", title: "Oslo, Noruega", description: "Onde recebeu o Prêmio Nobel da Paz em 1979." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Vaticano", description: "Onde foi canonizada pelo Papa Francisco na Praça de São Pedro." },
+  { lat: 23.4, lng: 88.5, type: "milagre", title: "Bengala Ocidental, Índia", description: "Cura de Monica Besra, de tumor abdominal (2002) — milagre da beatificação." },
+  { lat: -23.9608, lng: -46.3336, type: "milagre", title: "Santos (SP), Brasil", description: "Cura de Marcilio Haddad Andrino, de abscessos cerebrais (2008) — milagre da canonização." },
+  { lat: 22.5726, lng: 88.3639, type: "morte", title: "Calcutá, Índia", description: "Onde fundou as Missionárias da Caridade e serviu aos pobres até sua morte." }
+]' />
 
 ## Galeria
 
@@ -57,3 +64,9 @@ Para sua canonização, a Igreja reconheceu dois milagres atribuídos à sua int
 
 ---
 *Santa Teresa de Calcutá, rogai por nós!*
+
+## Impacto Hoje
+
+As Missionárias da Caridade estão presentes em mais de 130 países, com casas de acolhimento para moribundos, pessoas com HIV, hansenianos, dependentes químicos e crianças abandonadas — a maior rede desse tipo fundada no século XX. Madre Teresa continua a ser uma das figuras religiosas mais reconhecidas do mundo, dentro e fora do catolicismo, e sua imagem é usada em campanhas de solidariedade e em currículos escolares de muitos países.
+
+A publicação póstuma de suas cartas, em *Venha, Seja Minha Luz*, revelou que viveu décadas de aridez espiritual profunda enquanto sustentava a obra — um dado que mudou a leitura de sua santidade e a tornou próxima de quem atravessa crises de fé. Sua canonização, em 4 de setembro de 2016, encerrou o Jubileu da Misericórdia, e o Papa Francisco a propôs como o rosto daquele ano santo.

@@ -1,17 +1,22 @@
+---
+title: Beato Francisco Palau
+description: Biografia, milagres, curiosidades e mapa do Beato Francisco Palau.
+---
+
 # Beato Francisco Palau
 
 ![Beato Francisco Palau](imagens/portrait.jpg)
 
-**"A Igreja é o amor da minha vida; a ela me entrego sem reservas."**
+> "A Igreja é o amor da minha vida; a ela me entrego sem reservas."
 
-**Nascimento:** 29 de dezembro de 1811, Aitona, Lérida, Espanha<br>
-**Morte:** 20 de março de 1872, Tarragona, Espanha<br>
-**Beatificação:** 24 de abril de 1988 (Papa João Paulo II)<br>
-**Festa Litúrgica:** 7 de novembro<br>
-
----
+- **Nascimento:** 29 de dezembro de 1811, Aitona, Lérida, Espanha
+- **Morte:** 20 de março de 1872, Tarragona, Espanha
+- **Beatificação:** 24 de abril de 1988 (Papa João Paulo II)
+- **Festa Litúrgica:** 7 de novembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -44,13 +49,13 @@ A causa de beatificação do Padre Francisco Palau foi impulsionada por milagres
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 41.4939, lng: 0.4608, title: 'Aitona, Espanha', description: 'Cidade natal do Beato Francisco Palau.' },
-  { lat: 41.3851, lng: 2.1734, title: 'Barcelona, Espanha', description: 'Onde ingressou no Carmelo e, mais tarde, fundou a Escola da Virtude.' },
-  { lat: 43.1500, lng: 1.1333, title: 'Livron, França', description: 'Local de seu primeiro exílio, onde viveu como eremita nas montanhas.' },
-  { lat: 38.9067, lng: 1.4206, title: 'Ibiza, Ilhas Baleares, Espanha', description: 'Onde foi exilado pela segunda vez, fundou eremitérios, exerceu o exorcistado e conduziu intensas missões.' },
-  { lat: 41.1189, lng: 1.2445, title: 'Tarragona, Espanha', description: 'Cidade onde faleceu servindo os doentes durante uma epidemia.' }
-]" />
+<MiracleMap :items='[
+  { lat: 41.4939, lng: 0.4608, type: "nascimento", title: "Aitona, Espanha", description: "Cidade natal do Beato Francisco Palau." },
+  { lat: 41.3851, lng: 2.1734, type: "vida", title: "Barcelona, Espanha", description: "Onde ingressou no Carmelo e, mais tarde, fundou a Escola da Virtude." },
+  { lat: 43.15, lng: 1.1333, type: "vida", title: "Livron, França", description: "Local de seu primeiro exílio, onde viveu como eremita nas montanhas." },
+  { lat: 38.9067, lng: 1.4206, type: "vida", title: "Ibiza, Ilhas Baleares, Espanha", description: "Onde foi exilado pela segunda vez, fundou eremitérios, exerceu o exorcistado e conduziu intensas missões." },
+  { lat: 41.1189, lng: 1.2445, type: "morte", title: "Tarragona, Espanha", description: "Cidade onde faleceu servindo os doentes durante uma epidemia." }
+]' />
 
 ## Impacto Hoje
 

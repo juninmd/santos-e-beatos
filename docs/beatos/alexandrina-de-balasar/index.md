@@ -1,13 +1,20 @@
+---
+title: Beata Alexandrina de Balasar
+description: Biografia, milagres, curiosidades e mapa da Beata Alexandrina de Balasar.
+---
+
 # Beata Alexandrina de Balasar
 
 ![Beata Alexandrina de Balasar](imagens/alexandrina.jpg)
 
-**"A Quarta Vidente de Fátima"**
+> "A Quarta Vidente de Fátima"
 
-**Nascimento:** 30 de março de 1904, Balasar, Portugal
-**Morte:** 13 de outubro de 1955, Balasar, Portugal
-**Festa Litúrgica:** 13 de outubro
-**Beatificação:** 25 de abril de 2004, pelo Papa João Paulo II
+- **Nascimento:** 30 de março de 1904, Balasar, Portugal
+- **Morte:** 13 de outubro de 1955, Balasar, Portugal
+- **Beatificação:** 25 de abril de 2004, pelo Papa João Paulo II
+- **Festa Litúrgica:** 13 de outubro
+
+<TextToSpeech />
 
 ---
 
@@ -31,6 +38,15 @@ Influenciou o Papa Pio XII a consagrar o mundo ao Imaculado Coração de Maria e
 
 1.  **Jejum:** O fato de viver apenas da Eucaristia foi investigado rigorosamente pela medicina da época, que não encontrou explicação científica.
 2.  **Ditados:** Como não podia escrever, ditava suas experiências místicas e conselhos, que foram registrados em milhares de páginas.
+
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a Beata Alexandrina de Balasar: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: 41.3833, lng: -8.6167, type: "nascimento", title: "Balasar, Portugal", description: "Local de nascimento (30 de março de 1904)." },
+  { lat: 41.3833, lng: -8.6167, type: "morte", title: "Balasar, Portugal", description: "Local da morte (13 de outubro de 1955)." }
+]' />
 
 ## Impacto Hoje
 

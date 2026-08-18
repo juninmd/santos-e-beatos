@@ -1,14 +1,22 @@
+---
+title: Beato Eduardo Pironio
+description: Biografia, milagres, curiosidades e mapa do Beato Eduardo Pironio.
+---
+
 # Beato Eduardo Pironio
 
 ![Beato Eduardo Pironio](imagens/portrait.jpg)
-*"Eu vos saúdo, ó Cruz, única esperança. E a carrego com alegria, como Jesus."*
 
-**Nascimento**: 3 de dezembro de 1920, Nueve de Julio, Argentina<br>
-**Morte**: 5 de fevereiro de 1998, Roma, Itália<br>
-**Beatificação**: 16 de dezembro de 2023 pelo Papa Francisco (em Luján, Argentina)<br>
-**Festa Litúrgica**: 4 de fevereiro<br>
+> "Eu vos saúdo, ó Cruz, única esperança. E a carrego com alegria, como Jesus."
+
+- **Nascimento:** 3 de dezembro de 1920, Nueve de Julio, Argentina
+- **Morte:** 5 de fevereiro de 1998, Roma, Itália
+- **Beatificação:** 16 de dezembro de 2023 pelo Papa Francisco (em Luján, Argentina)
+- **Festa Litúrgica:** 4 de fevereiro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 O Cardeal Eduardo Francisco Pironio foi um prelado católico argentino, de profunda espiritualidade e dedicação pastoral, conhecido como o "amigo de Deus" e o "Cardeal dos jovens". Ele foi um dos criadores e grande impulsionador das Jornadas Mundiais da Juventude, ao lado do Papa São João Paulo II.
@@ -41,14 +49,14 @@ O Cardeal Pironio faleceu em Roma após lutar contra um doloroso câncer de pró
 5. **Roma, Itália:** Para onde foi convocado por Paulo VI e onde serviu como Cardeal e Presidente do Pontifício Conselho para os Leigos até sua morte.
 6. **Luján, Argentina:** Lugar do santuário nacional onde estão seus restos mortais e onde foi proclamado Beato.
 
+<MiracleMap :items='[
+  { lat: -35.4444, lng: -60.8831, type: "nascimento", title: "Nueve de Julio, Argentina", description: "Local de seu nascimento e onde sua vocação começou." },
+  { lat: -34.9205, lng: -57.9536, type: "vida", title: "La Plata, Argentina", description: "Serviu como Bispo Auxiliar nesta cidade." },
+  { lat: -38.0055, lng: -57.5426, type: "vida", title: "Mar del Plata, Argentina", description: "Foi Bispo e enfrentou forte perseguição e ameaças durante tempos difíceis na Argentina." },
+  { lat: 4.6097, lng: -74.0817, type: "vida", title: "Bogotá, Colômbia", description: "Atuou no CELAM, impulsionando a renovação da Igreja na América Latina." },
+  { lat: -34.5703, lng: -59.105, type: "vida", title: "Luján, Argentina", description: "Onde está enterrado, no Santuário de Nossa Senhora de Luján, e onde foi beatificado." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Serviu a Igreja Universal como cardeal, organizando as JMJs junto a São João Paulo II. Local da morte (5 de fevereiro de 1998)." }
+]' />
+
 ## Impacto Hoje
 O Beato Eduardo Pironio deixou um legado vivo na Igreja. Ele é visto como o modelo do "pastor com cheiro das ovelhas" muito antes dessa expressão se popularizar. Ele acreditou no laicato não apenas como auxiliares do clero, mas como o coração da missão da Igreja no mundo. O impacto de seu trabalho com a juventude continua vibrante nas Jornadas Mundiais da Juventude, que atraem milhões de jovens para renovar sua fé. A figura de Pironio representa a esperança alegre e serena que supera a cruz, um profeta da civilização do amor.
-
-<MiracleMap :miracles="[
-  { lat: -35.4444, lng: -60.8831, title: 'Nueve de Julio, Argentina', description: 'Local de seu nascimento e onde sua vocação começou.' },
-  { lat: -34.9205, lng: -57.9536, title: 'La Plata, Argentina', description: 'Serviu como Bispo Auxiliar nesta cidade.' },
-  { lat: -38.0055, lng: -57.5426, title: 'Mar del Plata, Argentina', description: 'Foi Bispo e enfrentou forte perseguição e ameaças durante tempos difíceis na Argentina.' },
-  { lat: 4.6097, lng: -74.0817, title: 'Bogotá, Colômbia', description: 'Atuou no CELAM, impulsionando a renovação da Igreja na América Latina.' },
-  { lat: 41.9028, lng: 12.4964, title: 'Roma, Itália', description: 'Serviu a Igreja Universal como cardeal, organizando as JMJs junto a São João Paulo II.' },
-  { lat: -34.5703, lng: -59.1050, title: 'Luján, Argentina', description: 'Onde está enterrado, no Santuário de Nossa Senhora de Luján, e onde foi beatificado.' }
-]" />

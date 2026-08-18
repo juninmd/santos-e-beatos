@@ -1,13 +1,19 @@
+---
+title: São Carlo Acutis
+description: Biografia, milagres, curiosidades e mapa de São Carlo Acutis.
+---
+
 # São Carlo Acutis
 
 ![São Carlo Acutis](imagens/carlo-acutis.jpg)
 
-**"O Ciberapóstolo da Eucaristia"**
+> "O Ciberapóstolo da Eucaristia"
 
-**Nascimento:** 3 de maio de 1991, Londres (Reino Unido)
-**Morte:** 12 de outubro de 2006, Monza (Itália)
-**Festa Litúrgica:** 12 de outubro
-**Canonização:** Aprovada pelo Papa Francisco em 2024, cerimônia prevista para 2025
+- **Nascimento:** 3 de maio de 1991, Londres (Reino Unido)
+- **Morte:** 12 de outubro de 2006, Monza (Itália)
+- **Beatificação:** 10 de outubro de 2020, pelo Papa Francisco
+- **Canonização:** 7 de setembro de 2025, pelo Papa Leão XIV
+- **Festa Litúrgica:** 12 de outubro
 
 <TextToSpeech />
 
@@ -44,14 +50,22 @@ Para a canonização, foi reconhecido um segundo milagre: a cura de uma jovem co
 Nasceu em Londres, viveu em Milão e passava férias em Assis, cidade de São Francisco, que ele amava profundamente e onde pediu para ser enterrado.
 
 <MiracleMap :items='[
-  { lat: 51.5074, lng: -0.1278, title: "Londres, Reino Unido", description: "Local de nascimento de Carlo Acutis." },
-  { lat: 45.4642, lng: 9.1900, title: "Milão, Itália", description: "Cidade onde cresceu, viveu e frequentou a escola." },
-  { lat: 43.0707, lng: 12.6196, title: "Assis, Itália", description: "Cidade que amava e onde seu corpo está exposto no Santuário do Despojamento." },
-  { lat: 45.5845, lng: 9.2744, title: "Monza, Itália", description: "Local de seu falecimento no hospital." }
+  { lat: 51.5074, lng: -0.1278, type: "nascimento", title: "Londres, Reino Unido", description: "Local de nascimento de Carlo Acutis." },
+  { lat: 45.4642, lng: 9.19, type: "vida", title: "Milão, Itália", description: "Cidade onde cresceu, viveu e frequentou a escola." },
+  { lat: -20.4697, lng: -54.6201, type: "milagre", title: "Campo Grande (MS), Brasil", description: "Cura do menino Matheus, de anomalia no pâncreas — milagre da beatificação (2013)." },
+  { lat: 45.5845, lng: 9.2744, type: "morte", title: "Monza, Itália", description: "Local de seu falecimento no hospital." },
+  { lat: 43.0707, lng: 12.6196, type: "tumulo", title: "Assis, Itália", description: "Cidade que amava e onde seu corpo está exposto no Santuário do Despojamento." }
 ]' />
 
 ## Impacto Hoje
 
 Carlo Acutis é um fenômeno mundial, especialmente entre os jovens. Ele mostra que a tecnologia e a internet podem ser veículos de santidade e não apenas de distração ou pecado. É considerado o padroeiro da internet e dos programadores. Sua frase "A Eucaristia é a minha autoestrada para o céu" tornou-se um lema para a juventude católica em todo o mundo.
 
-Sua canonização foi aprovada pelo Papa Francisco em maio de 2024, após o reconhecimento de um segundo milagre, e ele é uma figura central para o Jubileu de 2025.
+Foi canonizado pelo Papa Leão XIV em 7 de setembro de 2025, na Praça de São Pedro, na mesma celebração de Pier Giorgio Frassati — tornando-se o primeiro santo da geração millennial. A cerimônia, inicialmente marcada para 27 de abril de 2025, foi adiada com a morte do Papa Francisco.
+
+## Galeria de Imagens
+
+| Imagem | Descrição |
+| --- | --- |
+| ![São Carlo Acutis](imagens/carlo-acutis-retrato.jpg) | Retrato de Carlo Acutis. |
+| ![São Carlo Acutis](imagens/carlo-acutis-capa.jpg) | Carlo Acutis em imagem de divulgação da sua causa. |

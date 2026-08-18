@@ -1,15 +1,22 @@
+---
+title: São João de Ávila
+description: Biografia, milagres, curiosidades e mapa de São João de Ávila.
+---
+
 # São João de Ávila
 
-![São João de Ávila](./imagens/portrait.jpg)
+![São João de Ávila](imagens/portrait.jpg)
 
-*"Sacerdote fiel e modelo de vida evangélica"*
+> "Sacerdote fiel e modelo de vida evangélica"
 
-**Nascimento:** 6 de janeiro de 1500<br>
-**Morte:** 10 de maio de 1569<br>
-**Canonização:** 31 de maio de 1970<br>
-**Festa Litúrgica:** 10 de maio<br>
+- **Nascimento:** 6 de janeiro de 1500, Almodóvar del Campo (Espanha)
+- **Morte:** 10 de maio de 1569, Montilla (Espanha)
+- **Canonização:** 31 de maio de 1970
+- **Festa Litúrgica:** 10 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -44,8 +51,13 @@ São João de Ávila pregou em inúmeras localidades. Alguns dos principais luga
 * **Córdoba (Espanha):** Onde pregou extensivamente e onde passou grande parte dos seus anos finais, trabalhando e escrevendo.
 * **Montilla (Espanha):** Onde faleceu e onde seus restos mortais estão guardados no Santuário de São João de Ávila.
 
+<MiracleMap :items='[
+  { lat: 38.7188, lng: -4.1818, type: "nascimento", title: "Almodóvar del Campo", description: "Local de nascimento e infância de São João de Ávila." },
+  { lat: 37.8833, lng: -4.7667, type: "vida", title: "Córdoba", description: "Onde realizou extensa obra pastoral, fundou escolas e viveu." },
+  { lat: 37.5866, lng: -4.6394, type: "morte", title: "Montilla", description: "Local da morte (10 de maio de 1569)." },
+  { lat: 37.5866, lng: -4.6394, type: "tumulo", title: "Montilla", description: "Local de sua morte, onde se encontra o seu túmulo." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de São João de Ávila perdura fortemente na Igreja moderna, particularmente na ênfase à sólida formação sacerdotal e no incentivo à renovação constante da Igreja. Seus escritos espirituais ainda são amplamente lidos por seminaristas, sacerdotes e leigos em busca de aprofundamento na fé. Seus conselhos pragmáticos, focados na necessidade de o sacerdote ser verdadeiramente um 'homem de Deus', continuam inspirando o clero a viver o ministério de maneira mais autêntica e devotada.
-
-<MiracleMap :items='[{ lat: 38.7188, lng: -4.1818, title: "Almodóvar del Campo", description: "Local de nascimento e infância de São João de Ávila." }, { lat: 37.8833, lng: -4.7667, title: "Córdoba", description: "Onde realizou extensa obra pastoral, fundou escolas e viveu." }, { lat: 37.5866, lng: -4.6394, title: "Montilla", description: "Local de sua morte, onde se encontra o seu túmulo." }]' />

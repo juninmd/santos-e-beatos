@@ -1,17 +1,22 @@
+---
+title: Beato Jacinto Vera
+description: Biografia, milagres, curiosidades e mapa do Beato Jacinto Vera.
+---
+
 # Beato Jacinto Vera
 
 ![Beato Jacinto Vera](imagens/portrait.jpg)
 
-**"O Pai da Igreja Uruguaia"**
+> "O Pai da Igreja Uruguaia"
 
-**Nascimento:** 3 de julho de 1813, Oceano Atlântico (em viagem para o Uruguai)<br>
-**Morte:** 6 de maio de 1881, Pan de Azúcar (Uruguai)<br>
-**Beatificação:** 6 de maio de 2023, pelo Papa Francisco<br>
-**Festa Litúrgica:** 6 de maio
-
----
+- **Nascimento:** 3 de julho de 1813, Oceano Atlântico (em viagem para o Uruguai)
+- **Morte:** 6 de maio de 1881, Pan de Azúcar (Uruguai)
+- **Beatificação:** 6 de maio de 2023, pelo Papa Francisco
+- **Festa Litúrgica:** 6 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -38,10 +43,12 @@ A sua beatificação foi impulsionada pela cura milagrosa de Maria del Carmen G�
 - **Maldonado e Pan de Azúcar, Uruguai:** Regiões onde realizou grande parte de suas missões e onde faleceu durante uma delas.
 - **Buenos Aires, Argentina:** Onde estudou e, mais tarde, esteve exilado.
 
+<MiracleMap :items='[
+  { lat: 27, lng: -20, type: "nascimento", title: "Oceano Atlântico", description: "Local de nascimento (3 de julho de 1813)." },
+  { lat: -34.9011, lng: -56.1645, type: "milagre", title: "Cura de Maria del Carmen Gómez", description: "Cura miraculosa e inexplicável de uma jovem após uma grave infecção cirúrgica." },
+  { lat: -34.7833, lng: -55.2333, type: "morte", title: "Pan de Azúcar", description: "Local da morte (6 de maio de 1881)." }
+]' />
+
 ## Impacto Hoje
 
 Jacinto Vera é amplamente considerado o "Pai da Igreja Uruguaia" devido ao seu papel fundamental na estruturação e fortalecimento da fé católica no país. A sua dedicação aos pobres e a sua incansável missão evangelizadora continuam a inspirar o clero e os leigos no Uruguai. A sua recente beatificação em 2023 renovou o fervor religioso no país, com muitos devotos reconhecendo-o como um modelo de pastor incansável e compassivo.
-
-<MiracleMap :miracles="[
-  { title: 'Cura de Maria del Carmen Gómez', description: 'Cura miraculosa e inexplicável de uma jovem após uma grave infecção cirúrgica.', coordinates: [-34.9011, -56.1645] }
-]" />

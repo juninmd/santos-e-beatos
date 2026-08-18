@@ -1,13 +1,20 @@
+---
+title: São Maximiliano Kolbe
+description: Biografia, milagres, curiosidades e mapa de São Maximiliano Kolbe.
+---
+
 # São Maximiliano Kolbe
 
 ![São Maximiliano Kolbe](imagens/maximiliano.jpg)
 
-**"O ódio não é força criativa: só o amor é criativo."**
+> "O ódio não é força criativa: só o amor é criativo."
 
-**Nascimento:** 8 de janeiro de 1894, Zduńska Wola, Polônia
-**Morte:** 14 de agosto de 1941, Auschwitz, Polônia
-**Festa Litúrgica:** 14 de agosto
-**Canonização:** 10 de outubro de 1982, pelo Papa João Paulo II
+- **Nascimento:** 8 de janeiro de 1894, Zduńska Wola, Polônia
+- **Morte:** 14 de agosto de 1941, Auschwitz, Polônia
+- **Canonização:** 10 de outubro de 1982, pelo Papa João Paulo II
+- **Festa Litúrgica:** 14 de agosto
+
+<TextToSpeech />
 
 ---
 
@@ -52,6 +59,11 @@ Para sua beatificação e canonização, foram reconhecidos milagres de cura ine
 *   **Niepokalanów (Polônia):** Fundação da Cidade da Imaculada.
 *   **Nagasaki (Japão):** Missão missionária.
 *   **Auschwitz (Polônia):** Local de seu martírio.
+
+<MiracleMap :items='[
+  { lat: 51.5989, lng: 18.94, type: "nascimento", title: "Zduńska Wola, Polônia", description: "Local de nascimento (8 de janeiro de 1894)." },
+  { lat: 50.0264, lng: 19.2043, type: "morte", title: "Auschwitz, Polônia", description: "Local da morte (14 de agosto de 1941)." }
+]' />
 
 ## Impacto Hoje
 

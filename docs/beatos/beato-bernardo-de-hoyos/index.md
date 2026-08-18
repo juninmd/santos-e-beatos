@@ -1,20 +1,22 @@
 ---
 title: Beato Bernardo de Hoyos
-description: O Primeiro Apóstolo do Sagrado Coração de Jesus na Espanha
+description: Biografia, milagres, curiosidades e mapa do Beato Bernardo de Hoyos.
 ---
 
 # Beato Bernardo de Hoyos
 
-![Beato Bernardo de Hoyos](./imagens/cover.jpg)
+![Beato Bernardo de Hoyos](imagens/cover.jpg)
 
 > "Achei o tesouro escondido! O Coração de Jesus!"
 
-**Nascimento:** 21 de Agosto de 1711 <br>
-**Morte:** 29 de Novembro de 1735 <br>
-**Beatificação:** 18 de Abril de 2010 <br>
-**Festa Litúrgica:** 29 de Novembro <br>
+- **Nascimento:** 21 de Agosto de 1711, Torrelobatón, Valladolid (Espanha)
+- **Morte:** 29 de Novembro de 1735, Valladolid (Espanha)
+- **Beatificação:** 18 de Abril de 2010
+- **Festa Litúrgica:** 29 de Novembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -47,12 +49,12 @@ O jovem Beato Bernardo de Hoyos viveu intensamente em algumas regiões da Espanh
 *   **Villagarcía de Campos, Espanha:** Onde realizou seu noviciado jesuíta.
 *   **Valladolid, Espanha:** Local de seus estudos filosóficos e teológicos, onde recebeu a "Grande Promessa" e onde faleceu.
 
+<MiracleMap :items='[
+  { lat: 41.6496, lng: -5.0253, type: "nascimento", title: "Torrelobatón, Espanha", description: "Onde Bernardo nasceu e passou sua infância." },
+  { lat: 41.7811, lng: -5.0416, type: "vida", title: "Villagarcía de Campos", description: "Onde fez seu noviciado na Companhia de Jesus." },
+  { lat: 41.6522, lng: -4.7245, type: "morte", title: "Valladolid, Espanha", description: "Onde estudou, recebeu a revelação do Sagrado Coração e faleceu." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Bernardo de Hoyos é reconhecido como o principal apóstolo do Sagrado Coração de Jesus na Espanha. A devoção que ele propagou moldou profundamente a piedade popular espanhola. O Santuário Nacional da Grande Promessa, em Valladolid, é um centro contínuo de peregrinação e oração, mantendo vivo seu legado. Seu exemplo de santidade jovem, resposta pronta à vocação e amor apaixonado por Cristo continuam a inspirar jovens e movimentos católicos até hoje, lembrando a Igreja do tesouro infinito que é o Coração de Cristo.
-
-<MiracleMap :items='[
-  { lat: 41.6496, lng: -5.0253, title: "Torrelobatón, Espanha", description: "Onde Bernardo nasceu e passou sua infância." },
-  { lat: 41.7811, lng: -5.0416, title: "Villagarcía de Campos", description: "Onde fez seu noviciado na Companhia de Jesus." },
-  { lat: 41.6522, lng: -4.7245, title: "Valladolid, Espanha", description: "Onde estudou, recebeu a revelação do Sagrado Coração e faleceu." }
-]' />

@@ -1,17 +1,22 @@
-# Beata Catarina Troiani
-
-![Beata Catarina Troiani](./imagens/portrait.jpg)
-
-**"Senhor, a ti confio as minhas meninas do Egito, e faço voto de nunca recusar acolher as mais desamparadas."**
-
-**Nascimento:** 19 de janeiro de 1813, Giuliano di Roma, Estados Pontifícios (Itália)<br>
-**Morte:** 6 de maio de 1887, Cairo, Egito<br>
-**Festa Litúrgica:** 6 de maio<br>
-**Beatificação:** 14 de abril de 1985 por São João Paulo II<br>
-
+---
+title: Beata Catarina Troiani
+description: Biografia, milagres, curiosidades e mapa da Beata Catarina Troiani.
 ---
 
+# Beata Catarina Troiani
+
+![Beata Catarina Troiani](imagens/portrait.jpg)
+
+> "Senhor, a ti confio as minhas meninas do Egito, e faço voto de nunca recusar acolher as mais desamparadas."
+
+- **Nascimento:** 19 de janeiro de 1813, Giuliano di Roma, Estados Pontifícios (Itália)
+- **Morte:** 6 de maio de 1887, Cairo, Egito
+- **Beatificação:** 14 de abril de 1985 por São João Paulo II
+- **Festa Litúrgica:** 6 de maio
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -40,12 +45,12 @@ A beatificação de Maria Catarina Troiani foi impulsionada pela confirmação d
 - **Roma, Itália:** Local de preparativos e audiências papais para a bênção missionária de Pio IX antes de partir para o Oriente Médio.
 - **Cairo, Egito:** O destino de sua principal missão, onde fundou uma ordem, trabalhou incansavelmente por décadas e faleceu.
 
+<MiracleMap :items='[
+  { lat: 41.5833, lng: 13.2833, type: "nascimento", title: "Giuliano di Roma", description: "Cidade natal de Constança (Beata Catarina Troiani) na Itália." },
+  { lat: 41.6917, lng: 13.2514, type: "vida", title: "Mosteiro em Ferentino", description: "Local onde Catarina viveu muitos anos como religiosa Clarissa." },
+  { lat: 30.0444, lng: 31.2357, type: "morte", title: "Cairo", description: "Onde fundou sua obra missionária de acolhimento e emancipação de crianças no Egito, e onde ela morreu em 1887." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de Catarina Troiani perdura de maneira palpável através da congregação que ela ajudou a fundar. As Irmãs Franciscanas Missionárias do Coração Imaculado de Maria cresceram enormemente, contando hoje com inúmeras casas ao redor do mundo. A missão original no Cairo estendeu-se pela África, Ásia, Europa e Américas, operando clínicas, orfanatos e escolas dedicadas às mulheres marginalizadas e crianças. Sua vida é amplamente vista como precursora da atuação da Igreja contra a escravidão moderna, e ela é venerada como um símbolo do poder de transformar ambientes hostis pelo puro poder da caridade cristã, além de ser considerada um brilhante exemplo do serviço fraterno entre religiões no Oriente Médio.
-
-<MiracleMap :items="[
-  { lat: 41.5833, lng: 13.2833, title: 'Giuliano di Roma', description: 'Cidade natal de Constança (Beata Catarina Troiani) na Itália.' },
-  { lat: 41.6917, lng: 13.2514, title: 'Mosteiro em Ferentino', description: 'Local onde Catarina viveu muitos anos como religiosa Clarissa.' },
-  { lat: 30.0444, lng: 31.2357, title: 'Cairo', description: 'Onde fundou sua obra missionária de acolhimento e emancipação de crianças no Egito, e onde ela morreu em 1887.' }
-]" />

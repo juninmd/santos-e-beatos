@@ -1,17 +1,22 @@
+---
+title: São Bruno
+description: Biografia, milagres, curiosidades e mapa de São Bruno.
+---
+
 # São Bruno
 
 ![São Bruno](imagens/portrait.jpg)
 
-**"Fundador da Ordem dos Cartuxos"**
+> "Fundador da Ordem dos Cartuxos"
 
-**Nascimento:** c. 1030, Colônia (Alemanha)<br>
-**Morte:** 6 de outubro de 1101, Serra San Bruno, Calábria (Itália)<br>
-**Festa Litúrgica:** 6 de outubro<br>
-**Canonização:** 17 de fevereiro de 1514, pelo Papa Leão X (reconhecimento do culto)<br>
-
----
+- **Nascimento:** c. 1030, Colônia (Alemanha)
+- **Morte:** 6 de outubro de 1101, Serra San Bruno, Calábria (Itália)
+- **Canonização:** 17 de fevereiro de 1514, pelo Papa Leão X (reconhecimento do culto)
+- **Festa Litúrgica:** 6 de outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -45,10 +50,14 @@ A vida de São Bruno é mais reconhecida por seus "milagres de silêncio e santi
 - Roma, Itália (Conselheiro papal de Urbano II)
 - Serra San Bruno, Calábria, Itália (Fundação de sua segunda Cartuxa e local de sua morte)
 
+<MiracleMap :items='[
+  { lat: 50.9375, lng: 6.9603, type: "nascimento", title: "Colônia (Alemanha)", description: "Local de nascimento (c. 1030)." },
+  { lat: 45.3458, lng: 5.7954, type: "vida", title: "Fundação da Grande Cartuxa", description: "Local onde São Bruno fundou seu primeiro mosteiro e deu origem à Ordem dos Cartuxos (1084)." },
+  { lat: 38.5724, lng: 16.3262, type: "morte", title: "Cartuxa de Serra San Bruno", description: "Segundo mosteiro fundado por São Bruno na Itália, onde ele passou seus últimos anos e faleceu (1101)." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de São Bruno ecoa até os dias de hoje através da silenciosa, mas poderosa, presença dos Mosteiros Cartuxos ao redor do mundo. Em uma sociedade moderna cada vez mais barulhenta, conectada e distraída, a vida de São Bruno e o testemunho dos Cartuxos oferecem um poderoso lembrete da necessidade essencial do silêncio, da contemplação e do recolhimento para encontrar a Deus.
 
 Sua ordem permanece como um farol de oração intercessória pela humanidade, demonstrando que o distanciamento físico do mundo não significa indiferença aos seus problemas, mas uma entrega total para sustentá-lo espiritualmente.
-
-<MiracleMap :items='[{ lat: 45.3458, lng: 5.7954, title: "Fundação da Grande Cartuxa", description: "Local onde São Bruno fundou seu primeiro mosteiro e deu origem à Ordem dos Cartuxos (1084)." }, { lat: 38.5724, lng: 16.3262, title: "Cartuxa de Serra San Bruno", description: "Segundo mosteiro fundado por São Bruno na Itália, onde ele passou seus últimos anos e faleceu (1101)." }]' />

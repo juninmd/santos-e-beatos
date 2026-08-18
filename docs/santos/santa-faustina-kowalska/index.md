@@ -1,13 +1,18 @@
+---
+title: Santa Faustina Kowalska
+description: Biografia, milagres, curiosidades e mapa de Santa Faustina Kowalska.
+---
+
 # Santa Faustina Kowalska
 
 ![Santa Faustina Kowalska](imagens/santa-faustina.jpg)
 
-**"Apóstola da Divina Misericórdia"**
+> "Apóstola da Divina Misericórdia"
 
-**Nascimento:** 25 de agosto de 1905, Głogowiec, Polônia
-**Morte:** 5 de outubro de 1938, Cracóvia, Polônia
-**Festa Litúrgica:** 5 de outubro
-**Canonização:** 30 de abril de 2000, pelo Papa João Paulo II
+- **Nascimento:** 25 de agosto de 1905, Głogowiec, Polônia
+- **Morte:** 5 de outubro de 1938, Cracóvia, Polônia
+- **Canonização:** 30 de abril de 2000, pelo Papa João Paulo II
+- **Festa Litúrgica:** 5 de outubro
 
 <TextToSpeech />
 
@@ -44,10 +49,11 @@ Outro milagre reconhecido para a canonização foi a cura de um padre polonês q
 Santa Faustina viveu grande parte de sua vida em conventos na Polônia e na Lituânia.
 
 <MiracleMap :items='[
-  { lat: 52.0500, lng: 19.1333, title: "Głogowiec, Polônia", description: "Local de nascimento de Helena Kowalska (Santa Faustina)." },
-  { lat: 52.5461, lng: 19.7064, title: "Płock, Polônia", description: "Convento onde teve a primeira visão de Jesus Misericordioso em 22 de fevereiro de 1931." },
-  { lat: 54.6872, lng: 25.2797, title: "Vilnius, Lituânia", description: "Cidade onde a primeira imagem da Divina Misericórdia foi pintada e onde conheceu o Beato Miguel Sopoćko." },
-  { lat: 50.0647, lng: 19.9450, title: "Cracóvia, Polônia", description: "Local de sua morte e onde se encontra o Santuário da Divina Misericórdia, com seu túmulo." }
+  { lat: 52.05, lng: 19.1333, type: "nascimento", title: "Głogowiec, Polônia", description: "Local de nascimento de Helena Kowalska (Santa Faustina)." },
+  { lat: 52.5461, lng: 19.7064, type: "vida", title: "Płock, Polônia", description: "Convento onde teve a primeira visão de Jesus Misericordioso em 22 de fevereiro de 1931." },
+  { lat: 54.6872, lng: 25.2797, type: "vida", title: "Vilnius, Lituânia", description: "Cidade onde a primeira imagem da Divina Misericórdia foi pintada e onde conheceu o Beato Miguel Sopoćko." },
+  { lat: 50.0647, lng: 19.945, type: "morte", title: "Cracóvia, Polônia", description: "Local da morte (5 de outubro de 1938)." },
+  { lat: 50.0647, lng: 19.945, type: "tumulo", title: "Cracóvia, Polônia", description: "Local de sua morte e onde se encontra o Santuário da Divina Misericórdia, com seu túmulo." }
 ]' />
 
 ## Impacto Hoje

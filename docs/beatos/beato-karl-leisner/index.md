@@ -1,13 +1,18 @@
+---
+title: Beato Karl Leisner
+description: Biografia, milagres, curiosidades e mapa do Beato Karl Leisner.
+---
+
 # Beato Karl Leisner
 
-![Beato Karl Leisner](./imagens/portrait.jpg)
+![Beato Karl Leisner](imagens/portrait.jpg)
 
-**"Abençoa também, Altíssimo, os meus inimigos!"**
+> "Abençoa também, Altíssimo, os meus inimigos!"
 
-**Nascimento:** 28 de fevereiro de 1915, Rees, Alemanha<br>
-**Morte:** 12 de agosto de 1945, Planegg, Alemanha<br>
-**Festa Litúrgica:** 12 de agosto<br>
-**Beatificação:** 23 de junho de 1996, pelo Papa João Paulo II<br>
+- **Nascimento:** 28 de fevereiro de 1915, Rees, Alemanha
+- **Morte:** 12 de agosto de 1945, Planegg, Alemanha
+- **Beatificação:** 23 de junho de 1996, pelo Papa João Paulo II
+- **Festa Litúrgica:** 12 de agosto
 
 <TextToSpeech />
 
@@ -39,10 +44,10 @@ Em relação à sua causa de beatificação, a Igreja reconheceu-o oficialmente 
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 51.7584, lng: 6.4024, title: "Rees, Alemanha", description: "O local de seu nascimento à beira do rio Reno, na região em que Karl passou as memórias felizes da sua juventude a organizar as viagens e os coros." },
-  { lat: 51.9607, lng: 7.6261, title: "Münster, Alemanha", description: "A cidade principal onde estudou teologia para seguir a vocação como padre e conheceu e conviveu na proximidade do grande anti-nazista, Bispo von Galen." },
-  { lat: 48.2603, lng: 11.4552, title: "Dachau, Alemanha", description: "O campo de concentração onde ele serviu como escravo nas piores condições nos Blocos da morte, recebendo a ordenação secreta." },
-  { lat: 48.1065, lng: 11.4194, title: "Planegg, Alemanha", description: "O local onde funcionava o sanatório para o qual ele foi imediatamente transferido pós-liberação pelas Forças Aliadas, no qual viveu a sua respiração e entrega derradeiras a Cristo." }
+  { lat: 51.7584, lng: 6.4024, type: "nascimento", title: "Rees, Alemanha", description: "O local de seu nascimento à beira do rio Reno, na região em que Karl passou as memórias felizes da sua juventude a organizar as viagens e os coros." },
+  { lat: 51.9607, lng: 7.6261, type: "vida", title: "Münster, Alemanha", description: "A cidade principal onde estudou teologia para seguir a vocação como padre e conheceu e conviveu na proximidade do grande anti-nazista, Bispo von Galen." },
+  { lat: 48.2603, lng: 11.4552, type: "morte", title: "Dachau, Alemanha", description: "O campo de concentração onde ele serviu como escravo nas piores condições nos Blocos da morte, recebendo a ordenação secreta." },
+  { lat: 48.1065, lng: 11.4194, type: "morte", title: "Planegg, Alemanha", description: "O local onde funcionava o sanatório para o qual ele foi imediatamente transferido pós-liberação pelas Forças Aliadas, no qual viveu a sua respiração e entrega derradeiras a Cristo. Local da morte (12 de agosto de 1945)." }
 ]' />
 
 ## Impacto Hoje

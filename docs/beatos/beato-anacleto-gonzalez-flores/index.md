@@ -1,13 +1,18 @@
+---
+title: Beato Anacleto González Flores
+description: Biografia, milagres, curiosidades e mapa do Beato Anacleto González Flores.
+---
+
 # Beato Anacleto González Flores
 
 ![Beato Anacleto González Flores](imagens/portrait.jpg)
 
-**"Mártir da Guerra Cristera"**
+> "Mártir da Guerra Cristera"
 
-**Nascimento:** 13 de julho de 1888, Tepatitlán de Morelos, México<br>
-**Morte:** 1 de abril de 1927, Guadalajara, México<br>
-**Festa Litúrgica:** 20 de novembro (junto com os Mártires Cristeros)<br>
-**Beatificação:** 20 de novembro de 2005, pelo Papa Bento XVI<br>
+- **Nascimento:** 13 de julho de 1888, Tepatitlán de Morelos, México
+- **Morte:** 1 de abril de 1927, Guadalajara, México
+- **Beatificação:** 20 de novembro de 2005, pelo Papa Bento XVI
+- **Festa Litúrgica:** 20 de novembro (junto com os Mártires Cristeros)
 
 <TextToSpeech />
 
@@ -42,8 +47,8 @@ Ele é reconhecido como mártir pela Igreja, tendo derramado seu sangue em ódio
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 20.8152, lng: -102.7661, title: "Tepatitlán de Morelos, México", description: "Sua cidade natal em Jalisco." },
-  { lat: 20.6596, lng: -103.3496, title: "Guadalajara, México", description: "Onde estudou, trabalhou como advogado, liderou a Liga e foi martirizado." }
+  { lat: 20.8152, lng: -102.7661, type: "nascimento", title: "Tepatitlán de Morelos, México", description: "Sua cidade natal em Jalisco." },
+  { lat: 20.6596, lng: -103.3496, type: "morte", title: "Guadalajara, México", description: "Onde estudou, trabalhou como advogado, liderou a Liga e foi martirizado." }
 ]' />
 
 ## Impacto Hoje

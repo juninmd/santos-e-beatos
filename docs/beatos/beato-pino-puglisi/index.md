@@ -1,13 +1,18 @@
+---
+title: Beato Pino Puglisi
+description: Biografia, milagres, curiosidades e mapa do Beato Pino Puglisi.
+---
+
 # Beato Pino Puglisi
 
 ![Beato Pino Puglisi](imagens/pino-puglisi.jpg)
 
-**"Se ognuno fa qualcosa, allora si può fare molto." (Se cada um fizer algo, então se pode fazer muito.)**
+> "Se ognuno fa qualcosa, allora si può fare molto." (Se cada um fizer algo, então se pode fazer muito.)"
 
-**Nascimento:** 15 de setembro de 1937, Palermo, Itália
-**Morte:** 15 de setembro de 1993, Palermo, Itália
-**Festa Litúrgica:** 21 de outubro
-**Beatificação:** 25 de maio de 2013, pelo Papa Francisco
+- **Nascimento:** 15 de setembro de 1937, Palermo, Itália
+- **Morte:** 15 de setembro de 1993, Palermo, Itália
+- **Beatificação:** 25 de maio de 2013, pelo Papa Francisco
+- **Festa Litúrgica:** 21 de outubro
 
 <TextToSpeech />
 
@@ -50,9 +55,9 @@ Beato Pino Puglisi é um símbolo da luta contra a máfia e a criminalidade orga
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 38.1157, lng: 13.3615, title: "Palermo, Itália", description: "Cidade onde nasceu, viveu e foi martirizado." },
-  { lat: 38.1068, lng: 13.3895, title: "Brancaccio", description: "Bairro de Palermo onde foi pároco e lutou contra a máfia." },
-  { lat: 37.9000, lng: 13.4000, title: "Godrano", description: "Cidade onde foi pároco nos anos 70 e promoveu a reconciliação entre famílias rivais." }
+  { lat: 38.1157, lng: 13.3615, type: "nascimento", title: "Palermo, Itália", description: "Cidade onde nasceu, viveu e foi martirizado." },
+  { lat: 37.9, lng: 13.4, type: "vida", title: "Godrano", description: "Cidade onde foi pároco nos anos 70 e promoveu a reconciliação entre famílias rivais." },
+  { lat: 38.1068, lng: 13.3895, type: "morte", title: "Brancaccio", description: "Bairro de Palermo onde foi pároco e lutou contra a máfia. Local da morte (15 de setembro de 1993)." }
 ]' />
 
 ## Galeria de Imagens e Restaurações

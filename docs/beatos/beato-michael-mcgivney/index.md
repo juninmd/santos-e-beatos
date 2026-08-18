@@ -1,13 +1,18 @@
+---
+title: Beato Michael McGivney
+description: Biografia, milagres, curiosidades e mapa do Beato Michael McGivney.
+---
+
 # Beato Michael McGivney
 
 ![Beato Michael McGivney](imagens/portrait.jpg)
 
-**"Unidade e Caridade."**
+> "Unidade e Caridade."
 
-**Nascimento:** 12 de agosto de 1852, Waterbury, Connecticut, EUA<br>
-**Morte:** 14 de agosto de 1890, Thomaston, Connecticut, EUA<br>
-**Beatificação:** 31 de outubro de 2020, pelo Papa Francisco<br>
-**Festa Litúrgica:** 13 de agosto<br>
+- **Nascimento:** 12 de agosto de 1852, Waterbury, Connecticut, EUA
+- **Morte:** 14 de agosto de 1890, Thomaston, Connecticut, EUA
+- **Beatificação:** 31 de outubro de 2020, pelo Papa Francisco
+- **Festa Litúrgica:** 13 de agosto
 
 <TextToSpeech />
 
@@ -44,10 +49,10 @@ O legado do Beato Michael McGivney continua vivo através dos Cavaleiros de Colo
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 41.5582, lng: -73.0515, title: "Waterbury, CT, EUA", description: "Cidade natal do Beato Michael McGivney." },
-  { lat: 41.3082, lng: -72.9279, title: "New Haven, CT, EUA", description: "Onde serviu na Igreja de Santa Maria e fundou os Cavaleiros de Colombo." },
-  { lat: 41.6748, lng: -73.0798, title: "Thomaston, CT, EUA", description: "Onde serviu como pároco e onde faleceu." },
-  { lat: 39.2904, lng: -76.6122, title: "Baltimore, MD, EUA", description: "Onde foi ordenado sacerdote." }
+  { lat: 41.5582, lng: -73.0515, type: "nascimento", title: "Waterbury, CT, EUA", description: "Cidade natal do Beato Michael McGivney." },
+  { lat: 41.3082, lng: -72.9279, type: "vida", title: "New Haven, CT, EUA", description: "Onde serviu na Igreja de Santa Maria e fundou os Cavaleiros de Colombo." },
+  { lat: 39.2904, lng: -76.6122, type: "vida", title: "Baltimore, MD, EUA", description: "Onde foi ordenado sacerdote." },
+  { lat: 41.6748, lng: -73.0798, type: "morte", title: "Thomaston, CT, EUA", description: "Onde serviu como pároco e onde faleceu." }
 ]' />
 
 ## Galeria de Imagens e Restaurações

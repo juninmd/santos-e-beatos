@@ -1,17 +1,22 @@
+---
+title: Santa Joana d'Arc
+description: Biografia, milagres, curiosidades e mapa de Santa Joana d'Arc.
+---
+
 # Santa Joana d'Arc
 
 ![Santa Joana d'Arc](imagens/portrait.jpg)
 
-**"A Donzela de Orléans"**
+> "A Donzela de Orléans"
 
-**Nascimento:** 6 de janeiro de 1412, Domrémy (França)<br>
-**Morte:** 30 de maio de 1431, Rouen (França)<br>
-**Festa Litúrgica:** 30 de maio<br>
-**Canonização:** 16 de maio de 1920, pelo Papa Bento XV<br>
-
----
+- **Nascimento:** 6 de janeiro de 1412, Domrémy (França)
+- **Morte:** 30 de maio de 1431, Rouen (França)
+- **Canonização:** 16 de maio de 1920, pelo Papa Bento XV
+- **Festa Litúrgica:** 30 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -43,8 +48,15 @@ A canonização de Santa Joana d'Arc em 1920 exigiu a comprovação de milagres 
 - **Reims:** Onde participou da coroação do rei Carlos VII na Catedral de Notre-Dame.
 - **Rouen:** Cidade onde foi aprisionada, julgada e martirizada na fogueira.
 
+<MiracleMap :items='[
+  { lat: 48.4425, lng: 5.6744, type: "nascimento", title: "Domrémy", description: "Sua cidade natal, onde teve as primeiras visões e iniciou sua jornada espiritual." },
+  { lat: 48.6025, lng: 5.6669, type: "vida", title: "Vaucouleurs", description: "Onde encontrou Robert de Baudricourt para pedir uma escolta até o rei." },
+  { lat: 47.1676, lng: 0.2443, type: "vida", title: "Chinon", description: "Local onde conheceu o rei Carlos VII e convenceu-o de sua missão." },
+  { lat: 47.9029, lng: 1.9093, type: "vida", title: "Orléans", description: "A cidade que ela libertou do cerco inglês, um marco em sua trajetória." },
+  { lat: 49.2583, lng: 4.0317, type: "vida", title: "Reims", description: "Onde participou da coroação do rei Carlos VII na Catedral de Notre-Dame." },
+  { lat: 49.4432, lng: 1.0999, type: "morte", title: "Rouen", description: "Cidade onde foi aprisionada, julgada e martirizada na fogueira." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, Santa Joana d'Arc é uma das padroeiras da França, juntamente com São Dinis, São Martinho de Tours, São Luís e Santa Teresinha do Menino Jesus. Sua imagem é um símbolo duradouro de patriotismo, coragem feminina e fidelidade a Deus frente às adversidades mais severas. Ela inspirou inúmeras obras literárias, artísticas, teatrais e cinematográficas. Sua vida continua a encorajar as pessoas, especialmente os jovens, a confiarem nas convicções e no chamado de Deus, mesmo quando o mundo inteiro se opõe.
-
-<MiracleMap :items='[{"lat": 48.4425, "lng": 5.6744, "title": "Domrémy", "description": "Sua cidade natal, onde teve as primeiras visões e iniciou sua jornada espiritual."}, {"lat": 48.6025, "lng": 5.6669, "title": "Vaucouleurs", "description": "Onde encontrou Robert de Baudricourt para pedir uma escolta até o rei."}, {"lat": 47.1676, "lng": 0.2443, "title": "Chinon", "description": "Local onde conheceu o rei Carlos VII e convenceu-o de sua missão."}, {"lat": 47.9029, "lng": 1.9093, "title": "Orléans", "description": "A cidade que ela libertou do cerco inglês, um marco em sua trajetória."}, {"lat": 49.2583, "lng": 4.0317, "title": "Reims", "description": "Onde participou da coroação do rei Carlos VII na Catedral de Notre-Dame."}, {"lat": 49.4432, "lng": 1.0999, "title": "Rouen", "description": "Cidade onde foi aprisionada, julgada e martirizada na fogueira."}]' />

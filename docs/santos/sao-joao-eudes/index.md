@@ -1,15 +1,22 @@
+---
+title: São João Eudes
+description: Biografia, milagres, curiosidades e mapa de São João Eudes.
+---
+
 # São João Eudes
 
-![São João Eudes](imagens/portrait.jpg "São João Eudes")
-<br>
-*"Para pregar bem, é preciso muito rezar."*
-<br>
-**Nascimento:** 14 de novembro de 1601, Ri, França<br>
-**Morte:** 19 de agosto de 1680, Caen, França<br>
-**Canonização:** 31 de maio de 1925, pelo Papa Pio XI<br>
-**Festa Litúrgica:** 19 de agosto<br>
+![São João Eudes](imagens/portrait.jpg)
+
+> "Para pregar bem, é preciso muito rezar."
+
+- **Nascimento:** 14 de novembro de 1601, Ri, França
+- **Morte:** 19 de agosto de 1680, Caen, França
+- **Canonização:** 31 de maio de 1925, pelo Papa Pio XI
+- **Festa Litúrgica:** 19 de agosto
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 João Eudes nasceu no vilarejo de Ri, na Normandia (França), numa família profundamente cristã. Aos 14 anos, consagrou-se a Nossa Senhora e logo sentiu o chamado ao sacerdócio. Estudou no colégio dos jesuítas em Caen e, em 1623, entrou para o Oratório de Jesus, fundado pelo Cardeal de Bérulle. Foi ordenado sacerdote em 1625 e logo se destacou como um grande pregador e missionário paroquial.
@@ -29,10 +36,10 @@ Os milagres que levaram à sua canonização envolveram curas inexplicáveis atr
 ## Cidades por onde passou
 Sua missão foi desenvolvida primariamente na França, onde percorreu diversas regiões pregando e fundando obras.
 
+<MiracleMap :items='[
+  { lat: 48.7833, lng: -0.1667, type: "nascimento", title: "Ri, França", description: "Local de nascimento de São João Eudes em 1601." },
+  { lat: 49.1829, lng: -0.3707, type: "morte", title: "Caen, França", description: "Local onde estudou, fundou suas congregações e faleceu em 1680." }
+]' />
+
 ## Impacto Hoje
 O legado de São João Eudes vive através de suas congregações, que continuam o trabalho de formação de sacerdotes e assistência aos marginalizados, especialmente mulheres em situação de vulnerabilidade, em várias partes do mundo. Sua espiritualidade focada no coração e no amor misericordioso de Deus continua a ser uma fonte de inspiração poderosa para a Igreja moderna, destacando a inseparabilidade entre o Coração de Jesus e o Coração de Maria.
-
-<MiracleMap :items='[
-  { title: "Ri, França", description: "Local de nascimento de São João Eudes em 1601.", lat: 48.7833, lng: -0.1667 },
-  { title: "Caen, França", description: "Local onde estudou, fundou suas congregações e faleceu em 1680.", lat: 49.1829, lng: -0.3707 }
-]' />

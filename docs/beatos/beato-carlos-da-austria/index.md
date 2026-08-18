@@ -1,26 +1,22 @@
 ---
 title: Beato Carlos da Áustria
-description: História do Beato Carlos da Áustria, o Imperador da Paz.
+description: Biografia, milagres, curiosidades e mapa do Beato Carlos da Áustria.
 ---
 
 # Beato Carlos da Áustria
 
-<div class="hero-header">
-    <img src="./imagens/portrait.jpg" alt="Beato Carlos da Áustria" class="portrait"/>
-    <div class="hero-info">
-        <div class="quote">
-            <p>“O meu empenho é sempre, em todas as coisas, conhecer o mais claramente possível e seguir a vontade de Deus, e isso da maneira mais perfeita.”</p>
-        </div>
-        <div class="metadata">
-            <p><strong>Nascimento:</strong> 17 de agosto de 1887 (Persenbeug-Gottsdorf, Áustria)</p>
-            <p><strong>Morte:</strong> 1 de abril de 1922 (Funchal, Madeira, Portugal)</p>
-            <p><strong>Beatificação:</strong> 3 de outubro de 2004</p>
-            <p><strong>Festa Litúrgica:</strong> 21 de outubro</p>
-        </div>
-    </div>
-</div>
+![Beato Carlos da Áustria](imagens/portrait.jpg)
+
+> "O meu empenho é sempre, em todas as coisas, conhecer o mais claramente possível e seguir a vontade de Deus, e isso da maneira mais perfeita."
+
+- **Nascimento:** 17 de agosto de 1887 (Persenbeug-Gottsdorf, Áustria)
+- **Morte:** 1 de abril de 1922 (Funchal, Madeira, Portugal)
+- **Beatificação:** 3 de outubro de 2004
+- **Festa Litúrgica:** 21 de outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -48,20 +44,19 @@ O milagre aprovado para sua beatificação ocorreu no Brasil. A irmã Maria Zita
 - **Morte no Exílio:** Carlos morreu na Ilha da Madeira, Portugal, para onde foi exilado com sua família na pobreza. Ele ofereceu seu sofrimento e morte a Deus pela união de seus povos.
 - **Corpo Incorrupto:** Seu corpo permanece na Igreja de Nossa Senhora do Monte, no Funchal, Madeira.
 
-## Cidades que passou
-
+## Cidades por onde passou
 - **Persenbeug:** Local de seu nascimento.
 - **Viena:** Capital do império onde governou.
 - **Budapeste:** Onde foi coroado Rei da Hungria.
 - **Eckartsau:** Castelo onde viveu antes de deixar a Áustria.
 - **Funchal (Ilha da Madeira):** Local de seu exílio final e morte.
 
-<MiracleMap :places="[
-  { name: 'Castelo de Persenbeug', coords: [48.190, 15.067], description: 'Local de nascimento do Beato Carlos.' },
-  { name: 'Catedral de Santo Estêvão (Viena)', coords: [48.208, 16.373], description: 'Local de seu casamento e exéquias de Zita.' },
-  { name: 'Igreja de Matias (Budapeste)', coords: [47.502, 19.034], description: 'Local de sua coroação como Rei da Hungria.' },
-  { name: 'Funchal, Madeira', coords: [32.675, -16.908], description: 'Local de seu exílio, morte e sepultamento.' }
-]" />
+<MiracleMap :items='[
+  { lat: 48.19, lng: 15.067, type: "nascimento", title: "Castelo de Persenbeug", description: "Local de nascimento do Beato Carlos." },
+  { lat: 48.208, lng: 16.373, type: "vida", title: "Catedral de Santo Estêvão (Viena)", description: "Local de seu casamento e exéquias de Zita." },
+  { lat: 47.502, lng: 19.034, type: "vida", title: "Igreja de Matias (Budapeste)", description: "Local de sua coroação como Rei da Hungria." },
+  { lat: 32.675, lng: -16.908, type: "morte", title: "Funchal, Madeira", description: "Local de seu exílio, morte e sepultamento." }
+]' />
 
 ## Impacto Hoje
 

@@ -1,13 +1,18 @@
+---
+title: Beata Bárbara Maix
+description: Biografia, milagres, curiosidades e mapa da Beata Bárbara Maix.
+---
+
 # Beata Bárbara Maix
 
 ![Beata Bárbara Maix](imagens/barbara-maix.jpg)
 
-**"A vontade de Deus é o meu Paraíso."**
+> "A vontade de Deus é o meu Paraíso."
 
-**Nascimento:** 27 de junho de 1818, Viena (Áustria)
-**Morte:** 17 de março de 1873, Rio de Janeiro (Brasil)
-**Festa Litúrgica:** 6 de novembro
-**Beatificação:** 6 de novembro de 2010, em Porto Alegre, por mandato do Papa Bento XVI
+- **Nascimento:** 27 de junho de 1818, Viena (Áustria)
+- **Morte:** 17 de março de 1873, Rio de Janeiro (Brasil)
+- **Beatificação:** 6 de novembro de 2010, em Porto Alegre, por mandato do Papa Bento XVI
+- **Festa Litúrgica:** 6 de novembro
 
 <TextToSpeech />
 
@@ -44,10 +49,10 @@ O milagre que levou à sua beatificação foi a cura do menino Onorino Ecker, em
 Nascida na Áustria, Bárbara fez do Brasil sua casa, passando por importantes cidades.
 
 <MiracleMap :items='[
-  { lat: 48.2082, lng: 16.3738, title: "Viena, Áustria", description: "Cidade natal, onde iniciou sua vida religiosa e sofreu perseguição." },
-  { lat: -22.9068, lng: -43.1729, title: "Rio de Janeiro, Brasil", description: "Onde desembarcou, fundou a congregação e faleceu." },
-  { lat: -30.0346, lng: -51.2177, title: "Porto Alegre, Brasil", description: "Cidade onde consolidou sua obra e viveu grande parte de sua missão." },
-  { lat: -31.7654, lng: -52.3376, title: "Pelotas, Brasil", description: "Cidade onde as irmãs também atuaram sob sua liderança." }
+  { lat: 48.2082, lng: 16.3738, type: "nascimento", title: "Viena, Áustria", description: "Cidade natal, onde iniciou sua vida religiosa e sofreu perseguição." },
+  { lat: -30.0346, lng: -51.2177, type: "vida", title: "Porto Alegre, Brasil", description: "Cidade onde consolidou sua obra e viveu grande parte de sua missão." },
+  { lat: -31.7654, lng: -52.3376, type: "vida", title: "Pelotas, Brasil", description: "Cidade onde as irmãs também atuaram sob sua liderança." },
+  { lat: -22.9068, lng: -43.1729, type: "morte", title: "Rio de Janeiro, Brasil", description: "Onde desembarcou, fundou a congregação e faleceu." }
 ]' />
 
 ## Impacto Hoje

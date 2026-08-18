@@ -1,16 +1,22 @@
-# Beata Armida Barelli
-
-![Beata Armida Barelli](./imagens/portrait.jpg)
-
-**"Col mio Signore nel cuore io vado incontro a tutto il mondo e sono sicura che con Lui vincerò sempre."**<br>
-**Nascimento:** 1º de dezembro de 1882, Milão, Itália<br>
-**Morte:** 15 de agosto de 1952, Marzio, Itália<br>
-**Beatificação:** 30 de abril de 2022 (por Papa Francisco)<br>
-**Festa Litúrgica:** 19 de novembro<br>
-
+---
+title: Beata Armida Barelli
+description: Biografia, milagres, curiosidades e mapa da Beata Armida Barelli.
 ---
 
+# Beata Armida Barelli
+
+![Beata Armida Barelli](imagens/portrait.jpg)
+
+> "Col mio Signore nel cuore io vado incontro a tutto il mondo e sono sicura che con Lui vincerò sempre."
+
+- **Nascimento:** 1º de dezembro de 1882, Milão, Itália
+- **Morte:** 15 de agosto de 1952, Marzio, Itália
+- **Beatificação:** 30 de abril de 2022 (por Papa Francisco)
+- **Festa Litúrgica:** 19 de novembro
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,11 +45,12 @@ O milagre atribuído a sua intercessão para sua beatificação foi a cura de um
 - Roma, Itália (colaborações junto ao papado e fundação da Faculdade de Medicina)
 - Marzio, Itália (falecimento)
 
+<MiracleMap :items='[
+  { lat: 45.4642, lng: 9.19, type: "nascimento", title: "Universidade Católica do Sagrado Coração", description: "Co-fundada por ela em Milão, local que preserva até hoje seus restos mortais na cripta. Local de nascimento (1º de dezembro de 1882)." },
+  { lat: 43.8777, lng: 11.1021, type: "milagre", title: "Prato, Itália", description: "Cura de Alice Maggini, de trauma cranioencefálico grave (1989)." },
+  { lat: 45.9221, lng: 8.8631, type: "morte", title: "Marzio", description: "Cidade italiana onde faleceu em 15 de agosto de 1952." }
+]' />
+
 ## Impacto Hoje
 
 O legado de Armida Barelli perdura enormemente por toda a Itália, não apenas na Ação Católica, mas substancialmente na Università Cattolica del Sacro Cuore (Universidade Católica do Sagrado Coração), que continua sendo uma das mais conceituadas instituições de ensino da Itália e da Europa. Seu modelo de apostolado leigo provou que a vocação pode estar perfeitamente alinhada com atividades sociais, acadêmicas e a vida cotidiana. Ela demonstrou a força das mulheres na liderança de organizações católicas de peso numa época onde isso era incomum.
-
-<MiracleMap :items="[
-  { lat: 45.4642, lng: 9.1900, title: 'Universidade Católica do Sagrado Coração', description: 'Co-fundada por ela em Milão, local que preserva até hoje seus restos mortais na cripta.' },
-  { lat: 45.9221, lng: 8.8631, title: 'Marzio', description: 'Cidade italiana onde faleceu em 15 de agosto de 1952.' }
-]" />

@@ -1,14 +1,22 @@
+---
+title: São Nuno de Santa Maria
+description: Biografia, milagres, curiosidades e mapa de São Nuno de Santa Maria.
+---
+
 # São Nuno de Santa Maria
 
-![São Nuno de Santa Maria](./imagens/portrait.jpg "São Nuno de Santa Maria")
-*O Santo Condestável*
+![São Nuno de Santa Maria](imagens/portrait.jpg)
 
-**Nascimento:** 24 de junho de 1360<br>
-**Morte:** 1 de novembro de 1431<br>
-**Canonização:** 26 de abril de 2009 pelo Papa Bento XVI<br>
-**Festa Litúrgica:** 6 de novembro<br>
+> "O Santo Condestável"
+
+- **Nascimento:** 24 de junho de 1360, Cernache do Bonjardim (Portugal)
+- **Morte:** 1 de novembro de 1431, Lisboa (Portugal)
+- **Canonização:** 26 de abril de 2009 pelo Papa Bento XVI
+- **Festa Litúrgica:** 6 de novembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -38,12 +46,14 @@ São Nuno de Santa Maria deixou a sua marca em várias regiões de Portugal:
 - **Batalha, Portugal:** Próximo a Aljubarrota, onde a sua liderança militar foi decisiva para a independência nacional, com a consequente construção do Mosteiro da Batalha (Santa Maria da Vitória) por D. João I.
 - **Ourém, Portugal:** Foi feito Conde de Ourém, sendo uma das regiões onde exerceu a sua influência e administrou vastas propriedades que depois doou.
 
+<MiracleMap :items='[
+  { lat: 39.8667, lng: -8.1333, type: "nascimento", title: "Cernache do Bonjardim", description: "Local de nascimento (24 de junho de 1360)." },
+  { lat: 39.6601, lng: -8.8211, type: "vida", title: "Batalha, Portugal", description: "Próximo ao campo de Aljubarrota, marco da sua maior vitória militar." },
+  { lat: 39.6429, lng: -8.5901, type: "vida", title: "Ourém, Portugal", description: "Terras do Condado de Ourém, que governou." },
+  { lat: 38.9553, lng: -8.9903, type: "milagre", title: "Vila Franca de Xira, Portugal", description: "Cura de Guilhermina de Jesus, que recuperou a visão do olho esquerdo — milagre da canonização." },
+  { lat: 38.7121, lng: -9.1401, type: "morte", title: "Lisboa, Portugal", description: "Local onde fundou o Convento do Carmo, serviu aos pobres e faleceu." }
+]' />
+
 ## Impacto Hoje
 
 São Nuno de Santa Maria é um exemplo extraordinário de alguém que alcançou o auge do poder militar, riqueza e influência política, e que, voluntariamente, renunciou a tudo por amor a Deus e aos pobres. A sua vida demonstra a possibilidade de harmonizar as responsabilidades temporais intensas com uma profunda vida espiritual e a santidade. Em Portugal, ele é reverenciado não apenas como um herói nacional e salvador da pátria, mas como um modelo de caridade cristã, humildade e profunda confiança na intercessão de Nossa Senhora. A sua memória continua viva na cultura portuguesa e na Ordem Carmelita, e o seu túmulo e o Convento do Carmo permanecem locais de grande significado histórico e espiritual.
-
-<MiracleMap :markers="[
-  { lat: 38.7121, lng: -9.1401, title: 'Lisboa, Portugal', description: 'Local onde fundou o Convento do Carmo, serviu aos pobres e faleceu.' },
-  { lat: 39.6601, lng: -8.8211, title: 'Batalha, Portugal', description: 'Próximo ao campo de Aljubarrota, marco da sua maior vitória militar.' },
-  { lat: 39.6429, lng: -8.5901, title: 'Ourém, Portugal', description: 'Terras do Condado de Ourém, que governou.' }
-]" />

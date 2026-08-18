@@ -1,14 +1,21 @@
+---
+title: São Padre Pio de Pietrelcina
+description: Biografia, milagres, curiosidades e mapa de São Padre Pio de Pietrelcina.
+---
+
 # São Padre Pio de Pietrelcina
 
-![São Padre Pio](imagens/padre-pio.jpg)
+![São Padre Pio de Pietrelcina](imagens/padre-pio.jpg)
 
-**"Ficarei na porta do Paraíso até que o último dos meus filhos espirituais entre."**
+> "Ficarei na porta do Paraíso até que o último dos meus filhos espirituais entre."
 
-**Nascimento:** 25 de maio de 1887, Pietrelcina, Itália
-**Morte:** 23 de setembro de 1968, San Giovanni Rotondo, Itália
-**Festa Litúrgica:** 23 de setembro
-**Beatificação:** 2 de maio de 1999, pelo Papa João Paulo II
-**Canonização:** 16 de junho de 2002, pelo Papa João Paulo II
+- **Nascimento:** 25 de maio de 1887, Pietrelcina, Itália
+- **Morte:** 23 de setembro de 1968, San Giovanni Rotondo, Itália
+- **Beatificação:** 2 de maio de 1999, pelo Papa João Paulo II
+- **Canonização:** 16 de junho de 2002, pelo Papa João Paulo II
+- **Festa Litúrgica:** 23 de setembro
+
+<TextToSpeech />
 
 ---
 
@@ -36,6 +43,15 @@ Fundou a "Casa Alívio do Sofrimento" (Casa Sollievo della Sofferenza), um dos h
 
 1.  **Perfume:** Seus estigmas exalavam um perfume misterioso de flores, sentido por muitas pessoas, mesmo à distância.
 2.  **O Diabo:** Travou batalhas físicas e espirituais constantes contra o demônio.
+
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a São Padre Pio de Pietrelcina: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: 41.2, lng: 14.85, type: "nascimento", title: "Pietrelcina, Itália", description: "Local de nascimento (25 de maio de 1887)." },
+  { lat: 41.7061, lng: 15.7275, type: "morte", title: "San Giovanni Rotondo, Itália", description: "Local da morte (23 de setembro de 1968)." }
+]' />
 
 ## Impacto Hoje
 

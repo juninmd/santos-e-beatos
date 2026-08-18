@@ -1,15 +1,22 @@
+---
+title: Beata Guadalupe Ortiz de Landázuri
+description: Biografia, milagres, curiosidades e mapa da Beata Guadalupe Ortiz de Landázuri.
+---
+
 # Beata Guadalupe Ortiz de Landázuri
 
 ![Beata Guadalupe Ortiz de Landázuri](imagens/portrait.jpg)
 
-**"Cientista e Primeira Leiga Numerária do Opus Dei a ser Beatificada"**
+> "Cientista e Primeira Leiga Numerária do Opus Dei a ser Beatificada"
 
-**Nascimento:** 12 de dezembro de 1916, Madri (Espanha)<br>
-**Morte:** 16 de julho de 1975, Pamplona (Espanha)<br>
-**Festa Litúrgica:** 18 de maio<br>
-**Beatificação:** 18 de maio de 2019, pelo Papa Francisco (cerimônia presidida pelo Cardeal Angelo Becciu)<br>
+- **Nascimento:** 12 de dezembro de 1916, Madri (Espanha)
+- **Morte:** 16 de julho de 1975, Pamplona (Espanha)
+- **Beatificação:** 18 de maio de 2019, pelo Papa Francisco (cerimônia presidida pelo Cardeal Angelo Becciu)
+- **Festa Litúrgica:** 18 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -41,12 +48,13 @@ O milagre que permitiu a sua beatificação envolveu a cura instantânea e inexp
 *   Roma, Itália (Trabalhou no governo central do Opus Dei)
 *   Pamplona, Espanha (Local do falecimento)
 
+<MiracleMap :items='[
+  { lat: 40.4168, lng: -3.7038, type: "nascimento", title: "Madri", description: "Nascimento em 12 de dezembro de 1916 e vida acadêmica." },
+  { lat: 19.4326, lng: -99.1332, type: "vida", title: "Cidade do México", description: "Pioneira do apostolado do Opus Dei entre 1950 e 1956." },
+  { lat: 40.4168, lng: -3.7038, type: "milagre", title: "Madrid, Espanha", description: "Cura de Antonio Jesús Sedano Madrid, de carcinoma na pele (2002)." },
+  { lat: 42.8125, lng: -1.6458, type: "morte", title: "Pamplona", description: "Faleceu em 16 de julho de 1975." }
+]' />
+
 ## Impacto Hoje
 
 A beatificação de Guadalupe Ortiz de Landázuri é um marco significativo, pois ela é a primeira pessoa leiga do Opus Dei a ser elevada aos altares. A sua vida é um exemplo poderoso de que a santidade é acessível a todos e pode ser alcançada no meio de uma carreira profissional exigente e na vida cotidiana. A sua paixão pela ciência demonstra a harmonia entre a fé e a razão, servindo de inspiração para mulheres nas áreas de STEM (Ciência, Tecnologia, Engenharia e Matemática) em todo o mundo.
-
-<MiracleMap :items='[
-  { lat: 40.4168, lng: -3.7038, title: "Madri", description: "Nascimento em 12 de dezembro de 1916 e vida acadêmica." },
-  { lat: 19.4326, lng: -99.1332, title: "Cidade do México", description: "Pioneira do apostolado do Opus Dei entre 1950 e 1956." },
-  { lat: 42.8125, lng: -1.6458, title: "Pamplona", description: "Faleceu em 16 de julho de 1975." }
-]' />

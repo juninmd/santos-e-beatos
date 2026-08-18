@@ -1,15 +1,22 @@
+---
+title: Beata Joana de Portugal
+description: Biografia, milagres, curiosidades e mapa da Beata Joana de Portugal.
+---
+
 # Beata Joana de Portugal
 
 ![Beata Joana de Portugal](imagens/portrait.jpg)
 
-**"A Princesa Santa"**
+> "A Princesa Santa"
 
-**Nascimento:** 6 de fevereiro de 1452, Lisboa (Portugal)<br>
-**Morte:** 12 de maio de 1490, Aveiro (Portugal)<br>
-**Festa Litúrgica:** 12 de maio<br>
-**Beatificação:** 4 de abril de 1693, pelo Papa Inocêncio XII<br>
+- **Nascimento:** 6 de fevereiro de 1452, Lisboa (Portugal)
+- **Morte:** 12 de maio de 1490, Aveiro (Portugal)
+- **Beatificação:** 4 de abril de 1693, pelo Papa Inocêncio XII
+- **Festa Litúrgica:** 12 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -36,8 +43,11 @@ Um dos relatos mais conhecidos descreve que as flores sobre o seu túmulo não m
 - **Lisboa:** Cidade onde nasceu, cresceu na corte e exerceu temporariamente o cargo de regente do reino.
 - **Aveiro:** A cidade onde ingressou no Mosteiro de Jesus e viveu os seus anos de maior dedicação religiosa até o seu falecimento.
 
+<MiracleMap :items='[
+  { lat: 38.7121, lng: -9.1401, type: "nascimento", title: "Lisboa (Portugal)", description: "Local de nascimento (6 de fevereiro de 1452)." },
+  { lat: 40.6405, lng: -8.6538, type: "morte", title: "Aveiro (Portugal)", description: "Local da morte (12 de maio de 1490)." }
+]' />
+
 ## Impacto Hoje
 
 A figura da "Princesa Santa" Joana é um símbolo forte da escolha de valores espirituais em detrimento do poder terreno e da riqueza. Ela é a padroeira da cidade de Aveiro, e a sua devoção continua muito viva entre o povo português, especialmente no feriado municipal de 12 de maio. Joana ensina ao mundo contemporâneo que o verdadeiro valor de uma vida não reside nos títulos ou posses, mas no serviço humilde ao próximo e na entrega total à vontade divina.
-
-<MiracleMap />

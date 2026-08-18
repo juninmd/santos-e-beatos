@@ -1,17 +1,22 @@
+---
+title: São João Macías
+description: Biografia, milagres, curiosidades e mapa de São João Macías.
+---
+
 # São João Macías
 
-<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
-  <img src="./imagens/portrait.jpg" alt="São João Macías" style="width: 200px; border-radius: 8px;" />
-  <div>
-    <p><em>"Oração, humildade e serviço ao próximo."</em></p>
-    <p><strong>Nascimento:</strong> 2 de março de 1585, Ribera del Fresno, Espanha<br>
-    <strong>Morte:</strong> 16 de setembro de 1645, Lima, Peru<br>
-    <strong>Canonização:</strong> 28 de setembro de 1975 pelo Papa Paulo VI<br>
-    <strong>Festa Litúrgica:</strong> 18 de setembro</p>
-  </div>
-</div>
+![São João Macías](imagens/portrait.jpg)
+
+> "Oração, humildade e serviço ao próximo."
+
+- **Nascimento:** 2 de março de 1585, Ribera del Fresno, Espanha
+- **Morte:** 16 de setembro de 1645, Lima, Peru
+- **Canonização:** 28 de setembro de 1975 pelo Papa Paulo VI
+- **Festa Litúrgica:** 18 de setembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 João Macías nasceu em Ribera del Fresno, Extremadura, Espanha, em 1585, filho de camponeses pobres. Ficou órfão aos quatro anos e foi criado pelo tio. Na juventude, trabalhou como pastor, o que lhe deu muito tempo para rezar enquanto cuidava do rebanho, despertando nele uma forte devoção ao Rosário e à Virgem Maria, bem como uma atenção aos desamparados.
@@ -35,10 +40,10 @@ Ao longo de sua vida, João Macías peregrinou entre a sua terra natal e a capit
 * **Sevilha (Espanha):** De onde embarcou para o Novo Mundo.
 * **Lima (Peru):** A cidade onde passou a maior parte da sua vida como dominicano.
 
+<MiracleMap :items='[
+  { lat: 38.5528, lng: -6.2393, type: "nascimento", title: "Ribera del Fresno, Espanha", description: "Onde nasceu e trabalhou como pastor, iniciando a sua vida de fé." },
+  { lat: -12.0464, lng: -77.0428, type: "morte", title: "Lima, Peru", description: "Onde viveu como porteiro do convento dominicano, prestando assistência aos pobres durante décadas. Local da morte (16 de setembro de 1645)." }
+]' />
+
 ## Impacto Hoje
 São João Macías, tal como São Martinho de Porres e Santa Rosa de Lima, encarna o apogeu da santidade peruana do século XVII. O seu legado permanece vivo hoje entre os dominicanos, nos refeitórios solidários e entre aqueles que se dedicam ao serviço silencioso de amparar os excluídos da sociedade. A sua figura ensina-nos que a santidade não requer grandes cargos ou fama intelectual, mas nasce dos deveres simples feitos com profundo amor a Deus.
-
-<MiracleMap :items='[
-  { lat: 38.5528, lng: -6.2393, title: "Ribera del Fresno, Espanha", description: "Onde nasceu e trabalhou como pastor, iniciando a sua vida de fé." },
-  { lat: -12.0464, lng: -77.0428, title: "Lima, Peru", description: "Onde viveu como porteiro do convento dominicano, prestando assistência aos pobres durante décadas." }
-]' />

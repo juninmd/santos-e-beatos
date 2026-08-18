@@ -1,13 +1,18 @@
+---
+title: Beato Jerzy Popiełuszko
+description: Biografia, milagres, curiosidades e mapa do Beato Jerzy Popiełuszko.
+---
+
 # Beato Jerzy Popiełuszko
 
 ![Beato Jerzy Popiełuszko](imagens/portrait.jpg)
 
-**"O Mártir da Verdade e da Solidariedade"**
+> "O Mártir da Verdade e da Solidariedade"
 
-**Nascimento:** 14 de setembro de 1947 (Okopy, Polônia)<br>
-**Morte:** 19 de outubro de 1984 (Włocławek, Polônia)<br>
-**Beatificação:** 6 de junho de 2010, pelo Papa Bento XVI<br>
-**Festa Litúrgica:** 19 de outubro
+- **Nascimento:** 14 de setembro de 1947 (Okopy, Polônia)
+- **Morte:** 19 de outubro de 1984 (Włocławek, Polônia)
+- **Beatificação:** 6 de junho de 2010, pelo Papa Bento XVI
+- **Festa Litúrgica:** 19 de outubro
 
 <TextToSpeech />
 
@@ -50,12 +55,13 @@ Ele foi brutalmente espancado, torturado e amarrado de tal forma que, se tentass
 * **Bydgoszcz, Polônia:** Onde celebrou sua última missa e proferiu sua última homilia antes de ser sequestrado no caminho de volta.
 * **Włocławek, Polônia:** O local do seu martírio, onde seu corpo foi jogado na represa do rio Vístula.
 
+<MiracleMap :items='[
+  { lat: 53.5833, lng: 23.1, type: "nascimento", title: "Okopy, Polônia", description: "Local de nascimento (14 de setembro de 1947)." },
+  { lat: 53.1235, lng: 18.0084, type: "vida", title: "Bydgoszcz", description: "Local de sua última missa antes do sequestro." },
+  { lat: 52.6483, lng: 19.0678, type: "morte", title: "Represa de Włocławek", description: "Local onde seu corpo foi jogado após ser torturado pelos agentes comunistas. Local da morte (19 de outubro de 1984)." },
+  { lat: 52.268, lng: 20.985, type: "tumulo", title: "Igreja de Santo Estanislau Kostka, Varsóvia", description: "Onde celebrava as Missas pela Pátria e onde encontra-se o seu túmulo." }
+]' />
+
 ## Impacto Hoje
 
 O Beato Jerzy Popiełuszko é um ícone global da resistência pacífica contra o totalitarismo e um mártir da verdade. Ele demonstrou como o Evangelho pode ser uma força poderosa para a transformação social sem o uso da violência. Seu túmulo na paróquia de Santo Estanislau Kostka tornou-se um local de peregrinação internacional, visitado por milhões, incluindo o Papa João Paulo II, que era seu amigo e admirador. Ele é frequentemente invocado por aqueles que sofrem perseguição política e por aqueles que lutam pela justiça social.
-
-<MiracleMap :items='[
-  { lat: 52.2680, lng: 20.9850, title: "Igreja de Santo Estanislau Kostka, Varsóvia", description: "Onde celebrava as Missas pela Pátria e onde encontra-se o seu túmulo." },
-  { lat: 53.1235, lng: 18.0084, title: "Bydgoszcz", description: "Local de sua última missa antes do sequestro." },
-  { lat: 52.6483, lng: 19.0678, title: "Represa de Włocławek", description: "Local onde seu corpo foi jogado após ser torturado pelos agentes comunistas." }
-]' />

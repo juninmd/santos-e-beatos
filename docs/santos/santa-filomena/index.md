@@ -1,16 +1,22 @@
-# Santa Filomena
-
-![Santa Filomena](./imagens/portrait.jpg)
-
-**"Paz em Cristo, Filomena"**<br>
-**Nascimento:** século III, Grécia<br>
-**Morte:** século III d.C., Roma<br>
-**Festa Litúrgica:** 10 e 11 de agosto (veneração popular)<br>
-**Canonização:** 13 de janeiro de 1837 (por Papa Gregório XVI)<br>
-
+---
+title: Santa Filomena
+description: Biografia, milagres, curiosidades e mapa de Santa Filomena.
 ---
 
+# Santa Filomena
+
+![Santa Filomena](imagens/portrait.jpg)
+
+> "Paz em Cristo, Filomena"
+
+- **Nascimento:** século III, Grécia
+- **Morte:** século III d.C., Roma
+- **Canonização:** 13 de janeiro de 1837 (por Papa Gregório XVI)
+- **Festa Litúrgica:** 10 e 11 de agosto (veneração popular)
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -36,11 +42,14 @@ Em 1805, as relíquias de Santa Filomena foram transferidas para Mugnano del Car
 - Roma, Itália (local do martírio e sepultamento original nas catacumbas de Priscila)
 - Mugnano del Cardinale, Itália (Santuário onde suas relíquias estão guardadas)
 
+<MiracleMap :items='[
+  { lat: 39.0742, lng: 21.8243, type: "nascimento", title: "Grécia", description: "Local de nascimento (século III)." },
+  { lat: 40.9439, lng: 14.6706, type: "milagre", title: "Mugnano del Cardinale, Itália", description: "Santuário para onde suas relíquias foram levadas em 1805 e onde começaram os milagres." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Catacumbas de Priscila", description: "Local da morte (século III d.C.)." },
+  { lat: 41.9298, lng: 12.509, type: "tumulo", title: "Catacumbas de Priscila", description: "Local onde seu túmulo e relíquias foram descobertos em 1802." },
+  { lat: 40.9419, lng: 14.6406, type: "tumulo", title: "Santuário de Santa Filomena", description: "Localizado em Mugnano del Cardinale, Itália, onde suas relíquias estão abrigadas." }
+]' />
+
 ## Impacto Hoje
 
 Mesmo que sua história tenha vindo à tona muito tempo após a sua morte através de revelações privadas, a devoção a Santa Filomena se espalhou incrivelmente e continua muito forte. Vários papas no século XIX e XX atestaram milagres e promoveram a sua devoção. Ela é vista como padroeira do Rosário, dos Filhos de Maria, e das causas impossíveis.
-
-<MiracleMap :items="[
-  { lat: 41.9298, lng: 12.5090, title: 'Catacumbas de Priscila', description: 'Local onde seu túmulo e relíquias foram descobertos em 1802.' },
-  { lat: 40.9419, lng: 14.6406, title: 'Santuário de Santa Filomena', description: 'Localizado em Mugnano del Cardinale, Itália, onde suas relíquias estão abrigadas.' }
-]" />

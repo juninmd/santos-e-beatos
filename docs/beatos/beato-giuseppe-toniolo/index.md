@@ -1,17 +1,22 @@
-# Beato Giuseppe Toniolo
-
-![Beato Giuseppe Toniolo](./imagens/portrait.jpg)
-
-**"Um leigo católico pioneiro da Doutrina Social da Igreja."**
-
-**Nascimento:** 7 de março de 1845, Treviso, Itália
-**Morte:** 7 de outubro de 1918, Pisa, Itália<br>
-**Beatificação:** 29 de abril de 2012 (Papa Bento XVI)<br>
-**Festa Litúrgica:** 4 de setembro
-
+---
+title: Beato Giuseppe Toniolo
+description: Biografia, milagres, curiosidades e mapa do Beato Giuseppe Toniolo.
 ---
 
+# Beato Giuseppe Toniolo
+
+![Beato Giuseppe Toniolo](imagens/portrait.jpg)
+
+> "Um leigo católico pioneiro da Doutrina Social da Igreja."
+
+- **Nascimento:** 7 de março de 1845, Treviso, Itália
+- **Morte:** 7 de outubro de 1918, Pisa, Itália
+- **Beatificação:** 29 de abril de 2012 (Papa Bento XVI)
+- **Festa Litúrgica:** 4 de setembro
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -41,12 +46,12 @@ A beatificação do Beato Giuseppe Toniolo foi impulsionada pelo reconhecimento 
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 45.6669, lng: 12.2458, title: 'Treviso', description: 'Cidade natal de Giuseppe Toniolo.' },
-  { lat: 45.4064, lng: 11.8767, title: 'Pádua', description: 'Onde estudou na universidade e iniciou sua carreira acadêmica.' },
-  { lat: 43.7228, lng: 10.4016, title: 'Pisa', description: 'Onde foi professor catedrático na universidade por quase 40 anos, viveu grande parte de sua vida familiar e faleceu.' },
-  { lat: 45.8972, lng: 12.1764, title: 'Pieve di Soligo', description: 'Cidade de origem de sua esposa e onde estão sepultados seus restos mortais no Duomo.' }
-]" />
+<MiracleMap :items='[
+  { lat: 45.6669, lng: 12.2458, type: "nascimento", title: "Treviso", description: "Cidade natal de Giuseppe Toniolo." },
+  { lat: 45.4064, lng: 11.8767, type: "vida", title: "Pádua", description: "Onde estudou na universidade e iniciou sua carreira acadêmica." },
+  { lat: 43.7228, lng: 10.4016, type: "morte", title: "Pisa", description: "Onde foi professor catedrático na universidade por quase 40 anos, viveu grande parte de sua vida familiar e faleceu." },
+  { lat: 45.8972, lng: 12.1764, type: "tumulo", title: "Pieve di Soligo", description: "Cidade de origem de sua esposa e onde estão sepultados seus restos mortais no Duomo." }
+]' />
 
 ## Impacto Hoje
 

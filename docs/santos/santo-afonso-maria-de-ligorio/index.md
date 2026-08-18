@@ -1,15 +1,22 @@
+---
+title: Santo Afonso Maria de Ligório
+description: Biografia, milagres, curiosidades e mapa de Santo Afonso Maria de Ligório.
+---
+
 # Santo Afonso Maria de Ligório
 
-![Santo Afonso Maria de Ligório](./imagens/portrait.jpg)
+![Santo Afonso Maria de Ligório](imagens/portrait.jpg)
 
 > "Quem reza se salva, quem não reza se condena."
 
-**Nascimento**: 27 de setembro de 1696<br>
-**Morte**: 1 de agosto de 1787<br>
-**Canonização**: 26 de maio de 1839<br>
-**Festa Litúrgica**: 1 de agosto<br>
+- **Nascimento:** 27 de setembro de 1696, Marianella, Nápoles (Itália)
+- **Morte:** 1 de agosto de 1787, Pagani, Salerno (Itália)
+- **Canonização:** 26 de maio de 1839
+- **Festa Litúrgica:** 1 de agosto
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -44,16 +51,17 @@ A vida e o trabalho de Santo Afonso são repletos de detalhes fascinantes que de
 - Pagani, Itália (Morte e local onde repousam seus restos mortais)
 - Roma, Itália (Bilocação)
 
+<MiracleMap :items='[
+  { lat: 40.8906, lng: 14.2415, type: "nascimento", title: "Marianella, Itália", description: "Nascimento e infância" },
+  { lat: 40.8518, lng: 14.2681, type: "vida", title: "Nápoles, Itália", description: "Estudos, advocacia e início do sacerdócio" },
+  { lat: 40.6559, lng: 14.6083, type: "vida", title: "Scala, Itália", description: "Fundação dos Redentoristas" },
+  { lat: 41.0899, lng: 14.502, type: "vida", title: "Sant Agata de Goti, Itália", description: "Atuação como bispo" },
+  { lat: 40.7423, lng: 14.6133, type: "morte", title: "Pagani, Itália", description: "Local da morte (1 de agosto de 1787)." },
+  { lat: 40.7423, lng: 14.6133, type: "tumulo", title: "Pagani, Itália", description: "Morte e repouso de suas relíquias" }
+]' />
+
 ## Impacto Hoje
 
 O legado de Santo Afonso Maria de Ligório é vasto, profundo e continua a ressoar com vigor na Igreja contemporânea. Como Doutor da Igreja, seus ensinamentos em teologia moral moldaram substancialmente a prática pastoral católica nos séculos seguintes e permanecem uma fonte de referência e inspiração. Sua obra prima, "Teologia Moral", e seus escritos espirituais, como "As Glórias de Maria" e "A Prática de Amar a Jesus Cristo", são leituras perenes para teólogos, padres e leigos que buscam orientação na fé cristã e um amor mais profundo a Cristo e a Sua Mãe.
 
 A Congregação do Santíssimo Redentor (Redentoristas), fundada por ele, é hoje uma das maiores e mais influentes ordens missionárias masculinas da Igreja, com milhares de membros trabalhando em mais de 80 países ao redor do mundo. Eles continuam o trabalho de Afonso de evangelizar os pobres, pregar missões populares e difundir a devoção à Nossa Senhora do Perpétuo Socorro, cuja imagem miraculosa foi confiada aos Redentoristas pelo Papa Pio IX. O modelo afonsiano de espiritualidade, caracterizado por sua ênfase na redenção abundante, na misericórdia infinita e no amor tangível de Deus encarnado em Jesus Cristo e presente na Eucaristia, continua a atrair corações e a oferecer consolo, cura e esperança a incontáveis almas ao redor do mundo moderno.
-
-<MiracleMap :locations="[
-  { name: 'Marianella, Itália', coordinates: [40.8906, 14.2415], description: 'Nascimento e infância' },
-  { name: 'Nápoles, Itália', coordinates: [40.8518, 14.2681], description: 'Estudos, advocacia e início do sacerdócio' },
-  { name: 'Scala, Itália', coordinates: [40.6559, 14.6083], description: 'Fundação dos Redentoristas' },
-  { name: 'Sant Agata de Goti, Itália', coordinates: [41.0899, 14.5020], description: 'Atuação como bispo' },
-  { name: 'Pagani, Itália', coordinates: [40.7423, 14.6133], description: 'Morte e repouso de suas relíquias' }
-]" />

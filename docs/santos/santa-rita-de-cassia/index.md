@@ -1,13 +1,20 @@
+---
+title: Santa Rita de Cássia
+description: Biografia, milagres, curiosidades e mapa de Santa Rita de Cássia.
+---
+
 # Santa Rita de Cássia
 
 ![Santa Rita de Cássia](imagens/santa-rita.jpg)
 
-**"A Santa dos Impossíveis"**
+> "A Santa dos Impossíveis"
 
-**Nascimento:** 1381, Roccaporena (Itália)
-**Morte:** 22 de maio de 1457, Cássia (Itália)
-**Festa Litúrgica:** 22 de maio
-**Canonização:** 24 de maio de 1900, pelo Papa Leão XIII
+- **Nascimento:** 1381, Roccaporena (Itália)
+- **Morte:** 22 de maio de 1457, Cássia (Itália)
+- **Canonização:** 24 de maio de 1900, pelo Papa Leão XIII
+- **Festa Litúrgica:** 22 de maio
+
+<TextToSpeech />
 
 ---
 
@@ -42,6 +49,11 @@ Além do estigma do espinho, muitos milagres são atribuídos a ela:
 ## Cidades por onde passou
 
 Rita viveu toda a sua vida na pequena região de Cássia e Roccaporena, na Úmbria. Sua única grande viagem foi a peregrinação a Roma para o Jubileu.
+
+<MiracleMap :items='[
+  { lat: 42.8, lng: 12.9, type: "nascimento", title: "Roccaporena", description: "Local de nascimento (1381)." },
+  { lat: 42.7167, lng: 13.0167, type: "morte", title: "Cascia", description: "Local da morte (22 de maio de 1457)." }
+]' />
 
 ## Impacto Hoje
 

@@ -1,13 +1,18 @@
+---
+title: São Vicente Ferrer
+description: Biografia, milagres, curiosidades e mapa de São Vicente Ferrer.
+---
+
 # São Vicente Ferrer
 
 ![São Vicente Ferrer](imagens/portrait.jpg)
 
-**"O Anjo do Apocalipse"**
+> "O Anjo do Apocalipse"
 
-**Nascimento:** 23 de janeiro de 1350, Valência, Reino de Aragão (atual Espanha)<br>
-**Morte:** 5 de abril de 1419, Vannes, Bretanha (atual França)<br>
-**Canonização:** 3 de junho de 1455, pelo Papa Calisto III<br>
-**Festa Litúrgica:** 5 de abril
+- **Nascimento:** 23 de janeiro de 1350, Valência, Reino de Aragão (atual Espanha)
+- **Morte:** 5 de abril de 1419, Vannes, Bretanha (atual França)
+- **Canonização:** 3 de junho de 1455, pelo Papa Calisto III
+- **Festa Litúrgica:** 5 de abril
 
 <TextToSpeech />
 
@@ -37,10 +42,11 @@ Sua vida e processo de canonização estão repletos de relatos de eventos extra
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 39.4699, lng: -0.3763, title: "Valência, Espanha", description: "Local de seu nascimento e onde ingressou na ordem Dominicana." },
-  { lat: 43.9493, lng: 4.8055, title: "Avinhão, França", description: "Serviu na corte papal durante o período do Cisma do Ocidente." },
-  { lat: 41.3851, lng: 2.1734, title: "Barcelona, Espanha", description: "Onde realizou parte de seus estudos e intensificou sua pregação." },
-  { lat: 47.6582, lng: -2.7608, title: "Vannes, França", description: "Cidade na região da Bretanha onde passou seus últimos dias e onde faleceu. Suas relíquias permanecem na Catedral de Vannes." }
+  { lat: 39.4699, lng: -0.3763, type: "nascimento", title: "Valência, Espanha", description: "Local de seu nascimento e onde ingressou na ordem Dominicana." },
+  { lat: 43.9493, lng: 4.8055, type: "vida", title: "Avinhão, França", description: "Serviu na corte papal durante o período do Cisma do Ocidente." },
+  { lat: 41.3851, lng: 2.1734, type: "vida", title: "Barcelona, Espanha", description: "Onde realizou parte de seus estudos e intensificou sua pregação." },
+  { lat: 47.6582, lng: -2.7608, type: "morte", title: "Vannes, França", description: "Local da morte (5 de abril de 1419)." },
+  { lat: 47.6582, lng: -2.7608, type: "tumulo", title: "Vannes, França", description: "Cidade na região da Bretanha onde passou seus últimos dias e onde faleceu. Suas relíquias permanecem na Catedral de Vannes." }
 ]' />
 
 ## Impacto Hoje

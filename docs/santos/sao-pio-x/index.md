@@ -1,13 +1,18 @@
+---
+title: São Pio X
+description: Biografia, milagres, curiosidades e mapa de São Pio X.
+---
+
 # São Pio X
 
-![São Pio X](./imagens/portrait.jpg)
+![São Pio X](imagens/portrait.jpg)
 
-**"Renovar todas as coisas em Cristo."**
+> "Renovar todas as coisas em Cristo."
 
-**Nascimento:** 2 de junho de 1835, Riese, Itália<br>
-**Morte:** 20 de agosto de 1914, Roma, Itália<br>
-**Festa Litúrgica:** 21 de agosto<br>
-**Canonização:** 29 de maio de 1954, pelo Papa Pio XII<br>
+- **Nascimento:** 2 de junho de 1835, Riese, Itália
+- **Morte:** 20 de agosto de 1914, Roma, Itália
+- **Canonização:** 29 de maio de 1954, pelo Papa Pio XII
+- **Festa Litúrgica:** 21 de agosto
 
 <TextToSpeech />
 
@@ -42,11 +47,11 @@ Durante sua vida, e especialmente após a sua morte, muitos milagres foram atrib
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 45.7291, lng: 11.9213, title: "Riese, Itália", description: "Sua cidade natal, onde nasceu e viveu sua infância em uma família humilde." },
-  { lat: 45.4064, lng: 11.8768, title: "Pádua, Itália", description: "Onde ingressou no seminário e completou seus estudos para o sacerdócio." },
-  { lat: 45.1564, lng: 10.7914, title: "Mântua, Itália", description: "Onde serviu como bispo, destacando-se por seu zelo pastoral." },
-  { lat: 45.4408, lng: 12.3155, title: "Veneza, Itália", description: "Foi Patriarca da cidade e conquistou o amor do povo veneziano." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Onde serviu como Papa Pio X e liderou a Igreja Católica até sua morte." }
+  { lat: 45.7291, lng: 11.9213, type: "nascimento", title: "Riese, Itália", description: "Sua cidade natal, onde nasceu e viveu sua infância em uma família humilde." },
+  { lat: 45.4064, lng: 11.8768, type: "vida", title: "Pádua, Itália", description: "Onde ingressou no seminário e completou seus estudos para o sacerdócio." },
+  { lat: 45.1564, lng: 10.7914, type: "vida", title: "Mântua, Itália", description: "Onde serviu como bispo, destacando-se por seu zelo pastoral." },
+  { lat: 45.4408, lng: 12.3155, type: "vida", title: "Veneza, Itália", description: "Foi Patriarca da cidade e conquistou o amor do povo veneziano." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Onde serviu como Papa Pio X e liderou a Igreja Católica até sua morte." }
 ]' />
 
 ## Impacto Hoje

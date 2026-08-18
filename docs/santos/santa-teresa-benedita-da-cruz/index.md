@@ -1,13 +1,18 @@
+---
+title: Santa Teresa Benedita da Cruz
+description: Biografia, milagres, curiosidades e mapa de Santa Teresa Benedita da Cruz.
+---
+
 # Santa Teresa Benedita da Cruz
 
-![Santa Teresa Benedita da Cruz](./imagens/portrait.jpg)
+![Santa Teresa Benedita da Cruz](imagens/portrait.jpg)
 
-**"Aquele que procura a verdade, quer o saiba ou não, está a procurar a Deus."**
+> "Aquele que procura a verdade, quer o saiba ou não, está a procurar a Deus."
 
-**Nascimento:** 12 de outubro de 1891, Breslávia, Império Alemão (atual Wrocław, Polônia)<br>
-**Morte:** 9 de agosto de 1942, Auschwitz, Polônia<br>
-**Festa Litúrgica:** 9 de agosto<br>
-**Canonização:** 11 de outubro de 1998, pelo Papa João Paulo II<br>
+- **Nascimento:** 12 de outubro de 1891, Breslávia, Império Alemão (atual Wrocław, Polônia)
+- **Morte:** 9 de agosto de 1942, Auschwitz, Polônia
+- **Canonização:** 11 de outubro de 1998, pelo Papa João Paulo II
+- **Festa Litúrgica:** 9 de agosto
 
 <TextToSpeech />
 
@@ -36,10 +41,11 @@ Em 1987, a cura miraculosa de Teresa Benedicta McCarthy, uma menina americana de
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 51.1079, lng: 17.0385, title: "Breslávia, Polônia (antigo Império Alemão)", description: "Cidade de seu nascimento, onde passou a infância e primeira parte da sua formação intelectual e universitária." },
-  { lat: 50.9375, lng: 6.9603, title: "Colônia, Alemanha", description: "Onde realizou seu sonho de entrar no mosteiro das Carmelitas Descalças, tomando os seus votos iniciais e vivendo como freira enclausurada de 1933 a 1938." },
-  { lat: 51.1054, lng: 5.8679, title: "Echt, Países Baixos", description: "O convento de Echt tornou-se o seu refúgio perante as ameaças do regime nazista na Alemanha, até sua captura definitiva pela Gestapo no verão de 1942." },
-  { lat: 50.0264, lng: 19.2043, title: "Auschwitz, Polônia", description: "Local do campo de extermínio para onde foi enviada em trem de gado e onde encontrou o martírio nas câmaras de gás ao lado de sua irmã e outros mártires católicos judeus." }
+  { lat: 51.1079, lng: 17.0385, type: "nascimento", title: "Breslávia, Polônia (antigo Império Alemão)", description: "Cidade de seu nascimento, onde passou a infância e primeira parte da sua formação intelectual e universitária." },
+  { lat: 50.9375, lng: 6.9603, type: "vida", title: "Colônia, Alemanha", description: "Onde realizou seu sonho de entrar no mosteiro das Carmelitas Descalças, tomando os seus votos iniciais e vivendo como freira enclausurada de 1933 a 1938." },
+  { lat: 51.1054, lng: 5.8679, type: "vida", title: "Echt, Países Baixos", description: "O convento de Echt tornou-se o seu refúgio perante as ameaças do regime nazista na Alemanha, até sua captura definitiva pela Gestapo no verão de 1942." },
+  { lat: 42.3601, lng: -71.0589, type: "milagre", title: "Boston, EUA", description: "Cura de Teresa Benedicta McCarthy, em falência hepática por intoxicação (1987)." },
+  { lat: 50.0264, lng: 19.2043, type: "morte", title: "Auschwitz, Polônia", description: "Local do campo de extermínio para onde foi enviada em trem de gado e onde encontrou o martírio nas câmaras de gás ao lado de sua irmã e outros mártires católicos judeus." }
 ]' />
 
 ## Impacto Hoje

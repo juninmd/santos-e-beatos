@@ -1,17 +1,22 @@
+---
+title: Beato Luigi Monza
+description: Biografia, milagres, curiosidades e mapa do Beato Luigi Monza.
+---
+
 # Beato Luigi Monza
 
 ![Beato Luigi Monza](imagens/cover.jpg)
 
-**"Fundador do Instituto Secular das Pequenas Apóstolas da Caridade"**
+> "Fundador do Instituto Secular das Pequenas Apóstolas da Caridade"
 
-**Nascimento:** 22 de junho de 1898, Cislago (Itália)<br>
-**Morte:** 28 de setembro de 1954, Milão (Itália)<br>
-**Festa Litúrgica:** 28 de setembro<br>
-**Beatificação:** 30 de abril de 2006, pelo Papa Bento XVI<br>
-
----
+- **Nascimento:** 22 de junho de 1898, Cislago (Itália)
+- **Morte:** 28 de setembro de 1954, Milão (Itália)
+- **Beatificação:** 30 de abril de 2006, pelo Papa Bento XVI
+- **Festa Litúrgica:** 28 de setembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,12 +44,12 @@ O milagre que levou à beatificação do Pe. Luigi Monza ocorreu em 1965 e envol
 - Milão, Itália (Seminário, Ordenação, Prisão e Falecimento)
 - Lecco, Itália (Pároco e local de intensa fundação caritativa)
 
+<MiracleMap :items='[
+  { lat: 45.6565, lng: 8.9723, type: "nascimento", title: "Cislago, Itália", description: "Local de nascimento de Beato Luigi Monza em 1898." },
+  { lat: 45.8566, lng: 9.3976, type: "vida", title: "Lecco, Itália", description: "Onde atuou como pároco e impulsionou as fundações de caridade." },
+  { lat: 45.4642, lng: 9.19, type: "morte", title: "Milão, Itália", description: "Onde estudou, foi ordenado sacerdote e passou meses preso pelo regime fascista. Local da morte (28 de setembro de 1954)." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de Beato Luigi Monza é imensurável, principalmente no campo da saúde e reabilitação infantil através da instituição "La Nostra Famiglia". O Instituto das Pequenas Apóstolas da Caridade expandiu-se além da Itália e hoje está presente no Brasil, Sudão, Equador, entre outros países. Eles continuam a viver o carisma de Pe. Luigi, combinando excelência profissional, especialmente na reabilitação neuromotora e psiquiátrica de crianças, com um profundo testemunho de caridade cristã no meio do mundo moderno.
-
-<MiracleMap :items='[
-  { lat: 45.6565, lng: 8.9723, title: "Cislago, Itália", description: "Local de nascimento de Beato Luigi Monza em 1898." },
-  { lat: 45.4642, lng: 9.1900, title: "Milão, Itália", description: "Onde estudou, foi ordenado sacerdote e passou meses preso pelo regime fascista." },
-  { lat: 45.8566, lng: 9.3976, title: "Lecco, Itália", description: "Onde atuou como pároco e impulsionou as fundações de caridade." }
-]' />

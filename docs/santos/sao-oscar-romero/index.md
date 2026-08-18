@@ -1,13 +1,18 @@
+---
+title: São Oscar Romero
+description: Biografia, milagres, curiosidades e mapa de São Oscar Romero.
+---
+
 # São Oscar Romero
 
 ![São Oscar Romero](imagens/portrait.jpg)
 
-**"Se me matam, ressuscitarei no povo salvadorenho."**
+> "Se me matam, ressuscitarei no povo salvadorenho."
 
 - **Nascimento:** 15 de agosto de 1917, Ciudad Barrios (El Salvador)
 - **Morte:** 24 de março de 1980, San Salvador (El Salvador)
-- **Festa Litúrgica:** 24 de março
 - **Canonização:** 14 de outubro de 2018, pelo Papa Francisco
+- **Festa Litúrgica:** 24 de março
 
 <TextToSpeech />
 
@@ -44,10 +49,10 @@ A canonização ocorreu após a confirmação de outros milagres e da contínua 
 Nasceu em Ciudad Barrios, estudou em San Miguel e San Salvador, completou sua formação em Roma e exerceu seu ministério episcopal em Santiago de María e San Salvador.
 
 <MiracleMap :items='[
-  { lat: 13.7667, lng: -88.2667, title: "Ciudad Barrios, El Salvador", description: "Local de nascimento de Óscar Romero." },
-  { lat: 13.4833, lng: -88.1833, title: "San Miguel, El Salvador", description: "Cidade onde estudou no seminário menor." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Onde completou seus estudos de teologia e foi ordenado padre." },
-  { lat: 13.6929, lng: -89.2182, title: "San Salvador, El Salvador", description: "Capital onde atuou como Arcebispo e foi martirizado." }
+  { lat: 13.7667, lng: -88.2667, type: "nascimento", title: "Ciudad Barrios, El Salvador", description: "Local de nascimento de Óscar Romero." },
+  { lat: 13.4833, lng: -88.1833, type: "vida", title: "San Miguel, El Salvador", description: "Cidade onde estudou no seminário menor." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Onde completou seus estudos de teologia e foi ordenado padre." },
+  { lat: 13.6929, lng: -89.2182, type: "morte", title: "San Salvador, El Salvador", description: "Capital onde atuou como Arcebispo e foi martirizado." }
 ]' />
 
 ## Impacto Hoje

@@ -1,15 +1,22 @@
+---
+title: Santo Antônio Maria Claret
+description: Biografia, milagres, curiosidades e mapa de Santo Antônio Maria Claret.
+---
+
 # Santo Antônio Maria Claret
 
 ![Santo Antônio Maria Claret](imagens/portrait.jpg)
 
 > "Um filho do Imaculado Coração de Maria é um homem que arde em caridade e onde quer que passe queima."
 
-**Nascimento:** 23 de dezembro de 1807<br>
-**Morte:** 24 de outubro de 1870<br>
-**Canonização:** 7 de maio de 1950<br>
-**Festa Litúrgica:** 24 de outubro<br>
+- **Nascimento:** 23 de dezembro de 1807, Sallent, Catalunha (Espanha)
+- **Morte:** 24 de outubro de 1870, Abadia de Fontfroide (França)
+- **Canonização:** 7 de maio de 1950
+- **Festa Litúrgica:** 24 de outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -46,14 +53,14 @@ Ao longo de sua intensa vida missionária, pastoral e de aconselhamento, ele est
 7. **Roma, Itália:** Onde tentou juntar-se à Propaganda Fide na juventude, e mais tarde participou do Concílio Vaticano I.
 8. **Fontfroide, França:** Onde, em exílio com a Rainha da Espanha, encontrou refúgio em um mosteiro cisterciense até sua morte.
 
+<MiracleMap :items='[
+  { lat: 41.8256, lng: 1.8967, type: "nascimento", title: "Sallent, Espanha", description: "Onde nasceu e começou como pároco." },
+  { lat: 41.9298, lng: 2.2546, type: "vida", title: "Vic, Espanha", description: "Onde fundou a Congregação dos Missionários Filhos do Imaculado Coração de Maria (Claretianos)." },
+  { lat: 20.0208, lng: -75.8267, type: "vida", title: "Santiago de Cuba, Cuba", description: "Onde serviu como Arcebispo zeloso e enfrentou atentados à sua vida." },
+  { lat: 40.4168, lng: -3.7038, type: "vida", title: "Madri, Espanha", description: "Onde serviu como confessor da rainha da Espanha." },
+  { lat: 43.1257, lng: 2.8988, type: "morte", title: "Abadia de Fontfroide, França", description: "Local do seu falecimento no exílio." }
+]' />
+
 ## Impacto Hoje
 
 Santo Antônio Maria Claret é reconhecido como um dos grandes missionários do século XIX. A Congregação que fundou (Claretianos) continua vibrante e ativa na missão de evangelização em dezenas de países. O foco inovador que ele deu à comunicação escrita (livros e imprensa) pavimentou o caminho para o uso dos meios de comunicação modernos na evangelização. As suas instituições continuam ativamente empenhadas na catequese, nas missões populares, no trabalho com a juventude e, mantendo o espírito combativo do seu fundador em Cuba, na defesa da justiça social e na assistência aos marginalizados.
-
-<MiracleMap :items='[
-  { lat: 41.8256, lng: 1.8967, title: "Sallent, Espanha", description: "Onde nasceu e começou como pároco." },
-  { lat: 41.9298, lng: 2.2546, title: "Vic, Espanha", description: "Onde fundou a Congregação dos Missionários Filhos do Imaculado Coração de Maria (Claretianos)." },
-  { lat: 20.0208, lng: -75.8267, title: "Santiago de Cuba, Cuba", description: "Onde serviu como Arcebispo zeloso e enfrentou atentados à sua vida." },
-  { lat: 40.4168, lng: -3.7038, title: "Madri, Espanha", description: "Onde serviu como confessor da rainha da Espanha." },
-  { lat: 43.1257, lng: 2.8988, title: "Abadia de Fontfroide, França", description: "Local do seu falecimento no exílio." }
-]' />

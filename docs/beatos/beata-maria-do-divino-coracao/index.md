@@ -1,13 +1,18 @@
+---
+title: Beata Maria do Divino Coração
+description: Biografia, milagres, curiosidades e mapa da Beata Maria do Divino Coração.
+---
+
 # Beata Maria do Divino Coração
 
-![Beata Maria do Divino Coração](https://placehold.co/400x600/png?text=Beata+Maria+do+Divino+Coracao)
+![Beata Maria do Divino Coração](imagens/retrato.svg)
 
-**"A entrega total ao amor de Cristo é o segredo da verdadeira felicidade."**
+> "A entrega total ao amor de Cristo é o segredo da verdadeira felicidade."
 
-**Nascimento:** 8 de setembro de 1863, Münster, Alemanha
-**Morte:** 8 de junho de 1899, Porto, Portugal
-**Festa Litúrgica:** 8 de junho
-**Beatificação:** 1 de novembro de 1975, pelo Papa Paulo VI
+- **Nascimento:** 8 de setembro de 1863, Münster, Alemanha
+- **Morte:** 8 de junho de 1899, Porto, Portugal
+- **Beatificação:** 1 de novembro de 1975, pelo Papa Paulo VI
+- **Festa Litúrgica:** 8 de junho
 
 <TextToSpeech />
 
@@ -19,7 +24,7 @@ Maria Droste zu Vischering nasceu em uma nobre família alemã em Münster. Desd
 
 Em 1894, foi enviada para Portugal e, pouco depois, nomeada superiora do Convento do Bom Pastor no Porto. Lá, dedicou-se incansavelmente ao cuidado das meninas pobres e desamparadas, demonstrando grande zelo apostólico e caridade, apesar de sofrer de uma grave doença na coluna que a deixou paralisada nos últimos anos de vida.
 
-## A Consagração do Mundo
+## Milagres e a Consagração do Mundo
 
 A missão mais notável da Beata Maria do Divino Coração foi o pedido insistente que dirigiu ao Papa Leão XIII para que consagrasse o mundo inteiro ao Sagrado Coração de Jesus.
 
@@ -41,9 +46,9 @@ Apesar de sua origem nobre, Maria escolheu a pobreza e o serviço aos mais neces
 Maria nasceu na Alemanha, fez noviciado na França e viveu seus últimos anos em Portugal.
 
 <MiracleMap :items='[
-  { lat: 51.9607, lng: 7.6261, title: "Münster, Alemanha", description: "Cidade natal da Beata Maria Droste zu Vischering." },
-  { lat: 41.1579, lng: -8.6291, title: "Porto, Portugal", description: "Cidade onde foi superiora do Convento do Bom Pastor e onde faleceu." },
-  { lat: 41.2185, lng: -8.5562, title: "Ermesinde, Portugal", description: "Local onde seu corpo repousa na Igreja do Sagrado Coração de Jesus." }
+  { lat: 51.9607, lng: 7.6261, type: "nascimento", title: "Münster, Alemanha", description: "Cidade natal da Beata Maria Droste zu Vischering." },
+  { lat: 41.1579, lng: -8.6291, type: "morte", title: "Porto, Portugal", description: "Cidade onde foi superiora do Convento do Bom Pastor e onde faleceu." },
+  { lat: 41.2185, lng: -8.5562, type: "tumulo", title: "Ermesinde, Portugal", description: "Local onde seu corpo repousa na Igreja do Sagrado Coração de Jesus." }
 ]' />
 
 ## Impacto Hoje

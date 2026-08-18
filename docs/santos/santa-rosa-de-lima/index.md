@@ -1,13 +1,18 @@
+---
+title: Santa Rosa de Lima
+description: Biografia, milagres, curiosidades e mapa de Santa Rosa de Lima.
+---
+
 # Santa Rosa de Lima
 
 ![Santa Rosa de Lima](imagens/santa-rosa.jpg)
 
-**"Fora da Cruz não existe outra escada por onde subir ao céu."**
+> "Fora da Cruz não existe outra escada por onde subir ao céu."
 
-**Nascimento:** 20 de abril de 1586, Lima, Peru
-**Morte:** 24 de agosto de 1617, Lima, Peru
-**Festa Litúrgica:** 23 de agosto
-**Canonização:** 12 de abril de 1671, pelo Papa Clemente X
+- **Nascimento:** 20 de abril de 1586, Lima, Peru
+- **Morte:** 24 de agosto de 1617, Lima, Peru
+- **Canonização:** 12 de abril de 1671, pelo Papa Clemente X
+- **Festa Litúrgica:** 23 de agosto
 
 <TextToSpeech />
 
@@ -39,11 +44,12 @@ Muitos milagres são atribuídos à sua intercessão, tanto em vida quanto após
 
 ## Cidades por onde passou
 
-<MiracleMap :points="[
-  { lat: -12.0464, lng: -77.0428, title: 'Lima, Peru', description: 'Cidade onde nasceu, viveu, realizou seus milagres e faleceu.' }
-]" />
-
 *   **Lima (Peru):** Passou toda a sua vida nesta cidade, transformando a casa de sua família em um hospital para os necessitados.
+
+<MiracleMap :items='[
+  { lat: -12.0464, lng: -77.0428, type: "nascimento", title: "Lima, Peru", description: "Cidade onde nasceu, viveu, realizou seus milagres e faleceu." },
+  { lat: -12.0464, lng: -77.0428, type: "morte", title: "Lima, Peru", description: "Local da morte (24 de agosto de 1617)." }
+]' />
 
 ## Impacto Hoje
 

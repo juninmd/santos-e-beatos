@@ -1,13 +1,18 @@
+---
+title: Beato Rosário Livatino
+description: Biografia, milagres, curiosidades e mapa do Beato Rosário Livatino.
+---
+
 # Beato Rosário Livatino
 
 ![Beato Rosário Livatino](imagens/cover.jpg)
 
-**"Sub Tutela Dei" (Sob a proteção de Deus)**
+> "Sub Tutela Dei" (Sob a proteção de Deus)"
 
-**Nascimento:** 3 de outubro de 1952, Canicattì (Itália)
-**Morte:** 21 de setembro de 1990, Agrigento (Itália)
-**Festa Litúrgica:** 29 de outubro
-**Beatificação:** 9 de maio de 2021, na Catedral de Agrigento
+- **Nascimento:** 3 de outubro de 1952, Canicattì (Itália)
+- **Morte:** 21 de setembro de 1990, Agrigento (Itália)
+- **Beatificação:** 9 de maio de 2021, na Catedral de Agrigento
+- **Festa Litúrgica:** 29 de outubro
 
 <TextToSpeech />
 
@@ -21,7 +26,7 @@ Em 1979, começou a trabalhar no tribunal de Agrigento. Ficou conhecido como o "
 
 Rosário não via seu trabalho apenas como uma profissão, mas como uma vocação e um serviço a Deus. Começava o dia com a Santa Missa e a oração, e frequentemente visitava o Santíssimo Sacramento antes das audiências. Em seus diários, escrevia a sigla "S.T.D.", que significava *Sub Tutela Dei* ("Sob a proteção de Deus"), entregando sua vida e seu trabalho nas mãos do Senhor.
 
-## Martírio
+## Martírio e Milagres
 
 A máfia, incomodada com a incorruptibilidade e a eficácia do jovem juiz, decretou sua morte. No dia 21 de setembro de 1990, enquanto dirigia seu Ford Fiesta a caminho do tribunal, sem escolta (ele recusava proteção para não colocar a vida de outros em risco), foi emboscado por quatro assassinos da *Stidda*.
 
@@ -45,10 +50,10 @@ Ele dizia: *"Quando morrermos, ninguém nos perguntará o quanto fomos crentes, 
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 37.3572, lng: 13.8506, title: "Canicattì, Itália", description: "Cidade onde nasceu, viveu com seus pais e frequentava a paróquia." },
-  { lat: 38.1157, lng: 13.3615, title: "Palermo, Itália", description: "Onde cursou a faculdade de Direito e se formou com louvor." },
-  { lat: 37.3111, lng: 13.5765, title: "Agrigento, Itália", description: "Cidade onde trabalhou no tribunal e lutou contra a máfia." },
-  { lat: 37.3300, lng: 13.6000, title: "Estrada SS 640", description: "Local do martírio, onde foi assassinado a caminho do trabalho." }
+  { lat: 37.3572, lng: 13.8506, type: "nascimento", title: "Canicattì, Itália", description: "Cidade onde nasceu, viveu com seus pais e frequentava a paróquia." },
+  { lat: 38.1157, lng: 13.3615, type: "vida", title: "Palermo, Itália", description: "Onde cursou a faculdade de Direito e se formou com louvor." },
+  { lat: 37.3111, lng: 13.5765, type: "vida", title: "Agrigento, Itália", description: "Cidade onde trabalhou no tribunal e lutou contra a máfia." },
+  { lat: 37.33, lng: 13.6, type: "morte", title: "Estrada SS 640", description: "Local do martírio, onde foi assassinado a caminho do trabalho." }
 ]' />
 
 ## Impacto Hoje

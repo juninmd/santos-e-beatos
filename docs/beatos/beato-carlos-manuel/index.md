@@ -1,13 +1,18 @@
+---
+title: Beato Carlos Manuel Rodríguez Santiago
+description: Biografia, milagres, curiosidades e mapa do Beato Carlos Manuel Rodríguez Santiago.
+---
+
 # Beato Carlos Manuel Rodríguez Santiago
 
-![Beato Carlos Manuel](imagens/beato-carlos-manuel.jpg)
+![Beato Carlos Manuel Rodríguez Santiago](imagens/beato-carlos-manuel.jpg)
 
-**"Charlie: Apóstolo da Liturgia"**
+> "Charlie: Apóstolo da Liturgia"
 
-**Nascimento:** 22 de novembro de 1918, Caguas, Porto Rico
-**Morte:** 13 de julho de 1963, Caguas, Porto Rico
-**Festa Litúrgica:** 13 de julho
-**Beatificação:** 29 de abril de 2001, pelo Papa João Paulo II
+- **Nascimento:** 22 de novembro de 1918, Caguas, Porto Rico
+- **Morte:** 13 de julho de 1963, Caguas, Porto Rico
+- **Beatificação:** 29 de abril de 2001, pelo Papa João Paulo II
+- **Festa Litúrgica:** 13 de julho
 
 <TextToSpeech />
 
@@ -37,6 +42,13 @@ O milagre aprovado para sua beatificação envolveu a cura de uma mulher diagnos
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 18.2341, lng: -66.0485, title: "Caguas, Porto Rico", description: "Cidade onde nasceu, viveu e faleceu." },
-  { lat: 18.4064, lng: -66.0639, title: "Rio Piedras (San Juan), Porto Rico", description: "Onde trabalhou na Universidade de Porto Rico." }
+  { lat: 18.2341, lng: -66.0485, type: "nascimento", title: "Caguas, Porto Rico", description: "Cidade onde nasceu, viveu e faleceu." },
+  { lat: 18.4064, lng: -66.0639, type: "vida", title: "Rio Piedras (San Juan), Porto Rico", description: "Onde trabalhou na Universidade de Porto Rico." },
+  { lat: 18.2341, lng: -66.0485, type: "morte", title: "Caguas, Porto Rico", description: "Local da morte (13 de julho de 1963)." }
 ]' />
+
+## Impacto Hoje
+
+Carlos Manuel Rodríguez é o primeiro leigo do Caribe e o primeiro porto-riquenho elevado aos altares, e sua beatificação, em 29 de abril de 2001, tornou-se um marco de identidade católica para Porto Rico e para as comunidades hispânicas dos Estados Unidos.
+
+Sua bandeira — a compreensão da Vigília Pascal como centro do ano litúrgico — antecipou em décadas a reforma litúrgica do Concílio Vaticano II, e por isso é apresentado como precursor leigo do movimento litúrgico na América Latina. A frase que repetia, "vivimos para esa noche", tornou-se lema de grupos de pastoral juvenil e litúrgica em toda a região. Universidades e paróquias porto-riquenhas mantêm centros com seu nome, e sua história é usada na pastoral de pessoas com doenças crônicas, já que viveu toda a vida adulta limitado pela colite ulcerativa.

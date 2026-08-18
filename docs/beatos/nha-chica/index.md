@@ -1,13 +1,20 @@
+---
+title: Beata Nhá Chica
+description: Biografia, milagres, curiosidades e mapa da Beata Nhá Chica.
+---
+
 # Beata Nhá Chica
 
 ![Beata Nhá Chica](imagens/nha-chica.jpg)
 
-**"A Santa de Baependi"**
+> "A Santa de Baependi"
 
-**Nascimento:** 1808 (batizada em 26 de abril de 1810), São João del-Rei (MG), Brasil
-**Morte:** 14 de junho de 1895, Baependi (MG), Brasil
-**Festa Litúrgica:** 14 de junho
-**Beatificação:** 4 de maio de 2013, em Baependi
+- **Nascimento:** 1808 (batizada em 26 de abril de 1810), São João del-Rei (MG), Brasil
+- **Morte:** 14 de junho de 1895, Baependi (MG), Brasil
+- **Beatificação:** 4 de maio de 2013, em Baependi
+- **Festa Litúrgica:** 14 de junho
+
+<TextToSpeech />
 
 ---
 
@@ -40,6 +47,11 @@ O milagre aprovado pelo Vaticano para sua beatificação foi a cura inexplicáve
 ## Cidades por onde passou
 
 Nhá Chica viveu quase toda a sua vida em **Baependi (MG)**, cidade que se tornou indissociável de sua imagem. Nasceu em **São João del-Rei (MG)**.
+
+<MiracleMap :items='[
+  { lat: -21.1356, lng: -44.2619, type: "nascimento", title: "São João del-Rei (MG), Brasil", description: "Local de nascimento (1808)." },
+  { lat: -21.9583, lng: -44.8869, type: "morte", title: "Baependi (MG), Brasil", description: "Local da morte (14 de junho de 1895)." }
+]' />
 
 ## Impacto Hoje
 

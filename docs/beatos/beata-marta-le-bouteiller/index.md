@@ -1,13 +1,18 @@
+---
+title: Beata Marta Le Bouteiller
+description: Biografia, milagres, curiosidades e mapa da Beata Marta Le Bouteiller.
+---
+
 # Beata Marta Le Bouteiller
 
 ![Beata Marta Le Bouteiller](imagens/portrait.jpg)
 
-**"A Irmã da Cidra"**
+> "A Irmã da Cidra"
 
-**Nascimento:** 2 de setembro de 1816, Percy (França)<br>
-**Morte:** 18 de março de 1883, Saint-Sauveur-le-Vicomte (França)<br>
-**Festa Litúrgica:** 18 de março<br>
-**Beatificação:** 4 de novembro de 1990 pelo Papa João Paulo II<br>
+- **Nascimento:** 2 de setembro de 1816, Percy (França)
+- **Morte:** 18 de março de 1883, Saint-Sauveur-le-Vicomte (França)
+- **Beatificação:** 4 de novembro de 1990 pelo Papa João Paulo II
+- **Festa Litúrgica:** 18 de março
 
 <TextToSpeech />
 
@@ -38,8 +43,8 @@ Inúmeros relatos de graças e favores, desde curas até a resolução de proble
 Ela passou toda a sua vida na região da Normandia, na França.
 
 <MiracleMap :items='[
-  { lat: 48.9167, lng: -1.1833, title: "Percy, França", description: "Local de nascimento e onde viveu até os 26 anos." },
-  { lat: 49.3833, lng: -1.5333, title: "Saint-Sauveur-le-Vicomte, França", description: "Onde ingressou na vida religiosa e dedicou o resto de sua vida ao serviço de Deus e do próximo." }
+  { lat: 48.9167, lng: -1.1833, type: "nascimento", title: "Percy, França", description: "Local de nascimento e onde viveu até os 26 anos." },
+  { lat: 49.3833, lng: -1.5333, type: "morte", title: "Saint-Sauveur-le-Vicomte, França", description: "Onde ingressou na vida religiosa e dedicou o resto de sua vida ao serviço de Deus e do próximo. Local da morte (18 de março de 1883)." }
 ]' />
 
 ## Impacto Hoje

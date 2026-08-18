@@ -1,13 +1,18 @@
+---
+title: Beata Pina Suriano
+description: Biografia, milagres, curiosidades e mapa da Beata Pina Suriano.
+---
+
 # Beata Pina Suriano
 
 ![Beata Pina Suriano](imagens/portrait.jpg)
 
-**"Senhor, a ti confio a minha vida. Que seja feita a tua vontade."**
+> "Senhor, a ti confio a minha vida. Que seja feita a tua vontade."
 
-**Nascimento:** 18 de fevereiro de 1915, Partinico, Sicília, Itália<br>
-**Morte:** 19 de maio de 1950, Partinico, Sicília, Itália<br>
-**Festa Litúrgica:** 19 de maio<br>
-**Beatificação:** 5 de setembro de 2004, pelo Papa João Paulo II
+- **Nascimento:** 18 de fevereiro de 1915, Partinico, Sicília, Itália
+- **Morte:** 19 de maio de 1950, Partinico, Sicília, Itália
+- **Beatificação:** 5 de setembro de 2004, pelo Papa João Paulo II
+- **Festa Litúrgica:** 19 de maio
 
 <TextToSpeech />
 
@@ -40,7 +45,8 @@ Aos poucos, sua saúde física começou a declinar, e ela sofreu de diversas enf
 Sua vida e missão foram inteiramente dedicadas à sua cidade natal na Sicília.
 
 <MiracleMap :items='[
-  { lat: 38.0469, lng: 13.1186, title: "Partinico, Sicília, Itália", description: "Cidade onde nasceu, viveu sua vocação laical, dedicou-se à Ação Católica e faleceu." }
+  { lat: 38.0469, lng: 13.1186, type: "nascimento", title: "Partinico, Sicília, Itália", description: "Cidade onde nasceu, viveu sua vocação laical, dedicou-se à Ação Católica e faleceu." },
+  { lat: 38.0469, lng: 13.1186, type: "morte", title: "Partinico, Sicília, Itália", description: "Local da morte (19 de maio de 1950)." }
 ]' />
 
 ## Impacto Hoje

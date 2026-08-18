@@ -1,13 +1,18 @@
+---
+title: Beato Agostinho Kazotić
+description: Biografia, milagres, curiosidades e mapa do Beato Agostinho Kazotić.
+---
+
 # Beato Agostinho Kazotić
 
 ![Beato Agostinho Kazotić](imagens/portrait.jpg)
 
-**"O Defensor da Fé nos Balcãs"**
+> "O Defensor da Fé nos Balcãs"
 
-**Nascimento:** 1260, Trogir, Croácia<br>
-**Morte:** 3 de agosto de 1323, Lucera, Itália<br>
-**Festa Litúrgica:** 3 de agosto<br>
-**Beatificação:** 1702, pelo Papa Clemente XI<br>
+- **Nascimento:** 1260, Trogir, Croácia
+- **Morte:** 3 de agosto de 1323, Lucera, Itália
+- **Beatificação:** 1702, pelo Papa Clemente XI
+- **Festa Litúrgica:** 3 de agosto
 
 <TextToSpeech />
 
@@ -34,10 +39,10 @@ Segundo a tradição, durante uma grande seca em Zagreb, o bispo Agostinho cavou
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 43.5126, lng: 16.2514, title: "Trogir, Croácia", description: "Local de nascimento do Beato Agostinho." },
-  { lat: 48.8566, lng: 2.3522, title: "Paris, França", description: "Onde estudou na Universidade de Paris." },
-  { lat: 45.8150, lng: 15.9819, title: "Zagreb, Croácia", description: "Cidade onde foi bispo, promoveu grande reforma e o milagre da água." },
-  { lat: 41.5074, lng: 15.3341, title: "Lucera, Itália", description: "Local para onde foi transferido em seus últimos anos e onde faleceu." }
+  { lat: 43.5126, lng: 16.2514, type: "nascimento", title: "Trogir, Croácia", description: "Local de nascimento do Beato Agostinho." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde estudou na Universidade de Paris." },
+  { lat: 45.815, lng: 15.9819, type: "milagre", title: "Zagreb, Croácia", description: "Cidade onde foi bispo, promoveu grande reforma e o milagre da água." },
+  { lat: 41.5074, lng: 15.3341, type: "morte", title: "Lucera, Itália", description: "Local para onde foi transferido em seus últimos anos e onde faleceu." }
 ]' />
 
 ## Impacto Hoje

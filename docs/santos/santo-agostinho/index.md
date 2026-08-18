@@ -1,13 +1,18 @@
+---
+title: Santo Agostinho
+description: Biografia, milagres, curiosidades e mapa de Santo Agostinho.
+---
+
 # Santo Agostinho
 
 ![Santo Agostinho](imagens/agostinho.jpg)
 
-**"Fizeste-nos para Ti, Senhor, e o nosso coração está inquieto enquanto não descansar em Ti."**
+> "Fizeste-nos para Ti, Senhor, e o nosso coração está inquieto enquanto não descansar em Ti."
 
-**Nascimento:** 13 de novembro de 354, Tagaste (atual Souk Ahras, Argélia)
-**Morte:** 28 de agosto de 430, Hipona (atual Annaba, Argélia)
-**Festa Litúrgica:** 28 de agosto
-**Canonização:** Aclamação popular (Culto Imemorial), Doutor da Igreja
+- **Nascimento:** 13 de novembro de 354, Tagaste (atual Souk Ahras, Argélia)
+- **Morte:** 28 de agosto de 430, Hipona (atual Annaba, Argélia)
+- **Canonização:** Aclamação popular (Culto Imemorial), Doutor da Igreja
+- **Festa Litúrgica:** 28 de agosto
 
 <TextToSpeech />
 
@@ -42,11 +47,11 @@ Embora sua maior obra seja a conversão e o legado intelectual, muitos milagres 
 Agostinho viajou entre a África e a Itália, marcando profundamente os lugares por onde passou.
 
 <MiracleMap :items='[
-  { lat: 36.2864, lng: 7.9511, title: "Tagaste (Souk Ahras), Argélia", description: "Local de nascimento de Santo Agostinho." },
-  { lat: 36.9000, lng: 7.7667, title: "Hipona (Annaba), Argélia", description: "Cidade onde foi bispo e morreu. Local de suas maiores obras." },
-  { lat: 36.8529, lng: 10.3217, title: "Cartago, Tunísia", description: "Onde estudou e ensinou retórica, e viveu parte de sua juventude." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Ensinou retórica e planejou sua carreira antes de ir para Milão." },
-  { lat: 45.4642, lng: 9.1900, title: "Milão, Itália", description: "Local de sua conversão e batismo por Santo Ambrósio." }
+  { lat: 36.2864, lng: 7.9511, type: "nascimento", title: "Tagaste (Souk Ahras), Argélia", description: "Local de nascimento de Santo Agostinho." },
+  { lat: 36.8529, lng: 10.3217, type: "vida", title: "Cartago, Tunísia", description: "Onde estudou e ensinou retórica, e viveu parte de sua juventude." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Ensinou retórica e planejou sua carreira antes de ir para Milão." },
+  { lat: 45.4642, lng: 9.19, type: "vida", title: "Milão, Itália", description: "Local de sua conversão e batismo por Santo Ambrósio." },
+  { lat: 36.9, lng: 7.7667, type: "morte", title: "Hipona (Annaba), Argélia", description: "Cidade onde foi bispo e morreu. Local de suas maiores obras." }
 ]' />
 
 ## Impacto Hoje

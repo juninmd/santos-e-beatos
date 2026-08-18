@@ -1,17 +1,22 @@
+---
+title: São Roberto Belarmino
+description: Biografia, milagres, curiosidades e mapa de São Roberto Belarmino.
+---
+
 # São Roberto Belarmino
 
 ![São Roberto Belarmino](imagens/portrait.jpg)
 
-**"A paz é um bem tão grande que, mesmo que se deseje, não se pode desejar o bastante."**
+> "A paz é um bem tão grande que, mesmo que se deseje, não se pode desejar o bastante."
 
-**Nascimento:** 4 de outubro de 1542, Montepulciano, Itália
-**Morte:** 17 de setembro de 1621, Roma, Itália
-**Festa Litúrgica:** 17 de setembro
-**Canonização:** 29 de junho de 1930, pelo Papa Pio XI
-
----
+- **Nascimento:** 4 de outubro de 1542, Montepulciano, Itália
+- **Morte:** 17 de setembro de 1621, Roma, Itália
+- **Canonização:** 29 de junho de 1930, pelo Papa Pio XI
+- **Festa Litúrgica:** 17 de setembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,8 +44,11 @@ Embora seja mais conhecido por seu intelecto e defesa da fé, sua santidade foi 
 *   **Lovaina (Bélgica):** Onde foi ordenado sacerdote e lecionou na universidade.
 *   **Cápua (Itália):** Onde serviu como Arcebispo.
 
+<MiracleMap :items='[
+  { lat: 43.0989, lng: 11.7811, type: "nascimento", title: "Montepulciano, Itália", description: "Local de nascimento (4 de outubro de 1542)." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Local da morte (17 de setembro de 1621)." }
+]' />
+
 ## Impacto Hoje
 
 São Roberto Belarmino continua sendo uma referência fundamental para a teologia católica. Suas obras sobre a relação entre fé e razão, e sobre a autoridade da Igreja, ainda são estudadas. Ele nos ensina a importância do estudo profundo da fé para defendê-la com caridade e inteligência. É o padroeiro dos catequistas, lembrando-nos da importância de transmitir a fé com clareza.
-
-<MiracleMap />

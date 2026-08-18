@@ -1,17 +1,22 @@
-# São Dimas
-
-![São Dimas](./imagens/portrait.jpg)
-
-**"Hoje estarás comigo no Paraíso." (Lc 23,43)**
-
-**Nascimento:** Século I a.C., local desconhecido
-**Morte:** c. 33 d.C., Jerusalém, Israel<br>
-**Canonização:** Reconhecido pelo próprio Jesus na cruz (Pré-Congregação)<br>
-**Festa Litúrgica:** 25 de março
-
+---
+title: São Dimas
+description: Biografia, milagres, curiosidades e mapa de São Dimas.
 ---
 
+# São Dimas
+
+![São Dimas](imagens/portrait.jpg)
+
+> "Hoje estarás comigo no Paraíso." (Lc 23,43)"
+
+- **Nascimento:** Século I a.C., local desconhecido
+- **Morte:** c. 33 d.C., Jerusalém, Israel
+- **Canonização:** Reconhecido pelo próprio Jesus na cruz (Pré-Congregação)
+- **Festa Litúrgica:** 25 de março
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -45,9 +50,9 @@ São Dimas não é conhecido por milagres em vida, além do seu próprio arrepen
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 31.771959, lng: 35.217018, title: 'Jerusalém', description: 'Local onde São Dimas foi julgado, crucificado e onde se arrependeu ao lado de Jesus, recebendo a promessa do Paraíso.' }
-]" />
+<MiracleMap :items='[
+  { lat: 31.771959, lng: 35.217018, type: "morte", title: "Jerusalém", description: "Local onde São Dimas foi julgado, crucificado e onde se arrependeu ao lado de Jesus, recebendo a promessa do Paraíso. Local da morte (c. 33 d.C.)." }
+]' />
 
 ## Impacto Hoje
 

@@ -1,16 +1,22 @@
+---
+title: Beata Antônia Mesina
+description: Biografia, milagres, curiosidades e mapa da Beata Antônia Mesina.
+---
+
 # Beata Antônia Mesina
 
 ![Beata Antônia Mesina](imagens/portrait.jpg)
 
-**"Mártir da pureza"**<br>
-**Nascimento:** 21 de junho de 1919 (Orgosolo, Sardenha, Itália)<br>
-**Morte:** 17 de maio de 1935 (Orgosolo, Sardenha, Itália)<br>
-**Beatificação:** 4 de outubro de 1987 (por São João Paulo II)<br>
-**Festa Litúrgica:** 17 de maio<br>
+> "Mártir da pureza"
 
----
+- **Nascimento:** 21 de junho de 1919 (Orgosolo, Sardenha, Itália)
+- **Morte:** 17 de maio de 1935 (Orgosolo, Sardenha, Itália)
+- **Beatificação:** 4 de outubro de 1987 (por São João Paulo II)
+- **Festa Litúrgica:** 17 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,8 +45,11 @@ A beatificação de Antônia Mesina não exigiu a comprovação de um milagre es
 Antônia viveu e morreu no mesmo local:
 *   **Orgosolo (Sardenha, Itália):** Sua cidade natal e local de seu martírio.
 
+<MiracleMap :items='[
+  { lat: 40.2, lng: 9.35, type: "nascimento", title: "Orgosolo, Itália", description: "Local de nascimento (21 de junho de 1919)." },
+  { lat: 40.2, lng: 9.35, type: "morte", title: "Orgosolo, Itália", description: "Local da morte (17 de maio de 1935)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, a Beata Antônia Mesina é invocada como padroeira e modelo de pureza e dignidade para a juventude. Em um mundo contemporâneo muitas vezes indiferente a esses valores, seu testemunho radical levanta a bandeira do respeito próprio e do respeito pelo próximo. Sua história incentiva os jovens e a sociedade como um todo a rejeitar a violência, protegendo os mais vulneráveis, e ensinando que a fidelidade aos valores evangélicos é um tesouro maior do que a própria vida.
-
-<MiracleMap />

@@ -1,17 +1,22 @@
+---
+title: Beata Mafalda de Portugal
+description: Biografia, milagres, curiosidades e mapa da Beata Mafalda de Portugal.
+---
+
 # Beata Mafalda de Portugal
 
 ![Beata Mafalda de Portugal](imagens/portrait.jpg)
 
-**"A Princesa Cisterciense"**
+> "A Princesa Cisterciense"
 
-**Nascimento:** 1195 (aproximadamente), Coimbra (Portugal)<br>
-**Morte:** 1 de maio de 1256, Amarante (Portugal)<br>
-**Festa Litúrgica:** 2 de maio<br>
-**Beatificação:** 27 de junho de 1793, pelo Papa Pio VI<br>
-
----
+- **Nascimento:** 1195 (aproximadamente), Coimbra (Portugal)
+- **Morte:** 1 de maio de 1256, Amarante (Portugal)
+- **Beatificação:** 27 de junho de 1793, pelo Papa Pio VI
+- **Festa Litúrgica:** 2 de maio
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -43,8 +48,13 @@ A devoção à Beata Mafalda cresceu logo após a sua morte, devido à sua fama 
 - **Arouca:** A cidade onde fica o mosteiro que ela reformou e onde viveu a maior parte de sua vida devota.
 - **Amarante:** Local onde a Beata Mafalda faleceu inesperadamente em 1256.
 
+<MiracleMap :items='[
+  { lat: 40.2033, lng: -8.4103, type: "nascimento", title: "Coimbra", description: "Sua cidade natal e centro da corte real portuguesa." },
+  { lat: 42.3439, lng: -3.6969, type: "vida", title: "Burgos", description: "Cidade em Castela, onde residiu durante seu casamento." },
+  { lat: 40.9272, lng: -8.2458, type: "vida", title: "Arouca", description: "A cidade onde fica o mosteiro que ela reformou e onde viveu sua vida devota." },
+  { lat: 41.2721, lng: -8.0792, type: "morte", title: "Amarante", description: "Local onde a Beata Mafalda faleceu em 1256." }
+]' />
+
 ## Impacto Hoje
 
 A Beata Mafalda continua a ser uma figura profundamente venerada em Portugal, particularmente em Arouca. O Mosteiro de Arouca e o Museu de Arte Sacra de Arouca abrigam importantes relíquias e o seu túmulo, atraindo peregrinos e turistas. A sua vida é um testemunho de resiliência, mostrando como ela transformou uma desilusão política e matrimonial numa vida de extraordinário serviço, caridade e contemplação. A sua festividade a 2 de maio é um feriado local em Arouca, celebrado com grande devoção, reafirmando o seu impacto duradouro na espiritualidade e cultura da região.
-
-<MiracleMap :items='[{"lat": 40.2033, "lng": -8.4103, "title": "Coimbra", "description": "Sua cidade natal e centro da corte real portuguesa."}, {"lat": 42.3439, "lng": -3.6969, "title": "Burgos", "description": "Cidade em Castela, onde residiu durante seu casamento."}, {"lat": 40.9272, "lng": -8.2458, "title": "Arouca", "description": "A cidade onde fica o mosteiro que ela reformou e onde viveu sua vida devota."}, {"lat": 41.2721, "lng": -8.0792, "title": "Amarante", "description": "Local onde a Beata Mafalda faleceu em 1256."}]' />

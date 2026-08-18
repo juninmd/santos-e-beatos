@@ -1,13 +1,18 @@
+---
+title: Beata Ana Catarina Emmerich
+description: Biografia, milagres, curiosidades e mapa da Beata Ana Catarina Emmerich.
+---
+
 # Beata Ana Catarina Emmerich
 
 ![Beata Ana Catarina Emmerich](imagens/emmerich.jpg)
 
-**"A Mística da Paixão"**
+> "A Mística da Paixão"
 
-**Nascimento:** 8 de setembro de 1774, Coesfeld (Alemanha)
-**Morte:** 9 de fevereiro de 1824, Dülmen (Alemanha)
-**Festa Litúrgica:** 9 de fevereiro
-**Beatificação:** 3 de outubro de 2004, pelo Papa João Paulo II
+- **Nascimento:** 8 de setembro de 1774, Coesfeld (Alemanha)
+- **Morte:** 9 de fevereiro de 1824, Dülmen (Alemanha)
+- **Beatificação:** 3 de outubro de 2004, pelo Papa João Paulo II
+- **Festa Litúrgica:** 9 de fevereiro
 
 <TextToSpeech />
 
@@ -40,9 +45,9 @@ Suas visões não se limitavam à Paixão; ela descreveu a vida da Virgem Maria,
 Ana Catarina viveu toda sua vida na região da Vestfália, na Alemanha.
 
 <MiracleMap :items='[
-  { lat: 51.9456, lng: 7.1678, title: "Coesfeld, Alemanha", description: "Região de seu nascimento e infância." },
-  { lat: 51.8306, lng: 7.2783, title: "Dülmen, Alemanha", description: "Cidade onde viveu no convento, recebeu os estigmas e faleceu." },
-  { lat: 37.9126, lng: 27.3323, title: "Éfeso (Selçuk), Turquia", description: "Local da Casa da Virgem Maria, descoberta graças às suas visões." }
+  { lat: 51.9456, lng: 7.1678, type: "nascimento", title: "Coesfeld, Alemanha", description: "Região de seu nascimento e infância." },
+  { lat: 37.9126, lng: 27.3323, type: "vida", title: "Éfeso (Selçuk), Turquia", description: "Local da Casa da Virgem Maria, descoberta graças às suas visões." },
+  { lat: 51.8306, lng: 7.2783, type: "morte", title: "Dülmen, Alemanha", description: "Cidade onde viveu no convento, recebeu os estigmas e faleceu." }
 ]' />
 
 ## Impacto Hoje

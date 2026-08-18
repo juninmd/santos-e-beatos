@@ -1,13 +1,18 @@
+---
+title: São Francisco Xavier
+description: Biografia, milagres, curiosidades e mapa de São Francisco Xavier.
+---
+
 # São Francisco Xavier
 
 ![São Francisco Xavier](imagens/sao-francisco-xavier.jpg)
 
-**"Senhor, eis-me aqui! Que queres que eu faça?"**
+> "Senhor, eis-me aqui! Que queres que eu faça?"
 
-**Nascimento:** 7 de abril de 1506, Castelo de Xavier, Navarra (Espanha)
-**Morte:** 3 de dezembro de 1552, Ilha de Sancian (China)
-**Festa Litúrgica:** 3 de dezembro
-**Canonização:** 12 de março de 1622, pelo Papa Gregório XV
+- **Nascimento:** 7 de abril de 1506, Castelo de Xavier, Navarra (Espanha)
+- **Morte:** 3 de dezembro de 1552, Ilha de Sancian (China)
+- **Canonização:** 12 de março de 1622, pelo Papa Gregório XV
+- **Festa Litúrgica:** 3 de dezembro
 
 <TextToSpeech />
 
@@ -43,12 +48,12 @@ São atribuídos a São Francisco Xavier inúmeros milagres, tanto em vida quant
 São Francisco Xavier foi um verdadeiro "globtrotter" da fé. Saiu da Europa, contornou a África, evangelizou na Índia, Sudeste Asiático e Japão, morrendo às portas da China.
 
 <MiracleMap :items='[
-  { lat: 42.5936, lng: -1.2158, title: "Navarra, Espanha", description: "Local de seu nascimento, no Castelo de Xavier." },
-  { lat: 48.8566, lng: 2.3522, title: "Paris, França", description: "Onde estudou e conheceu Santo Inácio de Loyola, co-fundando a Companhia de Jesus." },
-  { lat: 15.2993, lng: 74.1240, title: "Goa, Índia", description: "Base de suas missões no Oriente e local onde seu corpo repousa." },
-  { lat: 2.1896, lng: 102.2501, title: "Malaca, Malásia", description: "Importante centro de suas atividades missionárias no Sudeste Asiático." },
-  { lat: 31.5966, lng: 130.5571, title: "Kagoshima, Japão", description: "Local de seu desembarque no Japão, iniciando a evangelização do país." },
-  { lat: 21.7333, lng: 112.7667, title: "Ilha de Sancian, China", description: "Local de sua morte, enquanto aguardava um barco para entrar na China continental." }
+  { lat: 42.5936, lng: -1.2158, type: "nascimento", title: "Navarra, Espanha", description: "Local de seu nascimento, no Castelo de Xavier." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde estudou e conheceu Santo Inácio de Loyola, co-fundando a Companhia de Jesus." },
+  { lat: 2.1896, lng: 102.2501, type: "vida", title: "Malaca, Malásia", description: "Importante centro de suas atividades missionárias no Sudeste Asiático." },
+  { lat: 31.5966, lng: 130.5571, type: "vida", title: "Kagoshima, Japão", description: "Local de seu desembarque no Japão, iniciando a evangelização do país." },
+  { lat: 21.7333, lng: 112.7667, type: "morte", title: "Ilha de Sancian, China", description: "Local de sua morte, enquanto aguardava um barco para entrar na China continental." },
+  { lat: 15.2993, lng: 74.124, type: "tumulo", title: "Goa, Índia", description: "Base de suas missões no Oriente e local onde seu corpo repousa." }
 ]' />
 
 ## Impacto Hoje

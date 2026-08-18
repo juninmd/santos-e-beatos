@@ -1,17 +1,22 @@
+---
+title: Beato Antônio Chevrier
+description: Biografia, milagres, curiosidades e mapa do Beato Antônio Chevrier.
+---
+
 # Beato Antônio Chevrier
 
 ![Beato Antônio Chevrier](imagens/portrait.jpg)
 
-**"Apóstolo dos Pobres e Fundador do Prado"**
+> "Apóstolo dos Pobres e Fundador do Prado"
 
-**Nascimento:** 16 de abril de 1826, Lyon (França)<br>
-**Morte:** 2 de outubro de 1879, Lyon (França)<br>
-**Festa Litúrgica:** 2 de outubro<br>
-**Beatificação:** 4 de outubro de 1986, pelo Papa João Paulo II<br>
-
----
+- **Nascimento:** 16 de abril de 1826, Lyon (França)
+- **Morte:** 2 de outubro de 1879, Lyon (França)
+- **Beatificação:** 4 de outubro de 1986, pelo Papa João Paulo II
+- **Festa Litúrgica:** 2 de outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -35,21 +40,11 @@ A beatificação do Padre Chevrier ocorreu após a aprovação de um milagre atr
 
 - **Lyon, França:** A cidade onde nasceu, foi ordenado, serviu os pobres no bairro de Guillotière e fundou a Obra do Prado. Praticamente toda a sua vida e missão se concentraram em sua cidade natal e em seus arredores.
 
+<MiracleMap :items='[
+  { lat: 45.764, lng: 4.8357, type: "nascimento", title: "Nascimento e Ordenação", description: "Lyon, onde Antônio Chevrier nasceu e foi ordenado sacerdote." },
+  { lat: 45.7516, lng: 4.8436, type: "morte", title: "Fundação da Obra do Prado", description: "Bairro de Guillotière, Lyon, onde transformou um antigo salão de baile em um refúgio para os jovens pobres. Local da morte (2 de outubro de 1879)." }
+]' />
+
 ## Impacto Hoje
 
 O impacto de Antônio Chevrier permanece muito vivo. A Associação dos Padres do Prado está presente em dezenas de países, reunindo padres diocesanos que escolhem viver a pobreza e dedicar-se prioritariamente às paróquias mais carentes e às periferias do mundo. Seu método de catequese simples, direta e ancorada na vida real e nos ensinamentos do Evangelho continua inspirando a evangelização contemporânea. O Beato Antônio Chevrier é uma figura central na história do catolicismo social, sendo lembrado como um verdadeiro pioneiro na atenção pastoral à classe operária e aos marginalizados.
-
-<MiracleMap :miracles="[
-  {
-    title: 'Nascimento e Ordenação',
-    description: 'Lyon, onde Antônio Chevrier nasceu e foi ordenado sacerdote.',
-    lat: 45.7640,
-    lng: 4.8357
-  },
-  {
-    title: 'Fundação da Obra do Prado',
-    description: 'Bairro de Guillotière, Lyon, onde transformou um antigo salão de baile em um refúgio para os jovens pobres.',
-    lat: 45.7516,
-    lng: 4.8436
-  }
-]" />

@@ -1,17 +1,22 @@
+---
+title: Santa Teresa de Ávila
+description: Biografia, milagres, curiosidades e mapa de Santa Teresa de Ávila.
+---
+
 # Santa Teresa de Ávila
 
 ![Santa Teresa de Ávila](imagens/portrait.jpg)
 
-**"Nada te perturbe, nada te espante, tudo passa, Deus não muda, a paciência tudo alcança; quem a Deus tem, nada lhe falta: só Deus basta."**
+> "Nada te perturbe, nada te espante, tudo passa, Deus não muda, a paciência tudo alcança; quem a Deus tem, nada lhe falta: só Deus basta."
 
-**Nascimento:** 28 de março de 1515, Gotarrendura (Ávila), Espanha
-**Morte:** 4 de outubro de 1582, Alba de Tormes, Espanha
-**Festa Litúrgica:** 15 de outubro
-**Canonização:** 12 de março de 1622, pelo Papa Gregório XV
-
----
+- **Nascimento:** 28 de março de 1515, Gotarrendura (Ávila), Espanha
+- **Morte:** 4 de outubro de 1582, Alba de Tormes, Espanha
+- **Canonização:** 12 de março de 1622, pelo Papa Gregório XV
+- **Festa Litúrgica:** 15 de outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -34,13 +39,14 @@ Teresa era conhecida por sua personalidade forte, inteligência viva e profundo 
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 40.6565, lng: -4.6813, title: 'Ávila', description: 'Cidade natal e local do primeiro mosteiro reformado, São José.' },
-  { lat: 40.8272, lng: -5.5135, title: 'Alba de Tormes', description: 'Local de sua morte e onde repousa seu corpo.' },
-  { lat: 40.9701, lng: -5.6635, title: 'Salamanca', description: 'Fundação de mosteiro e local de estudos.' },
-  { lat: 39.8628, lng: -4.0273, title: 'Toledo', description: 'Local de uma de suas fundações.' },
-  { lat: 37.3891, lng: -5.9845, title: 'Sevilha', description: 'Uma das fundações mais difíceis no sul da Espanha.' }
-]" />
+<MiracleMap :items='[
+  { lat: 40.6565, lng: -4.6813, type: "nascimento", title: "Ávila", description: "Cidade natal e local do primeiro mosteiro reformado, São José." },
+  { lat: 40.9701, lng: -5.6635, type: "vida", title: "Salamanca", description: "Fundação de mosteiro e local de estudos." },
+  { lat: 39.8628, lng: -4.0273, type: "vida", title: "Toledo", description: "Local de uma de suas fundações." },
+  { lat: 37.3891, lng: -5.9845, type: "vida", title: "Sevilha", description: "Uma das fundações mais difíceis no sul da Espanha." },
+  { lat: 40.8272, lng: -5.5135, type: "morte", title: "Alba de Tormes", description: "Local da morte (4 de outubro de 1582)." },
+  { lat: 40.8272, lng: -5.5135, type: "tumulo", title: "Alba de Tormes", description: "Local de sua morte e onde repousa seu corpo." }
+]' />
 
 ## Impacto Hoje
 

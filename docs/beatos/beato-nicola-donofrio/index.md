@@ -1,19 +1,22 @@
-# Beato Nicola D'Onofrio
+---
+title: Venerável Nicola D'Onofrio
+description: Biografia, milagres, curiosidades e mapa do Venerável Nicola D'Onofrio, o jovem camiliano de Villamagna.
+---
 
-<div class="flex-start-gap-20">
-  <img src="./imagens/portrait.jpg" alt="Beato Nicola D'Onofrio" width="200" class="rounded-image" />
-  <div>
-    <p><em>"Eu serei padre Camiliano custe o que custar!"</em></p>
-    <p>
-      <strong>Nascimento:</strong> 24 de março de 1943<br>
-      <strong>Morte:</strong> 12 de junho de 1964<br>
-      <strong>Beatificação:</strong> Venerável (Processo em andamento para Beatificação)<br>
-      <strong>Festa Litúrgica:</strong> 12 de junho
-    </p>
-  </div>
-</div>
+# Venerável Nicola D'Onofrio
+
+![Venerável Nicola D'Onofrio](imagens/portrait.jpg)
+
+> "Eu serei padre Camiliano custe o que custar!"
+
+- **Nascimento:** 24 de março de 1943, Villanova del Battista, Avelino (Itália)
+- **Morte:** 12 de junho de 1964, Nápoles (Itália)
+- **Beatificação:** Declarado Venerável em 23 de outubro de 1987, pelo Papa João Paulo II (processo de beatificação em curso)
+- **Festa Litúrgica:** 12 de junho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -58,6 +61,16 @@ A causa de beatificação e canonização de Nicola D'Onofrio foi impulsionada p
 *   **Lisieux (França):** Visitou o santuário de Santa Teresinha, sua padroeira espiritual, durante a mesma peregrinação.
 *   **Bucchianico (Itália):** Cidade natal de São Camilo, próxima à sua vila natal, onde Nicola frequentemente respirava a espiritualidade camiliana, e onde hoje repousam seus restos mortais na cripta do santuário.
 
+<MiracleMap :items='[
+  { lat: 41.15, lng: 15.1667, type: "nascimento", title: "Villanova del Battista", description: "Local de nascimento (24 de março de 1943)." },
+  { lat: 42.3278, lng: 14.2344, type: "vida", title: "Villamagna, Itália", description: "" },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "" },
+  { lat: 43.0995, lng: -0.0496, type: "vida", title: "Lourdes, França", description: "" },
+  { lat: 49.1462, lng: 0.2268, type: "vida", title: "Lisieux, França", description: "" },
+  { lat: 42.3, lng: 14.2, type: "vida", title: "Bucchianico, Itália", description: "" },
+  { lat: 40.8518, lng: 14.2681, type: "morte", title: "Nápoles", description: "Local da morte (12 de junho de 1964)." }
+]' />
+
 ## Impacto Hoje
 
 Embora o Venerável Nicola D'Onofrio tenha falecido muito jovem, aos 21 anos, seu impacto continua a ressoar com força, especialmente dentro da Ordem dos Camilianos e entre os jovens em discernimento vocacional.
@@ -65,11 +78,3 @@ Embora o Venerável Nicola D'Onofrio tenha falecido muito jovem, aos 21 anos, se
 Nicola é um farol de esperança e um modelo de virtude para os jovens de hoje. Ele ensina que a santidade não é medida pelos anos vividos, mas pela intensidade do amor entregue. Seu testemunho de perseverança inabalável diante da oposição familiar à sua vocação encoraja muitos jovens que enfrentam dificuldades semelhantes ao responder ao chamado de Deus.
 
 Além disso, para os enfermos, e em especial para os jovens que enfrentam o câncer ou doenças terminais, Nicola D'Onofrio é um companheiro solidário. Ele mostrou que o sofrimento não anula a alegria cristã e que a vida de um doente pode ser um profundo e ativo ministério de oração e união com Cristo. A sua iminente beatificação irá reforçar o seu papel como modelo de vivência jovem, apaixonada por Cristo, dedicada aos doentes e vitoriosa sobre o sofrimento através da fé.
-
-<MiracleMap :places="[
-  { name: 'Villamagna, Itália', lat: 42.3278, lng: 14.2344 },
-  { name: 'Roma, Itália', lat: 41.9028, lng: 12.4964 },
-  { name: 'Lourdes, França', lat: 43.0995, lng: -0.0496 },
-  { name: 'Lisieux, França', lat: 49.1462, lng: 0.2268 },
-  { name: 'Bucchianico, Itália', lat: 42.3000, lng: 14.2000 }
-]" />

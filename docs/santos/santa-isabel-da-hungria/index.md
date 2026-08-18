@@ -1,21 +1,22 @@
+---
+title: Santa Isabel da Hungria
+description: Biografia, milagres, curiosidades e mapa de Santa Isabel da Hungria.
+---
+
 # Santa Isabel da Hungria
 
-<div class="saint-header">
-  <div class="saint-image">
-    <img src="./imagens/portrait.jpg" alt="Santa Isabel da Hungria" />
-  </div>
-  <div class="saint-details">
-    <p><em>"Padroeira da Ordem Terceira de São Francisco e símbolo de caridade cristã."</em></p>
-    <p>
-      <strong>Nascimento:</strong> 7 de julho de 1207, em Sárospatak ou Pozsony (atual Bratislava), Hungria<br>
-      <strong>Morte:</strong> 17 de novembro de 1231, em Marburgo, Hesse, Alemanha<br>
-      <strong>Canonização:</strong> 27 de maio de 1235, pelo Papa Gregório IX<br>
-      <strong>Festa Litúrgica:</strong> 17 de novembro<br>
-    </p>
-  </div>
-</div>
+![Santa Isabel da Hungria](imagens/portrait.jpg)
+
+> "Padroeira da Ordem Terceira de São Francisco e símbolo de caridade cristã."
+
+- **Nascimento:** 7 de julho de 1207, em Sárospatak ou Pozsony (atual Bratislava), Hungria
+- **Morte:** 17 de novembro de 1231, em Marburgo, Hesse, Alemanha
+- **Canonização:** 27 de maio de 1235, pelo Papa Gregório IX
+- **Festa Litúrgica:** 17 de novembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -45,14 +46,12 @@ Inúmeros milagres foram atribuídos a ela após sua morte, levando a uma das ma
 - **Castelo de Wartburg (Eisenach), Alemanha:** Onde cresceu, se casou e viveu a maior parte do seu tempo como condessa, realizando grandes obras de caridade.
 - **Marburgo, Alemanha:** Para onde foi exilada após a morte do marido e onde construiu seu hospital e serviu os doentes até morrer.
 
+<MiracleMap :items='[
+  { lat: 48.1486, lng: 17.1077, type: "nascimento", title: "Bratislava (antiga Pozsony), Eslováquia/Hungria", description: "Um dos locais apontados como de seu nascimento." },
+  { lat: 50.9667, lng: 10.3061, type: "vida", title: "Castelo de Wartburg, Eisenach, Alemanha", description: "Onde viveu como condessa da Turíngia, servindo os pobres da região." },
+  { lat: 50.8143, lng: 8.7712, type: "morte", title: "Marburgo, Alemanha", description: "Local onde construiu seu hospital, morreu e onde está sua imponente igreja." }
+]' />
+
 ## Impacto Hoje
 
 Santa Isabel da Hungria é uma das santas mais queridas da Europa e um símbolo duradouro do cuidado e da devoção incondicional aos menos favorecidos. Ela é a padroeira das enfermeiras, padeiros, noivas, viúvas e da Ordem Terceira de São Francisco. Seu exemplo inspirou a criação de inúmeras instituições de caridade e congregações religiosas pelo mundo dedicadas ao cuidado de doentes e idosos (frequentemente chamadas de congregações das "Irmãs de Santa Isabel"). A caridade ativa que ela encarnava, unida a um profundo amor conjugal enquanto casada, é amplamente celebrada na Igreja.
-
-<MiracleMap
-  :locations="[
-    { lat: 48.1486, lng: 17.1077, title: 'Bratislava (antiga Pozsony), Eslováquia/Hungria', description: 'Um dos locais apontados como de seu nascimento.' },
-    { lat: 50.9667, lng: 10.3061, title: 'Castelo de Wartburg, Eisenach, Alemanha', description: 'Onde viveu como condessa da Turíngia, servindo os pobres da região.' },
-    { lat: 50.8143, lng: 8.7712, title: 'Marburgo, Alemanha', description: 'Local onde construiu seu hospital, morreu e onde está sua imponente igreja.' }
-  ]"
-/>

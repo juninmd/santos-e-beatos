@@ -1,13 +1,18 @@
+---
+title: Santa Josefina Bakhita
+description: Biografia, milagres, curiosidades e mapa de Santa Josefina Bakhita.
+---
+
 # Santa Josefina Bakhita
 
-![Santa Josefina Bakhita](./imagens/portrait.jpg)
+![Santa Josefina Bakhita](imagens/portrait.jpg)
 
-**"A Virgem me protegeu, mesmo quando eu não a conhecia."**
+> "A Virgem me protegeu, mesmo quando eu não a conhecia."
 
-**Nascimento:** 1869, Olgossa, Darfur, Sudão<br>
-**Morte:** 8 de fevereiro de 1947, Schio, Itália<br>
-**Festa Litúrgica:** 8 de fevereiro<br>
-**Canonização:** 1 de outubro de 2000, pelo Papa João Paulo II<br>
+- **Nascimento:** 1869, Olgossa, Darfur, Sudão
+- **Morte:** 8 de fevereiro de 1947, Schio, Itália
+- **Canonização:** 1 de outubro de 2000, pelo Papa João Paulo II
+- **Festa Litúrgica:** 8 de fevereiro
 
 <TextToSpeech />
 
@@ -52,11 +57,11 @@ Após sua morte, começaram a ser relatados inúmeros milagres. Entre os que lev
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 13.626, lng: 24.894, title: "Darfur, Sudão", description: "Região onde nasceu e viveu até ser sequestrada e escravizada." },
-  { lat: 15.5007, lng: 32.5599, title: "Cartum, Sudão", description: "Onde foi vendida e eventualmente comprada pelo cônsul italiano, iniciando sua libertação." },
-  { lat: 45.4408, lng: 12.3155, title: "Veneza, Itália", description: "Conheceu as Irmãs Canossianas, foi batizada e encontrou a verdadeira liberdade." },
-  { lat: 45.4384, lng: 10.9916, title: "Verona, Itália", description: "Onde fez seus primeiros votos religiosos." },
-  { lat: 45.7148, lng: 11.3569, title: "Schio, Itália", description: "Viveu a maior parte de sua vida religiosa e onde faleceu amada por toda a cidade." }
+  { lat: 13.626, lng: 24.894, type: "nascimento", title: "Darfur, Sudão", description: "Região onde nasceu e viveu até ser sequestrada e escravizada." },
+  { lat: 15.5007, lng: 32.5599, type: "vida", title: "Cartum, Sudão", description: "Onde foi vendida e eventualmente comprada pelo cônsul italiano, iniciando sua libertação." },
+  { lat: 45.4408, lng: 12.3155, type: "vida", title: "Veneza, Itália", description: "Conheceu as Irmãs Canossianas, foi batizada e encontrou a verdadeira liberdade." },
+  { lat: 45.4384, lng: 10.9916, type: "vida", title: "Verona, Itália", description: "Onde fez seus primeiros votos religiosos." },
+  { lat: 45.7148, lng: 11.3569, type: "morte", title: "Schio, Itália", description: "Viveu a maior parte de sua vida religiosa e onde faleceu amada por toda a cidade." }
 ]' />
 
 ## Impacto Hoje
