@@ -131,5 +131,6 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Stefan Wyszyński](beato-stefan-wyszynski/index.md)
 - [Beato Tiago Alberione](beato-tiago-alberione/index.md)
 - [Beato Tiago de Voragine](beato-tiago-de-voragine/index.md)
+- [Beato Tito Zeman](beato-tito-zeman/index.md)
 - [Beato Urbano V](beato-urbano-v/index.md)
 - [Beato Zeferino Namuncurá](beato-zeferino-namuncura/index.md)

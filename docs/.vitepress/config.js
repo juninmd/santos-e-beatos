@@ -54,7 +54,7 @@ export default {
             { text: 'Beato Clemente August von Galen', link: '/beatos/beato-clemente-august-von-galen/' },
             { text: 'Beato Clemente Marchisio', link: '/beatos/beato-clemente-marchisio/' },
             { text: 'Beato Columba Marmion', link: '/beatos/beato-columba-marmion/' },
-            { text: 'Beata Concepción Cabrera de Armida (Conchita)', link: '/beatos/beata-maria-da-conceicao/' },
+            { text: 'Beata Conceição da Igreja', link: '/beatos/beata-conceicao-da-igreja/' },
             { text: 'Beato Contardo Ferrini', link: '/beatos/beato-contardo-ferrini/' },
             { text: 'Beata Dina Bélanger', link: '/beatos/beata-dina-belanger/' },
             { text: 'Beato Eduardo Pironio', link: '/beatos/beato-eduardo-pironio/' },
@@ -147,6 +147,7 @@ export default {
             { text: 'Beato Stefan Wyszyński', link: '/beatos/beato-stefan-wyszynski/' },
             { text: 'Beato Tiago Alberione', link: '/beatos/beato-tiago-alberione/' },
             { text: 'Beato Tiago de Voragine', link: '/beatos/beato-tiago-de-voragine/' },
+            { text: 'Beato Tito Zeman', link: '/beatos/beato-tito-zeman/' },
             { text: 'Beato Urbano V', link: '/beatos/beato-urbano-v/' },
             { text: 'Beato Zeferino Namuncurá', link: '/beatos/beato-zeferino-namuncura/' }
           ]
