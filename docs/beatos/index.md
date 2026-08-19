@@ -107,6 +107,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Miguel Pro](beato-miguel-pro/index.md)
 - [Beato Miguel Rua](beato-miguel-rua/index.md)
 - [Beato Miguel Sopoćko](beato-miguel-sopocko/index.md)
+- [Beato Miroslav Bulešić](beato-miroslav-bulesic/index.md)
 - [Beato Moisés Lira](beato-moises-lira/index.md)
 - [Beata Nhá Chica](nha-chica/index.md)
 - [Venerável Nicola D'Onofrio](beato-nicola-donofrio/index.md)

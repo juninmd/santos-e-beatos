@@ -74,6 +74,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São João Damasceno](sao-joao-damasceno/index.md)
 - [São João de Ávila](sao-joao-de-avila/index.md)
 - [São João de Brito](sao-joao-de-brito/index.md)
+- [São João de Capistrano](sao-joao-de-capistrano/index.md)
 - [São João de Deus](sao-joao-de-deus/index.md)
 - [São João Diego Cuauhtlatoatzin](sao-joao-diego/index.md)
 - [São João Eudes](sao-joao-eudes/index.md)
