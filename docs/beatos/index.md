@@ -117,6 +117,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Padre Eustáquio](beato-padre-eustaquio/index.md)
 - [Beato Padre Victor](padre-victor/index.md)
 - [Beata Paulina Jaricot](beata-paulina-jaricot/index.md)
+- [Beato Pedro Vigne](beato-pedro-vigne/index.md)
 - [Beata Pina Suriano](beata-pina-suriano/index.md)
 - [Beato Pino Puglisi](beato-pino-puglisi/index.md)
 - [Beato Pio IX](beato-pio-ix/index.md)
