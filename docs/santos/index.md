@@ -95,6 +95,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
 - [Santa Kateri Tekakwitha](santa-kateri-tekakwitha/index.md)
 - [São Longuinho](sao-longuinho/index.md)
+- [São Leão Magno](sao-leao-magno/index.md)
 - [São Lourenço](sao-lourenco/index.md)
 - [São Lucas](sao-lucas/index.md)
 - [São Luís Gonzaga](sao-luis-gonzaga/index.md)
