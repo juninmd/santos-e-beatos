@@ -123,6 +123,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Pio IX](beato-pio-ix/index.md)
 - [Beata Rita Amada de Jesus](beata-rita-amada-de-jesus/index.md)
 - [Beato Rolando Rivi](beato-rolando-rivi/index.md)
+- [Beata Rosália Rendu](beata-rosalia-rendu/index.md)
 - [Beato Rosário Livatino](beato-rosario-livatino/index.md)
 - [Beato Rupert Mayer](beato-rupert-mayer/index.md)
 - [Beato Rutilio Grande](beato-rutilio-grande/index.md)

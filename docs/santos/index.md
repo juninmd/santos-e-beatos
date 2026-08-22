@@ -133,6 +133,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Rita de Cássia](santa-rita-de-cassia/index.md)
 - [São Roberto Belarmino](sao-roberto-belarmino/index.md)
 - [Santa Rosa de Lima](santa-rosa-de-lima/index.md)
+- [São Roque](sao-roque/index.md)
 - [São Sebastião](sao-sebastiao/index.md)
 - [São Simão](sao-simao/index.md)
 - [São Tarcísio](sao-tarcisio/index.md)

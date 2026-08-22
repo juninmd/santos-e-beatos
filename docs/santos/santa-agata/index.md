@@ -1,12 +1,18 @@
+---
+title: Santa Ágata
+description: Biografia, milagres, curiosidades e mapa de Santa Ágata.
+---
+
 # Santa Ágata
 
-![Santa Ágata](imagens/portrait.jpg)
+![Santa Ágata](./imagens/portrait.jpg)
 
-**"A virgem mártir de Catânia, protetora contra o fogo e padroeira das doenças da mama."**<br>
-**Nascimento:** c. 231 (Catânia, Sicília, Império Romano)<br>
-**Morte:** c. 251 (Catânia, Sicília, Império Romano)<br>
-**Canonização:** Pré-Congregação (Reconhecida nos primeiros séculos)<br>
-**Festa Litúrgica:** 5 de fevereiro<br>
+> "A virgem mártir de Catânia, protetora contra o fogo e padroeira das doenças da mama."
+
+- **Nascimento:** c. 231 (Catânia, Sicília, Império Romano)
+- **Morte:** c. 251 (Catânia, Sicília, Império Romano)
+- **Canonização:** Pré-Congregação (Reconhecida nos primeiros séculos)
+- **Festa Litúrgica:** 5 de fevereiro
 
 ---
 
@@ -42,10 +48,6 @@ No dia seguinte, ao ver que Ágata estava completamente curada, Quinciano ordeno
 Hoje, Santa Ágata é invocada por muitas mulheres em todo o mundo que lutam contra o câncer de mama, buscando sua intercessão para conforto e cura. Além disso, a sua festa, de 3 a 5 de fevereiro em Catânia, é uma das maiores festas religiosas do mundo, reunindo milhares de fiéis para honrar sua memória e sua bravura inabalável.
 
 <MiracleMap :items='[
-  {
-    lat: 37.5021,
-    lng: 15.0873,
-    title: "Catedral de Santa Ágata",
-    description: "Catedral dedicada a Santa Ágata em Catânia, onde suas relíquias são veneradas até os dias de hoje."
-  }
+  { lat: 37.5021, lng: 15.0873, title: "Nascimento em Catânia", description: "Catedral dedicada a Santa Ágata em Catânia, onde suas relíquias são veneradas até os dias de hoje.", type: "nascimento" },
+  { lat: 37.5020, lng: 15.0870, title: "Morte em Catânia", description: "Local de seu martírio em Catânia.", type: "morte" }
 ]' />
