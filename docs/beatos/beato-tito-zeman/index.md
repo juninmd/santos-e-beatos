@@ -1,12 +1,18 @@
+---
+title: Beato Tito Zeman
+description: Biografia, milagres, curiosidades e mapa do Beato Tito Zeman.
+---
+
 # Beato Tito Zeman
 
-![Beato Tito Zeman](imagens/portrait.jpg)
+![Beato Tito Zeman](./imagens/portrait.jpg)
 
-**"Sacerdote salesiano que sacrificou a vida para salvar vocações na época da perseguição comunista."**<br>
-**Nascimento:** 4 de janeiro de 1915 (Vajnory, Bratislava, Áustria-Hungria)<br>
-**Morte:** 8 de janeiro de 1969 (Bratislava, Tchecoslováquia)<br>
-**Beatificação:** 30 de setembro de 2017<br>
-**Festa Litúrgica:** 8 de janeiro<br>
+> "Sacerdote salesiano que sacrificou a vida para salvar vocações na época da perseguição comunista."
+
+- **Nascimento:** 4 de janeiro de 1915 (Vajnory, Bratislava, Áustria-Hungria)
+- **Morte:** 8 de janeiro de 1969 (Bratislava, Tchecoslováquia)
+- **Beatificação:** 30 de setembro de 2017
+- **Festa Litúrgica:** 8 de janeiro
 
 ---
 
@@ -44,10 +50,6 @@ A beatificação do Beato Tito Zeman foi fundamentada não por um milagre, mas p
 Hoje, o Beato Tito Zeman é visto como um mártir das vocações e um herói da liberdade religiosa. O seu profundo sacrifício pelos jovens e por sua formação serve de poderoso testemunho, inspirando tanto seminaristas em todo o mundo quanto cristãos que vivem em países que ainda reprimem a liberdade de religião.
 
 <MiracleMap :items='[
-  {
-    lat: 48.2045,
-    lng: 17.2023,
-    title: "Vajnory, Bratislava",
-    description: "Cidade natal do Beato Tito Zeman e local de seu descanso, um ponto de devoção na Eslováquia."
-  }
+  { lat: 48.2045, lng: 17.2023, title: "Nascimento em Vajnory", description: "Cidade natal do Beato Tito Zeman, um ponto de devoção na Eslováquia.", type: "nascimento" },
+  { lat: 48.1486, lng: 17.1077, title: "Morte em Bratislava", description: "Local de seu falecimento e descanso final.", type: "morte" }
 ]' />
