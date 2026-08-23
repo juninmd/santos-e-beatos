@@ -81,6 +81,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São João Evangelista](sao-joao-evangelista/index.md)
 - [São João Macías](sao-joao-macias/index.md)
 - [São João Maria Vianney](sao-joao-maria-vianney/index.md)
+- [São João Neumann](sao-joao-neumann/index.md)
 - [São João Paulo II](sao-joao-paulo-ii/index.md)
 - [São João XXIII](sao-joao-xxiii/index.md)
 - [São Jorge](sao-jorge/index.md)
