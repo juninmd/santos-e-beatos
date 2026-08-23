@@ -89,6 +89,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Maria Assunta Pallotta](beata-maria-assunta-pallotta/index.md)
 - [Beata Maria Bolognesi](beata-maria-bolognesi/index.md)
 - [Beata Maria Cândida da Eucaristia](beata-maria-candida-da-eucaristia/index.md)
+- [Beata Maria Celeste Crostarosa](beata-maria-celeste-crostarosa/index.md)
 - [Beata Maria Clara do Menino Jesus](beata-maria-clara-do-menino-jesus/index.md)
 - [Beata Maria Cristina de Saboia](beata-maria-cristina-de-saboia/index.md)
 - [Beata Maria da Paixão](beata-maria-da-paixao/index.md)
