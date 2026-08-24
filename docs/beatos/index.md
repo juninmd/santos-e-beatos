@@ -41,6 +41,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Concepción Cabrera de Armida (Conchita)](beata-maria-da-conceicao/index.md)
 - [Beato Contardo Ferrini](beato-contardo-ferrini/index.md)
 - [Beata Dina Bélanger](beata-dina-belanger/index.md)
+- [Beato Domingos da Mãe de Deus](beato-domingos-da-mae-de-deus/index.md)
 - [Beato Eduardo Pironio](beato-eduardo-pironio/index.md)
 - [Beata Edviges Carboni](beata-edviges-carboni/index.md)
 - [Beata Elena Aiello](beata-elena-aiello/index.md)

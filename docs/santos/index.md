@@ -64,6 +64,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Inês](santa-ines/index.md)
 - [Santo Ireneu de Lyon](santo-ireneu-de-lyon/index.md)
 - [Santa Isabel da Hungria](santa-isabel-da-hungria/index.md)
+- [Santo Isidoro de Sevilha](santo-isidoro-de-sevilha/index.md)
 - [São Jerônimo](sao-jeronimo/index.md)
 - [Santa Joana d'Arc](santa-joana-d-arc/index.md)
 - [Santa Joana de Chantal](santa-joana-de-chantal/index.md)
