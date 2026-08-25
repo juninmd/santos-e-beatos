@@ -49,6 +49,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Eurosia Fabris](beata-eurosia-fabris/index.md)
 - [Beato Filipe Rinaldi](beato-filipe-rinaldi/index.md)
 - [Beato Fra Angelico (João de Fiesole)](beato-fra-angelico/index.md)
+- [Beato Francisco Gárate](beato-francisco-garate/index.md)
 - [Beato Francisco Jordan](beato-francisco-jordan/index.md)
 - [Beato Francisco Palau](beato-francisco-palau/index.md)
 - [Beato Franz Jägerstätter](beato-franz-jagerstatter/index.md)
