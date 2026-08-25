@@ -147,6 +147,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Tiago Maior](sao-tiago-maior/index.md)
 - [São Tiago Menor](sao-tiago-menor/index.md)
 - [São Tomás de Aquino](sao-tomas-de-aquino/index.md)
+- [São Tomás Becket](sao-tomas-becket/index.md)
 - [São Tomás de Vilanova](sao-tomas-de-vilanova/index.md)
 - [São Tomás More](sao-tomas-more/index.md)
 - [São Tomé](sao-tome/index.md)
