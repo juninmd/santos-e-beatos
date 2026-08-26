@@ -73,6 +73,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato João Paulo I](beato-joao-paulo-i/index.md)
 - [Beato João Schiavo](beato-joao-schiavo/index.md)
 - [Beato Jordão da Saxônia](beato-jordao-da-saxonia/index.md)
+- [Beato José Gregório Hernández](beato-jose-gregorio-hernandez/index.md)
 - [Beato Justo Takayama Ukon](beato-justo-takayama-ukon/index.md)
 - [Beato Karl Leisner](beato-karl-leisner/index.md)
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
