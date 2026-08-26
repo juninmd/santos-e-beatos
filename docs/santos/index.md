@@ -69,6 +69,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Joana d'Arc](santa-joana-d-arc/index.md)
 - [Santa Joana de Chantal](santa-joana-de-chantal/index.md)
 - [São João Batista](sao-joao-batista/index.md)
+- [São João Batista de La Salle](sao-joao-batista-de-la-salle/index.md)
 - [São João Bosco](sao-joao-bosco/index.md)
 - [São João Crisóstomo](sao-joao-crisostomo/index.md)
 - [São João da Cruz](sao-joao-da-cruz/index.md)
