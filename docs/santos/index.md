@@ -13,6 +13,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [Santo Antônio de Pádua](santo-antonio/index.md)
 - [Santo Antônio de Sant'Ana Galvão](santo-antonio-de-santana-galvao/index.md)
 - [Santo Antônio Maria Claret](santo-antonio-maria-claret/index.md)
+- [Santa Apolônia](santa-apolonia/index.md)
 - [Santa Bárbara](santa-barbara/index.md)
 - [São Bartolo Longo](sao-bartolo-longo/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
