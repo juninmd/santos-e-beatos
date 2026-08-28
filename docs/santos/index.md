@@ -104,6 +104,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Lucas](sao-lucas/index.md)
 - [São Luís Gonzaga](sao-luis-gonzaga/index.md)
 - [São Luís Maria Grignion de Montfort](sao-luis-maria-grignion-de-montfort/index.md)
+- [São Luís Orione](sao-luis-orione/index.md)
 - [Santa Luzia](santa-luzia/index.md)
 - [São Marcos](sao-marcos/index.md)
 - [Santa Margarida Maria Alacoque](santa-margarida-maria-alacoque/index.md)
