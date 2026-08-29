@@ -81,6 +81,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
 - [Beato Lojze Grozde](beato-lojze-grozde/index.md)
+- [Beato Luca Passi](beato-luca-passi/index.md)
 - [Beato Luigi Beltrame Quattrocchi](beato-luigi-beltrame-quattrocchi/index.md)
 - [Beato Luigi Monza](beato-luigi-monza/index.md)
 - [Beato Luigi Novarese](beato-luigi-novarese/index.md)

@@ -155,6 +155,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Tomás More](sao-tomas-more/index.md)
 - [São Tomé](sao-tome/index.md)
 - [São Valentim](sao-valentim/index.md)
+- [São Venceslau](sao-venceslau/index.md)
 - [São Vicente de Paulo](sao-vicente-de-paulo/index.md)
 - [São Vicente Ferrer](sao-vicente-ferrer/index.md)
 - [São Vicente Pallotti](sao-vicente-pallotti/index.md)
