@@ -29,6 +29,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Camilo de Lellis](sao-camilo-de-lellis/index.md)
 - [São Carlo Acutis](carlo-acutis/index.md)
 - [São Carlos Borromeu](sao-carlos-borromeu/index.md)
+- [São Carlos Lwanga](sao-carlos-lwanga/index.md)
 - [Santa Catarina de Sena](santa-catarina-de-sena/index.md)
 - [Santa Catarina Labouré](santa-catarina-laboure/index.md)
 - [Santa Cecília](santa-cecilia/index.md)
