@@ -55,6 +55,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Francisco Gárate](beato-francisco-garate/index.md)
 - [Beato Francisco Jordan](beato-francisco-jordan/index.md)
 - [Beato Francisco Palau](beato-francisco-palau/index.md)
+- [Beato Francisco Xavier Seelos](beato-francisco-xavier-seelos/index.md)
 - [Beato Franz Jägerstätter](beato-franz-jagerstatter/index.md)
 - [Beato Giuseppe Toniolo](beato-giuseppe-toniolo/index.md)
 - [Beato Gonçalo de Amarante](beato-goncalo-de-amarante/index.md)
