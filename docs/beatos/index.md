@@ -4,6 +4,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
+- [Beato Alano de la Roche](beato-alano-de-la-roche/index.md)
 - [Beata Albertina Berkenbrock](beata-albertina-berkenbrock/index.md)
 - [Beato Alberto Marvelli](beato-alberto-marvelli/index.md)
 - [Beata Alexandrina de Balasar](alexandrina-de-balasar/index.md)

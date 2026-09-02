@@ -57,6 +57,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Francisco Xavier](sao-francisco-xavier/index.md)
 - [São Gabriel de Nossa Senhora das Dores](sao-gabriel-de-nossa-senhora-das-dores/index.md)
 - [Santa Gemma Galgani](santa-gemma-galgani/index.md)
+- [Santa Genoveva](santa-genoveva/index.md)
 - [São Geraldo Majella](sao-geraldo-majella/index.md)
 - [Santa Gianna Beretta Molla](santa-gianna-beretta-molla/index.md)
 - [São Gregório Magno](sao-gregorio-magno/index.md)

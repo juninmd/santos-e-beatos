@@ -20,6 +20,7 @@ export default {
           items: [
             { text: 'Beato Adílio Daronch', link: '/beatos/beato-adilio-daronch/' },
             { text: 'Beato Agostinho Kazotić', link: '/beatos/beato-agostinho-kazotic/' },
+            { text: 'Beato Alano de la Roche', link: '/beatos/beato-alano-de-la-roche/' },
             { text: 'Beata Albertina Berkenbrock', link: '/beatos/beata-albertina-berkenbrock/' },
             { text: 'Beato Alberto Marvelli', link: '/beatos/beato-alberto-marvelli/' },
             { text: 'Beata Alexandrina de Balasar', link: '/beatos/alexandrina-de-balasar/' },
@@ -225,6 +226,7 @@ export default {
             { text: 'São Francisco Xavier', link: '/santos/sao-francisco-xavier/' },
             { text: 'São Gabriel de Nossa Senhora das Dores', link: '/santos/sao-gabriel-de-nossa-senhora-das-dores/' },
             { text: 'Santa Gemma Galgani', link: '/santos/santa-gemma-galgani/' },
+            { text: 'Santa Genoveva', link: '/santos/santa-genoveva/' },
             { text: 'São Geraldo Majella', link: '/santos/sao-geraldo-majella/' },
             { text: 'Santa Gianna Beretta Molla', link: '/santos/santa-gianna-beretta-molla/' },
             { text: 'São Gregório Magno', link: '/santos/sao-gregorio-magno/' },
