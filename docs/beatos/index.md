@@ -16,6 +16,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Ana dos Anjos Monteagudo](beata-ana-dos-anjos-monteagudo/index.md)
 - [Beato Anacleto González Flores](beato-anacleto-gonzalez-flores/index.md)
 - [Beata Anna Maria Taigi](beata-anna-maria-taigi/index.md)
+- [Beata Anna Kolesárová](beata-anna-kolesarova/index.md)
 - [Beata Anna Rosa Gattorno](beata-anna-rosa-gattorno/index.md)
 - [Beata Antônia Mesina](beata-antonia-mesina/index.md)
 - [Venerável Antonietta Meo (Nennolina)](beata-antonieta-meo/index.md)
