@@ -1,13 +1,20 @@
+---
+title: Santo Antônio de Pádua
+description: Biografia, milagres, curiosidades e mapa de Santo Antônio de Pádua.
+---
+
 # Santo Antônio de Pádua
 
 ![Santo Antônio de Pádua](imagens/santo-antonio.jpg)
 
-**"O Santo Casamenteiro e Doutor da Igreja"**
+> "O Santo Casamenteiro e Doutor da Igreja"
 
-**Nascimento:** 15 de agosto de 1195 (Lisboa, Portugal)
-**Morte:** 13 de junho de 1231 (Pádua, Itália)
-**Canonização:** 30 de maio de 1232, pelo Papa Gregório IX
-**Festa Litúrgica:** 13 de junho
+- **Nascimento:** 15 de agosto de 1195 (Lisboa, Portugal)
+- **Morte:** 13 de junho de 1231 (Pádua, Itália)
+- **Canonização:** 30 de maio de 1232, pelo Papa Gregório IX
+- **Festa Litúrgica:** 13 de junho
+
+<TextToSpeech />
 
 ---
 
@@ -42,6 +49,11 @@ Inúmeros milagres são atribuídos a Santo Antônio, tanto em vida quanto após
 ## Cidades por onde passou
 
 Além de Lisboa e Coimbra em Portugal, Antônio viajou extensivamente pela Itália (Assis, Bolonha, Pádua, Roma) e pelo sul da França (Montpellier, Toulouse, Arles), pregando e ensinando.
+
+<MiracleMap :items='[
+  { lat: 38.7121, lng: -9.1401, type: "nascimento", title: "Lisboa, Portugal", description: "Local de nascimento (15 de agosto de 1195)." },
+  { lat: 45.4064, lng: 11.8768, type: "morte", title: "Pádua, Itália", description: "Local da morte (13 de junho de 1231)." }
+]' />
 
 ## Impacto Hoje
 

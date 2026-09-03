@@ -1,26 +1,22 @@
 ---
 title: São Patrício
-description: História de São Patrício, o Apóstolo da Irlanda.
+description: Biografia, milagres, curiosidades e mapa de São Patrício.
 ---
 
 # São Patrício
 
-<div class="hero-header">
-    <img src="./imagens/portrait.jpg" alt="São Patrício" class="portrait"/>
-    <div class="hero-info">
-        <div class="quote">
-            <p>“Cristo comigo, Cristo à minha frente, Cristo atrás de mim, Cristo em mim.”</p>
-        </div>
-        <div class="metadata">
-            <p><strong>Nascimento:</strong> 385 (Britânia Romana)</p>
-            <p><strong>Morte:</strong> 17 de março de 461 (Saul, Irlanda)</p>
-            <p><strong>Canonização:</strong> Pré-congregação</p>
-            <p><strong>Festa Litúrgica:</strong> 17 de março</p>
-        </div>
-    </div>
-</div>
+![São Patrício](imagens/portrait.jpg)
+
+> "Cristo comigo, Cristo à minha frente, Cristo atrás de mim, Cristo em mim."
+
+- **Nascimento:** 385 (Britânia Romana)
+- **Morte:** 17 de março de 461 (Saul, Irlanda)
+- **Canonização:** Pré-congregação
+- **Festa Litúrgica:** 17 de março
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -51,19 +47,19 @@ Muitos milagres são atribuídos a São Patrício:
 - **Cor Azul:** Originalmente, a cor associada a São Patrício era o azul, não o verde. O uso do verde tornou-se popular mais tarde, associado ao trevo e ao movimento nacionalista irlandês.
 - **Lórica de São Patrício:** Uma famosa oração de proteção atribuída a ele, conhecida como "O Peitoral de São Patrício", pede a proteção de Deus em todas as direções.
 
-## Cidades que passou
-
+## Cidades por onde passou
 - **Slemish:** Montanha onde pastoreou ovelhas durante seu cativeiro.
 - **Slane:** Local onde acendeu o Fogo Pascal.
 - **Armagh:** Cidade onde fundou sua principal igreja e que se tornou o centro eclesiástico da Irlanda.
 - **Saul:** Local onde fundou sua primeira igreja e onde se acredita que morreu.
 
-<MiracleMap :places="[
-  { name: 'Slemish Mountain', coords: [54.897, -6.103], description: 'Local de seu cativeiro e pastoreio.' },
-  { name: 'Colina de Slane', coords: [53.714, -6.556], description: 'Onde acendeu o Fogo Pascal desafiando o rei.' },
-  { name: 'Armagh', coords: [54.349, -6.654], description: 'Centro eclesiástico fundado por São Patrício.' },
-  { name: 'Saul', coords: [54.331, -5.689], description: 'Local de sua morte e primeira igreja.' }
-]" />
+<MiracleMap :items='[
+  { lat: 54.3556, lng: -3.4083, type: "nascimento", title: "Britânia Romana", description: "Local de nascimento (385)." },
+  { lat: 54.897, lng: -6.103, type: "vida", title: "Slemish Mountain", description: "Local de seu cativeiro e pastoreio." },
+  { lat: 53.714, lng: -6.556, type: "vida", title: "Colina de Slane", description: "Onde acendeu o Fogo Pascal desafiando o rei." },
+  { lat: 54.349, lng: -6.654, type: "vida", title: "Armagh", description: "Centro eclesiástico fundado por São Patrício." },
+  { lat: 54.331, lng: -5.689, type: "morte", title: "Saul", description: "Local de sua morte e primeira igreja." }
+]' />
 
 ## Impacto Hoje
 

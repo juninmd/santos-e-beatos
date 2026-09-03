@@ -1,15 +1,22 @@
+---
+title: Santa Margarida Maria Alacoque
+description: Biografia, milagres, curiosidades e mapa de Santa Margarida Maria Alacoque.
+---
+
 # Santa Margarida Maria Alacoque
 
-![Santa Margarida Maria Alacoque](./imagens/portrait.jpg)
+![Santa Margarida Maria Alacoque](imagens/portrait.jpg)
 
-**"A mensageira do Sagrado Coração de Jesus"**
+> "A mensageira do Sagrado Coração de Jesus"
 
-**Nascimento:** 22 de julho de 1647, Borgonha (França)<br>
-**Morte:** 17 de outubro de 1690, Paray-le-Monial (França)<br>
-**Canonização:** 13 de maio de 1920, por Papa Bento XV<br>
-**Festa Litúrgica:** 16 de outubro
+- **Nascimento:** 22 de julho de 1647, Borgonha (França)
+- **Morte:** 17 de outubro de 1690, Paray-le-Monial (França)
+- **Canonização:** 13 de maio de 1920, por Papa Bento XV
+- **Festa Litúrgica:** 16 de outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -35,8 +42,8 @@ Os principais "milagres" associados a Santa Margarida Maria em vida envolvem sua
 Sua vida foi marcada pela interioridade e reclusão, não tendo um perfil de missionária viajante, mas vivendo profundamente sua entrega a Deus no Mosteiro da Visitação.
 
 <MiracleMap :items='[
-  { lat: 46.4258, lng: 4.4539, title: "Verosvres, Borgonha, França", description: "Local de seu nascimento e onde viveu as dificuldades em sua infância." },
-  { lat: 46.4526, lng: 4.1200, title: "Paray-le-Monial, Borgonha, França", description: "Onde ela entrou para a Ordem da Visitação e teve as revelações do Sagrado Coração." }
+  { lat: 46.4258, lng: 4.4539, type: "nascimento", title: "Verosvres, Borgonha, França", description: "Local de seu nascimento e onde viveu as dificuldades em sua infância." },
+  { lat: 46.4526, lng: 4.12, type: "morte", title: "Paray-le-Monial, Borgonha, França", description: "Onde ela entrou para a Ordem da Visitação e teve as revelações do Sagrado Coração. Local da morte (17 de outubro de 1690)." }
 ]' />
 
 ## Impacto Hoje

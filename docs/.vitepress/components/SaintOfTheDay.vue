@@ -3,6 +3,20 @@ import { data } from '../../saints.data.js'
 import { onMounted, ref } from 'vue'
 import { inBrowser } from 'vitepress'
 
+// O build renomeia as imagens para /assets com hash; este mapa liga o caminho
+// de origem à URL final. Sem ele, a foto do santo do dia quebra em produção.
+const imagens = import.meta.glob('../../{santos,beatos}/*/imagens/*.{jpg,jpeg,png,webp,svg}', {
+  eager: true,
+  query: '?url',
+  import: 'default'
+})
+
+const resolverImagem = (caminho) => {
+  if (!caminho) return ''
+  if (/^https?:/.test(caminho)) return caminho
+  return imagens[`../../${caminho}`] || ''
+}
+
 const featuredSaint = ref(null)
 const imageSrc = ref('')
 
@@ -58,9 +72,7 @@ onMounted(() => {
   }
 
   featuredSaint.value = saint
-  if (saint && saint.image) {
-    imageSrc.value = saint.url + saint.image
-  }
+  imageSrc.value = resolverImagem(saint?.image)
 })
 
 </script>
@@ -69,7 +81,7 @@ onMounted(() => {
   <div v-if="featuredSaint" class="saint-of-day">
     <h3>{{ featuredSaint.label }}</h3>
     <div class="content">
-      <div class="image-container">
+      <div v-if="imageSrc" class="image-container">
         <img :src="imageSrc" :alt="featuredSaint.title" />
       </div>
       <div class="info">

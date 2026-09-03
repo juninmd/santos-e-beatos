@@ -1,13 +1,18 @@
+---
+title: Santa Dulce dos Pobres
+description: Biografia, milagres, curiosidades e mapa de Santa Dulce dos Pobres.
+---
+
 # Santa Dulce dos Pobres
 
-![Santa Dulce dos Pobres](https://placehold.co/400x600/png?text=Santa+Dulce+dos+Pobres)
+![Santa Dulce dos Pobres](imagens/retrato.svg)
 
-**"O Anjo Bom da Bahia"**
+> "O Anjo Bom da Bahia"
 
-**Nascimento:** 26 de maio de 1914, Salvador (Brasil)
-**Morte:** 13 de março de 1992, Salvador (Brasil)
-**Festa Litúrgica:** 13 de agosto
-**Canonização:** 13 de outubro de 2019, pelo Papa Francisco
+- **Nascimento:** 26 de maio de 1914, Salvador (Brasil)
+- **Morte:** 13 de março de 1992, Salvador (Brasil)
+- **Canonização:** 13 de outubro de 2019, pelo Papa Francisco
+- **Festa Litúrgica:** 13 de agosto
 
 <TextToSpeech />
 
@@ -42,8 +47,9 @@ Para a canonização, o Vaticano reconheceu a cura milagrosa de um homem cego h�
 Viveu e realizou toda a sua obra em Salvador, Bahia, onde fundou o Hospital Santo Antônio e onde seu corpo repousa.
 
 <MiracleMap :items='[
-  { lat: -12.9777, lng: -38.5016, title: "Salvador, Bahia", description: "Cidade onde nasceu, viveu e construiu sua imensa obra de caridade." },
-  { lat: -12.9366, lng: -38.5041, title: "Santuário Santa Dulce", description: "Local onde está seu túmulo e a sede das Obras Sociais." }
+  { lat: -12.9777, lng: -38.5016, type: "nascimento", title: "Salvador, Bahia", description: "Cidade onde nasceu, viveu e construiu sua imensa obra de caridade." },
+  { lat: -12.9777, lng: -38.5016, type: "morte", title: "Salvador, Bahia", description: "Local da morte (13 de março de 1992)." },
+  { lat: -12.9366, lng: -38.5041, type: "tumulo", title: "Santuário Santa Dulce", description: "Local onde está seu túmulo e a sede das Obras Sociais." }
 ]' />
 
 ## Impacto Hoje

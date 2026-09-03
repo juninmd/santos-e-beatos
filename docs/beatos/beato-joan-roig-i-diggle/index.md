@@ -1,13 +1,18 @@
+---
+title: Beato Joan Roig i Diggle
+description: Biografia, milagres, curiosidades e mapa do Beato Joan Roig i Diggle.
+---
+
 # Beato Joan Roig i Diggle
 
 ![Beato Joan Roig i Diggle](imagens/portrait.jpg)
 
-**"Mártir da Guerra Civil Espanhola"**
+> "Mártir da Guerra Civil Espanhola"
 
-**Nascimento:** 12 de maio de 1917, Barcelona, Espanha<br>
-**Morte:** 11 de setembro de 1936, Santa Coloma de Gramenet, Espanha<br>
-**Festa Litúrgica:** 11 de setembro<br>
-**Beatificação:** 7 de novembro de 2020, pelo Papa Francisco (cerimônia presidida pelo Cardeal Juan José Omella)
+- **Nascimento:** 12 de maio de 1917, Barcelona, Espanha
+- **Morte:** 11 de setembro de 1936, Santa Coloma de Gramenet, Espanha
+- **Beatificação:** 7 de novembro de 2020, pelo Papa Francisco (cerimônia presidida pelo Cardeal Juan José Omella)
+- **Festa Litúrgica:** 11 de setembro
 
 <TextToSpeech />
 
@@ -43,14 +48,14 @@ Ele não precisou ter milagres diretamente aprovados pelo processo de canonizaç
 
 Joan morou principalmente em Barcelona e em cidades vizinhas como El Masnou, na Catalunha, onde cresceu e formou seu caráter religioso. Sua execução ocorreu em Santa Coloma de Gramenet.
 
+<MiracleMap :items='[
+  { lat: 41.3851, lng: 2.1734, type: "nascimento", title: "Barcelona, Espanha", description: "Local de nascimento e de grande atuação do Beato Joan." },
+  { lat: 41.4812, lng: 2.3168, type: "vida", title: "El Masnou, Catalunha", description: "Onde o beato desenvolveu uma parte formativa de sua vida religiosa entre os jovens." },
+  { lat: 41.45, lng: 2.2078, type: "morte", title: "Santa Coloma de Gramenet, Espanha", description: "Local do martírio de Joan Roig i Diggle em 1936." }
+]' />
+
 ## Impacto Hoje
 
 O Papa Francisco, ao falar sobre a beatificação de Joan Roig i Diggle em 2020, apontou o jovem leigo de 19 anos como um modelo brilhante da juventude e de como os cristãos são chamados a transformar o mundo de dentro para fora. A sua coragem ao proteger e se unir à Eucaristia ecoa diretamente as antigas tradições dos primeiros mártires, lembrando a muitos o apelo heróico que acompanha o compromisso cristão nas sociedades atuais cada vez mais descristianizadas.
 
 Na Espanha, ele é lembrado como o "Mártir do Sorriso", aquele cuja alegria em defender e transmitir a presença real da Eucaristia e promover a caridade permaneceu inabalável até seus últimos instantes de vida terrena.
-
-<MiracleMap :items='[
-  { lat: 41.3851, lng: 2.1734, title: "Barcelona, Espanha", description: "Local de nascimento e de grande atuação do Beato Joan." },
-  { lat: 41.4812, lng: 2.3168, title: "El Masnou, Catalunha", description: "Onde o beato desenvolveu uma parte formativa de sua vida religiosa entre os jovens." },
-  { lat: 41.4500, lng: 2.2078, title: "Santa Coloma de Gramenet, Espanha", description: "Local do martírio de Joan Roig i Diggle em 1936." }
-]' />

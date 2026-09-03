@@ -1,13 +1,18 @@
+---
+title: São Camilo de Lellis
+description: Biografia, milagres, curiosidades e mapa de São Camilo de Lellis.
+---
+
 # São Camilo de Lellis
 
 ![São Camilo de Lellis](imagens/sao-camilo.jpg)
 
-**"Mais coração nas mãos, irmãos!"**
+> "Mais coração nas mãos, irmãos!"
 
-**Nascimento:** 25 de maio de 1550, Bucchianico (Itália)
-**Morte:** 14 de julho de 1614, Roma (Itália)
-**Festa Litúrgica:** 14 de julho
-**Canonização:** 29 de junho de 1746, pelo Papa Bento XIV
+- **Nascimento:** 25 de maio de 1550, Bucchianico (Itália)
+- **Morte:** 14 de julho de 1614, Roma (Itália)
+- **Canonização:** 29 de junho de 1746, pelo Papa Bento XIV
+- **Festa Litúrgica:** 14 de julho
 
 <TextToSpeech />
 
@@ -46,9 +51,9 @@ Um fato notável foi durante uma inundação do rio Tibre em Roma: a água invad
 Camilo nasceu em Bucchianico, viveu sua conversão perto de Manfredonia e realizou sua grande obra em Roma.
 
 <MiracleMap :items='[
-  { lat: 42.3000, lng: 14.1167, title: "Bucchianico, Itália", description: "Local de nascimento de São Camilo." },
-  { lat: 41.9056, lng: 12.4776, title: "Roma, Itália", description: "Onde fundou sua ordem, trabalhou nos hospitais e faleceu." },
-  { lat: 41.6333, lng: 15.9167, title: "Manfredonia, Itália", description: "Região onde ocorreu sua conversão espiritual." }
+  { lat: 42.3, lng: 14.1167, type: "nascimento", title: "Bucchianico, Itália", description: "Local de nascimento de São Camilo." },
+  { lat: 41.6333, lng: 15.9167, type: "vida", title: "Manfredonia, Itália", description: "Região onde ocorreu sua conversão espiritual." },
+  { lat: 41.9056, lng: 12.4776, type: "morte", title: "Roma, Itália", description: "Onde fundou sua ordem, trabalhou nos hospitais e faleceu." }
 ]' />
 
 ## Impacto Hoje

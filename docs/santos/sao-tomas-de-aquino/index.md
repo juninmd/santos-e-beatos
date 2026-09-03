@@ -1,13 +1,18 @@
+---
+title: São Tomás de Aquino
+description: Biografia, milagres, curiosidades e mapa de São Tomás de Aquino.
+---
+
 # São Tomás de Aquino
 
 ![São Tomás de Aquino](imagens/portrait.jpg)
 
-**"O Doutor Angélico"**
+> "O Doutor Angélico"
 
-**Nascimento:** 1225, Roccasecca, Reino da Sicília (atual Itália)
-**Morte:** 7 de março de 1274, Abadia de Fossanova, Itália
-**Festa Litúrgica:** 28 de janeiro
-**Canonização:** 18 de julho de 1323, pelo Papa João XXII
+- **Nascimento:** 1225, Roccasecca, Reino da Sicília (atual Itália)
+- **Morte:** 7 de março de 1274, Abadia de Fossanova, Itália
+- **Canonização:** 18 de julho de 1323, pelo Papa João XXII
+- **Festa Litúrgica:** 28 de janeiro
 
 <TextToSpeech />
 
@@ -41,11 +46,11 @@ Um dos episódios mais célebres ocorreu em Nápoles, quando o sacristão o viu 
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 41.5428, lng: 13.6749, title: "Roccasecca, Itália", description: "Local de nascimento de São Tomás de Aquino." },
-  { lat: 40.8518, lng: 14.2681, title: "Nápoles, Itália", description: "Cidade onde estudou e onde ocorreu o milagre do crucifixo." },
-  { lat: 48.8566, lng: 2.3522, title: "Paris, França", description: "Onde estudou e lecionou na Universidade de Paris." },
-  { lat: 50.9375, lng: 6.9603, title: "Colônia, Alemanha", description: "Estudou sob a orientação de Santo Alberto Magno." },
-  { lat: 41.4394, lng: 13.1953, title: "Abadia de Fossanova, Itália", description: "Local de sua morte, a caminho do Concílio de Lyon." }
+  { lat: 41.5428, lng: 13.6749, type: "nascimento", title: "Roccasecca, Itália", description: "Local de nascimento de São Tomás de Aquino." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde estudou e lecionou na Universidade de Paris." },
+  { lat: 50.9375, lng: 6.9603, type: "vida", title: "Colônia, Alemanha", description: "Estudou sob a orientação de Santo Alberto Magno." },
+  { lat: 40.8518, lng: 14.2681, type: "milagre", title: "Nápoles, Itália", description: "Cidade onde estudou e onde ocorreu o milagre do crucifixo." },
+  { lat: 41.4394, lng: 13.1953, type: "morte", title: "Abadia de Fossanova, Itália", description: "Local de sua morte, a caminho do Concílio de Lyon." }
 ]' />
 
 ## Impacto Hoje

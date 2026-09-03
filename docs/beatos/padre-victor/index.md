@@ -1,13 +1,20 @@
+---
+title: Beato Padre Victor
+description: Biografia, milagres, curiosidades e mapa do Beato Padre Victor.
+---
+
 # Beato Padre Victor
 
 ![Beato Padre Victor](imagens/padre-victor.jpg)
 
-**"Sua vida foi um Evangelho – sua memória, a sagração eterna de um exemplo vivo."**
+> "Sua vida foi um Evangelho – sua memória, a sagração eterna de um exemplo vivo."
 
-**Nascimento:** 12 de abril de 1827, Campanha, MG, Brasil
-**Morte:** 23 de setembro de 1905, Três Pontas, MG, Brasil
-**Festa Litúrgica:** 23 de setembro
-**Beatificação:** 14 de novembro de 2015, em Três Pontas, MG
+- **Nascimento:** 12 de abril de 1827, Campanha, MG, Brasil
+- **Morte:** 23 de setembro de 1905, Três Pontas, MG, Brasil
+- **Beatificação:** 14 de novembro de 2015, em Três Pontas, MG
+- **Festa Litúrgica:** 23 de setembro
+
+<TextToSpeech />
 
 ---
 
@@ -40,6 +47,11 @@ A fama de santidade de Padre Victor começou ainda em vida e cresceu após sua m
 *   **Campanha (MG):** Cidade natal e primeiros anos.
 *   **Mariana (MG):** Estudos no seminário e ordenação.
 *   **Três Pontas (MG):** Cidade onde exerceu todo o seu ministério sacerdotal e onde está sepultado.
+
+<MiracleMap :items='[
+  { lat: -21.8367, lng: -45.4008, type: "nascimento", title: "Campanha, Brasil", description: "Local de nascimento (12 de abril de 1827)." },
+  { lat: -21.3675, lng: -45.5122, type: "morte", title: "Três Pontas, Brasil", description: "Local da morte (23 de setembro de 1905)." }
+]' />
 
 ## Impacto Hoje
 

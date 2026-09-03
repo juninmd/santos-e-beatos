@@ -1,13 +1,18 @@
+---
+title: Beata Maria Teresa de São José
+description: Biografia, milagres, curiosidades e mapa da Beata Maria Teresa de São José.
+---
+
 # Beata Maria Teresa de São José
 
 ![Beata Maria Teresa de São José](imagens/portrait.jpg)
 
-**"Mãe dos Desamparados"**
+> "Mãe dos Desamparados"
 
-**Nascimento:** 19 de junho de 1855, Sandow (Alemanha)<br>
-**Morte:** 20 de setembro de 1938, Sittard (Holanda)<br>
-**Festa Litúrgica:** 20 de setembro<br>
-**Beatificação:** 13 de maio de 2006, pelo Papa Bento XVI<br>
+- **Nascimento:** 19 de junho de 1855, Sandow (Alemanha)
+- **Morte:** 20 de setembro de 1938, Sittard (Holanda)
+- **Beatificação:** 13 de maio de 2006, pelo Papa Bento XVI
+- **Festa Litúrgica:** 20 de setembro
 
 <TextToSpeech />
 
@@ -44,10 +49,10 @@ Em vida, seu maior milagre foi a própria fundação e expansão da sua obra em 
 Beata Maria Teresa viajou incansavelmente para fundar e visitar as diversas casas de sua Congregação.
 
 <MiracleMap :items='[
-  { lat: 52.3425, lng: 14.5528, title: "Sandow, Polônia (antiga Alemanha)", description: "Local de seu nascimento e infância." },
-  { lat: 52.5200, lng: 13.4050, title: "Berlim, Alemanha", description: "Onde fundou asilo para crianças abandonadas." },
-  { lat: 50.9986, lng: 5.8695, title: "Sittard, Holanda", description: "Sede de sua Congregação e onde faleceu." },
-  { lat: 41.8902, lng: 12.4922, title: "Roma, Itália", description: "Onde obteve a aprovação papal para sua congregação." }
+  { lat: 52.3425, lng: 14.5528, type: "nascimento", title: "Sandow, Polônia (antiga Alemanha)", description: "Local de seu nascimento e infância." },
+  { lat: 52.52, lng: 13.405, type: "vida", title: "Berlim, Alemanha", description: "Onde fundou asilo para crianças abandonadas." },
+  { lat: 41.8902, lng: 12.4922, type: "vida", title: "Roma, Itália", description: "Onde obteve a aprovação papal para sua congregação." },
+  { lat: 50.9986, lng: 5.8695, type: "morte", title: "Sittard, Holanda", description: "Sede de sua Congregação e onde faleceu." }
 ]' />
 
 ## Impacto Hoje

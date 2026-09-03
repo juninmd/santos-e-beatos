@@ -1,17 +1,22 @@
+---
+title: São Boaventura
+description: Biografia, milagres, curiosidades e mapa de São Boaventura.
+---
+
 # São Boaventura
 
 ![São Boaventura](imagens/portrait.jpg)
 
-**"Se queres saber como estas coisas se fazem, interroga a graça e não a doutrina, o desejo e não a inteligência, o gemido da oração e não o estudo dos compêndios..."**
+> "Se queres saber como estas coisas se fazem, interroga a graça e não a doutrina, o desejo e não a inteligência, o gemido da oração e não o estudo dos compêndios..."
 
-**Nascimento:** 1221, Bagnoregio, Estados Pontifícios (atual Itália)<br>
-**Morte:** 15 de julho de 1274, Lyon, França<br>
-**Canonização:** 14 de abril de 1482 (Papa Sisto IV)<br>
-**Festa Litúrgica:** 15 de julho<br>
-
----
+- **Nascimento:** 1221, Bagnoregio, Estados Pontifícios (atual Itália)
+- **Morte:** 15 de julho de 1274, Lyon, França
+- **Canonização:** 14 de abril de 1482 (Papa Sisto IV)
+- **Festa Litúrgica:** 15 de julho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -44,13 +49,13 @@ A vida e a intercessão de São Boaventura estão associadas a diversos eventos 
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 42.6280, lng: 12.0917, title: 'Bagnoregio, Itália', description: 'Local de seu nascimento e onde foi curado na infância pela intercessão de São Francisco.' },
-  { lat: 48.8566, lng: 2.3522, title: 'Paris, França', description: 'Onde estudou, lecionou teologia na Universidade de Paris e conheceu São Tomás de Aquino.' },
-  { lat: 43.1843, lng: 3.0039, title: 'Narbona, França', description: 'Onde promulgou as Constituições que pacificaram a Ordem Franciscana.' },
-  { lat: 43.9961, lng: 11.3537, title: 'Mugello, Itália', description: 'Convento onde foi encontrado lavando a louça quando lhe trouxeram a notícia de sua nomeação cardinalícia.' },
-  { lat: 45.7640, lng: 4.8357, title: 'Lyon, França', description: 'Onde participou do Concílio de Lyon e veio a falecer.' }
-]" />
+<MiracleMap :items='[
+  { lat: 42.628, lng: 12.0917, type: "nascimento", title: "Bagnoregio, Itália", description: "Local de seu nascimento e onde foi curado na infância pela intercessão de São Francisco." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde estudou, lecionou teologia na Universidade de Paris e conheceu São Tomás de Aquino." },
+  { lat: 43.1843, lng: 3.0039, type: "vida", title: "Narbona, França", description: "Onde promulgou as Constituições que pacificaram a Ordem Franciscana." },
+  { lat: 43.9961, lng: 11.3537, type: "vida", title: "Mugello, Itália", description: "Convento onde foi encontrado lavando a louça quando lhe trouxeram a notícia de sua nomeação cardinalícia." },
+  { lat: 45.764, lng: 4.8357, type: "morte", title: "Lyon, França", description: "Onde participou do Concílio de Lyon e veio a falecer." }
+]' />
 
 ## Impacto Hoje
 

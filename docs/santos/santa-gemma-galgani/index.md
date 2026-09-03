@@ -1,17 +1,22 @@
 ---
-image: imagens/portrait.jpg
-quote: "Jesus, eu quero ser toda tua, toda tua, sem reserva alguma."
-born: 12 de março de 1878<br>Camigliano, Itália
-died: 11 de abril de 1903<br>Lucca, Itália
-canonized: 2 de maio de 1940<br>pelo Papa Pio XII
-feast: 11 de abril
+title: Santa Gemma Galgani
+description: Biografia, milagres, curiosidades e mapa de Santa Gemma Galgani.
 ---
 
 # Santa Gemma Galgani
 
-<div class="divider"></div>
+![Santa Gemma Galgani](imagens/portrait.jpg)
+
+> "Jesus, eu quero ser toda tua, toda tua, sem reserva alguma."
+
+- **Nascimento:** 12 de março de 1878 Camigliano, Itália
+- **Morte:** 11 de abril de 1903 Lucca, Itália
+- **Canonização:** 2 de maio de 1940 pelo Papa Pio XII
+- **Festa Litúrgica:** 11 de abril
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -24,12 +29,6 @@ A vida de Gemma foi marcada por perdas familiares e dificuldades financeiras. Se
 Gemma desejava ardentemente tornar-se freira Passionista, mas sua saúde frágil e a oposição de alguns a impediram. Em vez disso, ela viveu como leiga consagrada, acolhida pela família Giannini em Lucca, onde passou seus últimos anos em oração, penitência e serviço aos outros.
 
 Ela faleceu em um Sábado Santo, 11 de abril de 1903, aos 25 anos, vítima de tuberculose. Foi canonizada pelo Papa Pio XII em 1940, que a chamou de "a estrela do meu pontificado".
-
-<MiracleMap :places="[
-  { lat: 43.8500, lng: 10.5667, name: 'Camigliano (Capannori)', description: 'Local de nascimento de Santa Gemma Galgani.' },
-  { lat: 43.8417, lng: 10.5028, name: 'Lucca', description: 'Cidade onde viveu a maior parte de sua vida, recebeu os estigmas e faleceu.' },
-  { lat: 43.9333, lng: 10.3000, name: 'Camaiore', description: 'Local onde residiu temporariamente e sua saúde piorou.' }
-]" />
 
 ## Vida Pessoal
 
@@ -51,14 +50,18 @@ Além dos estigmas, muitos milagres de cura e conversão foram atribuídos à su
 2.  **Reprovação na Escola**: Apesar de sua inteligência, Gemma teve dificuldades na escola devido à saúde, mas era amada por suas professoras, incluindo a Beata Elena Guerra, fundadora das Irmãs Oblatas do Espírito Santo.
 3.  **Coluna Vertebral**: Gemma sofria de uma doença na coluna (tuberculose óssea ou Mal de Pott) que a obrigou a usar um colete de ferro doloroso por um tempo, mas foi milagrosamente curada após uma novena a Santa Margarida Maria Alacoque.
 
-## Cidades que passou
-
+## Cidades por onde passou
 *   **Camigliano (Capannori)**: Onde nasceu e foi batizada.
 *   **Lucca**: O cenário principal de sua vida, onde frequentou a escola, viveu com a família Giannini e recebeu as graças místicas.
 *   **Camaiore**: Onde passou um período com uma tia após a morte do pai, antes de retornar a Lucca.
 
-## O Impacto Hoje
+<MiracleMap :items='[
+  { lat: 43.85, lng: 10.5667, type: "nascimento", title: "Camigliano (Capannori)", description: "Local de nascimento de Santa Gemma Galgani." },
+  { lat: 43.9333, lng: 10.3, type: "vida", title: "Camaiore", description: "Local onde residiu temporariamente e sua saúde piorou." },
+  { lat: 43.8417, lng: 10.5028, type: "morte", title: "Lucca", description: "Cidade onde viveu a maior parte de sua vida, recebeu os estigmas e faleceu." }
+]' />
 
+## Impacto Hoje
 Santa Gemma Galgani continua a ser uma fonte de inspiração para jovens e sofredores em todo o mundo. Sua aceitação amorosa do sofrimento como meio de união com Cristo oferece conforto àqueles que enfrentam doenças e provações.
 
 Ela é a padroeira dos estudantes (junto com São Gabriel de Nossa Senhora das Dores), dos farmacêuticos e daqueles que sofrem de dores nas costas e dores de cabeça. Seu santuário em Lucca atrai milhares de peregrinos anualmente. A Congregação das Irmãs Missionárias de Santa Gemma foi fundada em sua honra para propagar sua espiritualidade.

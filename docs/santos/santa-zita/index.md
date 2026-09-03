@@ -1,26 +1,22 @@
 ---
 title: Santa Zita
-description: História de Santa Zita, a humilde padroeira das empregadas domésticas.
+description: Biografia, milagres, curiosidades e mapa de Santa Zita.
 ---
 
 # Santa Zita
 
-<div class="hero-header">
-    <img src="./imagens/portrait.jpg" alt="Santa Zita" class="portrait"/>
-    <div class="hero-info">
-        <div class="quote">
-            <p>“As mãos no trabalho, o coração em Deus.”</p>
-        </div>
-        <div class="metadata">
-            <p><strong>Nascimento:</strong> 1218 (Monsagrati, República de Lucca)<br>
-            <strong>Morte:</strong> 27 de abril de 1278 (Lucca, República de Lucca)<br>
-            <strong>Canonização:</strong> 1696 pelo Papa Inocêncio XII<br>
-            <strong>Festa Litúrgica:</strong> 27 de abril</p>
-        </div>
-    </div>
-</div>
+![Santa Zita](imagens/portrait.jpg)
+
+> "As mãos no trabalho, o coração em Deus."
+
+- **Nascimento:** 1218 (Monsagrati, República de Lucca)
+- **Morte:** 27 de abril de 1278 (Lucca, República de Lucca)
+- **Canonização:** 1696 pelo Papa Inocêncio XII
+- **Festa Litúrgica:** 27 de abril
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -53,10 +49,10 @@ Inúmeros milagres e lendas piedosas estão ligados à vida de Zita, muitos dele
 
 Zita viveu toda a sua vida quase exclusivamente restrita à província de Lucca.
 
-<MiracleMap :items="[
-  { title: 'Monsagrati', lat: 43.9167, lng: 10.4000, description: 'Pequena aldeia na região da Toscana onde Santa Zita nasceu.' },
-  { title: 'Lucca', lat: 43.8417, lng: 10.5028, description: 'Cidade onde trabalhou para a família Fatinelli durante 48 anos e realizou os seus famosos milagres de caridade.' }
-]" />
+<MiracleMap :items='[
+  { lat: 43.9167, lng: 10.4, type: "nascimento", title: "Monsagrati", description: "Pequena aldeia na região da Toscana onde Santa Zita nasceu." },
+  { lat: 43.8417, lng: 10.5028, type: "morte", title: "Lucca", description: "Cidade onde trabalhou para a família Fatinelli durante 48 anos e realizou os seus famosos milagres de caridade. Local da morte (27 de abril de 1278)." }
+]' />
 
 ## Impacto Hoje
 

@@ -1,22 +1,22 @@
 ---
 title: Santo Alberto Hurtado
-description: História de Santo Alberto Hurtado, o jesuíta chileno conhecido por sua dedicação aos mais pobres e fundação do "Hogar de Cristo".
+description: Biografia, milagres, curiosidades e mapa de Santo Alberto Hurtado.
 ---
 
 # Santo Alberto Hurtado
 
-<div class="profile-container">
-    <img src="./imagens/portrait.jpg" alt="Santo Alberto Hurtado" class="portrait"/>
-    <div class="profile-info">
-        <blockquote>"É bom ser bom, mas é melhor ser justo."</blockquote>
-        <p><strong>Nascimento:</strong> 22 de janeiro de 1901<br>
-        <strong>Morte:</strong> 18 de agosto de 1952<br>
-        <strong>Canonização:</strong> 23 de outubro de 2005<br>
-        <strong>Festa Litúrgica:</strong> 18 de agosto</p>
-    </div>
-</div>
+![Santo Alberto Hurtado](imagens/portrait.jpg)
+
+> "É bom ser bom, mas é melhor ser justo."
+
+- **Nascimento:** 22 de janeiro de 1901, Viña del Mar (Chile)
+- **Morte:** 18 de agosto de 1952, Santiago (Chile)
+- **Canonização:** 23 de outubro de 2005
+- **Festa Litúrgica:** 18 de agosto
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -53,31 +53,15 @@ Após fervorosas orações a Padre Hurtado por parte de seus pais e da comunidad
 - Louvain (Lovaina), Bélgica (Ordenação e Doutorado em Pedagogia)
 - Roma, Itália (Estudos finais na Companhia de Jesus)
 
+<MiracleMap :items='[
+  { lat: -33.0245, lng: -71.5518, type: "nascimento", title: "Luis Alberto Hurtado Cruchaga", description: "Alberto Hurtado nasceu em 22 de janeiro de 1901." },
+  { lat: 50.8798, lng: 4.7005, type: "vida", title: "Ordenação Sacerdotal", description: "Foi ordenado sacerdote em Louvain, Bélgica, em 1933." },
+  { lat: -33.0472, lng: -71.6127, type: "milagre", title: "Milagre da Canonização: Cura de Viviana Galleguillos", description: "Cura inexplicável de uma jovem após grave acidente de carro, que ocorreu em Valparaíso, Chile." },
+  { lat: -33.4489, lng: -70.6693, type: "morte", title: "Fundação do Hogar de Cristo", description: "Em 1944, ele fundou o Hogar de Cristo em Santiago, um local para abrigar e alimentar os mais pobres. Local da morte (18 de agosto de 1952)." }
+]' />
+
 ## Impacto Hoje
 
 O legado de Santo Alberto Hurtado permanece incrivelmente forte no Chile e no mundo. A obra que ele fundou, o "Hogar de Cristo", é uma das maiores instituições de caridade do Chile contemporâneo, ajudando dezenas de milhares de pessoas em situação de vulnerabilidade, oferecendo não apenas abrigo e comida, mas também reabilitação, educação e apoio social.
 
 Hurtado é frequentemente lembrado como um modelo de fé em ação. Sua vida inspira os católicos a não apenas orar, mas a buscar ativamente a justiça social e a ver a Cristo nos rostos dos marginalizados e sofredores. O mês de agosto no Chile é frequentemente dedicado à "Solidariedade" em sua memória. O Santuário do Padre Hurtado em Santiago atrai milhares de peregrinos anualmente que buscam sua intercessão e se inspiram por sua vida.
-
-<MiracleMap :miracles="[
-  {
-    title: 'Nascimento de Luis Alberto Hurtado Cruchaga',
-    description: 'Alberto Hurtado nasceu em 22 de janeiro de 1901.',
-    coordinates: [-33.0245, -71.5518]
-  },
-  {
-    title: 'Fundação do Hogar de Cristo',
-    description: 'Em 1944, ele fundou o Hogar de Cristo em Santiago, um local para abrigar e alimentar os mais pobres.',
-    coordinates: [-33.4489, -70.6693]
-  },
-  {
-    title: 'Ordenação Sacerdotal',
-    description: 'Foi ordenado sacerdote em Louvain, Bélgica, em 1933.',
-    coordinates: [50.8798, 4.7005]
-  },
-  {
-    title: 'Milagre da Canonização: Cura de Viviana Galleguillos',
-    description: 'Cura inexplicável de uma jovem após grave acidente de carro, que ocorreu em Valparaíso, Chile.',
-    coordinates: [-33.0472, -71.6127]
-  }
-]" />

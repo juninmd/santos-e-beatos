@@ -1,13 +1,18 @@
+---
+title: São Charles de Foucauld
+description: Biografia, milagres, curiosidades e mapa de São Charles de Foucauld.
+---
+
 # São Charles de Foucauld
 
 ![São Charles de Foucauld](imagens/portrait.jpg)
 
-**"Pai, em Tuas mãos me entrego"**
+> "Pai, em Tuas mãos me entrego"
 
-**Nascimento:** 15 de setembro de 1858, Estrasburgo, França<br>
-**Morte:** 1 de dezembro de 1916, Tamanrasset, Argélia<br>
-**Canonização:** 15 de maio de 2022, pelo Papa Francisco<br>
-**Festa Litúrgica:** 1 de dezembro<br>
+- **Nascimento:** 15 de setembro de 1858, Estrasburgo, França
+- **Morte:** 1 de dezembro de 1916, Tamanrasset, Argélia
+- **Canonização:** 15 de maio de 2022, pelo Papa Francisco
+- **Festa Litúrgica:** 1 de dezembro
 
 <TextToSpeech />
 
@@ -43,12 +48,12 @@ A canonização de Charles de Foucauld foi impulsionada pela aprovação de dois
 - **Nazaré e Jerusalém:** Onde viveu como criado das Clarissas e buscou a "vida oculta".
 - **Beni Abbès e Tamanrasset, Argélia:** Onde viveu as últimas décadas de sua vida como eremita e sacerdote entre os povos do deserto.
 
+<MiracleMap :items='[
+  { lat: 48.5839, lng: 7.7455, type: "nascimento", title: "Estrasburgo, França", description: "Nascimento de Charles de Foucauld." },
+  { lat: 48.8753, lng: 2.319, type: "vida", title: "Igreja de Santo Agostinho, Paris", description: "Local da conversão de Charles de Foucauld." },
+  { lat: 22.785, lng: 5.5228, type: "morte", title: "Tamanrasset, Argélia", description: "Onde viveu como eremita entre os tuaregues e foi assassinado." }
+]' />
+
 ## Impacto Hoje
 
 Embora Charles de Foucauld não tenha tido seguidores durante sua vida, seu impacto póstumo foi imenso. Ele inspirou a fundação de dezenas de congregações religiosas e institutos seculares, mais notavelmente os Irmãozinhos de Jesus e as Irmãzinhas de Jesus. Seu conceito de ser o "irmão universal" é uma luz guia para o diálogo inter-religioso e a fraternidade humana hoje. Sua vida oculta, de silencioso testemunho cristão sem a tentativa de proselitismo agressivo, continua a ser uma espiritualidade profunda que ressoa na modernidade.
-
-<MiracleMap :miracles="[
-  { lat: 48.5839, lng: 7.7455, title: 'Estrasburgo, França', description: 'Nascimento de Charles de Foucauld.' },
-  { lat: 48.8753, lng: 2.3190, title: 'Igreja de Santo Agostinho, Paris', description: 'Local da conversão de Charles de Foucauld.' },
-  { lat: 22.7850, lng: 5.5228, title: 'Tamanrasset, Argélia', description: 'Onde viveu como eremita entre os tuaregues e foi assassinado.' }
-]" />

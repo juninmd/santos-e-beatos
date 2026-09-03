@@ -1,13 +1,18 @@
+---
+title: São José
+description: Biografia, milagres, curiosidades e mapa de São José.
+---
+
 # São José
 
 ![São José](imagens/portrait.jpg)
 
-**"Ide a José."**
+> "Ide a José."
 
-**Nascimento:** Século I a.C., Belém ou Nazaré, Judeia
-**Morte:** Século I d.C., Nazaré, Galileia (antes da vida pública de Jesus)
-**Festa Litúrgica:** 19 de março (Solenidade de São José, Esposo da Virgem Maria) e 1 de maio (São José Operário)
-**Canonização:** Culto imemorial
+- **Nascimento:** Século I a.C., Belém ou Nazaré, Judeia
+- **Morte:** Século I d.C., Nazaré, Galileia (antes da vida pública de Jesus)
+- **Canonização:** Culto imemorial
+- **Festa Litúrgica:** 19 de março (Solenidade de São José, Esposo da Virgem Maria) e 1 de maio (São José Operário)
 
 <TextToSpeech />
 
@@ -38,10 +43,10 @@ Inúmeros milagres são atribuídos à intercessão de São José ao longo da hi
 José viveu em Nazaré, viajou para Belém para o recenseamento (onde Jesus nasceu), fugiu para o Egito e peregrinava anualmente a Jerusalém para a Páscoa.
 
 <MiracleMap :items='[
-  { lat: 32.7019, lng: 35.2970, title: "Nazaré, Israel", description: "Cidade onde viveu, trabalhou e criou Jesus." },
-  { lat: 31.7049, lng: 35.2038, title: "Belém, Palestina", description: "Cidade de origem de sua família (Casa de Davi) e local do nascimento de Jesus." },
-  { lat: 30.0444, lng: 31.2357, title: "Cairo/Matareya, Egito", description: "Local tradicional de refúgio da Sagrada Família durante a fuga para o Egito." },
-  { lat: 31.7775, lng: 35.2354, title: "Jerusalém, Israel", description: "Local de peregrinação anual e apresentação de Jesus no Templo." }
+  { lat: 31.7049, lng: 35.2038, type: "nascimento", title: "Belém, Palestina", description: "Cidade de origem de sua família (Casa de Davi) e local do nascimento de Jesus." },
+  { lat: 31.7775, lng: 35.2354, type: "nascimento", title: "Jerusalém, Israel", description: "Local de peregrinação anual e apresentação de Jesus no Templo. Local de nascimento (Século I a.C.)." },
+  { lat: 30.0444, lng: 31.2357, type: "vida", title: "Cairo/Matareya, Egito", description: "Local tradicional de refúgio da Sagrada Família durante a fuga para o Egito." },
+  { lat: 32.7019, lng: 35.297, type: "morte", title: "Nazaré, Israel", description: "Cidade onde viveu, trabalhou e criou Jesus. Local da morte (Século I d.C.)." }
 ]' />
 
 ## Impacto Hoje

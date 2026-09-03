@@ -1,13 +1,20 @@
+---
+title: São Francisco de Assis
+description: Biografia, milagres, curiosidades e mapa de São Francisco de Assis.
+---
+
 # São Francisco de Assis
 
 ![São Francisco de Assis](imagens/sao-francisco.jpg)
 
-**"Senhor, fazei-me instrumento de vossa paz."**
+> "Senhor, fazei-me instrumento de vossa paz."
 
-**Nascimento:** 1181 ou 1182, Assis, Itália
-**Morte:** 3 de outubro de 1226, Assis, Itália
-**Festa Litúrgica:** 4 de outubro
-**Canonização:** 16 de julho de 1228, pelo Papa Gregório IX
+- **Nascimento:** 1181 ou 1182, Assis, Itália
+- **Morte:** 3 de outubro de 1226, Assis, Itália
+- **Canonização:** 16 de julho de 1228, pelo Papa Gregório IX
+- **Festa Litúrgica:** 4 de outubro
+
+<TextToSpeech />
 
 ---
 
@@ -31,6 +38,15 @@ São muitos os relatos de milagres em vida, incluindo a cura de doentes, a profe
 
 1.  **Presépio:** Foi o criador do primeiro presépio vivo, em Greccio, no ano de 1223, para celebrar o Natal.
 2.  **Padroeiro:** É o padroeiro da ecologia e dos animais.
+
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a São Francisco de Assis: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: 43.0707, lng: 12.6196, type: "nascimento", title: "ou, Itália", description: "Local de nascimento (1181 ou 1182)." },
+  { lat: 43.0707, lng: 12.6196, type: "morte", title: "ou, Itália", description: "Local da morte (3 de outubro de 1226)." }
+]' />
 
 ## Impacto Hoje
 

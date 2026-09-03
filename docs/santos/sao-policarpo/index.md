@@ -1,13 +1,18 @@
+---
+title: São Policarpo de Esmirna
+description: Biografia, milagres, curiosidades e mapa de São Policarpo de Esmirna.
+---
+
 # São Policarpo de Esmirna
 
-![São Policarpo](imagens/cover.jpg)
+![São Policarpo de Esmirna](imagens/cover.jpg)
 
-**"Discípulo dos Apóstolos, Bispo e Mártir"**
+> "Discípulo dos Apóstolos, Bispo e Mártir"
 
-**Nascimento:** c. 69, Esmirna (Atual Izmir, Turquia)<br>
-**Morte:** c. 155, Esmirna (Atual Izmir, Turquia)<br>
-**Festa Litúrgica:** 23 de fevereiro<br>
-**Canonização:** Reconhecido pelo martírio (Pré-Congregação)<br>
+- **Nascimento:** c. 69, Esmirna (Atual Izmir, Turquia)
+- **Morte:** c. 155, Esmirna (Atual Izmir, Turquia)
+- **Canonização:** Reconhecido pelo martírio (Pré-Congregação)
+- **Festa Litúrgica:** 23 de fevereiro
 
 <TextToSpeech />
 
@@ -45,13 +50,12 @@ São Policarpo esteve presente nos primórdios de algumas das mais importantes r
 *   **Esmirna (atual Izmir, Turquia):** A cidade de seu nascimento (presumidamente) e onde ele atuou como um zeloso bispo durante muitas décadas.
 *   **Roma (Itália):** Viajou na sua velhice para tratar pacificamente da data da Páscoa com o Papa Aniceto, provando o intercâmbio ativo entre as primeiras comunidades cristãs do mundo.
 
+<MiracleMap :items='[
+  { lat: 38.4237, lng: 27.1428, type: "nascimento", title: "Esmirna, Turquia", description: "Local de nascimento (c. 69)." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Local que visitou para se reunir com o Papa Aniceto." },
+  { lat: 38.4237, lng: 27.1428, type: "morte", title: "Esmirna, Turquia", description: "Local onde São Policarpo foi bispo e sofreu seu glorioso martírio." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, São Policarpo de Esmirna é o símbolo de uma fé que supera gerações. Por ser uma das figuras fundamentais dos chamados "Padres Apostólicos", suas palavras documentadas não só atestaram a validade de textos do Novo Testamento muito cedo, como continuam a nortear teólogos modernos na busca pelas raízes originais da Igreja. O seu amor ao sacrifício, as suas firmes palavras à frente da morte e a união da paz e do não-compromisso teológico ante Heresias e Perseguições são lições imensamente respeitadas nas várias denominações cristãs modernas.
-
-<MiracleMap
-  :locations="[
-    { lat: 38.4237, lng: 27.1428, title: 'Esmirna, Turquia', description: 'Local onde São Policarpo foi bispo e sofreu seu glorioso martírio.' },
-    { lat: 41.9028, lng: 12.4964, title: 'Roma, Itália', description: 'Local que visitou para se reunir com o Papa Aniceto.' }
-  ]"
-/>

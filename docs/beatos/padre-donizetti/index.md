@@ -1,19 +1,26 @@
+---
+title: Padre Donizetti Tavares de Lima
+description: Biografia, milagres, curiosidades e mapa de Padre Donizetti Tavares de Lima.
+---
+
 # Padre Donizetti Tavares de Lima
 
-![Padre Donizetti](imagens/padre_restaurada_colorida.jpg)
+![Padre Donizetti Tavares de Lima](imagens/padre_restaurada_colorida.jpg)
 
-**"O Taumaturgo de Tambaú"**
+> "O Taumaturgo de Tambaú"
 
-**Nascimento:** 3 de janeiro de 1882, Cássia (MG)
-**Morte:** 16 de junho de 1961, Tambaú (SP)
-**Festa Litúrgica:** 16 de junho
-**Beatificação:** 23 de novembro de 2019, pelo Papa Francisco
+- **Nascimento:** 3 de janeiro de 1882, Cássia (MG)
+- **Morte:** 16 de junho de 1961, Tambaú (SP)
+- **Beatificação:** 23 de novembro de 2019, pelo Papa Francisco
+- **Festa Litúrgica:** 16 de junho
+
+<TextToSpeech />
 
 ---
 
-Padre Donizetti Tavares de Lima foi um proeminente sacerdote católico brasileiro conhecido não apenas por sua devoção religiosa, mas também por sua influência e história de vida marcantes. Neste documento, exploraremos sua biografia e algumas curiosidades interessantes sobre ele.
-
 ## Biografia
+
+Padre Donizetti Tavares de Lima foi um proeminente sacerdote católico brasileiro, conhecido não apenas por sua devoção religiosa, mas também pela influência que exerceu e pela história de vida que o tornou conhecido como o "Taumaturgo de Tambaú".
 
 Nascido em 3 de janeiro de 1882, em Cássia, Minas Gerais, Padre Donizetti era o filho de família humilde. Desde cedo, ele demonstrou uma inclinação para a fé e o serviço religioso. Foi ordenado sacerdote em 12 de julho de 1908, e sua jornada espiritual o levou a vários locais.
 
@@ -103,3 +110,18 @@ Padre Donizetti distribuía bênçãos diariamente da janela de sua casa, atrain
 | ![Padre Donizetti 2 Original](imagens/padre_2_original.jpg) | ![Padre Donizetti 2 Colorizada](imagens/padre_2_colorida.jpg) |
 | ![Padre Donizetti 3 Original](imagens/padre_3_original.jpg) | ![Padre Donizetti 3 Colorizada](imagens/padre_3_colorida.jpg) |
 | ![Ao pé da Santa Original](imagens/padre-donizete-ao-pe-da-santa.jpeg) | ![Ao pé da Santa Colorizada](imagens/padre-donizete-ao-pe-da-santa-colorida.jpg) |
+
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a Padre Donizetti Tavares de Lima: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: -20.5883, lng: -46.92, type: "nascimento", title: "Cássia", description: "Local de nascimento (3 de janeiro de 1882)." },
+  { lat: -21.7042, lng: -47.2761, type: "morte", title: "Tambaú", description: "Local da morte (16 de junho de 1961)." }
+]' />
+
+## Impacto Hoje
+
+Tambaú, cidade de pouco mais de vinte mil habitantes no interior paulista, recebe centenas de milhares de romeiros por ano — movimento que se organizou em torno do túmulo do Padre Donizetti, no Santuário Nossa Senhora Aparecida, e que sustenta boa parte da economia local. A romaria de junho, no aniversário de sua morte, é uma das maiores do estado de São Paulo.
+
+Sua fama de taumaturgo continua a atrair pessoas em busca de cura, e a bênção com o "santinho" e o algodão abençoado tornou-se um rito característico da devoção. A beatificação, em 23 de novembro de 2019, celebrada em Tambaú, deu reconhecimento oficial a um culto popular que já durava mais de meio século e consolidou sua posição entre as figuras mais veneradas do catolicismo do interior brasileiro, ao lado de Padre Cícero e Frei Galvão.

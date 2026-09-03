@@ -1,17 +1,22 @@
-# São Bento
-
-![São Bento](https://placehold.co/400x600/png?text=Sao+Bento)
-
-**"Ora et Labora (Reza e Trabalha)."**
-
-**Nascimento:** c. 480, Núrsia, Itália
-**Morte:** 21 de Março de 547, Monte Cassino, Itália
-**Canonização:** 1220 (Papa Honório III)
-**Festa Litúrgica:** 11 de Julho
-
+---
+title: São Bento
+description: Biografia, milagres, curiosidades e mapa de São Bento.
 ---
 
+# São Bento
+
+![São Bento](imagens/retrato.svg)
+
+> "Ora et Labora (Reza e Trabalha)."
+
+- **Nascimento:** c. 480, Núrsia, Itália
+- **Morte:** 21 de Março de 547, Monte Cassino, Itália
+- **Canonização:** 1220 (Papa Honório III)
+- **Festa Litúrgica:** 11 de Julho
+
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -46,13 +51,13 @@ A vida de São Bento, narrada pelo Papa São Gregório Magno em seus "Diálogos"
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 42.7917, lng: 13.0947, title: 'Núrsia (Norcia)', description: 'Cidade natal de São Bento e Santa Escolástica.' },
-  { lat: 41.8905, lng: 12.4942, title: 'Roma', description: 'Onde foi enviado para estudar na juventude.' },
-  { lat: 41.8825, lng: 13.0975, title: 'Affile (Enfide)', description: 'Local do primeiro milagre (a peneira).' },
-  { lat: 41.9256, lng: 13.0933, title: 'Subiaco', description: 'Local da gruta (Sacro Speco) onde viveu como eremita e fundou os primeiros mosteiros.' },
-  { lat: 41.4907, lng: 13.8155, title: 'Monte Cassino', description: 'Local de sua maior fundação, onde escreveu a Regra e faleceu.' }
-]" />
+<MiracleMap :items='[
+  { lat: 42.7917, lng: 13.0947, type: "nascimento", title: "Núrsia (Norcia)", description: "Cidade natal de São Bento e Santa Escolástica." },
+  { lat: 41.8905, lng: 12.4942, type: "vida", title: "Roma", description: "Onde foi enviado para estudar na juventude." },
+  { lat: 41.9256, lng: 13.0933, type: "vida", title: "Subiaco", description: "Local da gruta (Sacro Speco) onde viveu como eremita e fundou os primeiros mosteiros." },
+  { lat: 41.8825, lng: 13.0975, type: "milagre", title: "Affile (Enfide)", description: "Local do primeiro milagre (a peneira)." },
+  { lat: 41.4907, lng: 13.8155, type: "morte", title: "Monte Cassino", description: "Local de sua maior fundação, onde escreveu a Regra e faleceu." }
+]' />
 
 ## Galeria
 
@@ -63,3 +68,9 @@ A vida de São Bento, narrada pelo Papa São Gregório Magno em seus "Diálogos"
 
 ---
 *São Bento, rogai por nós e livrai-nos de todo mal.*
+
+## Impacto Hoje
+
+A Regra de São Bento, escrita no século VI, moldou a vida monástica ocidental por mil e quinhentos anos e continua em vigor em centenas de mosteiros beneditinos, cistercienses e trapistas espalhados pelos cinco continentes. Seu equilíbrio entre oração e trabalho — o *ora et labora* — e sua insistência na moderação e na estabilidade influenciaram muito além dos claustros: é leitura frequente em cursos de gestão, liderança e desenho de comunidades.
+
+Paulo VI o proclamou padroeiro principal da Europa em 1964, reconhecendo o papel dos mosteiros beneditinos na preservação da cultura e na formação do continente após a queda de Roma. A Medalha de São Bento, com a fórmula de exorcismo em suas iniciais latinas, é um dos sacramentais mais difundidos do catolicismo popular, especialmente no Brasil. Montecassino, destruída na Segunda Guerra e reconstruída, continua a receber peregrinos, e a abadia de São Bento em São Paulo é um dos centros culturais e litúrgicos mais ativos da cidade.

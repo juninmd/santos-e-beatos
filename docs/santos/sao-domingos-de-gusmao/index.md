@@ -1,17 +1,22 @@
+---
+title: São Domingos de Gusmão
+description: Biografia, milagres, curiosidades e mapa de São Domingos de Gusmão.
+---
+
 # São Domingos de Gusmão
 
 ![São Domingos de Gusmão](imagens/portrait.jpg)
 
-**"Contemplar e transmitir aos outros o fruto da contemplação."**
+> "Contemplar e transmitir aos outros o fruto da contemplação."
 
-**Nascimento:** 1170, Caleruega, Espanha
-**Morte:** 6 de agosto de 1221, Bolonha, Itália
-**Festa Litúrgica:** 8 de agosto
-**Canonização:** 13 de julho de 1234, pelo Papa Gregório IX
-
----
+- **Nascimento:** 1170, Caleruega, Espanha
+- **Morte:** 6 de agosto de 1221, Bolonha, Itália
+- **Canonização:** 13 de julho de 1234, pelo Papa Gregório IX
+- **Festa Litúrgica:** 8 de agosto
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -40,8 +45,7 @@ A vida de São Domingos é repleta de relatos miraculosos que atestam sua santid
 2.  **A Estrela na Testa:** Diz-se que, no dia de seu batismo, sua madrinha viu uma estrela brilhando em sua testa, simbolizando a luz que ele traria ao mundo. É por isso que ele é frequentemente representado com uma estrela sobre a cabeça.
 3.  **Venda de Si Mesmo:** Além de vender seus livros, em outra ocasião, Domingos tentou vender-se como escravo para resgatar um homem capturado pelos mouros, tamanha era sua caridade.
 
-## Cidades por onde Passou
-
+## Cidades por onde passou
 São Domingos foi um viajante incansável. Suas pregações e fundações o levaram por diversas cidades da Europa:
 *   **Caleruega (Espanha):** Sua cidade natal.
 *   **Palência (Espanha):** Onde estudou e realizou seus primeiros atos de grande caridade.
@@ -49,12 +53,12 @@ São Domingos foi um viajante incansável. Suas pregações e fundações o leva
 *   **Roma (Itália):** Onde obteve a aprovação papal para a Ordem e realizou muitos milagres.
 *   **Bolonha (Itália):** Onde estabeleceu um grande centro de estudos e onde veio a falecer. Seu corpo repousa na Basílica de São Domingos nesta cidade.
 
-<MiracleMap :locations="[
-  { lat: 41.8258, lng: 3.5593, description: 'Caleruega, Espanha - Local de nascimento' },
-  { lat: 43.6047, lng: 1.4442, description: 'Toulouse, França - Fundação da Ordem' },
-  { lat: 41.9028, lng: 12.4964, description: 'Roma, Itália - Aprovação da Ordem e Milagres' },
-  { lat: 44.4949, lng: 11.3426, description: 'Bolonha, Itália - Morte e Sepultamento' }
-]" />
+<MiracleMap :items='[
+  { lat: 41.8258, lng: -3.5083, type: "nascimento", title: "Caleruega, Espanha", description: "Local de nascimento" },
+  { lat: 43.6047, lng: 1.4442, type: "vida", title: "Toulouse, França", description: "Fundação da Ordem" },
+  { lat: 41.9028, lng: 12.4964, type: "milagre", title: "Roma, Itália", description: "Aprovação da Ordem e Milagres" },
+  { lat: 44.4949, lng: 11.3426, type: "morte", title: "Bolonha, Itália", description: "Morte e Sepultamento" }
+]' />
 
 ## Impacto Hoje
 

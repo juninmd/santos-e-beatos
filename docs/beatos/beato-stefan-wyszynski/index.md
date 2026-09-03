@@ -1,13 +1,18 @@
+---
+title: Beato Stefan Wyszyński
+description: Biografia, milagres, curiosidades e mapa do Beato Stefan Wyszyński.
+---
+
 # Beato Stefan Wyszyński
 
 ![Beato Stefan Wyszyński](imagens/portrait.jpg)
 
-**"Soli Deo" (Somente a Deus)**
+> "Soli Deo" (Somente a Deus)"
 
-**Nascimento:** 3 de agosto de 1901, Zuzela, Império Russo (atual Polônia)<br>
-**Morte:** 28 de maio de 1981, Varsóvia, Polônia<br>
-**Beatificação:** 12 de setembro de 2021, pelo Papa Francisco<br>
-**Festa Litúrgica:** 28 de maio<br>
+- **Nascimento:** 3 de agosto de 1901, Zuzela, Império Russo (atual Polônia)
+- **Morte:** 28 de maio de 1981, Varsóvia, Polônia
+- **Beatificação:** 12 de setembro de 2021, pelo Papa Francisco
+- **Festa Litúrgica:** 28 de maio
 
 <TextToSpeech />
 
@@ -44,12 +49,13 @@ A beatificação do Cardeal Stefan Wyszyński foi possibilitada pelo reconhecime
 - **Roma, Itália:** Para onde viajou diversas vezes como Cardeal para participar de conclaves, do Concílio Vaticano II e encontrar-se com os papas.
 - **Jasna Góra, Częstochowa:** Santuário mariano que era o centro de sua espiritualidade e estratégia pastoral de defesa da fé.
 
+<MiracleMap :items='[
+  { lat: 52.7533, lng: 22.2131, type: "nascimento", title: "Zuzela, Polônia", description: "Nascimento de Stefan Wyszyński." },
+  { lat: 50.8123, lng: 19.097, type: "vida", title: "Jasna Góra, Częstochowa", description: "Santuário nacional vital para seu pastoreio." },
+  { lat: 53.4285, lng: 14.5528, type: "milagre", title: "Szczecin, Polônia", description: "Cura de uma jovem de 19 anos com câncer de tireoide metastático (1988)." },
+  { lat: 52.2297, lng: 21.0122, type: "morte", title: "Varsóvia, Polônia", description: "Onde serviu como Arcebispo Primaz e resistiu ao comunismo. Local da morte (28 de maio de 1981)." }
+]' />
+
 ## Impacto Hoje
 
 Beato Stefan Wyszyński é um símbolo atemporal de resiliência cristã e defesa inabalável dos direitos humanos face ao totalitarismo. Sua liderança não apenas salvou a Igreja Católica na Polônia da aniquilação pelo regime comunista, mas também fortaleceu a identidade nacional e as fundações espirituais que, mais tarde, alimentariam movimentos de libertação como o Solidariedade. Seu ensino sobre o primado da dignidade humana e da família continua sendo uma referência crucial na doutrina social católica contemporânea.
-
-<MiracleMap :miracles="[
-  { lat: 52.7533, lng: 22.2131, title: 'Zuzela, Polônia', description: 'Nascimento de Stefan Wyszyński.' },
-  { lat: 52.2297, lng: 21.0122, title: 'Varsóvia, Polônia', description: 'Onde serviu como Arcebispo Primaz e resistiu ao comunismo.' },
-  { lat: 50.8123, lng: 19.0970, title: 'Jasna Góra, Częstochowa', description: 'Santuário nacional vital para seu pastoreio.' }
-]" />

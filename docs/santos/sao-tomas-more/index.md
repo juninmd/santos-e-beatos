@@ -1,13 +1,18 @@
+---
+title: São Tomás More
+description: Biografia, milagres, curiosidades e mapa de São Tomás More.
+---
+
 # São Tomás More
 
 ![São Tomás More](imagens/portrait.jpg)
 
-**"O Homem de Todas as Horas"**
+> "O Homem de Todas as Horas"
 
-**Nascimento:** 7 de fevereiro de 1478, Londres, Inglaterra<br>
-**Morte:** 6 de julho de 1535, Londres, Inglaterra<br>
-**Festa Litúrgica:** 22 de junho<br>
-**Canonização:** 19 de maio de 1935, pelo Papa Pio XI<br>
+- **Nascimento:** 7 de fevereiro de 1478, Londres, Inglaterra
+- **Morte:** 6 de julho de 1535, Londres, Inglaterra
+- **Canonização:** 19 de maio de 1935, pelo Papa Pio XI
+- **Festa Litúrgica:** 22 de junho
 
 <TextToSpeech />
 
@@ -40,10 +45,10 @@ Em casos de martírio, o milagre primário considerado pela Igreja é o próprio
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 51.5126, lng: -0.0934, title: "Londres, Inglaterra", description: "Sua cidade natal e local de grande parte de sua vida e carreira profissional." },
-  { lat: 51.7520, lng: -1.2577, title: "Oxford, Inglaterra", description: "Onde estudou na universidade." },
-  { lat: 51.4875, lng: -0.1687, title: "Chelsea (Londres), Inglaterra", description: "Onde tinha sua famosa casa, centro de encontro de humanistas." },
-  { lat: 51.5081, lng: -0.0759, title: "Torre de Londres, Inglaterra", description: "Onde esteve preso até o seu martírio." }
+  { lat: 51.5126, lng: -0.0934, type: "nascimento", title: "Londres, Inglaterra", description: "Sua cidade natal e local de grande parte de sua vida e carreira profissional." },
+  { lat: 51.752, lng: -1.2577, type: "vida", title: "Oxford, Inglaterra", description: "Onde estudou na universidade." },
+  { lat: 51.4875, lng: -0.1687, type: "vida", title: "Chelsea (Londres), Inglaterra", description: "Onde tinha sua famosa casa, centro de encontro de humanistas." },
+  { lat: 51.5081, lng: -0.0759, type: "morte", title: "Torre de Londres, Inglaterra", description: "Onde esteve preso até o seu martírio." }
 ]' />
 
 ## Impacto Hoje

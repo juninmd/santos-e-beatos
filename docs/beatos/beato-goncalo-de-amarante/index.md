@@ -1,13 +1,18 @@
+---
+title: Beato Gonçalo de Amarante
+description: Biografia, milagres, curiosidades e mapa do Beato Gonçalo de Amarante.
+---
+
 # Beato Gonçalo de Amarante
 
-![Beato Gonçalo de Amarante](https://placehold.co/400x600/png?text=Beato+Goncalo+de+Amarante)
+![Beato Gonçalo de Amarante](imagens/retrato.svg)
 
-**"O santo casamenteiro e construtor de pontes."**
+> "O santo casamenteiro e construtor de pontes."
 
-**Nascimento:** 1187, Arriconha (Vizela), Portugal
-**Morte:** 10 de janeiro de 1259, Amarante, Portugal
-**Festa Litúrgica:** 10 de janeiro
-**Beatificação:** 1561, pelo Papa Pio IV
+- **Nascimento:** 1187, Arriconha (Vizela), Portugal
+- **Morte:** 10 de janeiro de 1259, Amarante, Portugal
+- **Beatificação:** 1561, pelo Papa Pio IV
+- **Festa Litúrgica:** 10 de janeiro
 
 <TextToSpeech />
 
@@ -41,11 +46,11 @@ Muitos milagres são atribuídos à sua intercessão, tanto em vida quanto após
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 41.3833, lng: -8.2833, title: "Vizela, Portugal", description: "Local de seu nascimento." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Local de peregrinação aos túmulos dos Apóstolos." },
-  { lat: 31.7683, lng: 35.2137, title: "Jerusalém, Israel", description: "Peregrinou à Terra Santa onde visitou os lugares santos." },
-  { lat: 41.4425, lng: -8.2936, title: "Guimarães, Portugal", description: "Onde ingressou na Ordem dos Dominicanos." },
-  { lat: 41.2722, lng: -8.0772, title: "Amarante, Portugal", description: "Onde viveu como eremita, construiu a famosa ponte e faleceu." }
+  { lat: 41.3833, lng: -8.2833, type: "nascimento", title: "Vizela, Portugal", description: "Local de seu nascimento." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Local de peregrinação aos túmulos dos Apóstolos." },
+  { lat: 31.7683, lng: 35.2137, type: "vida", title: "Jerusalém, Israel", description: "Peregrinou à Terra Santa onde visitou os lugares santos." },
+  { lat: 41.4425, lng: -8.2936, type: "vida", title: "Guimarães, Portugal", description: "Onde ingressou na Ordem dos Dominicanos." },
+  { lat: 41.2722, lng: -8.0772, type: "morte", title: "Amarante, Portugal", description: "Onde viveu como eremita, construiu a famosa ponte e faleceu." }
 ]' />
 
 ## Impacto Hoje

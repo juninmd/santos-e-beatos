@@ -1,13 +1,20 @@
+---
+title: Beata Benigna
+description: Biografia, milagres, curiosidades e mapa da Beata Benigna.
+---
+
 # Beata Benigna
 
 ![Beata Benigna](imagens/benigna.jpg)
 
-**"Heroína da Castidade"**
+> "Heroína da Castidade"
 
-**Nascimento:** 15 de outubro de 1928, Santana do Cariri, Ceará, Brasil
-**Morte:** 24 de outubro de 1941, Santana do Cariri, Ceará, Brasil
-**Festa Litúrgica:** 24 de outubro
-**Beatificação:** 24 de outubro de 2022, pelo Papa Francisco (representado pelo Cardeal Leonardo Steiner)
+- **Nascimento:** 15 de outubro de 1928, Santana do Cariri, Ceará, Brasil
+- **Morte:** 24 de outubro de 1941, Santana do Cariri, Ceará, Brasil
+- **Beatificação:** 24 de outubro de 2022, pelo Papa Francisco (representado pelo Cardeal Leonardo Steiner)
+- **Festa Litúrgica:** 24 de outubro
+
+<TextToSpeech />
 
 ---
 
@@ -36,6 +43,15 @@ Em 2011, a Diocese de Crato iniciou o processo de beatificação. Em 2019, o Pap
 1.  **Primeira Beata do Ceará:** Benigna é a primeira beata nascida no estado do Ceará e a quarta mártir do Brasil.
 2.  **Anel de Tucum:** Um dos símbolos associados a ela é a simplicidade e a fé do povo nordestino.
 3.  **Romaria:** A Romaria de Benigna, em Santana do Cariri, atrai dezenas de milhares de fiéis todos os anos em outubro.
+
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a Beata Benigna: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: -7.1858, lng: -39.7331, type: "nascimento", title: "Santana do Cariri, Brasil", description: "Local de nascimento (15 de outubro de 1928)." },
+  { lat: -7.1858, lng: -39.7331, type: "morte", title: "Santana do Cariri, Brasil", description: "Local da morte (24 de outubro de 1941)." }
+]' />
 
 ## Impacto Hoje
 

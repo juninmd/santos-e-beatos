@@ -1,13 +1,18 @@
+---
+title: Santa Edwiges
+description: Biografia, milagres, curiosidades e mapa de Santa Edwiges.
+---
+
 # Santa Edwiges
 
 ![Santa Edwiges](imagens/portrait.jpg)
 
-**"Sede compassivos como o vosso Pai é compassivo."**
+> "Sede compassivos como o vosso Pai é compassivo."
 
-**Nascimento:** 1174, Andechs, Baviera (Alemanha)<br>
-**Morte:** 15 de outubro de 1243, Trzebnica, Silésia (Polônia)<br>
-**Festa Litúrgica:** 16 de outubro<br>
-**Canonização:** 26 de março de 1267, pelo Papa Clemente IV
+- **Nascimento:** 1174, Andechs, Baviera (Alemanha)
+- **Morte:** 15 de outubro de 1243, Trzebnica, Silésia (Polônia)
+- **Canonização:** 26 de março de 1267, pelo Papa Clemente IV
+- **Festa Litúrgica:** 16 de outubro
 
 <TextToSpeech />
 
@@ -36,10 +41,10 @@ Após sua morte, muitos peregrinos relataram curas milagrosas ao visitar seu tú
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 47.9667, lng: 11.1833, title: "Andechs, Baviera (Alemanha)", description: "Local de nascimento e onde passou a primeira infância." },
-  { lat: 49.7333, lng: 10.1667, title: "Kitzingen, Alemanha", description: "Mosteiro onde recebeu sua educação e formação espiritual." },
-  { lat: 51.1079, lng: 17.0385, title: "Wrocław (Breslávia), Polônia", description: "Cidade onde exerceu seu papel como Duquesa da Silésia." },
-  { lat: 51.3111, lng: 17.0625, title: "Trzebnica, Polônia", description: "Local onde fundou o mosteiro cisterciense e onde viveu seus últimos dias." }
+  { lat: 47.9667, lng: 11.1833, type: "nascimento", title: "Andechs, Baviera (Alemanha)", description: "Local de nascimento e onde passou a primeira infância." },
+  { lat: 49.7333, lng: 10.1667, type: "vida", title: "Kitzingen, Alemanha", description: "Mosteiro onde recebeu sua educação e formação espiritual." },
+  { lat: 51.1079, lng: 17.0385, type: "vida", title: "Wrocław (Breslávia), Polônia", description: "Cidade onde exerceu seu papel como Duquesa da Silésia." },
+  { lat: 51.3111, lng: 17.0625, type: "morte", title: "Trzebnica, Polônia", description: "Local onde fundou o mosteiro cisterciense e onde viveu seus últimos dias. Local da morte (15 de outubro de 1243)." }
 ]' />
 
 ## Impacto Hoje

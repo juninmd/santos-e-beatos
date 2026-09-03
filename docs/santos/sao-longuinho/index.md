@@ -1,16 +1,22 @@
+---
+title: São Longuinho
+description: Biografia, milagres, curiosidades e mapa de São Longuinho.
+---
+
 # São Longuinho
 
 ![São Longuinho](imagens/portrait.jpg)
 
-**"O centurião que reconheceu o Filho de Deus"**<br>
-**Nascimento:** Século I (Roma ou Capadócia)<br>
-**Morte:** Século I (Capadócia ou Mântua)<br>
-**Canonização:** Pré-Congregação (Reconhecido nos primeiros séculos)<br>
-**Festa Litúrgica:** 15 de março (na tradição romana) / 16 de outubro (na tradição oriental)<br>
+> "O centurião que reconheceu o Filho de Deus"
 
----
+- **Nascimento:** Século I (Roma ou Capadócia)
+- **Morte:** Século I (Capadócia ou Mântua)
+- **Canonização:** Pré-Congregação (Reconhecido nos primeiros séculos)
+- **Festa Litúrgica:** 15 de março (na tradição romana) / 16 de outubro (na tradição oriental)
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -39,8 +45,11 @@ Depois de sua conversão, Longuinho viajou para a Capadócia (atual Turquia) par
 *   **Capadócia (atual Turquia):** Para onde fugiu após abandonar o exército para viver como monge e pregar o Evangelho.
 *   **Mântua (Itália):** Segundo algumas tradições, ele teria pregado e levado relíquias para esta cidade, que ainda hoje o tem como um de seus padroeiros.
 
+<MiracleMap :items='[
+  { lat: 38.6431, lng: 34.8289, type: "nascimento", title: "Capadócia", description: "Local de nascimento (Século I)." },
+  { lat: 45.1564, lng: 10.7914, type: "morte", title: "Mântua", description: "Local da morte (Século I)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, o impacto de São Longuinho é sentido em duas frentes distintas. Na teologia e na tradição cristã geral, ele é o símbolo máximo da conversão e do reconhecimento de Jesus como Filho de Deus, representando a misericórdia divina que alcança até mesmo aqueles que participaram da execução de Cristo. Por outro lado, na devoção popular, especialmente no Brasil e em Portugal, ele se tornou o intercessor amigável e acessível do dia a dia, sendo constantemente invocado nas pequenas aflições cotidianas, como a perda de chaves, documentos e outros objetos. Ele ensina que Deus se importa com as grandes conversões, mas também com os pequenos detalhes de nossas vidas.
-
-<MiracleMap />

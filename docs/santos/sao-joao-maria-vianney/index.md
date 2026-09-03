@@ -1,13 +1,18 @@
+---
+title: São João Maria Vianney
+description: Biografia, milagres, curiosidades e mapa de São João Maria Vianney.
+---
+
 # São João Maria Vianney
 
 ![São João Maria Vianney](imagens/portrait.jpg)
 
-**"O Cura d'Ars, Patrono dos Párocos"**
+> "O Cura d'Ars, Patrono dos Párocos"
 
-**Nascimento:** 8 de maio de 1786, Dardilly, França<br>
-**Morte:** 4 de agosto de 1859, Ars-sur-Formans, França<br>
-**Canonização:** 31 de maio de 1925, pelo Papa Pio XI<br>
-**Festa Litúrgica:** 4 de agosto
+- **Nascimento:** 8 de maio de 1786, Dardilly, França
+- **Morte:** 4 de agosto de 1859, Ars-sur-Formans, França
+- **Canonização:** 31 de maio de 1925, pelo Papa Pio XI
+- **Festa Litúrgica:** 4 de agosto
 
 <TextToSpeech />
 
@@ -37,11 +42,11 @@ Inúmeros milagres e curas foram atribuídos a ele ainda em vida e após sua mor
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 45.8166, lng: 4.7500, title: 'Dardilly, França', description: 'Local de nascimento de São João Maria Vianney e de sua infância no campo.' },
-  { lat: 45.7500, lng: 4.8500, title: 'Lyon, França', description: 'Onde ele recebeu formação rudimentar e lidou com o seminário.' },
-  { lat: 45.9930, lng: 4.8236, title: 'Ars-sur-Formans, França', description: 'Onde ele serviu como pároco por mais de 40 anos e faleceu em odor de santidade.' }
-]" />
+<MiracleMap :items='[
+  { lat: 45.8166, lng: 4.75, type: "nascimento", title: "Dardilly, França", description: "Local de nascimento de São João Maria Vianney e de sua infância no campo." },
+  { lat: 45.75, lng: 4.85, type: "vida", title: "Lyon, França", description: "Onde ele recebeu formação rudimentar e lidou com o seminário." },
+  { lat: 45.993, lng: 4.8236, type: "morte", title: "Ars-sur-Formans, França", description: "Onde ele serviu como pároco por mais de 40 anos e faleceu em odor de santidade." }
+]' />
 
 ## Impacto Hoje
 

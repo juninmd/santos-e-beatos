@@ -1,13 +1,18 @@
+---
+title: Beata Maria da Paixão
+description: Biografia, milagres, curiosidades e mapa da Beata Maria da Paixão.
+---
+
 # Beata Maria da Paixão
 
 ![Beata Maria da Paixão](imagens/portrait.jpg)
 
-**"Irmãos amados por Deus, fostes escolhidos por Ele"**
+> "Irmãos amados por Deus, fostes escolhidos por Ele"
 
-**Nascimento:** 21 de maio de 1839, Nantes (França)<br>
-**Morte:** 15 de novembro de 1904, Sanremo (Itália)<br>
-**Festa Litúrgica:** 15 de novembro<br>
-**Beatificação:** 20 de outubro de 2002, pelo Papa João Paulo II<br>
+- **Nascimento:** 21 de maio de 1839, Nantes (França)
+- **Morte:** 15 de novembro de 1904, Sanremo (Itália)
+- **Beatificação:** 20 de outubro de 2002, pelo Papa João Paulo II
+- **Festa Litúrgica:** 15 de novembro
 
 <TextToSpeech />
 
@@ -44,9 +49,9 @@ A cura atribuída para sua beatificação validou o seu grau de intercessão jun
 Da França, para a distante Índia e finalmente, pela consolidação em Roma e sua morte na Itália, a Beata desbravou o mundo do século XIX.
 
 <MiracleMap :items='[
-  { lat: 47.2184, lng: -1.5536, title: "Nantes, França", description: "Sua cidade de nascimento." },
-  { lat: 9.9252, lng: 78.1198, title: "Madurai (Maduré), Índia", description: "Onde realizou forte trabalho missionário e foi superiora." },
-  { lat: 43.8159, lng: 7.7760, title: "Sanremo, Itália", description: "A cidade onde faleceu após uma vida de longas viagens pelo mundo." }
+  { lat: 47.2184, lng: -1.5536, type: "nascimento", title: "Nantes, França", description: "Sua cidade de nascimento." },
+  { lat: 9.9252, lng: 78.1198, type: "vida", title: "Madurai (Maduré), Índia", description: "Onde realizou forte trabalho missionário e foi superiora." },
+  { lat: 43.8159, lng: 7.776, type: "morte", title: "Sanremo, Itália", description: "A cidade onde faleceu após uma vida de longas viagens pelo mundo." }
 ]' />
 
 ## Impacto Hoje

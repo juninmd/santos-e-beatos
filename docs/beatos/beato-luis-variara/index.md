@@ -1,13 +1,18 @@
+---
+title: Beato Luis Variara
+description: Biografia, milagres, curiosidades e mapa do Beato Luis Variara.
+---
+
 # Beato Luis Variara
 
 ![Beato Luis Variara](imagens/portrait.jpg)
 
-**"Apóstolo dos Leprosos na Colômbia"**
+> "Apóstolo dos Leprosos na Colômbia"
 
-**Nascimento:** 15 de janeiro de 1875, Viarigi, Itália<br>
-**Morte:** 1 de fevereiro de 1923, Cúcuta, Colômbia<br>
-**Beatificação:** 14 de abril de 2002, pelo Papa João Paulo II<br>
-**Festa Litúrgica:** 15 de janeiro
+- **Nascimento:** 15 de janeiro de 1875, Viarigi, Itália
+- **Morte:** 1 de fevereiro de 1923, Cúcuta, Colômbia
+- **Beatificação:** 14 de abril de 2002, pelo Papa João Paulo II
+- **Festa Litúrgica:** 15 de janeiro
 
 <TextToSpeech />
 
@@ -37,12 +42,12 @@ O milagre que levou à sua beatificação aconteceu em 1993. Um jovem colombiano
 
 ## Cidades por onde passou
 
-<MiracleMap :items="[
-  { lat: 44.9785, lng: 8.3582, title: 'Viarigi, Itália', description: 'Local de nascimento e de sua infância.' },
-  { lat: 45.0703, lng: 7.6869, title: 'Turim, Itália', description: 'Onde conheceu Dom Bosco em Valdocco e formou-se.' },
-  { lat: 4.3769, lng: -74.6715, title: 'Agua de Dios, Colômbia', description: 'Cidade-leprosário onde desenvolveu sua principal e heroica missão.' },
-  { lat: 7.8939, lng: -72.5078, title: 'Cúcuta, Colômbia', description: 'Onde faleceu em obediência, afastado de seus doentes.' }
-]" />
+<MiracleMap :items='[
+  { lat: 44.9785, lng: 8.3582, type: "nascimento", title: "Viarigi, Itália", description: "Local de nascimento e de sua infância." },
+  { lat: 45.0703, lng: 7.6869, type: "vida", title: "Turim, Itália", description: "Onde conheceu Dom Bosco em Valdocco e formou-se." },
+  { lat: 4.3769, lng: -74.6715, type: "vida", title: "Agua de Dios, Colômbia", description: "Cidade-leprosário onde desenvolveu sua principal e heroica missão." },
+  { lat: 7.8939, lng: -72.5078, type: "morte", title: "Cúcuta, Colômbia", description: "Onde faleceu em obediência, afastado de seus doentes." }
+]' />
 
 ## Impacto Hoje
 

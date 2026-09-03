@@ -1,13 +1,18 @@
+---
+title: São João Paulo II
+description: Biografia, milagres, curiosidades e mapa de São João Paulo II.
+---
+
 # São João Paulo II
 
 ![São João Paulo II](imagens/joao-paulo-ii.jpg)
 
-**"Não tenhais medo! Abri, melhor, escancarai as portas a Cristo!"**
+> "Não tenhais medo! Abri, melhor, escancarai as portas a Cristo!"
 
-**Nascimento:** 18 de maio de 1920, Wadowice, Polônia
-**Morte:** 2 de abril de 2005, Vaticano
-**Festa Litúrgica:** 22 de outubro
-**Canonização:** 27 de abril de 2014, pelo Papa Francisco
+- **Nascimento:** 18 de maio de 1920, Wadowice, Polônia
+- **Morte:** 2 de abril de 2005, Vaticano
+- **Canonização:** 27 de abril de 2014, pelo Papa Francisco
+- **Festa Litúrgica:** 22 de outubro
 
 <TextToSpeech />
 
@@ -46,10 +51,11 @@ São João Paulo II foi uma figura chave na queda do comunismo no Leste Europeu.
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 49.8833, lng: 19.4928, title: "Wadowice, Polônia", description: "Local de nascimento de Karol Wojtyła." },
-  { lat: 50.0647, lng: 19.9450, title: "Cracóvia, Polônia", description: "Onde estudou, foi ordenado e serviu como Cardeal." },
-  { lat: 41.9029, lng: 12.4534, title: "Vaticano", description: "Onde serviu como Papa por quase 27 anos e onde faleceu." },
-  { lat: 19.4326, lng: -99.1332, title: "Cidade do México", description: "Primeira viagem internacional como Papa." }
+  { lat: 49.8833, lng: 19.4928, type: "nascimento", title: "Wadowice, Polônia", description: "Local de nascimento de Karol Wojtyła." },
+  { lat: 50.0647, lng: 19.945, type: "vida", title: "Cracóvia, Polônia", description: "Onde estudou, foi ordenado e serviu como Cardeal." },
+  { lat: 19.4326, lng: -99.1332, type: "vida", title: "Cidade do México", description: "Primeira viagem internacional como Papa." },
+  { lat: 9.9281, lng: -84.0907, type: "milagre", title: "San José, Costa Rica", description: "Cura de Floribeth Mora Díaz, de aneurisma cerebral inoperável — milagre da canonização." },
+  { lat: 41.9029, lng: 12.4534, type: "morte", title: "Vaticano", description: "Onde serviu como Papa por quase 27 anos e onde faleceu." }
 ]' />
 
 ## Galeria de Imagens e Restaurações

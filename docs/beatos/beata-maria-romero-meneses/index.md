@@ -1,13 +1,18 @@
+---
+title: Beata Maria Romero Meneses
+description: Biografia, milagres, curiosidades e mapa da Beata Maria Romero Meneses.
+---
+
 # Beata Maria Romero Meneses
 
 ![Beata Maria Romero Meneses](imagens/maria-romero.jpg)
 
-**"Ponha a mão, minha Mãe, ponha a antes da minha."**
+> "Ponha a mão, minha Mãe, ponha a antes da minha."
 
-**Nascimento:** 13 de janeiro de 1902, Granada, Nicarágua
-**Morte:** 7 de julho de 1977, León, Nicarágua
-**Festa Litúrgica:** 7 de julho
-**Beatificação:** 14 de abril de 2002, pelo Papa João Paulo II
+- **Nascimento:** 13 de janeiro de 1902, Granada, Nicarágua
+- **Morte:** 7 de julho de 1977, León, Nicarágua
+- **Beatificação:** 14 de abril de 2002, pelo Papa João Paulo II
+- **Festa Litúrgica:** 7 de julho
 
 <TextToSpeech />
 
@@ -37,15 +42,15 @@ Era uma mística da ação: sua intensa vida de oração transbordava em obras c
 
 ## Cidades por onde passou
 
-<MiracleMap :points="[
-  { lat: 11.9344, lng: -85.9560, title: 'Granada, Nicarágua', description: 'Cidade natal onde cresceu e descobriu sua vocação.' },
-  { lat: 9.9281, lng: -84.0907, title: 'San José, Costa Rica', description: 'Local onde desenvolveu sua grande obra social por 46 anos.' },
-  { lat: 12.4379, lng: -87.0520, title: 'León, Nicarágua', description: 'Cidade onde faleceu enquanto retornava para descansar.' }
-]" />
-
 *   **Granada (Nicarágua):** Cidade de seu nascimento.
 *   **San José (Costa Rica):** Onde fundou as "Obras Sociais de Sor Maria Romero", que incluíam consultórios médicos, escola, distribuição de alimentos e moradias para os pobres.
 *   **León (Nicarágua):** Local de seu falecimento.
+
+<MiracleMap :items='[
+  { lat: 11.9344, lng: -85.956, type: "nascimento", title: "Granada, Nicarágua", description: "Cidade natal onde cresceu e descobriu sua vocação." },
+  { lat: 9.9281, lng: -84.0907, type: "vida", title: "San José, Costa Rica", description: "Local onde desenvolveu sua grande obra social por 46 anos." },
+  { lat: 12.4379, lng: -87.052, type: "morte", title: "León, Nicarágua", description: "Cidade onde faleceu enquanto retornava para descansar." }
+]' />
 
 ## Impacto Hoje
 

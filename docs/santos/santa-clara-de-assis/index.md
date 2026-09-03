@@ -1,13 +1,18 @@
+---
+title: Santa Clara de Assis
+description: Biografia, milagres, curiosidades e mapa de Santa Clara de Assis.
+---
+
 # Santa Clara de Assis
 
 ![Santa Clara de Assis](imagens/portrait.jpg)
 
-**"Ama totalmente Aquele que totalmente se entregou por teu amor."**
+> "Ama totalmente Aquele que totalmente se entregou por teu amor."
 
-**Nascimento:** 16 de julho de 1194, Assis, Itália
-**Morte:** 11 de agosto de 1253, Assis, Itália
-**Festa Litúrgica:** 11 de agosto
-**Canonização:** 26 de setembro de 1255, pelo Papa Alexandre IV
+- **Nascimento:** 16 de julho de 1194, Assis, Itália
+- **Morte:** 11 de agosto de 1253, Assis, Itália
+- **Canonização:** 26 de setembro de 1255, pelo Papa Alexandre IV
+- **Festa Litúrgica:** 11 de agosto
 
 <TextToSpeech />
 
@@ -40,9 +45,9 @@ Sua espiritualidade era eucarística e centrada na contemplação da humanidade 
 Clara viveu toda a sua vida religiosa em Assis, especificamente no Mosteiro de São Damião, fora dos muros da cidade.
 
 <MiracleMap :items='[
-  { lat: 43.0707, lng: 12.6196, title: "Assis, Itália", description: "Cidade natal de Santa Clara." },
-  { lat: 43.0645, lng: 12.6133, title: "San Damiano", description: "Convento onde viveu a maior parte de sua vida e onde faleceu." },
-  { lat: 43.0583, lng: 12.5804, title: "Porciúncula (Santa Maria dos Anjos)", description: "Local onde recebeu o hábito das mãos de São Francisco." }
+  { lat: 43.0707, lng: 12.6196, type: "nascimento", title: "Assis, Itália", description: "Cidade natal de Santa Clara." },
+  { lat: 43.0583, lng: 12.5804, type: "vida", title: "Porciúncula (Santa Maria dos Anjos)", description: "Local onde recebeu o hábito das mãos de São Francisco." },
+  { lat: 43.0645, lng: 12.6133, type: "morte", title: "San Damiano", description: "Convento onde viveu a maior parte de sua vida e onde faleceu." }
 ]' />
 
 ## Impacto Hoje

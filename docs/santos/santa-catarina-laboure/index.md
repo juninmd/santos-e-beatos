@@ -1,24 +1,24 @@
 ---
 title: Santa Catarina Labouré
-description: A mensageira da Medalha Milagrosa.
+description: Biografia, milagres, curiosidades e mapa de Santa Catarina Labouré.
 ---
 
 # Santa Catarina Labouré
 
 ![Santa Catarina Labouré](imagens/portrait.jpg)
 
-**"A Santíssima Virgem quer encarregar-vos de uma missão."**
+> "A Santíssima Virgem quer encarregar-vos de uma missão."
 
-**Nascimento:** 2 de maio de 1806, Fain-lès-Moutiers, França
-**Morte:** 31 de dezembro de 1876, Paris, França
-**Canonização:** 27 de julho de 1947, Pelo Papa Pio XII
-**Festa Litúrgica:** 28 de novembro
-
----
+- **Nascimento:** 2 de maio de 1806, Fain-lès-Moutiers, França
+- **Morte:** 31 de dezembro de 1876, Paris, França
+- **Canonização:** 27 de julho de 1947, Pelo Papa Pio XII
+- **Festa Litúrgica:** 28 de novembro
 
 <TextToSpeech />
 
-## História de Santa Catarina Labouré
+---
+
+## Biografia
 
 Santa Catarina Labouré, nascida Zoe Labouré, foi uma freira vicentina francesa e vidente mariana, conhecida por ter recebido as aparições da Virgem Maria que levaram à criação da Medalha Milagrosa.
 
@@ -42,17 +42,17 @@ A Medalha Milagrosa rapidamente se espalhou pela França e pelo mundo, sendo ass
 
 Um dos fatos mais notáveis sobre Santa Catarina é que, quando seu corpo foi exumado em 1933, 57 anos após sua morte, foi encontrado incorrupto. Seus olhos ainda estavam azuis e seus membros flexíveis. Atualmente, seu corpo repousa na Capela de Nossa Senhora da Medalha Milagrosa, na Rue du Bac, em Paris.
 
-<MiracleMap :items="[
-  { title: 'Fain-lès-Moutiers', lat: 47.5833, lng: 4.2167, description: 'Local de nascimento' },
-  { title: 'Rue du Bac, Paris', lat: 48.8514, lng: 2.3228, description: 'Local das aparições e onde repousa seu corpo' }
-]" />
-
 ## Cidades por onde passou
 
 *   **Fain-lès-Moutiers**: Sua cidade natal.
 *   **Châtillon-sur-Seine**: Onde estudou brevemente.
 *   **Paris**: Onde entrou para o convento e viveu a maior parte de sua vida.
 
-## O Impacto Hoje
+<MiracleMap :items='[
+  { lat: 47.5833, lng: 4.2167, type: "nascimento", title: "Fain-lès-Moutiers", description: "Local de nascimento" },
+  { lat: 48.8514, lng: 2.3228, type: "morte", title: "Rue du Bac, Paris", description: "Local da morte (31 de dezembro de 1876)." },
+  { lat: 48.8514, lng: 2.3228, type: "tumulo", title: "Rue du Bac, Paris", description: "Local das aparições e onde repousa seu corpo" }
+]' />
 
+## Impacto Hoje
 A devoção à Medalha Milagrosa é uma das mais populares na Igreja Católica. Milhões de medalhas são distribuídas anualmente. A capela na Rue du Bac é um importante local de peregrinação. Santa Catarina Labouré é um modelo de humildade, mostrando que Deus muitas vezes escolhe os pequenos e silenciosos para realizar grandes obras.

@@ -1,3 +1,8 @@
+---
+title: São Gregório Magno
+description: Biografia, milagres, curiosidades e mapa de São Gregório Magno.
+---
+
 # São Gregório Magno
 
 ![São Gregório Magno](imagens/cover.jpg)
@@ -5,11 +10,13 @@
 > "A Sagrada Escritura é como um rio no qual o cordeiro pode caminhar e o elefante nadar."
 
 - **Nascimento:** Roma, c. 540
-- **Morte:** 12 de março de 604
+- **Morte:** 12 de março de 604, Roma (Itália)
 - **Canonização:** Aclamação popular logo após a morte
 - **Festa Litúrgica:** 3 de setembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -42,20 +49,13 @@ A vida de São Gregório é adornada com relatos de santidade extraordinária:
 
 <br>
 
-<MiracleMap :miracles="[
-  {
-    title: 'Roma, Itália',
-    description: 'Local de seu nascimento, onde fundou seu mosteiro, foi prefeito e, mais tarde, reinou como Papa.',
-    coordinates: [41.9028, 12.4964]
-  },
-  {
-    title: 'Constantinopla, Império Bizantino (atual Istambul, Turquia)',
-    description: 'Serviu como embaixador papal (apocrisiário) na corte do imperador bizantino durante vários anos.',
-    coordinates: [41.0082, 28.9784]
-  }
-]" />
-
 <br>
+
+<MiracleMap :items='[
+  { lat: 41.9028, lng: 12.4964, type: "nascimento", title: "Roma, Itália", description: "Local de seu nascimento, onde fundou seu mosteiro, foi prefeito e, mais tarde, reinou como Papa." },
+  { lat: 41.0082, lng: 28.9784, type: "vida", title: "Constantinopla, Império Bizantino (atual Istambul, Turquia)", description: "Serviu como embaixador papal (apocrisiário) na corte do imperador bizantino durante vários anos." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Local da morte (12 de março de 604)." }
+]' />
 
 ## Impacto Hoje
 

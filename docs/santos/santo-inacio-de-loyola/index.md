@@ -1,13 +1,18 @@
+---
+title: Santo Inácio de Loyola
+description: Biografia, milagres, curiosidades e mapa de Santo Inácio de Loyola.
+---
+
 # Santo Inácio de Loyola
 
 ![Santo Inácio de Loyola](imagens/cover.jpg)
 
-**"Tudo para a maior glória de Deus"**
+> "Tudo para a maior glória de Deus"
 
-**Nascimento:** 1491, Azpeitia (Espanha)
-**Morte:** 31 de julho de 1556, Roma (Itália)
-**Festa Litúrgica:** 31 de julho
-**Canonização:** 12 de março de 1622, pelo Papa Gregório XV
+- **Nascimento:** 1491, Azpeitia (Espanha)
+- **Morte:** 31 de julho de 1556, Roma (Itália)
+- **Canonização:** 12 de março de 1622, pelo Papa Gregório XV
+- **Festa Litúrgica:** 31 de julho
 
 <TextToSpeech />
 
@@ -50,13 +55,14 @@ Muitos milagres foram atribuídos à intercessão de Santo Inácio, tanto em vid
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 43.1833, lng: -2.2667, title: "Azpeitia, Espanha", description: "Local de nascimento, no Castelo de Loyola." },
-  { lat: 42.8125, lng: -1.6458, title: "Pamplona, Espanha", description: "Local onde foi ferido na batalha em 1521." },
-  { lat: 41.5958, lng: 1.8298, title: "Montserrat, Espanha", description: "Onde fez sua vigília d’armas e consagrou-se à Virgem." },
-  { lat: 41.7281, lng: 1.8231, title: "Manresa, Espanha", description: "Onde viveu na caverna e escreveu os Exercícios Espirituais." },
-  { lat: 31.7683, lng: 35.2137, title: "Jerusalém, Terra Santa", description: "Peregrinou para visitar os lugares santos." },
-  { lat: 48.8566, lng: 2.3522, title: "Paris, França", description: "Onde estudou e fundou a Companhia de Jesus com seus companheiros." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Onde governou a ordem e faleceu. Seu corpo repousa na Igreja de Gesù." }
+  { lat: 43.1833, lng: -2.2667, type: "nascimento", title: "Azpeitia, Espanha", description: "Local de nascimento, no Castelo de Loyola." },
+  { lat: 42.8125, lng: -1.6458, type: "vida", title: "Pamplona, Espanha", description: "Local onde foi ferido na batalha em 1521." },
+  { lat: 41.5958, lng: 1.8298, type: "vida", title: "Montserrat, Espanha", description: "Onde fez sua vigília d’armas e consagrou-se à Virgem." },
+  { lat: 41.7281, lng: 1.8231, type: "vida", title: "Manresa, Espanha", description: "Onde viveu na caverna e escreveu os Exercícios Espirituais." },
+  { lat: 31.7683, lng: 35.2137, type: "vida", title: "Jerusalém, Terra Santa", description: "Peregrinou para visitar os lugares santos." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde estudou e fundou a Companhia de Jesus com seus companheiros." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Local da morte (31 de julho de 1556)." },
+  { lat: 41.9028, lng: 12.4964, type: "tumulo", title: "Roma, Itália", description: "Onde governou a ordem e faleceu. Seu corpo repousa na Igreja de Gesù." }
 ]' />
 
 ## Impacto Hoje

@@ -1,17 +1,22 @@
+---
+title: São João de Deus
+description: Biografia, milagres, curiosidades e mapa de São João de Deus.
+---
+
 # São João de Deus
 
 ![São João de Deus](imagens/portrait.jpg)
 
-**"O Pai dos Pobres e Doentes."**
+> "O Pai dos Pobres e Doentes."
 
-**Nascimento:** 8 de março de 1495, Montemor-o-Novo, Portugal<br>
-**Morte:** 8 de março de 1550, Granada, Espanha<br>
-**Canonização:** 16 de outubro de 1690, pelo Papa Alexandre VIII<br>
-**Festa Litúrgica:** 8 de março<br>
-
----
+- **Nascimento:** 8 de março de 1495, Montemor-o-Novo, Portugal
+- **Morte:** 8 de março de 1550, Granada, Espanha
+- **Canonização:** 16 de outubro de 1690, pelo Papa Alexandre VIII
+- **Festa Litúrgica:** 8 de março
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -35,11 +40,11 @@ Inúmeros relatos de graças e curas físicas e espirituais são atribuídos à 
 - **Granada, Espanha:** Cidade onde ocorreu a maior parte de seu trabalho de caridade e onde fundou seu primeiro hospital.
 - **Sevilha e Madri:** Cidades na Espanha por onde também passou.
 
+<MiracleMap :items='[
+  { lat: 38.6465, lng: -8.2144, type: "nascimento", title: "Montemor-o-Novo", description: "Cidade onde São João de Deus nasceu em 1495." },
+  { lat: 37.1773, lng: -3.5985, type: "morte", title: "Granada", description: "Onde fundou a Ordem Hospitaleira e desenvolveu seu trabalho com os pobres e doentes. Local da morte (8 de março de 1550)." }
+]' />
+
 ## Impacto Hoje
 
 Hoje, a Ordem Hospitaleira de São João de Deus está presente em mais de 50 países em todo o mundo, com centenas de hospitais, clínicas e abrigos que cuidam dos mais necessitados, seguindo o exemplo de caridade e dedicação de seu fundador. Ele é um modelo duradouro de amor prático ao próximo.
-
-<MiracleMap :items="[
-  { lat: 38.6465, lng: -8.2144, title: 'Montemor-o-Novo', description: 'Cidade onde São João de Deus nasceu em 1495.' },
-  { lat: 37.1773, lng: -3.5985, title: 'Granada', description: 'Onde fundou a Ordem Hospitaleira e desenvolveu seu trabalho com os pobres e doentes.' }
-]" />

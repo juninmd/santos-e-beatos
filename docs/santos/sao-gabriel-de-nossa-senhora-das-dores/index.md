@@ -1,13 +1,18 @@
+---
+title: São Gabriel de Nossa Senhora das Dores
+description: Biografia, milagres, curiosidades e mapa de São Gabriel de Nossa Senhora das Dores.
+---
+
 # São Gabriel de Nossa Senhora das Dores
 
 ![São Gabriel de Nossa Senhora das Dores](imagens/portrait.jpg)
 
-**"Francisco, o que fazes no mundo? Tu não foste feito para ele. Segue a tua vocação!"**
+> "Francisco, o que fazes no mundo? Tu não foste feito para ele. Segue a tua vocação!"
 
-**Nascimento:** 1 de março de 1838, Assis, Itália
-**Morte:** 27 de fevereiro de 1862, Isola del Gran Sasso, Itália
-**Festa Litúrgica:** 27 de fevereiro
-**Canonização:** 13 de maio de 1920, pelo Papa Bento XV
+- **Nascimento:** 1 de março de 1838, Assis, Itália
+- **Morte:** 27 de fevereiro de 1862, Isola del Gran Sasso, Itália
+- **Canonização:** 13 de maio de 1920, pelo Papa Bento XV
+- **Festa Litúrgica:** 27 de fevereiro
 
 <TextToSpeech />
 
@@ -40,9 +45,9 @@ Após sua morte, sua fama de santidade espalhou-se rapidamente. Muitos milagres 
 São Gabriel viveu toda a sua breve vida na Itália, passando por cidades marcantes em sua jornada espiritual.
 
 <MiracleMap :items='[
-  { lat: 43.0707, lng: 12.6196, title: "Assis, Itália", description: "Cidade onde nasceu e foi batizado na mesma pia batismal de São Francisco e Santa Clara." },
-  { lat: 42.7339, lng: 12.7364, title: "Spoleto, Itália", description: "Cidade onde cresceu, estudou e recebeu o chamado definitivo de Nossa Senhora." },
-  { lat: 42.5065, lng: 13.6632, title: "Isola del Gran Sasso, Itália", description: "Local do convento passionista onde viveu sua vida religiosa, faleceu e onde se encontra seu santuário." }
+  { lat: 43.0707, lng: 12.6196, type: "nascimento", title: "Assis, Itália", description: "Cidade onde nasceu e foi batizado na mesma pia batismal de São Francisco e Santa Clara." },
+  { lat: 42.7339, lng: 12.7364, type: "vida", title: "Spoleto, Itália", description: "Cidade onde cresceu, estudou e recebeu o chamado definitivo de Nossa Senhora." },
+  { lat: 42.5065, lng: 13.6632, type: "morte", title: "Isola del Gran Sasso, Itália", description: "Local do convento passionista onde viveu sua vida religiosa, faleceu e onde se encontra seu santuário." }
 ]' />
 
 ## Impacto Hoje

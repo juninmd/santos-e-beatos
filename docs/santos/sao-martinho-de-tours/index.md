@@ -1,17 +1,22 @@
+---
+title: São Martinho de Tours
+description: Biografia, milagres, curiosidades e mapa de São Martinho de Tours.
+---
+
 # São Martinho de Tours
 
 ![São Martinho de Tours](imagens/portrait.jpg)
 
-**"O Santo do Manto Dividido"**
+> "O Santo do Manto Dividido"
 
-**Nascimento:** 316 d.C., Savaria (atual Szombathely, Hungria)<br>
-**Morte:** 8 de novembro de 397 d.C., Candes-Saint-Martin (França)<br>
-**Festa Litúrgica:** 11 de novembro<br>
-**Canonização:** Culto imemorial (antes do processo formal de canonização)<br>
-
----
+- **Nascimento:** 316 d.C., Savaria (atual Szombathely, Hungria)
+- **Morte:** 8 de novembro de 397 d.C., Candes-Saint-Martin (França)
+- **Canonização:** Culto imemorial (antes do processo formal de canonização)
+- **Festa Litúrgica:** 11 de novembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -46,8 +51,16 @@ A São Martinho são atribuídos diversos milagres, tanto em vida quanto após a
 - **Tours:** A cidade onde serviu como bispo por mais de 25 anos, transformando a região.
 - **Candes-Saint-Martin:** Onde ele faleceu durante uma visita pastoral.
 
+<MiracleMap :items='[
+  { lat: 47.2307, lng: 16.6215, type: "nascimento", title: "Szombathely (Savaria)", description: "Sua cidade natal na antiga Panônia (atual Hungria)." },
+  { lat: 45.1844, lng: 9.1582, type: "vida", title: "Pavia", description: "Cidade na Itália onde ele cresceu após a transferência de seu pai." },
+  { lat: 49.894, lng: 2.2957, type: "vida", title: "Amiens", description: "Na França, o local famoso onde ele dividiu seu manto com o mendigo." },
+  { lat: 46.5802, lng: 0.3403, type: "vida", title: "Poitiers", description: "Onde se tornou discípulo de Santo Hilário e aprofundou sua fé." },
+  { lat: 46.5167, lng: 0.3333, type: "vida", title: "Ligugé", description: "Local onde fundou o primeiro mosteiro da Gália." },
+  { lat: 47.3941, lng: 0.6848, type: "vida", title: "Tours", description: "A cidade onde serviu como bispo por mais de 25 anos." },
+  { lat: 47.2114, lng: 0.0744, type: "morte", title: "Candes-Saint-Martin", description: "Onde ele faleceu durante uma visita pastoral." }
+]' />
+
 ## Impacto Hoje
 
 São Martinho de Tours continua a ser um modelo poderoso de caridade e serviço aos mais necessitados. Sua ação de dividir o manto é um dos ícones mais duradouros da caridade cristã, lembrando a todos que Cristo está presente nos pobres e marginalizados. A devoção a ele moldou profundamente a cultura e a geografia da Europa, com milhares de igrejas, cidades e vilas nomeadas em sua honra. A tradição de partilha e hospitalidade no Dia de São Martinho ainda é celebrada em muitos países europeus, mantendo vivo o seu espírito de generosidade.
-
-<MiracleMap :items='[{"lat": 47.2307, "lng": 16.6215, "title": "Szombathely (Savaria)", "description": "Sua cidade natal na antiga Panônia (atual Hungria)."}, {"lat": 45.1844, "lng": 9.1582, "title": "Pavia", "description": "Cidade na Itália onde ele cresceu após a transferência de seu pai."}, {"lat": 49.8940, "lng": 2.2957, "title": "Amiens", "description": "Na França, o local famoso onde ele dividiu seu manto com o mendigo."}, {"lat": 46.5802, "lng": 0.3403, "title": "Poitiers", "description": "Onde se tornou discípulo de Santo Hilário e aprofundou sua fé."}, {"lat": 46.5167, "lng": 0.3333, "title": "Ligugé", "description": "Local onde fundou o primeiro mosteiro da Gália."}, {"lat": 47.3941, "lng": 0.6848, "title": "Tours", "description": "A cidade onde serviu como bispo por mais de 25 anos."}, {"lat": 47.2114, "lng": 0.0744, "title": "Candes-Saint-Martin", "description": "Onde ele faleceu durante uma visita pastoral."}]' />

@@ -1,13 +1,18 @@
+---
+title: Santa Paulina do Coração Agonizante de Jesus
+description: Biografia, milagres, curiosidades e mapa de Santa Paulina do Coração Agonizante de Jesus.
+---
+
 # Santa Paulina do Coração Agonizante de Jesus
 
-![Santa Paulina](imagens/portrait.jpg)
+![Santa Paulina do Coração Agonizante de Jesus](imagens/portrait.jpg)
 
-**"Nunca, jamais desanimeis, embora venham ventos contrários!"**
+> "Nunca, jamais desanimeis, embora venham ventos contrários!"
 
-**Nascimento:** 16 de dezembro de 1865, Vigolo Vattaro (Itália)<br>
-**Morte:** 9 de julho de 1942, São Paulo (Brasil)<br>
-**Festa Litúrgica:** 9 de julho<br>
-**Canonização:** 19 de maio de 2002, pelo Papa João Paulo II<br>
+- **Nascimento:** 16 de dezembro de 1865, Vigolo Vattaro (Itália)
+- **Morte:** 9 de julho de 1942, São Paulo (Brasil)
+- **Canonização:** 19 de maio de 2002, pelo Papa João Paulo II
+- **Festa Litúrgica:** 9 de julho
 
 <TextToSpeech />
 
@@ -46,9 +51,11 @@ O segundo milagre, decisivo para a sua canonização, foi a cura da menina Iza B
 A jornada da Madre cruzou o oceano da Itália para os vilarejos do Sul e depois a grande capital do país.
 
 <MiracleMap :items='[
-  { lat: 45.9922, lng: 11.2008, title: "Vigolo Vattaro, Itália", description: "Local de seu nascimento e onde passou a primeira década de vida." },
-  { lat: -27.2847, lng: -48.9286, title: "Nova Trento, Santa Catarina (Brasil)", description: "Cidade onde emigrou e fundou a Congregação das Irmãzinhas da Imaculada Conceição." },
-  { lat: -23.5505, lng: -46.6333, title: "São Paulo, SP (Brasil)", description: "Local onde fundou obras de caridade e passou o restante de sua vida e onde faleceu." }
+  { lat: 45.9922, lng: 11.2008, type: "nascimento", title: "Vigolo Vattaro, Itália", description: "Local de seu nascimento e onde passou a primeira década de vida." },
+  { lat: -27.2847, lng: -48.9286, type: "vida", title: "Nova Trento, Santa Catarina (Brasil)", description: "Cidade onde emigrou e fundou a Congregação das Irmãzinhas da Imaculada Conceição." },
+  { lat: -28.24, lng: -48.67, type: "milagre", title: "Imbituba (SC), Brasil", description: "Cura de Eluíza Rosa de Souza — milagre reconhecido para a beatificação (1991)." },
+  { lat: -9.9747, lng: -67.81, type: "milagre", title: "Rio Branco (AC), Brasil", description: "Cura da menina Iza Bruna Vieira de Souza — milagre da canonização." },
+  { lat: -23.5505, lng: -46.6333, type: "morte", title: "São Paulo, SP (Brasil)", description: "Local onde fundou obras de caridade e passou o restante de sua vida e onde faleceu." }
 ]' />
 
 ## Impacto Hoje

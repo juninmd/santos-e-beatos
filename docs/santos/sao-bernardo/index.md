@@ -1,13 +1,18 @@
+---
+title: São Bernardo de Claraval
+description: Biografia, milagres, curiosidades e mapa de São Bernardo de Claraval.
+---
+
 # São Bernardo de Claraval
 
 ![São Bernardo de Claraval](imagens/portrait.jpg)
 
-**"O Cantor da Virgem Maria e o Doutor Melífluo"**
+> "O Cantor da Virgem Maria e o Doutor Melífluo"
 
-**Nascimento:** 1090, Castelo de Fontaine-lès-Dijon, França<br>
-**Morte:** 20 de agosto de 1153, Abadia de Claraval (Clairvaux), França<br>
-**Festa Litúrgica:** 20 de agosto<br>
-**Canonização:** 18 de janeiro de 1174, pelo Papa Alexandre III
+- **Nascimento:** 1090, Castelo de Fontaine-lès-Dijon, França
+- **Morte:** 20 de agosto de 1153, Abadia de Claraval (Clairvaux), França
+- **Canonização:** 18 de janeiro de 1174, pelo Papa Alexandre III
+- **Festa Litúrgica:** 20 de agosto
 
 <TextToSpeech />
 
@@ -42,11 +47,11 @@ Um milagre célebre é conhecido como o "Milagre da Lactação" (Lactatio Bernar
 ## Cidades por onde passou
 
 <MiracleMap :items='[
-  { lat: 47.3458, lng: 5.0131, title: "Fontaine-lès-Dijon, França", description: "Local do nascimento de São Bernardo." },
-  { lat: 47.1284, lng: 5.0645, title: "Abadia de Cister, França", description: "Mosteiro onde Bernardo iniciou sua vida religiosa aos 22 anos." },
-  { lat: 48.1493, lng: 4.7865, title: "Abadia de Claraval (Clairvaux), França", description: "A célebre abadia que ele fundou e onde passou grande parte de sua vida e faleceu." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Para onde viajou a pedido de papas para resolver cismas e disputas teológicas." },
-  { lat: 48.8566, lng: 2.3522, title: "Paris, França", description: "Onde frequentemente pregava e debatia com teólogos influentes como Pedro Abelardo." }
+  { lat: 47.3458, lng: 5.0131, type: "nascimento", title: "Fontaine-lès-Dijon, França", description: "Local do nascimento de São Bernardo." },
+  { lat: 47.1284, lng: 5.0645, type: "vida", title: "Abadia de Cister, França", description: "Mosteiro onde Bernardo iniciou sua vida religiosa aos 22 anos." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Para onde viajou a pedido de papas para resolver cismas e disputas teológicas." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde frequentemente pregava e debatia com teólogos influentes como Pedro Abelardo." },
+  { lat: 48.1493, lng: 4.7865, type: "morte", title: "Abadia de Claraval (Clairvaux), França", description: "A célebre abadia que ele fundou e onde passou grande parte de sua vida e faleceu." }
 ]' />
 
 ## Impacto Hoje

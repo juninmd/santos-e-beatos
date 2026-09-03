@@ -1,34 +1,22 @@
 ---
 title: Beato Inácio de Azevedo
-description: Vida e martírio do Beato Inácio de Azevedo e seus 39 companheiros, os mártires do Brasil.
-head:
-  - - meta
-    - name: keywords
-      content: Beato Inácio de Azevedo, Mártires do Brasil, Companhia de Jesus, Jesuítas, Quarenta Mártires, Piratas Calvinistas, Missão, Brasil
+description: Biografia, milagres, curiosidades e mapa do Beato Inácio de Azevedo.
 ---
-
-<script setup>
-import MiracleMap from '../../.vitepress/components/MiracleMap.vue'
-import TextToSpeech from '../../.vitepress/components/TextToSpeech.vue'
-import SaintOfTheDay from '../../.vitepress/components/SaintOfTheDay.vue'
-</script>
 
 # Beato Inácio de Azevedo
 
-<div class="saint-profile">
-  <img src="./imagens/portrait.jpg" alt="Beato Inácio de Azevedo" class="saint-portrait" />
-  <div class="saint-info">
-    <p class="quote">"Todos, todos por Cristo!"</p>
-    <div class="metadata">
-      <p><strong>Nascimento:</strong> 1526<br>
-      <strong>Morte:</strong> 15 de Julho de 1570<br>
-      <strong>Beatificação:</strong> 11 de Maio de 1854<br>
-      <strong>Festa Litúrgica:</strong> 17 de Julho</p>
-    </div>
-  </div>
-</div>
+![Beato Inácio de Azevedo](imagens/portrait.jpg)
+
+> "Todos, todos por Cristo!"
+
+- **Nascimento:** 1526, Porto (Portugal)
+- **Morte:** 15 de Julho de 1570, Tazacorte, Ilha de La Palma (Canárias)
+- **Beatificação:** 11 de Maio de 1854
+- **Festa Litúrgica:** 17 de Julho
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -62,15 +50,16 @@ A tradição conta que, no momento do martírio, o corpo de Inácio não afundou
 *   **Funchal (Ilha da Madeira):** Escala antes do martírio.
 *   **Las Palmas (Ilhas Canárias):** Proximidades do local do martírio em alto mar.
 
+<MiracleMap :items='[
+  { lat: 41.1579, lng: -8.6291, type: "nascimento", title: "Porto, Portugal", description: "Cidade natal do Beato Inácio de Azevedo." },
+  { lat: 38.7223, lng: -9.1393, type: "vida", title: "Lisboa, Portugal", description: "Ponto de partida da missão para o Brasil." },
+  { lat: -12.9777, lng: -38.5016, type: "vida", title: "Salvador, Brasil", description: "Uma das cidades visitadas durante sua missão como Visitador." },
+  { lat: 28.6835, lng: -17.7642, type: "morte", title: "Ilha de La Palma (Canárias)", description: "Proximidades do local do martírio dos 40 Jesuítas." },
+  { lat: 28.6417, lng: -17.9333, type: "morte", title: "Tazacorte", description: "Local da morte (15 de Julho de 1570)." }
+]' />
+
 ## Impacto Hoje
 
 O sacrifício do Beato Inácio de Azevedo e seus companheiros ressoa até hoje como um poderoso lembrete do custo do discipulado e da primazia do amor a Deus. Em um mundo muitas vezes marcado pela indiferença religiosa, eles nos desafiam a viver nossa fé com coragem e generosidade total.
 
 Sua memória é celebrada liturgicamente em 17 de julho, e eles continuam a inspirar vocações missionárias e leigos engajados na evangelização. A Companhia de Jesus e a Igreja no Brasil honram esses heróis da fé que, com seu sangue, semearam o Evangelho nas águas do Atlântico, fecundando espiritualmente a terra brasileira.
-
-<MiracleMap :markers="[
-  { lat: 41.1579, lng: -8.6291, title: 'Porto, Portugal', description: 'Cidade natal do Beato Inácio de Azevedo.' },
-  { lat: 38.7223, lng: -9.1393, title: 'Lisboa, Portugal', description: 'Ponto de partida da missão para o Brasil.' },
-  { lat: -12.9777, lng: -38.5016, title: 'Salvador, Brasil', description: 'Uma das cidades visitadas durante sua missão como Visitador.' },
-  { lat: 28.6835, lng: -17.7642, title: 'Ilha de La Palma (Canárias)', description: 'Proximidades do local do martírio dos 40 Jesuítas.' }
-]" />

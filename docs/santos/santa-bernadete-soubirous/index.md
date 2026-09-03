@@ -1,13 +1,18 @@
+---
+title: Santa Bernadete Soubirous
+description: Biografia, milagres, curiosidades e mapa de Santa Bernadete Soubirous.
+---
+
 # Santa Bernadete Soubirous
 
 ![Santa Bernadete Soubirous](imagens/portrait.jpg)
 
-**"Eu não te prometo a felicidade neste mundo, mas no outro."**
+> "Eu não te prometo a felicidade neste mundo, mas no outro."
 
-**Nascimento:** 7 de janeiro de 1844, Lourdes, França
-**Morte:** 16 de abril de 1879, Nevers, França
-**Festa Litúrgica:** 16 de abril (18 de fevereiro na França)
-**Canonização:** 8 de dezembro de 1933, pelo Papa Pio XI
+- **Nascimento:** 7 de janeiro de 1844, Lourdes, França
+- **Morte:** 16 de abril de 1879, Nevers, França
+- **Canonização:** 8 de dezembro de 1933, pelo Papa Pio XI
+- **Festa Litúrgica:** 16 de abril (18 de fevereiro na França)
 
 <TextToSpeech />
 
@@ -40,8 +45,9 @@ Durante sua vida, a fonte de Lourdes já operava milagres, embora Bernadete semp
 Bernadete viveu toda sua vida na França, dividindo-se entre sua cidade natal e o convento onde faleceu.
 
 <MiracleMap :items='[
-  { lat: 43.0915, lng: -0.0521, title: "Lourdes, França", description: "Local de nascimento e das 18 aparições de Nossa Senhora na Gruta de Massabielle." },
-  { lat: 46.9906, lng: 3.1628, title: "Nevers, França", description: "Cidade onde viveu como religiosa no Convento Saint-Gildard e onde seu corpo incorrupto repousa." }
+  { lat: 43.0915, lng: -0.0521, type: "nascimento", title: "Lourdes, França", description: "Local de nascimento e das 18 aparições de Nossa Senhora na Gruta de Massabielle." },
+  { lat: 46.9906, lng: 3.1628, type: "morte", title: "Nevers, França", description: "Local da morte (16 de abril de 1879)." },
+  { lat: 46.9906, lng: 3.1628, type: "tumulo", title: "Nevers, França", description: "Cidade onde viveu como religiosa no Convento Saint-Gildard e onde seu corpo incorrupto repousa." }
 ]' />
 
 ## Impacto Hoje

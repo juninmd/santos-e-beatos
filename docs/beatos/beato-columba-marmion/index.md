@@ -1,13 +1,18 @@
+---
+title: Beato Columba Marmion
+description: Biografia, milagres, curiosidades e mapa do Beato Columba Marmion.
+---
+
 # Beato Columba Marmion
 
 ![Beato Columba Marmion](imagens/portrait.jpg)
 
-**"Mestre da Vida Espiritual e da Adoção Divina"**
+> "Mestre da Vida Espiritual e da Adoção Divina"
 
-**Nascimento:** 1 de abril de 1858, Dublin, Irlanda<br>
-**Morte:** 30 de janeiro de 1923, Maredsous, Bélgica<br>
-**Beatificação:** 3 de setembro de 2000, por Papa João Paulo II<br>
-**Festa Litúrgica:** 3 de outubro
+- **Nascimento:** 1 de abril de 1858, Dublin, Irlanda
+- **Morte:** 30 de janeiro de 1923, Maredsous, Bélgica
+- **Beatificação:** 3 de setembro de 2000, por Papa João Paulo II
+- **Festa Litúrgica:** 3 de outubro
 
 <TextToSpeech />
 
@@ -44,14 +49,14 @@ Muitas outras graças são relatadas por pessoas que se aprofundam em seus ensin
 - **Roma, Itália:** Onde concluiu os estudos de teologia e foi ordenado sacerdote.
 - **Maredsous e Lovaina, Bélgica:** Mosteiros beneditinos onde passou a maior parte de sua vida consagrada e serviu como abade.
 
+<MiracleMap :items='[
+  { lat: 53.3498, lng: -6.2603, type: "nascimento", title: "Dublin, Irlanda", description: "Cidade onde nasceu em 1858 e onde descobriu sua vocação." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Onde completou seus estudos e foi ordenado sacerdote." },
+  { lat: 50.3013, lng: 4.7667, type: "morte", title: "Abadia de Maredsous, Bélgica", description: "Local onde viveu como monge beneditino, foi abade e onde repousam seus restos mortais. Local da morte (30 de janeiro de 1923)." }
+]' />
+
 ## Impacto Hoje
 
 Dom Columba Marmion deixou um dos mais profundos e influentes legados teológicos e espirituais para a Igreja Católica moderna. Suas obras, traduzidas para numerosos idiomas, continuam a ser lidas e estudadas em seminários, mosteiros e por leigos do mundo todo. Elas ajudaram a promover um renascimento do estudo da liturgia e um entendimento mais profundo do papel de Cristo na vida de cada crente.
 
 A clareza com que ele expunha o mistério de nossa filiação divina em Cristo oferece até hoje uma base sólida para todos os que buscam crescer na fé, na oração e na santidade. Ele continua a ser invocado como um intercessor sábio para a conversão espiritual e para o aprofundamento do relacionamento pessoal com Deus.
-
-<MiracleMap :items='[
-  { lat: 53.3498, lng: -6.2603, title: "Dublin, Irlanda", description: "Cidade onde nasceu em 1858 e onde descobriu sua vocação." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Onde completou seus estudos e foi ordenado sacerdote." },
-  { lat: 50.3013, lng: 4.7667, title: "Abadia de Maredsous, Bélgica", description: "Local onde viveu como monge beneditino, foi abade e onde repousam seus restos mortais." }
-]' />

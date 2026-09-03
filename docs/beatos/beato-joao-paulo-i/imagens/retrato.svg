@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Beato João Paulo I">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#141c33"/>
+      <stop offset="100%" stop-color="#2f4780"/>
+    </linearGradient>
+    <radialGradient id="h" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#9fc0f5" stop-opacity="0.95"/>
+      <stop offset="70%" stop-color="#9fc0f5" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#9fc0f5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#f)"/>
+  <rect x="14" y="14" width="372" height="572" fill="none" stroke="#9fc0f5" stroke-opacity="0.45" stroke-width="2" rx="10"/>
+  <circle cx="200" cy="228" r="130" fill="url(#h)"/>
+  <circle cx="200" cy="228" r="78" fill="none" stroke="#9fc0f5" stroke-opacity="0.8" stroke-width="3"/>
+  <path d="M200 168 v120 M170 204 h60" stroke="#9fc0f5" stroke-width="7" stroke-linecap="round" fill="none" opacity="0.9"/>
+  <text x="200" y="402" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#eef3fd">Beato João Paulo</text>
+  <text x="200" y="436" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#eef3fd">I</text>
+  <text x="200" y="482" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#9fc0f5">1912 — 1978</text>
+  <text x="200" y="570" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#eef3fd" opacity="0.6">Ilustração — imagem histórica pendente</text>
+</svg>

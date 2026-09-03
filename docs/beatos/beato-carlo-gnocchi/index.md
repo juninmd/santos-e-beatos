@@ -1,15 +1,22 @@
+---
+title: Beato Carlo Gnocchi
+description: Biografia, milagres, curiosidades e mapa do Beato Carlo Gnocchi.
+---
+
 # Beato Carlo Gnocchi
 
-![Beato Carlo Gnocchi](./imagens/portrait.jpg)
+![Beato Carlo Gnocchi](imagens/portrait.jpg)
 
-**"O Pai dos Mutiladinhos."**
+> "O Pai dos Mutiladinhos."
 
-**Nascimento:** 25 de outubro de 1902, San Colombano al Lambro (Itália)<br>
-**Morte:** 28 de fevereiro de 1956, Milão (Itália)<br>
-**Beatificação:** 25 de outubro de 2009, pelo Papa Bento XVI<br>
-**Festa Litúrgica:** 25 de outubro
+- **Nascimento:** 25 de outubro de 1902, San Colombano al Lambro (Itália)
+- **Morte:** 28 de fevereiro de 1956, Milão (Itália)
+- **Beatificação:** 25 de outubro de 2009, pelo Papa Bento XVI
+- **Festa Litúrgica:** 25 de outubro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -38,9 +45,9 @@ O milagre aprovado para sua beatificação envolveu Sperandio Aldeni, um eletric
 Don Gnocchi atuou principalmente no norte da Itália e também esteve nas frentes de batalha.
 
 <MiracleMap :items='[
-  { lat: 45.1833, lng: 9.4833, title: "San Colombano al Lambro, Itália", description: "Cidade natal de Carlo Gnocchi." },
-  { lat: 45.4642, lng: 9.1900, title: "Milão, Itália", description: "Onde estudou, fundou sua obra e faleceu." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Onde buscou apoio do Papa Pio XII para sua obra." }
+  { lat: 45.1833, lng: 9.4833, type: "nascimento", title: "San Colombano al Lambro, Itália", description: "Cidade natal de Carlo Gnocchi." },
+  { lat: 41.9028, lng: 12.4964, type: "vida", title: "Roma, Itália", description: "Onde buscou apoio do Papa Pio XII para sua obra." },
+  { lat: 45.4642, lng: 9.19, type: "morte", title: "Milão, Itália", description: "Onde estudou, fundou sua obra e faleceu." }
 ]' />
 
 ## Impacto Hoje

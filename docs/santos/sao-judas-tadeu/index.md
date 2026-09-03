@@ -1,12 +1,20 @@
+---
+title: São Judas Tadeu
+description: Biografia, milagres, curiosidades e mapa de São Judas Tadeu.
+---
+
 # São Judas Tadeu
 
 ![São Judas Tadeu](imagens/sao-judas.jpg)
 
-**"O Santo das Causas Impossíveis"**
+> "O Santo das Causas Impossíveis"
 
-**Morte:** Século I (martírio na Pérsia)
-**Festa Litúrgica:** 28 de outubro
-**Canonização:** Santo da Igreja Primitiva (culto imemorial)
+- **Nascimento:** Século I, Galileia (data exata desconhecida)
+- **Morte:** Século I (martírio na Pérsia)
+- **Canonização:** Santo da Igreja Primitiva (culto imemorial)
+- **Festa Litúrgica:** 28 de outubro
+
+<TextToSpeech />
 
 ---
 
@@ -28,6 +36,15 @@ Conhecido como o "Santo das Causas Impossíveis" ou "Causas Desesperadas", títu
 
 1.  **Chama:** É representado com uma chama de fogo sobre a cabeça, significando a presença do Espírito Santo em Pentecostes.
 2.  **Devoção Popular:** É extremamente venerado no Brasil, com grandes procissões e festas em sua honra.
+
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a São Judas Tadeu: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: 32.7467, lng: 35.3389, type: "nascimento", title: "Caná da Galileia", description: "Local de nascimento." },
+  { lat: 32.4279, lng: 53.688, type: "morte", title: "Pérsia", description: "Local da morte (Século I)." }
+]' />
 
 ## Impacto Hoje
 

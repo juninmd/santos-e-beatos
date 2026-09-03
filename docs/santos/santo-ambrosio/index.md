@@ -1,17 +1,22 @@
+---
+title: Santo Ambrósio
+description: Biografia, milagres, curiosidades e mapa de Santo Ambrósio.
+---
+
 # Santo Ambrósio
 
 ![Santo Ambrósio](imagens/portrait.jpg)
 
-**"Nenhum dever é mais urgente do que aquele de devolver um agradecimento."**
+> "Nenhum dever é mais urgente do que aquele de devolver um agradecimento."
 
-**Nascimento:** c. 340 d.C., Augusta Treverorum (Trier, Alemanha)<br>
-**Morte:** 4 de abril de 397 d.C., Mediolano (Milão, Itália)<br>
-**Festa Litúrgica:** 7 de dezembro<br>
-**Canonização:** Aclamação Popular (Pré-congregação)<br>
-
----
+- **Nascimento:** c. 340 d.C., Augusta Treverorum (Trier, Alemanha)
+- **Morte:** 4 de abril de 397 d.C., Mediolano (Milão, Itália)
+- **Canonização:** Aclamação Popular (Pré-congregação)
+- **Festa Litúrgica:** 7 de dezembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 
@@ -40,10 +45,12 @@ Sua pregação foi vital para a conversão de Santo Agostinho de Hipona, a quem 
 - Milão (Itália)
 - Sírmio (atual Sremska Mitrovica, Sérvia)
 
+<MiracleMap :items='[
+  { lat: 49.7567, lng: 6.6414, type: "nascimento", title: "Augusta Treverorum (Trier, Alemanha)", description: "Local de nascimento (c. 340 d.C.)." },
+  { lat: 45.4642, lng: 9.19, type: "morte", title: "Basílica de Santo Ambrósio", description: "Local da morte (4 de abril de 397 d.C.)." },
+  { lat: 45.4626, lng: 9.1754, type: "tumulo", title: "Basílica de Santo Ambrósio", description: "Uma das mais antigas igrejas de Milão, onde estão as relíquias de Santo Ambrósio." }
+]' />
+
 ## Impacto Hoje
 
 Santo Ambrósio continua sendo lembrado por seu trabalho pastoral, por seus hinos e escritos que moldaram a liturgia ocidental. Ele estabeleceu um exemplo para as relações Igreja-Estado e a independência espiritual da Igreja perante as autoridades civis. É o padroeiro da cidade de Milão, dos apicultores, dos fabricantes de cera, da aprendizagem e dos estudantes. A Arquidiocese de Milão ainda usa o Rito Ambrosiano na sua liturgia diária, diferente do Rito Romano amplamente difundido no Ocidente.
-
-<MiracleMap :items="[
-  { lat: 45.4626, lng: 9.1754, title: 'Basílica de Santo Ambrósio', description: 'Uma das mais antigas igrejas de Milão, onde estão as relíquias de Santo Ambrósio.' }
-]" />

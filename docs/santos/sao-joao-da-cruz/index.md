@@ -1,13 +1,20 @@
+---
+title: São João da Cruz
+description: Biografia, milagres, curiosidades e mapa de São João da Cruz.
+---
+
 # São João da Cruz
 
 ![São João da Cruz](imagens/cover.jpg)
 
-**"No entardecer da vida, seremos julgados pelo amor."**
+> "No entardecer da vida, seremos julgados pelo amor."
 
-**Nascimento:** 24 de junho de 1542, Fontiveros, Espanha
-**Morte:** 14 de dezembro de 1591, Úbeda, Espanha
-**Festa Litúrgica:** 14 de dezembro
-**Canonização:** 27 de dezembro de 1726, pelo Papa Bento XIII
+- **Nascimento:** 24 de junho de 1542, Fontiveros, Espanha
+- **Morte:** 14 de dezembro de 1591, Úbeda, Espanha
+- **Canonização:** 27 de dezembro de 1726, pelo Papa Bento XIII
+- **Festa Litúrgica:** 14 de dezembro
+
+<TextToSpeech />
 
 ---
 
@@ -42,6 +49,15 @@ Também são atribuídos a ele milagres de conversão profunda de almas que, ao 
 3.  **Desenho de Cristo:** Um dia, teve uma visão de Cristo crucificado visto de cima e fez um pequeno desenho. Séculos depois, este desenho inspirou o famoso quadro "Cristo de São João da Cruz" do pintor surrealista Salvador Dalí.
 4.  **Doutor da Igreja:** Foi declarado Doutor da Igreja pelo Papa Pio XI em 1926, recebendo o título de "Doutor Místico".
 
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a São João da Cruz: nascimento, morte, milagres e locais de devoção.
+
+<MiracleMap :items='[
+  { lat: 40.9333, lng: -4.9833, type: "nascimento", title: "Fontiveros, Espanha", description: "Local de nascimento (24 de junho de 1542)." },
+  { lat: 38.0117, lng: -3.37, type: "morte", title: "Úbeda, Espanha", description: "Local da morte (14 de dezembro de 1591)." }
+]' />
+
 ## Impacto Hoje
 
 A mensagem de São João da Cruz permanece vibrante e necessária. Em um mundo marcado pelo materialismo e pela dispersão, ele nos convida ao silêncio, à interioridade e à busca do essencial. Seus escritos continuam a ser estudados não apenas por teólogos, mas também por filósofos, psicólogos e amantes da literatura em todo o mundo.
@@ -50,11 +66,7 @@ Ele ensina ao homem moderno que a verdadeira felicidade não está na posse de c
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
   <div style="flex: 1; min-width: 300px;">
-    <TextToSpeech />
-  </div>
+    </div>
   <div style="flex: 1; min-width: 300px;">
-    <MiracleMap :places="['Fontiveros', 'Salamanca', 'Toledo', 'Úbeda']" />
-  </div>
+    </div>
 </div>
-
-<SaintOfTheDay />

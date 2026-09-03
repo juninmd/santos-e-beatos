@@ -1,22 +1,20 @@
+---
+title: Beata Paulina Jaricot
+description: Biografia, milagres, curiosidades e mapa da Beata Paulina Jaricot.
+---
+
 # Beata Paulina Jaricot
 
 ![Beata Paulina Jaricot](imagens/portrait.jpg)
 
-**"A Mãe das Missões"**
+> "A Mãe das Missões"
 
-**Nascimento:** 22 de julho de 1799, Lyon, França
-**Morte:** 9 de janeiro de 1862, Lyon, França
-**Festa Litúrgica:** 9 de janeiro
-**Beatificação:** 22 de maio de 2022, pelo Papa Francisco (representado pelo Cardeal Luis Antonio Tagle)
+- **Nascimento:** 22 de julho de 1799, Lyon, França
+- **Morte:** 9 de janeiro de 1862, Lyon, França
+- **Beatificação:** 22 de maio de 2022, pelo Papa Francisco (representado pelo Cardeal Luis Antonio Tagle)
+- **Festa Litúrgica:** 9 de janeiro
 
 <TextToSpeech />
-
-<script setup>
-const mapItems = [
-  { lat: 45.7640, lng: 4.8357, title: "Lyon, França", description: "Cidade onde nasceu, viveu, desenvolveu suas obras e faleceu." },
-  { lat: 45.7621, lng: 4.8268, title: "Basílica de Notre-Dame de Fourvière", description: "Local de grande devoção para Paulina e onde ela frequentemente rezava." }
-]
-</script>
 
 ---
 
@@ -44,7 +42,10 @@ O milagre aprovado para sua beatificação envolveu a cura de Mayline Tran, uma 
 
 ## Cidades por onde passou
 
-<MiracleMap :items="mapItems" />
+<MiracleMap :items='[
+  { lat: 45.764, lng: 4.8357, type: "nascimento", title: "Lyon, França", description: "Cidade onde nasceu, viveu, desenvolveu suas obras e faleceu." },
+  { lat: 45.7621, lng: 4.8268, type: "morte", title: "Basílica de Notre-Dame de Fourvière", description: "Local de grande devoção para Paulina e onde ela frequentemente rezava. Local da morte (9 de janeiro de 1862)." }
+]' />
 
 ## Impacto Hoje
 

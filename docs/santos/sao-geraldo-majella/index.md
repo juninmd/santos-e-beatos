@@ -1,29 +1,19 @@
 ---
 title: São Geraldo Majella
-description: História de São Geraldo Majella, o santo padroeiro das mães e das gestantes, conhecido por seus milagres e obediência.
-head:
-  - - meta
-    - name: keywords
-      content: São Geraldo Majella, Santo, Católico, Biografia, Mães, Gestantes
+description: Biografia, milagres, curiosidades e mapa de São Geraldo Majella.
 ---
 
 # São Geraldo Majella
 
-<div class="hero-header">
-    <img src="./imagens/sao-geraldo.png" alt="Imagem de São Geraldo Majella" class="hero-image" />
-    <div class="hero-info">
-        <blockquote>
-            <p>“Aqui se faz a vontade de Deus, como Deus quer e por quanto tempo Ele quiser.”</p>
-        </blockquote>
-        <ul>
-            <li><strong>Nascimento:</strong> 6 de Abril de 1726 (Muro Lucano, Itália)</li>
-            <li><strong>Morte:</strong> 16 de Outubro de 1755 (Materdomini, Itália)</li>
-            <li><strong>Beatificação:</strong> 29 de Janeiro de 1893 (Papa Leão XIII)</li>
-            <li><strong>Canonização:</strong> 11 de Dezembro de 1904 (Papa Pio X)</li>
-            <li><strong>Festa Litúrgica:</strong> 16 de Outubro</li>
-        </ul>
-    </div>
-</div>
+![São Geraldo Majella](imagens/sao-geraldo.png)
+
+> "Aqui se faz a vontade de Deus, como Deus quer e por quanto tempo Ele quiser."
+
+- **Nascimento:** 6 de Abril de 1726 (Muro Lucano, Itália)
+- **Morte:** 16 de Outubro de 1755 (Materdomini, Itália)
+- **Beatificação:** 29 de Janeiro de 1893 (Papa Leão XIII)
+- **Canonização:** 11 de Dezembro de 1904 (Papa Pio X)
+- **Festa Litúrgica:** 16 de Outubro
 
 <TextToSpeech />
 
@@ -58,9 +48,9 @@ Desde então, inúmeras mães recorrem à sua intercessão para uma gravidez seg
 São Geraldo viveu toda a sua vida no sul da Itália.
 
 <MiracleMap :items='[
-  { "name": "Muro Lucano", "coords": [40.7533, 15.4872], "description": "Local de nascimento de São Geraldo." },
-  { "name": "Materdomini", "coords": [40.8466, 15.2952], "description": "Local de sua morte e onde se encontra seu santuário." },
-  { "name": "Nápoles", "coords": [40.8518, 14.2681], "description": "Cidade onde teve contatos com a comunidade religiosa e realizou trabalhos." }
+  { lat: 40.7533, lng: 15.4872, type: "nascimento", title: "Muro Lucano", description: "Local de nascimento de São Geraldo." },
+  { lat: 40.8518, lng: 14.2681, type: "vida", title: "Nápoles", description: "Cidade onde teve contatos com a comunidade religiosa e realizou trabalhos." },
+  { lat: 40.8466, lng: 15.2952, type: "morte", title: "Materdomini", description: "Local de sua morte e onde se encontra seu santuário." }
 ]' />
 
 ## Impacto Hoje

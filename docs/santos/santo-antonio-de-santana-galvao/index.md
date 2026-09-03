@@ -1,13 +1,18 @@
+---
+title: Santo Antônio de Sant'Ana Galvão
+description: Biografia, milagres, curiosidades e mapa de Santo Antônio de Sant'Ana Galvão.
+---
+
 # Santo Antônio de Sant'Ana Galvão
 
 ![Santo Antônio de Sant'Ana Galvão](imagens/portrait.jpg)
 
-**"O primeiro santo nascido no Brasil"**
+> "O primeiro santo nascido no Brasil"
 
-**Nascimento:** 1739, Guaratinguetá, São Paulo, Brasil<br>
-**Morte:** 23 de dezembro de 1822, São Paulo, Brasil<br>
-**Canonização:** 11 de maio de 2007, por Papa Bento XVI<br>
-**Festa Litúrgica:** 25 de outubro
+- **Nascimento:** 1739, Guaratinguetá, São Paulo, Brasil
+- **Morte:** 23 de dezembro de 1822, São Paulo, Brasil
+- **Canonização:** 11 de maio de 2007, por Papa Bento XVI
+- **Festa Litúrgica:** 25 de outubro
 
 <TextToSpeech />
 
@@ -40,13 +45,14 @@ Outro caso similar aconteceu com um homem que sofria de fortes dores causadas po
 
 Frei Galvão passou a maior parte de sua vida entre Guaratinguetá (sua cidade natal), o Rio de Janeiro (onde fez o noviciado) e São Paulo, cidade onde viveu a maior parte de sua vida religiosa e deixou seu maior legado, o Mosteiro da Luz.
 
+<MiracleMap :items='[
+  { lat: -22.8166, lng: -45.1925, type: "nascimento", title: "Guaratinguetá, SP", description: "Cidade natal de Santo Antônio de Sant&#39;Ana Galvão." },
+  { lat: -23.5303, lng: -46.6339, type: "morte", title: "Mosteiro da Luz, São Paulo", description: "Local da morte (23 de dezembro de 1822)." },
+  { lat: -23.5303, lng: -46.6339, type: "tumulo", title: "Mosteiro da Luz, São Paulo", description: "Mosteiro fundado e construído por Frei Galvão, local onde ele está sepultado." }
+]' />
+
 ## Impacto Hoje
 
 Santo Antônio de Sant'Ana Galvão é um dos santos mais populares do Brasil, conhecido como o "homem da paz e da caridade". Sua vida é um testemunho de dedicação aos pobres e enfermos. O Mosteiro da Luz continua sendo um local de peregrinação intensa, onde milhares de fiéis vão em busca de paz, conforto espiritual e as famosas pílulas.
 
 A devoção a Frei Galvão cresce continuamente, não apenas no Brasil, mas em outras partes do mundo. Ele é um poderoso intercessor pelas mães, especialmente aquelas que enfrentam dificuldades durante a gravidez e o parto, além de ser um modelo de virtude e humildade para todos os cristãos.
-
-<MiracleMap :items="[
-  { lat: -22.8166, lng: -45.1925, title: 'Guaratinguetá, SP', description: 'Cidade natal de Santo Antônio de Sant\'Ana Galvão.' },
-  { lat: -23.5303, lng: -46.6339, title: 'Mosteiro da Luz, São Paulo', description: 'Mosteiro fundado e construído por Frei Galvão, local onde ele está sepultado.' }
-]" />

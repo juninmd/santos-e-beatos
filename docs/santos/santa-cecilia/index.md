@@ -1,13 +1,18 @@
+---
+title: Santa Cecília
+description: Biografia, milagres, curiosidades e mapa de Santa Cecília.
+---
+
 # Santa Cecília
 
 ![Santa Cecília](imagens/portrait.jpg)
 
-**"Senhor, guardai sem mancha meu corpo e minha alma, para que não seja confundida."**
+> "Senhor, guardai sem mancha meu corpo e minha alma, para que não seja confundida."
 
-**Nascimento:** Século II, Roma (Itália)
-**Morte:** Século II ou III, Roma (Itália)
-**Festa Litúrgica:** 22 de novembro
-**Canonização:** Pré-Congregação (Santo Antigo)
+- **Nascimento:** Século II, Roma (Itália)
+- **Morte:** Século II ou III, Roma (Itália)
+- **Canonização:** Pré-Congregação (Santo Antigo)
+- **Festa Litúrgica:** 22 de novembro
 
 <TextToSpeech />
 
@@ -40,8 +45,10 @@ Furioso, Almáquio ordenou sua decapitação. O carrasco golpeou seu pescoço tr
 Cecília viveu e morreu em Roma.
 
 <MiracleMap :items='[
-  { lat: 41.8881, lng: 12.4781, title: "Basílica de Santa Cecília em Trastevere", description: "Local onde ficava a casa da santa e onde ocorreu seu martírio. Seu corpo repousa sob o altar." },
-  { lat: 41.8604, lng: 12.5090, title: "Catacumbas de São Calisto", description: "Local onde Santa Cecília foi originalmente sepultada, na cripta dos Papas." }
+  { lat: 41.9028, lng: 12.4964, type: "nascimento", title: "Basílica de Santa Cecília em Trastevere", description: "Local de nascimento (Século II)." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Basílica de Santa Cecília em Trastevere", description: "Local da morte (Século II ou III)." },
+  { lat: 41.8881, lng: 12.4781, type: "tumulo", title: "Basílica de Santa Cecília em Trastevere", description: "Local onde ficava a casa da santa e onde ocorreu seu martírio. Seu corpo repousa sob o altar." },
+  { lat: 41.8604, lng: 12.509, type: "tumulo", title: "Catacumbas de São Calisto", description: "Local onde Santa Cecília foi originalmente sepultada, na cripta dos Papas." }
 ]' />
 
 ## Impacto Hoje

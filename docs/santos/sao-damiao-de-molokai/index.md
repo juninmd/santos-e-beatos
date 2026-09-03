@@ -1,23 +1,20 @@
+---
+title: São Damião de Molokai
+description: Biografia, milagres, curiosidades e mapa de São Damião de Molokai.
+---
+
 # São Damião de Molokai
 
 ![São Damião de Molokai](imagens/portrait.jpg)
 
-**"O Apóstolo dos Leprosos"**
+> "O Apóstolo dos Leprosos"
 
-**Nascimento:** 3 de janeiro de 1840, Tremelo, Bélgica
-**Morte:** 15 de abril de 1889, Molokai, Reino do Havaí
-**Festa Litúrgica:** 10 de maio
-**Canonização:** 11 de outubro de 2009, pelo Papa Bento XVI
+- **Nascimento:** 3 de janeiro de 1840, Tremelo, Bélgica
+- **Morte:** 15 de abril de 1889, Molokai, Reino do Havaí
+- **Canonização:** 11 de outubro de 2009, pelo Papa Bento XVI
+- **Festa Litúrgica:** 10 de maio
 
 <TextToSpeech />
-
-<script setup>
-const mapItems = [
-  { lat: 50.9914, lng: 4.7536, title: "Tremelo, Bélgica", description: "Cidade natal de Jozef De Veuster (Padre Damião)." },
-  { lat: 21.3069, lng: -157.8583, title: "Honolulu, Havaí", description: "Onde foi ordenado sacerdote na Catedral de Nossa Senhora da Paz." },
-  { lat: 21.1912, lng: -156.9808, title: "Kalaupapa, Molokai", description: "A colônia de leprosos onde viveu, trabalhou e morreu." }
-]
-</script>
 
 ---
 
@@ -45,7 +42,11 @@ O milagre que levou à sua canonização foi a cura inexplicável de Audrey Togu
 
 ## Cidades por onde passou
 
-<MiracleMap :items="mapItems" />
+<MiracleMap :items='[
+  { lat: 50.9914, lng: 4.7536, type: "nascimento", title: "Tremelo, Bélgica", description: "Cidade natal de Jozef De Veuster (Padre Damião)." },
+  { lat: 21.3069, lng: -157.8583, type: "vida", title: "Honolulu, Havaí", description: "Onde foi ordenado sacerdote na Catedral de Nossa Senhora da Paz." },
+  { lat: 21.1912, lng: -156.9808, type: "morte", title: "Kalaupapa, Molokai", description: "A colônia de leprosos onde viveu, trabalhou e morreu." }
+]' />
 
 ## Impacto Hoje
 

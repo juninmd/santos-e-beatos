@@ -1,13 +1,18 @@
+---
+title: Santa Maria Goretti
+description: Biografia, milagres, curiosidades e mapa de Santa Maria Goretti.
+---
+
 # Santa Maria Goretti
 
 ![Santa Maria Goretti](imagens/portrait.jpg)
 
-**"A Menina do Perdão"**
+> "A Menina do Perdão"
 
-**Nascimento:** 16 de outubro de 1890, Corinaldo (Itália)<br>
-**Morte:** 6 de julho de 1902, Nettuno (Itália)<br>
-**Festa Litúrgica:** 6 de julho<br>
-**Canonização:** 24 de junho de 1950, pelo Papa Pio XII<br>
+- **Nascimento:** 16 de outubro de 1890, Corinaldo (Itália)
+- **Morte:** 6 de julho de 1902, Nettuno (Itália)
+- **Canonização:** 24 de junho de 1950, pelo Papa Pio XII
+- **Festa Litúrgica:** 6 de julho
 
 <TextToSpeech />
 
@@ -43,10 +48,14 @@ Além da conversão de Alessandro, inúmeros fiéis relatam graças e curas fís
 
 Maria Goretti viveu apenas doze anos, e sua vida foi restrita a uma pequena área geográfica na Itália, marcada pela mudança de sua família em busca de trabalho.
 
+## Cidades por onde passou
+
+O mapa abaixo reúne os lugares ligados a Santa Maria Goretti: nascimento, morte, milagres e locais de devoção.
+
 <MiracleMap :items='[
-  { lat: 43.6496, lng: 13.0483, title: "Corinaldo, Itália", description: "Local de nascimento de Santa Maria Goretti em 1890." },
-  { lat: 41.4586, lng: 12.6599, title: "Le Ferriere, Itália", description: "Aldeia onde a família Goretti morava e onde ocorreu o trágico martírio." },
-  { lat: 41.4578, lng: 12.6621, title: "Nettuno, Itália", description: "Onde foi hospitalizada, faleceu e onde seu corpo repousa hoje no Santuário de Nossa Senhora das Graças e Santa Maria Goretti." }
+  { lat: 43.6496, lng: 13.0483, type: "nascimento", title: "Corinaldo, Itália", description: "Local de nascimento de Santa Maria Goretti em 1890." },
+  { lat: 41.4586, lng: 12.6599, type: "morte", title: "Le Ferriere, Itália", description: "Aldeia onde a família Goretti morava e onde ocorreu o trágico martírio." },
+  { lat: 41.4578, lng: 12.6621, type: "tumulo", title: "Nettuno, Itália", description: "Onde foi hospitalizada, faleceu e onde seu corpo repousa hoje no Santuário de Nossa Senhora das Graças e Santa Maria Goretti." }
 ]' />
 
 ## Impacto Hoje

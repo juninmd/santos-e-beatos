@@ -1,13 +1,18 @@
+---
+title: Beata Chiquitunga
+description: Biografia, milagres, curiosidades e mapa da Beata Chiquitunga.
+---
+
 # Beata Chiquitunga
 
 ![Beata Chiquitunga](imagens/portrait.jpg)
 
-**"Jesus, eu te amo! Que doce encontro! Virgem Maria!"**
+> "Jesus, eu te amo! Que doce encontro! Virgem Maria!"
 
 - **Nascimento:** 12 de janeiro de 1925, Villarrica (Paraguai)
 - **Morte:** 28 de abril de 1959, Assunção (Paraguai)
-- **Festa Litúrgica:** 28 de abril
 - **Beatificação:** 23 de junho de 2018, em Assunção
+- **Festa Litúrgica:** 28 de abril
 
 <TextToSpeech />
 
@@ -43,9 +48,9 @@ O milagre que permitiu sua beatificação foi a cura de um recém-nascido paragu
 Nasceu e cresceu em Villarrica. Viveu em Assunção, onde estudou e ingressou no Carmelo. Durante a guerra civil de 1947, sua família refugiou-se brevemente em Posadas, na Argentina.
 
 <MiracleMap :items='[
-  { lat: -25.7500, lng: -56.4333, title: "Villarrica, Paraguai", description: "Cidade natal de Chiquitunga." },
-  { lat: -25.2637, lng: -57.5759, title: "Assunção, Paraguai", description: "Capital onde viveu, entrou para o Carmelo e faleceu." },
-  { lat: -27.3671, lng: -55.8961, title: "Posadas, Argentina", description: "Cidade onde sua família buscou refúgio durante a guerra civil." }
+  { lat: -25.75, lng: -56.4333, type: "nascimento", title: "Villarrica, Paraguai", description: "Cidade natal de Chiquitunga." },
+  { lat: -27.3671, lng: -55.8961, type: "vida", title: "Posadas, Argentina", description: "Cidade onde sua família buscou refúgio durante a guerra civil." },
+  { lat: -25.2637, lng: -57.5759, type: "morte", title: "Assunção, Paraguai", description: "Capital onde viveu, entrou para o Carmelo e faleceu." }
 ]' />
 
 ## Impacto Hoje

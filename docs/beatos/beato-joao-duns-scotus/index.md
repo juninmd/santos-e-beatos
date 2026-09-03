@@ -1,13 +1,18 @@
+---
+title: Beato João Duns Scotus
+description: Biografia, milagres, curiosidades e mapa do Beato João Duns Scotus.
+---
+
 # Beato João Duns Scotus
 
 ![Beato João Duns Scotus](imagens/portrait.jpg)
 
-**"Doutor Sutil e Mariano"**
+> "Doutor Sutil e Mariano"
 
-**Nascimento:** c. 1266, Duns, Escócia
-**Morte:** 8 de novembro de 1308, Colônia, Alemanha
-**Festa Litúrgica:** 8 de novembro
-**Beatificação:** 20 de março de 1993, pelo Papa João Paulo II
+- **Nascimento:** c. 1266, Duns, Escócia
+- **Morte:** 8 de novembro de 1308, Colônia, Alemanha
+- **Beatificação:** 20 de março de 1993, pelo Papa João Paulo II
+- **Festa Litúrgica:** 8 de novembro
 
 <TextToSpeech />
 
@@ -39,10 +44,10 @@ Embora seja mais conhecido por seu intelecto, a ele são atribuídos milagres de
 Scotus viajou extensivamente para estudar e ensinar, passando pela Escócia, Inglaterra, França e Alemanha.
 
 <MiracleMap :items='[
-  { lat: 55.7766, lng: -2.3423, title: "Duns, Escócia", description: "Local de nascimento." },
-  { lat: 51.7520, lng: -1.2577, title: "Oxford, Reino Unido", description: "Onde estudou e iniciou sua carreira acadêmica." },
-  { lat: 48.8566, lng: 2.3522, title: "Paris, França", description: "Onde ensinou na Universidade e defendeu a Imaculada Conceição." },
-  { lat: 50.9375, lng: 6.9603, title: "Colônia, Alemanha", description: "Cidade onde faleceu e onde se encontram seus restos mortais." }
+  { lat: 55.7766, lng: -2.3423, type: "nascimento", title: "Duns, Escócia", description: "Local de nascimento." },
+  { lat: 51.752, lng: -1.2577, type: "vida", title: "Oxford, Reino Unido", description: "Onde estudou e iniciou sua carreira acadêmica." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde ensinou na Universidade e defendeu a Imaculada Conceição." },
+  { lat: 50.9375, lng: 6.9603, type: "morte", title: "Colônia, Alemanha", description: "Cidade onde faleceu e onde se encontram seus restos mortais." }
 ]' />
 
 ## Impacto Hoje

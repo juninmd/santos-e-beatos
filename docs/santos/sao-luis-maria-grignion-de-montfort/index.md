@@ -1,13 +1,18 @@
+---
+title: São Luís Maria Grignion de Montfort
+description: Biografia, milagres, curiosidades e mapa de São Luís Maria Grignion de Montfort.
+---
+
 # São Luís Maria Grignion de Montfort
 
 ![São Luís Maria Grignion de Montfort](imagens/portrait.jpg)
 
-**"O Escravo de Jesus em Maria"**
+> "O Escravo de Jesus em Maria"
 
-**Nascimento:** 31 de janeiro de 1673, Montfort-sur-Meu (França)<br>
-**Morte:** 28 de abril de 1716, Saint-Laurent-sur-Sèvre (França)<br>
-**Festa Litúrgica:** 28 de abril<br>
-**Canonização:** 20 de julho de 1947, pelo Papa Pio XII<br>
+- **Nascimento:** 31 de janeiro de 1673, Montfort-sur-Meu (França)
+- **Morte:** 28 de abril de 1716, Saint-Laurent-sur-Sèvre (França)
+- **Canonização:** 20 de julho de 1947, pelo Papa Pio XII
+- **Festa Litúrgica:** 28 de abril
 
 <TextToSpeech />
 
@@ -42,10 +47,11 @@ Para a sua canonização, foram aceitos dois milagres: a cura inexplicável de u
 São Luís Maria Grignion de Montfort viajou intensamente pela França, pregando em diversas regiões, mas sempre mantendo um vínculo especial com o oeste e noroeste do país.
 
 <MiracleMap :items='[
-  { lat: 48.1363, lng: -1.9546, title: "Montfort-sur-Meu, França", description: "Local de nascimento e de onde adotou o nome de família." },
-  { lat: 48.8566, lng: 2.3522, title: "Paris, França", description: "Onde estudou teologia e foi ordenado sacerdote." },
-  { lat: 46.9538, lng: -0.8920, title: "Saint-Laurent-sur-Sèvre, França", description: "Local de seu falecimento e onde está seu túmulo." },
-  { lat: 47.2184, lng: -1.5536, title: "Nantes, França", description: "Onde fundou o hospital de incuráveis e sofreu perseguições." }
+  { lat: 48.1363, lng: -1.9546, type: "nascimento", title: "Montfort-sur-Meu, França", description: "Local de nascimento e de onde adotou o nome de família." },
+  { lat: 48.8566, lng: 2.3522, type: "vida", title: "Paris, França", description: "Onde estudou teologia e foi ordenado sacerdote." },
+  { lat: 47.2184, lng: -1.5536, type: "vida", title: "Nantes, França", description: "Onde fundou o hospital de incuráveis e sofreu perseguições." },
+  { lat: 46.9538, lng: -0.892, type: "morte", title: "Saint-Laurent-sur-Sèvre, França", description: "Local da morte (28 de abril de 1716)." },
+  { lat: 46.9538, lng: -0.892, type: "tumulo", title: "Saint-Laurent-sur-Sèvre, França", description: "Local de seu falecimento e onde está seu túmulo." }
 ]' />
 
 ## Impacto Hoje

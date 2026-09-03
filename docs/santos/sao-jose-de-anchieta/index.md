@@ -1,13 +1,18 @@
+---
+title: São José de Anchieta
+description: Biografia, milagres, curiosidades e mapa de São José de Anchieta.
+---
+
 # São José de Anchieta
 
 ![São José de Anchieta](imagens/portrait.jpg)
 
-**"Apóstolo do Brasil"**
+> "Apóstolo do Brasil"
 
-**Nascimento:** 19 de março de 1534, San Cristóbal de La Laguna, Tenerife, Ilhas Canárias (Espanha)<br>
-**Morte:** 9 de junho de 1597, Reritiba (atual Anchieta), Espírito Santo, Brasil<br>
-**Festa Litúrgica:** 9 de junho<br>
-**Canonização:** 3 de abril de 2014, pelo Papa Francisco
+- **Nascimento:** 19 de março de 1534, San Cristóbal de La Laguna, Tenerife, Ilhas Canárias (Espanha)
+- **Morte:** 9 de junho de 1597, Reritiba (atual Anchieta), Espírito Santo, Brasil
+- **Canonização:** 3 de abril de 2014, pelo Papa Francisco
+- **Festa Litúrgica:** 9 de junho
 
 <TextToSpeech />
 
@@ -46,12 +51,12 @@ Um dos milagres reconhecidos para sua beatificação foi a cura inexplicável de
 Nasceu em Tenerife, estudou em Coimbra, desembarcou em Salvador, fundou São Paulo, viveu no Rio de Janeiro e passou seus últimos anos no Espírito Santo.
 
 <MiracleMap :items='[
-  { lat: 28.4876, lng: -16.3159, title: "San Cristóbal de La Laguna, Espanha", description: "Cidade onde nasceu em 1534." },
-  { lat: 40.2033, lng: -8.4103, title: "Coimbra, Portugal", description: "Onde estudou e ingressou na Companhia de Jesus." },
-  { lat: -12.9777, lng: -38.5016, title: "Salvador, Bahia", description: "Desembarcou no Brasil em 1553." },
-  { lat: -23.5505, lng: -46.6333, title: "São Paulo, SP", description: "Fundou o Colégio de São Paulo de Piratininga em 1554." },
-  { lat: -23.4332, lng: -45.0834, title: "Ubatuba, SP", description: "Onde ficou refém e escreveu o Poema à Virgem nas areias de Iperoig." },
-  { lat: -20.8058, lng: -40.6456, title: "Anchieta, ES", description: "Antiga Reritiba, local de sua morte em 1597." }
+  { lat: 28.4876, lng: -16.3159, type: "nascimento", title: "San Cristóbal de La Laguna, Espanha", description: "Cidade onde nasceu em 1534." },
+  { lat: 40.2033, lng: -8.4103, type: "vida", title: "Coimbra, Portugal", description: "Onde estudou e ingressou na Companhia de Jesus." },
+  { lat: -12.9777, lng: -38.5016, type: "vida", title: "Salvador, Bahia", description: "Desembarcou no Brasil em 1553." },
+  { lat: -23.5505, lng: -46.6333, type: "vida", title: "São Paulo, SP", description: "Fundou o Colégio de São Paulo de Piratininga em 1554." },
+  { lat: -23.4332, lng: -45.0834, type: "vida", title: "Ubatuba, SP", description: "Onde ficou refém e escreveu o Poema à Virgem nas areias de Iperoig." },
+  { lat: -20.8058, lng: -40.6456, type: "morte", title: "Anchieta, ES", description: "Antiga Reritiba, local de sua morte em 1597." }
 ]' />
 
 ## Impacto Hoje

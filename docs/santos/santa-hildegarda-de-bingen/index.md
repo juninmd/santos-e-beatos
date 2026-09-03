@@ -1,21 +1,22 @@
 ---
 title: Santa Hildegarda de Bingen
-head:
-  - - meta
-    - name: description
-      content: Biografia e história de Santa Hildegarda de Bingen, mística, doutora da Igreja e abadessa.
+description: Biografia, milagres, curiosidades e mapa de Santa Hildegarda de Bingen.
 ---
 
-<img src="./imagens/portrait.jpg" alt="Santa Hildegarda de Bingen" style="width: 100%; max-width: 400px; border-radius: 10px; margin-bottom: 20px;">
+# Santa Hildegarda de Bingen
+
+![Santa Hildegarda de Bingen](imagens/portrait.jpg)
 
 > "Sibila do Reno e Profetisa da Alemanha"
 
-**Nascimento**: 1098, Bermersheim vor der Höhe, Sacro Império Romano-Germânico<br>
-**Morte**: 17 de setembro de 1179, Mosteiro de Rupertsberg, Bingen am Rhein<br>
-**Canonização**: Equivalente formalizada pelo Papa Bento XVI (2012)<br>
-**Festa Litúrgica**: 17 de setembro<br>
+- **Nascimento:** 1098, Bermersheim vor der Höhe, Sacro Império Romano-Germânico
+- **Morte:** 17 de setembro de 1179, Mosteiro de Rupertsberg, Bingen am Rhein
+- **Canonização:** Equivalente formalizada pelo Papa Bento XVI (2012)
+- **Festa Litúrgica:** 17 de setembro
 
 <TextToSpeech />
+
+---
 
 ## Biografia
 Hildegarda nasceu em 1098, a décima filha de uma família nobre e livre, a serviço dos condes de Sponheim. Por ser uma criança doente, desde seus primeiros anos experimentou visões místicas. Aos oito anos, seus pais a confiaram aos cuidados de Jutta de Sponheim, uma reclusa que vivia anexa a um mosteiro beneditino em Disibodenberg.
@@ -39,12 +40,13 @@ Muitos prodígios foram atribuídos a ela ainda em vida.
 4. **Língua própria:** Hildegarda inventou uma linguagem construída, conhecida como *Lingua Ignota* ("Língua Desconhecida"), criando um vocabulário novo e até um alfabeto próprio com 23 letras.
 
 ## Cidades por onde passou
-<MiracleMap :markers="[
-  { lat: 49.7214, lng: 8.0844, title: 'Bermersheim, Alemanha', description: 'Local provável de seu nascimento em 1098.' },
-  { lat: 49.7758, lng: 7.7011, title: 'Disibodenberg, Alemanha', description: 'Onde cresceu reclusa, aprendeu com Jutta e mais tarde foi eleita magistra.' },
-  { lat: 49.967, lng: 7.8933, title: 'Bingen am Rhein (Rupertsberg), Alemanha', description: 'Fundou o mosteiro de Rupertsberg para onde se mudou com suas freiras em 1150.' },
-  { lat: 49.9886, lng: 7.9250, title: 'Eibingen, Alemanha', description: 'Fundou seu segundo mosteiro em 1165, que hoje preserva suas relíquias.' }
-]" />
+
+<MiracleMap :items='[
+  { lat: 49.7214, lng: 8.0844, type: "nascimento", title: "Bermersheim, Alemanha", description: "Local provável de seu nascimento em 1098." },
+  { lat: 49.7758, lng: 7.7011, type: "vida", title: "Disibodenberg, Alemanha", description: "Onde cresceu reclusa, aprendeu com Jutta e mais tarde foi eleita magistra." },
+  { lat: 49.967, lng: 7.8933, type: "morte", title: "Bingen am Rhein (Rupertsberg), Alemanha", description: "Fundou o mosteiro de Rupertsberg para onde se mudou com suas freiras em 1150. Local da morte (17 de setembro de 1179)." },
+  { lat: 49.9886, lng: 7.925, type: "tumulo", title: "Eibingen, Alemanha", description: "Fundou seu segundo mosteiro em 1165, que hoje preserva suas relíquias." }
+]' />
 
 ## Impacto Hoje
 O legado de Santa Hildegarda é colossal, transversal e incrivelmente atual. Ela é reverenciada não apenas pelos católicos, mas por muitos ao redor do mundo.

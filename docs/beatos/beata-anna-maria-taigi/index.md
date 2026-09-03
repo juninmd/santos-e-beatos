@@ -1,13 +1,18 @@
+---
+title: Beata Anna Maria Taigi
+description: Biografia, milagres, curiosidades e mapa da Beata Anna Maria Taigi.
+---
+
 # Beata Anna Maria Taigi
 
 ![Beata Anna Maria Taigi](imagens/portrait.jpg)
 
-**"Esposa e mãe exemplar, mística da luz divina."**
+> "Esposa e mãe exemplar, mística da luz divina."
 
-**Nascimento:** 29 de maio de 1769, Siena, Itália
-**Morte:** 9 de junho de 1837, Roma, Itália
-**Festa Litúrgica:** 9 de junho
-**Beatificação:** 30 de maio de 1920, pelo Papa Bento XV
+- **Nascimento:** 29 de maio de 1769, Siena, Itália
+- **Morte:** 9 de junho de 1837, Roma, Itália
+- **Beatificação:** 30 de maio de 1920, pelo Papa Bento XV
+- **Festa Litúrgica:** 9 de junho
 
 <TextToSpeech />
 
@@ -40,8 +45,8 @@ Ela também realizou muitas curas durante sua vida, apenas com o sinal da cruz o
 Sua vida transcorreu quase inteiramente na Itália, entre Siena e Roma.
 
 <MiracleMap :items='[
-  { lat: 43.3188, lng: 11.3308, title: "Siena, Itália", description: "Cidade onde nasceu em 1769." },
-  { lat: 41.9028, lng: 12.4964, title: "Roma, Itália", description: "Cidade onde viveu a maior parte de sua vida, santificou-se no matrimônio e faleceu." }
+  { lat: 43.3188, lng: 11.3308, type: "nascimento", title: "Siena, Itália", description: "Cidade onde nasceu em 1769." },
+  { lat: 41.9028, lng: 12.4964, type: "morte", title: "Roma, Itália", description: "Cidade onde viveu a maior parte de sua vida, santificou-se no matrimônio e faleceu." }
 ]' />
 
 ## Impacto Hoje

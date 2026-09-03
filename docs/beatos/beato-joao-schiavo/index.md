@@ -1,13 +1,18 @@
+---
+title: Beato João Schiavo
+description: Biografia, milagres, curiosidades e mapa do Beato João Schiavo.
+---
+
 # Beato João Schiavo
 
 ![Beato João Schiavo](imagens/portrait.jpg)
 
-**"Pai, eu sempre quis fazer a tua vontade"**
+> "Pai, eu sempre quis fazer a tua vontade"
 
-**Nascimento:** 8 de julho de 1903, Sant'Urbano di Montecchio Maggiore, Itália<br>
-**Morte:** 27 de janeiro de 1967, Fazenda Souza (Caxias do Sul), RS, Brasil<br>
-**Festa Litúrgica:** 8 de julho<br>
-**Beatificação:** 28 de outubro de 2017, em Caxias do Sul (RS)
+- **Nascimento:** 8 de julho de 1903, Sant'Urbano di Montecchio Maggiore, Itália
+- **Morte:** 27 de janeiro de 1967, Fazenda Souza (Caxias do Sul), RS, Brasil
+- **Beatificação:** 28 de outubro de 2017, em Caxias do Sul (RS)
+- **Festa Litúrgica:** 8 de julho
 
 <TextToSpeech />
 
@@ -43,10 +48,11 @@ Sua esposa invocou a intercessão do Padre João Schiavo, colocando um santinho 
 Nasceu na Itália, iniciou sua missão no Brasil em Jaguarão, e desenvolveu grande parte de seu apostolado em Caxias do Sul e arredores.
 
 <MiracleMap :items='[
-  { lat: 45.5000, lng: 11.4167, title: "Montecchio Maggiore, Itália", description: "Cidade onde nasceu em 1903." },
-  { lat: -32.5661, lng: -53.3769, title: "Jaguarão, RS", description: "Primeira cidade brasileira onde atuou como missionário." },
-  { lat: -29.1300, lng: -51.1300, title: "Ana Rech (Caxias do Sul), RS", description: "Onde trabalhou no Colégio Murialdo e foi mestre de noviços." },
-  { lat: -29.1314, lng: -50.9822, title: "Fazenda Souza (Caxias do Sul), RS", description: "Onde fundou o Seminário Josefino e faleceu. Local de seu santuário." }
+  { lat: 45.5, lng: 11.4167, type: "nascimento", title: "Montecchio Maggiore, Itália", description: "Cidade onde nasceu em 1903." },
+  { lat: -32.5661, lng: -53.3769, type: "vida", title: "Jaguarão, RS", description: "Primeira cidade brasileira onde atuou como missionário." },
+  { lat: -29.13, lng: -51.13, type: "vida", title: "Ana Rech (Caxias do Sul), RS", description: "Onde trabalhou no Colégio Murialdo e foi mestre de noviços." },
+  { lat: -29.1685, lng: -51.1796, type: "milagre", title: "Caxias do Sul (RS), Brasil", description: "Cura de Juvelino Carra, de trombose mesentérica aguda (1997)." },
+  { lat: -29.1314, lng: -50.9822, type: "morte", title: "Fazenda Souza (Caxias do Sul), RS", description: "Onde fundou o Seminário Josefino e faleceu. Local de seu santuário." }
 ]' />
 
 ## Impacto Hoje
