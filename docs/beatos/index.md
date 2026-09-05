@@ -68,6 +68,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Imelda Lambertini](beata-imelda-lambertini/index.md)
 - [Beato Ildefonso Schuster](beato-ildefonso-schuster/index.md)
 - [Beato Inácio de Azevedo](beato-inacio-de-azevedo/index.md)
+- [Beato Inocêncio V](beato-inocencio-v/index.md)
 - [Beato Inocêncio XI](beato-inocencio-xi/index.md)
 - [Beata Isabel Cristina](beata-isabel-cristina/index.md)
 - [Beato Isidoro Bakanja](beato-isidoro-bakanja/index.md)
