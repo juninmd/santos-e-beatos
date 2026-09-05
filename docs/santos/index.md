@@ -101,6 +101,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São José Sánchez del Río](sao-jose-sanchez-del-rio/index.md)
 - [Santa Josefina Bakhita](santa-josefina-bakhita/index.md)
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
+- [São Justino Mártir](sao-justino-martir/index.md)
 - [Santa Kateri Tekakwitha](santa-kateri-tekakwitha/index.md)
 - [São Longuinho](sao-longuinho/index.md)
 - [São Leão Magno](sao-leao-magno/index.md)
