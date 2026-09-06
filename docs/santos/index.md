@@ -21,6 +21,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Basílio Magno](sao-basilio-magno/index.md)
 - [São Benedito](sao-benedito/index.md)
 - [São Bento](sao-bento/index.md)
+- [São Bento Menni](sao-bento-menni/index.md)
 - [Santa Bernadete Soubirous](santa-bernadete-soubirous/index.md)
 - [São Bernardo de Claraval](sao-bernardo/index.md)
 - [São Boaventura](sao-boaventura/index.md)
