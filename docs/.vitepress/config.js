@@ -11,7 +11,8 @@ export default {
     nav: [
       { text: 'Início', link: '/' },
       { text: 'Beatos', link: '/beatos/' },
-      { text: 'Santos', link: '/santos/' }
+      { text: 'Santos', link: '/santos/' },
+      { text: 'Grafo', link: '/grafo' }
     ],
     sidebar: {
       '/beatos/': [
