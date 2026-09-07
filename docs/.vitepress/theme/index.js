@@ -3,6 +3,7 @@ import DefaultTheme from 'vitepress/theme'
 import TextToSpeech from '../components/TextToSpeech.vue'
 import MiracleMap from '../components/MiracleMap.vue'
 import SaintOfTheDay from '../components/SaintOfTheDay.vue'
+import SaintsGraph from '../components/SaintsGraph.vue'
 import './style.css'
 
 export default {
@@ -14,5 +15,6 @@ export default {
     app.component('TextToSpeech', TextToSpeech)
     app.component('MiracleMap', MiracleMap)
     app.component('SaintOfTheDay', SaintOfTheDay)
+    app.component('SaintsGraph', SaintsGraph)
   }
 }
