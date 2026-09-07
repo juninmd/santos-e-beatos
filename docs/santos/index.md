@@ -136,6 +136,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Pedro](sao-pedro/index.md)
 - [São Pedro Claver](sao-pedro-claver/index.md)
 - [São Pedro de Alcântara](sao-pedro-de-alcantara/index.md)
+- [São Pedro Damião](sao-pedro-damiao/index.md)
 - [São Pedro Julião Eymard](sao-pedro-juliao-eymard/index.md)
 - [São Peregrino](sao-peregrino/index.md)
 - [São Pier Giorgio Frassati](pier-giorgio-frassati/index.md)

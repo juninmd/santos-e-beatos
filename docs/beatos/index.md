@@ -91,6 +91,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Luigi Beltrame Quattrocchi](beato-luigi-beltrame-quattrocchi/index.md)
 - [Beato Luigi Monza](beato-luigi-monza/index.md)
 - [Beato Luigi Novarese](beato-luigi-novarese/index.md)
+- [Beato Luigi Tezza](beato-luigi-tezza/index.md)
 - [Beato Luis Variara](beato-luis-variara/index.md)
 - [Beata Madre Esperança de Jesus](beata-madre-esperanca-de-jesus/index.md)
 - [Beata Mafalda de Portugal](beata-mafalda-de-portugal/index.md)
