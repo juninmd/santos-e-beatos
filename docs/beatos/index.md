@@ -84,6 +84,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato José Gregório Hernández](beato-jose-gregorio-hernandez/index.md)
 - [Beato Justo Takayama Ukon](beato-justo-takayama-ukon/index.md)
 - [Beato Karl Leisner](beato-karl-leisner/index.md)
+- [Beata Karolina Kózka](beata-karolina-kozka/index.md)
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
 - [Beato Lojze Grozde](beato-lojze-grozde/index.md)
