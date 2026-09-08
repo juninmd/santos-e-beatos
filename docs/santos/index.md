@@ -46,6 +46,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Domingos Sávio](sao-domingos-savio/index.md)
 - [Santa Dulce dos Pobres](santa-dulce-dos-pobres/index.md)
 - [Santa Edwiges](santa-edwiges/index.md)
+- [Santa Escolástica](santa-escolastica/index.md)
 - [Beata Elena Guerra](santa-elena-guerra/index.md)
 - [São Estevão](sao-estevao/index.md)
 - [Santo Expedito](santo-expedito/index.md)
