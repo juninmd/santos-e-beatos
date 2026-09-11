@@ -9,6 +9,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [Santo Ambrósio](santo-ambrosio/index.md)
 - [Santo André](santo-andre/index.md)
 - [Santo André Kim Taegõn](santo-andre-kim-taegon/index.md)
+- [Santo Anselmo de Cantuária](santo-anselmo/index.md)
 - [Santo Antão do Deserto](santo-antao-do-deserto/index.md)
 - [Santo Antônio de Pádua](santo-antonio/index.md)
 - [Santo Antônio de Sant'Ana Galvão](santo-antonio-de-santana-galvao/index.md)
