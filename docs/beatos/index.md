@@ -53,6 +53,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Edviges Carboni](beata-edviges-carboni/index.md)
 - [Beata Elena Aiello](beata-elena-aiello/index.md)
 - [Beata Elisabetta Canori Mora](beata-elisabetta-canori-mora/index.md)
+- [Beata Eusébia Palomino Yenes](beata-eusebia-palomino-yenes/index.md)
 - [Beata Eurosia Fabris](beata-eurosia-fabris/index.md)
 - [Beato Filipe Rinaldi](beato-filipe-rinaldi/index.md)
 - [Beato Fra Angelico (João de Fiesole)](beato-fra-angelico/index.md)
