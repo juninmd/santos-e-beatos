@@ -119,6 +119,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Marcos](sao-marcos/index.md)
 - [Santa Margarida Maria Alacoque](santa-margarida-maria-alacoque/index.md)
 - [Santa Maria Goretti](santa-maria-goretti/index.md)
+- [Santa Maria Domingas Mazzarello](santa-maria-domingas-mazzarello/index.md)
 - [Santa Maria Madalena](santa-maria-madalena/index.md)
 - [Santa Maria Troncatti](santa-maria-troncatti/index.md)
 - [Santa Marta](santa-marta/index.md)
