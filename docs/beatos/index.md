@@ -37,6 +37,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Catarina Troiani](beata-catarina-troiani/index.md)
 - [Beato Ceferino Giménez Malla](beato-ceferino-gimenez-malla/index.md)
 - [Beata Chiara Luce Badano](beata-chiara-luce-badano/index.md)
+- [Beato Crispino de Viterbo](beato-crispino-de-viterbo/index.md)
 - [Beata Chiquitunga](beata-chiquitunga/index.md)
 - [Beato Cláudio Granzotto](beato-claudio-granzotto/index.md)
 - [Beata Clélia Merloni](beata-clelia-merloni/index.md)

@@ -130,6 +130,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Maximiliano Kolbe](sao-maximiliano-kolbe/index.md)
 - [Santa Mônica](santa-monica/index.md)
 - [São Nicolau](sao-nicolau/index.md)
+- [São Norberto](sao-norberto/index.md)
 - [São Nuno de Santa Maria](sao-nuno-de-santa-maria/index.md)
 - [São Oscar Romero](sao-oscar-romero/index.md)
 - [São Padre Pio de Pietrelcina](sao-padre-pio/index.md)
