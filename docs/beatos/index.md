@@ -142,6 +142,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Pina Suriano](beata-pina-suriano/index.md)
 - [Beato Pino Puglisi](beato-pino-puglisi/index.md)
 - [Beato Pio IX](beato-pio-ix/index.md)
+- [Beato Raimundo de Cápua](beato-raimundo-de-capua/index.md)
 - [Beata Rita Amada de Jesus](beata-rita-amada-de-jesus/index.md)
 - [Beato Rolando Rivi](beato-rolando-rivi/index.md)
 - [Beata Rosália Rendu](beata-rosalia-rendu/index.md)
