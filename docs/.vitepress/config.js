@@ -159,6 +159,7 @@ export default {
             { text: 'Beata Pina Suriano', link: '/beatos/beata-pina-suriano/' },
             { text: 'Beato Pino Puglisi', link: '/beatos/beato-pino-puglisi/' },
             { text: 'Beato Pio IX', link: '/beatos/beato-pio-ix/' },
+            { text: 'Beato Raimundo de Cápua', link: '/beatos/beato-raimundo-de-capua/' },
             { text: 'Beata Rita Amada de Jesus', link: '/beatos/beata-rita-amada-de-jesus/' },
             { text: 'Beato Rolando Rivi', link: '/beatos/beato-rolando-rivi/' },
             { text: 'Beata Rosália Rendu', link: '/beatos/beata-rosalia-rendu/' },
@@ -184,6 +185,7 @@ export default {
           text: 'Santos',
           items: [
             { text: 'Santo Afonso Maria de Ligório', link: '/santos/santo-afonso-maria-de-ligorio/' },
+            { text: 'Santa Águeda', link: '/santos/santa-agueda/' },
             { text: 'Santo Agostinho', link: '/santos/santo-agostinho/' },
             { text: 'Santo Alberto Hurtado', link: '/santos/santo-alberto-hurtado/' },
             { text: 'Santo Alberto Magno', link: '/santos/santo-alberto-magno/' },
