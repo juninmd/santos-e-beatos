@@ -1,6 +1,6 @@
 # Santos
 
-Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 149 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santo Agostinho](santo-agostinho/index.md)
@@ -58,6 +58,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Filomena](santa-filomena/index.md)
 - [São Francisco de Assis](sao-francisco-de-assis/index.md)
 - [São Francisco de Sales](sao-francisco-de-sales/index.md)
+- [São Francisco Marto](sao-francisco-marto/index.md)
 - [São Francisco Xavier](sao-francisco-xavier/index.md)
 - [São Gabriel de Nossa Senhora das Dores](sao-gabriel-de-nossa-senhora-das-dores/index.md)
 - [Santa Gemma Galgani](santa-gemma-galgani/index.md)
