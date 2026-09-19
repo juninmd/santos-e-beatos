@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -148,6 +148,7 @@ Esta seção reúne 131 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Rosário Livatino](beato-rosario-livatino/index.md)
 - [Beato Rupert Mayer](beato-rupert-mayer/index.md)
 - [Beato Rutilio Grande](beato-rutilio-grande/index.md)
+- [Beata Sancha de Portugal](beata-sancha-de-portugal/index.md)
 - [Beata Sandra Sabattini](beata-sandra-sabattini/index.md)
 - [Beata Savina Petrilli](beata-savina-petrilli/index.md)
 - [Beato Solanus Casey](beato-solanus-casey/index.md)
