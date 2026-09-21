@@ -1,6 +1,6 @@
 # Santos
 
-Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 149 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santo Agostinho](santo-agostinho/index.md)
@@ -134,6 +134,7 @@ Esta seção reúne 148 santos canonizados pela Igreja Católica, com biografia,
 - [São Nuno de Santa Maria](sao-nuno-de-santa-maria/index.md)
 - [São Oscar Romero](sao-oscar-romero/index.md)
 - [São Padre Pio de Pietrelcina](sao-padre-pio/index.md)
+- [São Pantaleão](sao-pantaleao/index.md)
 - [São Patrício](sao-patricio/index.md)
 - [Santa Paulina do Coração Agonizante de Jesus](santa-paulina/index.md)
 - [São Paulo](sao-paulo/index.md)
