@@ -74,6 +74,7 @@ Esta seção reúne 149 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Isabel da Hungria](santa-isabel-da-hungria/index.md)
 - [Santo Isidoro de Sevilha](santo-isidoro-de-sevilha/index.md)
 - [Santo Ivo de Kermartin](santo-ivo/index.md)
+- [Santa Jacinta Marto](santa-jacinta-marto/index.md)
 - [São Jerônimo](sao-jeronimo/index.md)
 - [Santa Joana d'Arc](santa-joana-d-arc/index.md)
 - [Santa Joana de Chantal](santa-joana-de-chantal/index.md)

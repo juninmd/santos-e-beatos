@@ -20,6 +20,7 @@ Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Anna Rosa Gattorno](beata-anna-rosa-gattorno/index.md)
 - [Beata Antônia Mesina](beata-antonia-mesina/index.md)
 - [Venerável Antonietta Meo (Nennolina)](beata-antonieta-meo/index.md)
+- [Beata Anuarite Nengapeta](beata-anuarite-nengapeta/index.md)
 - [Beato Antônio Chevrier](beato-antonio-chevrier/index.md)
 - [Beato Antônio Frederico Ozanam](beato-antonio-frederico-ozanam/index.md)
 - [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
