@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 133 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -142,6 +142,7 @@ Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Pina Suriano](beata-pina-suriano/index.md)
 - [Beato Pino Puglisi](beato-pino-puglisi/index.md)
 - [Beato Pio IX](beato-pio-ix/index.md)
+- [Beato Richard Henkes](beato-richard-henkes/index.md)
 - [Beata Rita Amada de Jesus](beata-rita-amada-de-jesus/index.md)
 - [Beato Rolando Rivi](beato-rolando-rivi/index.md)
 - [Beata Rosália Rendu](beata-rosalia-rendu/index.md)
