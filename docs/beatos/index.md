@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 159 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -15,12 +15,13 @@ Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Ana de São Bartolomeu](beata-ana-de-sao-bartolomeu/index.md)
 - [Beata Ana dos Anjos Monteagudo](beata-ana-dos-anjos-monteagudo/index.md)
 - [Beato Anacleto González Flores](beato-anacleto-gonzalez-flores/index.md)
-- [Beata Anna Maria Taigi](beata-anna-maria-taigi/index.md)
 - [Beata Anna Kolesárová](beata-anna-kolesarova/index.md)
+- [Beata Anna Maria Taigi](beata-anna-maria-taigi/index.md)
 - [Beata Anna Rosa Gattorno](beata-anna-rosa-gattorno/index.md)
 - [Beata Antônia Mesina](beata-antonia-mesina/index.md)
 - [Venerável Antonietta Meo (Nennolina)](beata-antonieta-meo/index.md)
 - [Beato Antônio Chevrier](beato-antonio-chevrier/index.md)
+- [Beato Antônio de Categeró](beato-antonio-de-categero/index.md)
 - [Beato Antônio Frederico Ozanam](beato-antonio-frederico-ozanam/index.md)
 - [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
 - [Beata Armida Barelli](beata-armida-barelli/index.md)
@@ -37,7 +38,6 @@ Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Catarina Troiani](beata-catarina-troiani/index.md)
 - [Beato Ceferino Giménez Malla](beato-ceferino-gimenez-malla/index.md)
 - [Beata Chiara Luce Badano](beata-chiara-luce-badano/index.md)
-- [Beato Crispino de Viterbo](beato-crispino-de-viterbo/index.md)
 - [Beata Chiquitunga](beata-chiquitunga/index.md)
 - [Beato Cláudio Granzotto](beato-claudio-granzotto/index.md)
 - [Beata Clélia Merloni](beata-clelia-merloni/index.md)
@@ -46,6 +46,7 @@ Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Columba Marmion](beato-columba-marmion/index.md)
 - [Beata Concepción Cabrera de Armida (Conchita)](beata-maria-da-conceicao/index.md)
 - [Beato Contardo Ferrini](beato-contardo-ferrini/index.md)
+- [Beato Crispino de Viterbo](beato-crispino-de-viterbo/index.md)
 - [Beata Dina Bélanger](beata-dina-belanger/index.md)
 - [Beato Diogo José de Cádis](beato-diogo-jose-de-cadiz/index.md)
 - [Beato Domingos da Mãe de Deus](beato-domingos-da-mae-de-deus/index.md)
@@ -54,8 +55,8 @@ Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Edviges Carboni](beata-edviges-carboni/index.md)
 - [Beata Elena Aiello](beata-elena-aiello/index.md)
 - [Beata Elisabetta Canori Mora](beata-elisabetta-canori-mora/index.md)
-- [Beata Eusébia Palomino Yenes](beata-eusebia-palomino-yenes/index.md)
 - [Beata Eurosia Fabris](beata-eurosia-fabris/index.md)
+- [Beata Eusébia Palomino Yenes](beata-eusebia-palomino-yenes/index.md)
 - [Beato Filipe Rinaldi](beato-filipe-rinaldi/index.md)
 - [Beato Fra Angelico (João de Fiesole)](beato-fra-angelico/index.md)
 - [Beato Francisco Gárate](beato-francisco-garate/index.md)
@@ -69,8 +70,8 @@ Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Guido de Montpellier](beato-guido-de-montpellier/index.md)
 - [Beato Guilherme José Chaminade](beato-guilherme-jose-chaminade/index.md)
 - [Beato Henrique Suso](beato-henrique-suso/index.md)
-- [Beata Imelda Lambertini](beata-imelda-lambertini/index.md)
 - [Beato Ildefonso Schuster](beato-ildefonso-schuster/index.md)
+- [Beata Imelda Lambertini](beata-imelda-lambertini/index.md)
 - [Beato Inácio de Azevedo](beato-inacio-de-azevedo/index.md)
 - [Beato Inocêncio V](beato-inocencio-v/index.md)
 - [Beato Inocêncio XI](beato-inocencio-xi/index.md)
