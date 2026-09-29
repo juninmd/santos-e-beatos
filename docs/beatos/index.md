@@ -52,6 +52,7 @@ Esta seção reúne 133 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Diogo José de Cádis](beato-diogo-jose-de-cadiz/index.md)
 - [Beato Domingos da Mãe de Deus](beato-domingos-da-mae-de-deus/index.md)
 - [Beata Edel Quinn](beata-edel-quinn/index.md)
+- [Beato Edmundo Rice](beato-edmundo-rice/index.md)
 - [Beato Eduardo Pironio](beato-eduardo-pironio/index.md)
 - [Beata Edviges Carboni](beata-edviges-carboni/index.md)
 - [Beata Elena Aiello](beata-elena-aiello/index.md)

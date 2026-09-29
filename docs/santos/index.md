@@ -22,7 +22,7 @@ Esta seção reúne 150 santos canonizados pela Igreja Católica, com biografia,
 - [São Bartolo Longo](sao-bartolo-longo/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
 - [São Basílio Magno](sao-basilio-magno/index.md)
-- [Santa Beatriz da Silva](santa-beatriz-da-silva/index.md)
+- [São Beda](sao-beda/index.md)
 - [São Benedito](sao-benedito/index.md)
 - [São Bento](sao-bento/index.md)
 - [São Bento Menni](sao-bento-menni/index.md)
