@@ -1,12 +1,13 @@
 # Santos
 
-Esta seção reúne 149 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 150 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Águeda](santa-agueda/index.md)
 - [Santo Agostinho](santo-agostinho/index.md)
 - [Santo Alberto Hurtado](santo-alberto-hurtado/index.md)
 - [Santo Alberto Magno](santo-alberto-magno/index.md)
+- [Santo Amaro](santo-amaro/index.md)
 - [Santo Ambrósio](santo-ambrosio/index.md)
 - [Santo André](santo-andre/index.md)
 - [Santo André Kim Taegõn](santo-andre-kim-taegon/index.md)

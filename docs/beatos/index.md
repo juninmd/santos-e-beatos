@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 133 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -83,6 +83,7 @@ Esta seção reúne 132 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Jerzy Popiełuszko](beato-jerzy-popieluszko/index.md)
 - [Beato Joan Roig i Diggle](beato-joan-roig-i-diggle/index.md)
 - [Beata Joana de Portugal](beata-joana-de-portugal/index.md)
+- [Beato João Baptista Machado](beato-joao-baptista-machado/index.md)
 - [Beato João Duns Scotus](beato-joao-duns-scotus/index.md)
 - [Beato João Paulo I](beato-joao-paulo-i/index.md)
 - [Beato João Schiavo](beato-joao-schiavo/index.md)
