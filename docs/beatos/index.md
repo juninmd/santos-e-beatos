@@ -32,6 +32,7 @@ Esta seção reúne 159 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Benigna](beata-benigna/index.md)
 - [Beato Bernardo de Hoyos](beato-bernardo-de-hoyos/index.md)
 - [Beato Carlo Gnocchi](beato-carlo-gnocchi/index.md)
+- [Beato Carlo Steeb](beato-carlo-steeb/index.md)
 - [Beato Carlos da Áustria](beato-carlos-da-austria/index.md)
 - [Beato Carlos Manuel Rodríguez Santiago](beato-carlos-manuel/index.md)
 - [Beata Catarina de Santo Agostinho](beata-catarina-de-santo-agostinho/index.md)

@@ -109,6 +109,7 @@ Esta seção reúne 176 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Josefina Bakhita](santa-josefina-bakhita/index.md)
 - [São Josemaria Escrivá](sao-josemaria-escriva/index.md)
 - [São Judas Tadeu](sao-judas-tadeu/index.md)
+- [São Junípero Serra](sao-junipero-serra/index.md)
 - [São Justino Mártir](sao-justino-martir/index.md)
 - [Santa Kateri Tekakwitha](santa-kateri-tekakwitha/index.md)
 - [São Leão Magno](sao-leao-magno/index.md)
