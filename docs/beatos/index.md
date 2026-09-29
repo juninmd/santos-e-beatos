@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 159 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 168 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -20,16 +20,17 @@ Esta seção reúne 159 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Anna Rosa Gattorno](beata-anna-rosa-gattorno/index.md)
 - [Beata Antônia Mesina](beata-antonia-mesina/index.md)
 - [Venerável Antonietta Meo (Nennolina)](beata-antonieta-meo/index.md)
-- [Beata Anuarite Nengapeta](beata-anuarite-nengapeta/index.md)
 - [Beato Antônio Chevrier](beato-antonio-chevrier/index.md)
 - [Beato Antônio de Categeró](beato-antonio-de-categero/index.md)
 - [Beato Antônio Frederico Ozanam](beato-antonio-frederico-ozanam/index.md)
 - [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
+- [Beata Anuarite Nengapeta](beata-anuarite-nengapeta/index.md)
 - [Beata Armida Barelli](beata-armida-barelli/index.md)
 - [Beata Assunta Marchetti](beata-assunta-marchetti/index.md)
 - [Beato Augusto Czartoryski](beato-augusto-czartoryski/index.md)
 - [Beata Bárbara Maix](beata-barbara-maix/index.md)
 - [Beata Benedetta Bianchi Porro](beata-benedetta-bianchi-porro/index.md)
+- [Beata Benedita Cambiagio](beata-benedita-cambiagio/index.md)
 - [Beata Benigna](beata-benigna/index.md)
 - [Beato Bernardo de Hoyos](beato-bernardo-de-hoyos/index.md)
 - [Beato Carlo Gnocchi](beato-carlo-gnocchi/index.md)
@@ -149,6 +150,7 @@ Esta seção reúne 159 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Pina Suriano](beata-pina-suriano/index.md)
 - [Beato Pino Puglisi](beato-pino-puglisi/index.md)
 - [Beato Pio IX](beato-pio-ix/index.md)
+- [Beato Raimundo de Cápua](beato-raimundo-de-capua/index.md)
 - [Beato Richard Henkes](beato-richard-henkes/index.md)
 - [Beata Rita Amada de Jesus](beata-rita-amada-de-jesus/index.md)
 - [Beato Rolando Rivi](beato-rolando-rivi/index.md)
