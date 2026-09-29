@@ -39,6 +39,7 @@ export default {
             { text: 'Venerável Antonietta Meo (Nennolina)', link: '/beatos/beata-antonieta-meo/' },
             { text: 'Beata Anuarite Nengapeta', link: '/beatos/beata-anuarite-nengapeta/' },
             { text: 'Beato Antônio Chevrier', link: '/beatos/beato-antonio-chevrier/' },
+            { text: 'Beato Antônio de Categeró', link: '/beatos/beato-antonio-de-categero/' },
             { text: 'Beato Antônio Frederico Ozanam', link: '/beatos/beato-antonio-frederico-ozanam/' },
             { text: 'Beato Antonio Rosmini', link: '/beatos/beato-antonio-rosmini/' },
             { text: 'Beata Armida Barelli', link: '/beatos/beata-armida-barelli/' },
@@ -192,7 +193,7 @@ export default {
           text: 'Santos',
           items: [
             { text: 'Santo Afonso Maria de Ligório', link: '/santos/santo-afonso-maria-de-ligorio/' },
-            { text: 'Santa Águeda', link: '/santos/santa-agueda/' },
+            { text: 'Santa Ágata', link: '/santos/santa-agata/' },
             { text: 'Santo Agostinho', link: '/santos/santo-agostinho/' },
             { text: 'Santo Alberto Hurtado', link: '/santos/santo-alberto-hurtado/' },
             { text: 'Santo Alberto Magno', link: '/santos/santo-alberto-magno/' },

@@ -79,6 +79,7 @@ São 159 beatos e 176 santos catalogados.
 | [Beata Antônia Mesina](docs/beatos/beata-antonia-mesina/index.md) | ![Beata Antônia Mesina](docs/beatos/beata-antonia-mesina/imagens/portrait.jpg) |
 | [Venerável Antonietta Meo (Nennolina)](docs/beatos/beata-antonieta-meo/index.md) | ![Venerável Antonietta Meo (Nennolina)](docs/beatos/beata-antonieta-meo/imagens/portrait.jpg) |
 | [Beato Antônio Chevrier](docs/beatos/beato-antonio-chevrier/index.md) | ![Beato Antônio Chevrier](docs/beatos/beato-antonio-chevrier/imagens/portrait.jpg) |
+| [Beato Antônio de Categeró](docs/beatos/beato-antonio-de-categero/index.md) | ![Beato Antônio de Categeró](docs/beatos/beato-antonio-de-categero/imagens/cover.jpg) |
 | [Beato Antônio Frederico Ozanam](docs/beatos/beato-antonio-frederico-ozanam/index.md) | ![Beato Antônio Frederico Ozanam](docs/beatos/beato-antonio-frederico-ozanam/imagens/portrait.jpg) |
 | [Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/index.md) | ![Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/imagens/cover.jpg) |
 | [Beata Armida Barelli](docs/beatos/beata-armida-barelli/index.md) | ![Beata Armida Barelli](docs/beatos/beata-armida-barelli/imagens/portrait.jpg) |
@@ -179,7 +180,6 @@ São 159 beatos e 176 santos catalogados.
 | [Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/index.md) | ![Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/imagens/maria-romero.jpg) |
 | [Beata Maria Teresa de São José](docs/beatos/beata-maria-teresa-de-sao-jose/index.md) | ![Beata Maria Teresa de São José](docs/beatos/beata-maria-teresa-de-sao-jose/imagens/portrait.jpg) |
 | [Beata Maria Teresa Ledóchowska](docs/beatos/beata-maria-teresa-ledochowska/index.md) | ![Beata Maria Teresa Ledóchowska](docs/beatos/beata-maria-teresa-ledochowska/imagens/portrait.jpg) |
-| [Beata Mariana de Jesus](docs/beatos/beata-mariana-de-jesus/index.md) | ![Beata Mariana de Jesus](docs/beatos/beata-mariana-de-jesus/imagens/retrato.svg) |
 | [Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/index.md) | ![Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/imagens/retrato.svg) |
 | [Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/index.md) | ![Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/imagens/portrait.jpg) |
 | [Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/index.md) | ![Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/imagens/portrait.jpg) |
@@ -238,7 +238,6 @@ São 159 beatos e 176 santos catalogados.
 | [São Bartolo Longo](docs/santos/sao-bartolo-longo/index.md) | ![São Bartolo Longo](docs/santos/sao-bartolo-longo/imagens/retrato.svg) |
 | [São Bartolomeu](docs/santos/sao-bartolomeu/index.md) | ![São Bartolomeu](docs/santos/sao-bartolomeu/imagens/retrato.svg) |
 | [São Basílio Magno](docs/santos/sao-basilio-magno/index.md) | ![São Basílio Magno](docs/santos/sao-basilio-magno/imagens/portrait.jpg) |
-| [Santa Beatriz da Silva](docs/santos/santa-beatriz-da-silva/index.md) | ![Santa Beatriz da Silva](docs/santos/santa-beatriz-da-silva/imagens/retrato.svg) |
 | [São Benedito](docs/santos/sao-benedito/index.md) | ![São Benedito](docs/santos/sao-benedito/imagens/portrait.jpg) |
 | [São Bento](docs/santos/sao-bento/index.md) | ![São Bento](docs/santos/sao-bento/imagens/retrato.svg) |
 | [São Bento Menni](docs/santos/sao-bento-menni/index.md) | ![São Bento Menni](docs/santos/sao-bento-menni/imagens/retrato.jpg) |
@@ -277,6 +276,7 @@ São 159 beatos e 176 santos catalogados.
 | [Santa Filomena](docs/santos/santa-filomena/index.md) | ![Santa Filomena](docs/santos/santa-filomena/imagens/portrait.jpg) |
 | [São Francisco de Assis](docs/santos/sao-francisco-de-assis/index.md) | ![São Francisco de Assis](docs/santos/sao-francisco-de-assis/imagens/sao-francisco.jpg) |
 | [São Francisco de Sales](docs/santos/sao-francisco-de-sales/index.md) | ![São Francisco de Sales](docs/santos/sao-francisco-de-sales/imagens/cover.jpg) |
+| [São Francisco Marto](docs/santos/sao-francisco-marto/index.md) | ![São Francisco Marto](docs/santos/sao-francisco-marto/imagens/cover.jpg) |
 | [São Francisco Xavier](docs/santos/sao-francisco-xavier/index.md) | ![São Francisco Xavier](docs/santos/sao-francisco-xavier/imagens/sao-francisco-xavier.jpg) |
 | [São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/index.md) | ![São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/imagens/portrait.jpg) |
 | [Santa Gemma Galgani](docs/santos/santa-gemma-galgani/index.md) | ![Santa Gemma Galgani](docs/santos/santa-gemma-galgani/imagens/portrait.jpg) |

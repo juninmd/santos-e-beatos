@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 133 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 159 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -22,6 +22,7 @@ Esta seção reúne 133 beatos e veneráveis da Igreja Católica, com biografia,
 - [Venerável Antonietta Meo (Nennolina)](beata-antonieta-meo/index.md)
 - [Beata Anuarite Nengapeta](beata-anuarite-nengapeta/index.md)
 - [Beato Antônio Chevrier](beato-antonio-chevrier/index.md)
+- [Beato Antônio de Categeró](beato-antonio-de-categero/index.md)
 - [Beato Antônio Frederico Ozanam](beato-antonio-frederico-ozanam/index.md)
 - [Beato Antonio Rosmini](beato-antonio-rosmini/index.md)
 - [Beata Armida Barelli](beata-armida-barelli/index.md)
