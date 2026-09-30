@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 168 beatos e 183 santos catalogados.
+São 169 beatos e 184 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -188,6 +188,7 @@ São 168 beatos e 183 santos catalogados.
 | [Beata Mariana de Jesus](docs/beatos/beata-mariana-de-jesus/index.md) | ![Beata Mariana de Jesus](docs/beatos/beata-mariana-de-jesus/imagens/retrato.svg) |
 | [Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/index.md) | ![Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/imagens/retrato.svg) |
 | [Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/index.md) | ![Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/imagens/portrait.jpg) |
+| [Beato Maurício Tornay](docs/beatos/beato-mauricio-tornay/index.md) | ![Beato Maurício Tornay](docs/beatos/beato-mauricio-tornay/imagens/retrato.svg) |
 | [Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/index.md) | ![Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/imagens/portrait.jpg) |
 | [Beato Miguel Pro](docs/beatos/beato-miguel-pro/index.md) | ![Beato Miguel Pro](docs/beatos/beato-miguel-pro/imagens/retrato.svg) |
 | [Beato Miguel Rua](docs/beatos/beato-miguel-rua/index.md) | ![Beato Miguel Rua](docs/beatos/beato-miguel-rua/imagens/portrait.jpg) |
@@ -350,6 +351,7 @@ São 168 beatos e 183 santos catalogados.
 | [São Luís Gonzaga](docs/santos/sao-luis-gonzaga/index.md) | ![São Luís Gonzaga](docs/santos/sao-luis-gonzaga/imagens/portrait.png) |
 | [São Luís Maria Grignion de Montfort](docs/santos/sao-luis-maria-grignion-de-montfort/index.md) | ![São Luís Maria Grignion de Montfort](docs/santos/sao-luis-maria-grignion-de-montfort/imagens/portrait.jpg) |
 | [São Luís Orione](docs/santos/sao-luis-orione/index.md) | ![São Luís Orione](docs/santos/sao-luis-orione/imagens/portrait.jpg) |
+| [Santa Luísa de Marillac](docs/santos/santa-luisa-de-marillac/index.md) | ![Santa Luísa de Marillac](docs/santos/santa-luisa-de-marillac/imagens/retrato.svg) |
 | [Santa Luzia](docs/santos/santa-luzia/index.md) | ![Santa Luzia](docs/santos/santa-luzia/imagens/retrato.svg) |
 | [São Marcos](docs/santos/sao-marcos/index.md) | ![São Marcos](docs/santos/sao-marcos/imagens/retrato.svg) |
 | [Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/index.md) | ![Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/imagens/portrait.jpg) |
