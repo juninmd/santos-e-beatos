@@ -1,10 +1,11 @@
 # Santos
 
-Esta seção reúne 176 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 183 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
 - [Santo Agostinho](santo-agostinho/index.md)
+- [Santa Águeda](santa-agueda/index.md)
 - [Santo Alberto Hurtado](santo-alberto-hurtado/index.md)
 - [Santo Alberto Magno](santo-alberto-magno/index.md)
 - [Santo Amaro](santo-amaro/index.md)
@@ -22,6 +23,7 @@ Esta seção reúne 176 santos canonizados pela Igreja Católica, com biografia,
 - [São Bartolo Longo](sao-bartolo-longo/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
 - [São Basílio Magno](sao-basilio-magno/index.md)
+- [Santa Beatriz da Silva](santa-beatriz-da-silva/index.md)
 - [São Beda](sao-beda/index.md)
 - [São Benedito](sao-benedito/index.md)
 - [São Bento](sao-bento/index.md)
@@ -118,6 +120,7 @@ Esta seção reúne 176 santos canonizados pela Igreja Católica, com biografia,
 - [São Longuinho](sao-longuinho/index.md)
 - [São Lourenço](sao-lourenco/index.md)
 - [São Lucas](sao-lucas/index.md)
+- [São Ludovico Pavoni](sao-ludovico-pavoni/index.md)
 - [São Luís Gonzaga](sao-luis-gonzaga/index.md)
 - [São Luís Maria Grignion de Montfort](sao-luis-maria-grignion-de-montfort/index.md)
 - [São Luís Orione](sao-luis-orione/index.md)
