@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 169 beatos e 184 santos catalogados.
+São 170 beatos e 185 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -117,6 +117,7 @@ São 169 beatos e 184 santos catalogados.
 | [Beata Edviges Carboni](docs/beatos/beata-edviges-carboni/index.md) | ![Beata Edviges Carboni](docs/beatos/beata-edviges-carboni/imagens/portrait.jpg) |
 | [Beata Elena Aiello](docs/beatos/beata-elena-aiello/index.md) | ![Beata Elena Aiello](docs/beatos/beata-elena-aiello/imagens/portrait.jpg) |
 | [Beata Elisabetta Canori Mora](docs/beatos/beata-elisabetta-canori-mora/index.md) | ![Beata Elisabetta Canori Mora](docs/beatos/beata-elisabetta-canori-mora/imagens/portrait.jpg) |
+| [Beato Estêvão Sándor](docs/beatos/beato-estevao-sandor/index.md) | ![Beato Estêvão Sándor](docs/beatos/beato-estevao-sandor/imagens/retrato.svg) |
 | [Beata Eurosia Fabris](docs/beatos/beata-eurosia-fabris/index.md) | ![Beata Eurosia Fabris](docs/beatos/beata-eurosia-fabris/imagens/cover.jpg) |
 | [Beata Eusébia Palomino Yenes](docs/beatos/beata-eusebia-palomino-yenes/index.md) | ![Beata Eusébia Palomino Yenes](docs/beatos/beata-eusebia-palomino-yenes/imagens/retrato.jpg) |
 | [Beato Filipe Rinaldi](docs/beatos/beato-filipe-rinaldi/index.md) | ![Beato Filipe Rinaldi](docs/beatos/beato-filipe-rinaldi/imagens/portrait.jpg) |
@@ -245,6 +246,7 @@ São 169 beatos e 184 santos catalogados.
 | [Santo Antônio de Sant'Ana Galvão](docs/santos/santo-antonio-de-santana-galvao/index.md) | ![Santo Antônio de Sant'Ana Galvão](docs/santos/santo-antonio-de-santana-galvao/imagens/portrait.jpg) |
 | [Santo Antônio Maria Claret](docs/santos/santo-antonio-maria-claret/index.md) | ![Santo Antônio Maria Claret](docs/santos/santo-antonio-maria-claret/imagens/portrait.jpg) |
 | [Santa Apolônia](docs/santos/santa-apolonia/index.md) | ![Santa Apolônia](docs/santos/santa-apolonia/imagens/cover.jpg) |
+| [São Artêmides Zatti](docs/santos/sao-artemides-zatti/index.md) | ![São Artêmides Zatti](docs/santos/sao-artemides-zatti/imagens/retrato.svg) |
 | [Santo Atanásio](docs/santos/santo-atanasio/index.md) | ![Santo Atanásio](docs/santos/santo-atanasio/imagens/cover.jpg) |
 | [Santa Bárbara](docs/santos/santa-barbara/index.md) | ![Santa Bárbara](docs/santos/santa-barbara/imagens/portrait.jpg) |
 | [São Bartolo Longo](docs/santos/sao-bartolo-longo/index.md) | ![São Bartolo Longo](docs/santos/sao-bartolo-longo/imagens/retrato.svg) |
