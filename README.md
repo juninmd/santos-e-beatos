@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 170 beatos e 185 santos catalogados.
+São 171 beatos e 186 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -136,6 +136,7 @@ São 170 beatos e 185 santos catalogados.
 | [Beato Ildefonso Schuster](docs/beatos/beato-ildefonso-schuster/index.md) | ![Beato Ildefonso Schuster](docs/beatos/beato-ildefonso-schuster/imagens/portrait.jpg) |
 | [Beata Imelda Lambertini](docs/beatos/beata-imelda-lambertini/index.md) | ![Beata Imelda Lambertini](docs/beatos/beata-imelda-lambertini/imagens/portrait.jpg) |
 | [Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/index.md) | ![Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/imagens/portrait.jpg) |
+| [Beato Inácio Maloyan](docs/beatos/beato-inacio-maloyan/index.md) | ![Beato Inácio Maloyan](docs/beatos/beato-inacio-maloyan/imagens/retrato.svg) |
 | [Beato Inocêncio V](docs/beatos/beato-inocencio-v/index.md) | ![Beato Inocêncio V](docs/beatos/beato-inocencio-v/imagens/portrait.jpg) |
 | [Beato Inocêncio XI](docs/beatos/beato-inocencio-xi/index.md) | ![Beato Inocêncio XI](docs/beatos/beato-inocencio-xi/imagens/portrait.jpg) |
 | [Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/index.md) | ![Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/imagens/isabel-cristina.jpg) |
@@ -348,6 +349,7 @@ São 170 beatos e 185 santos catalogados.
 | [São Leão Magno](docs/santos/sao-leao-magno/index.md) | ![São Leão Magno](docs/santos/sao-leao-magno/imagens/portrait.jpg) |
 | [São Longuinho](docs/santos/sao-longuinho/index.md) | ![São Longuinho](docs/santos/sao-longuinho/imagens/portrait.jpg) |
 | [São Lourenço](docs/santos/sao-lourenco/index.md) | ![São Lourenço](docs/santos/sao-lourenco/imagens/retrato.svg) |
+| [São Lourenço Ruiz](docs/santos/sao-lourenco-ruiz/index.md) | ![São Lourenço Ruiz](docs/santos/sao-lourenco-ruiz/imagens/retrato.svg) |
 | [São Lucas](docs/santos/sao-lucas/index.md) | ![São Lucas](docs/santos/sao-lucas/imagens/retrato.svg) |
 | [São Ludovico Pavoni](docs/santos/sao-ludovico-pavoni/index.md) | ![São Ludovico Pavoni](docs/santos/sao-ludovico-pavoni/imagens/portrait.jpg) |
 | [São Luís Gonzaga](docs/santos/sao-luis-gonzaga/index.md) | ![São Luís Gonzaga](docs/santos/sao-luis-gonzaga/imagens/portrait.png) |
