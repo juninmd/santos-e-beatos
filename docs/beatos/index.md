@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 171 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 172 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -103,6 +103,7 @@ Esta seção reúne 171 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Luca Belludi](beato-luca-belludi/index.md)
 - [Beato Luca Passi](beato-luca-passi/index.md)
 - [Beato Luigi Beltrame Quattrocchi](beato-luigi-beltrame-quattrocchi/index.md)
+- [Beato Luigi Maria Monti](beato-luigi-maria-monti/index.md)
 - [Beato Luigi Monza](beato-luigi-monza/index.md)
 - [Beato Luigi Novarese](beato-luigi-novarese/index.md)
 - [Beato Luigi Tezza](beato-luigi-tezza/index.md)

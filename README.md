@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 171 beatos e 186 santos catalogados.
+São 172 beatos e 187 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -161,6 +161,7 @@ São 171 beatos e 186 santos catalogados.
 | [Beato Luca Belludi](docs/beatos/beato-luca-belludi/index.md) | ![Beato Luca Belludi](docs/beatos/beato-luca-belludi/imagens/portrait.jpg) |
 | [Beato Luca Passi](docs/beatos/beato-luca-passi/index.md) | ![Beato Luca Passi](docs/beatos/beato-luca-passi/imagens/portrait.jpg) |
 | [Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/index.md) | ![Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/imagens/portrait.jpg) |
+| [Beato Luigi Maria Monti](docs/beatos/beato-luigi-maria-monti/index.md) | ![Beato Luigi Maria Monti](docs/beatos/beato-luigi-maria-monti/imagens/portrait.jpg) |
 | [Beato Luigi Monza](docs/beatos/beato-luigi-monza/index.md) | ![Beato Luigi Monza](docs/beatos/beato-luigi-monza/imagens/cover.jpg) |
 | [Beato Luigi Novarese](docs/beatos/beato-luigi-novarese/index.md) | ![Beato Luigi Novarese](docs/beatos/beato-luigi-novarese/imagens/portrait.jpg) |
 | [Beato Luigi Tezza](docs/beatos/beato-luigi-tezza/index.md) | ![Beato Luigi Tezza](docs/beatos/beato-luigi-tezza/imagens/cover.jpg) |
@@ -296,6 +297,7 @@ São 171 beatos e 186 santos catalogados.
 | [São Francisco Marto](docs/santos/sao-francisco-marto/index.md) | ![São Francisco Marto](docs/santos/sao-francisco-marto/imagens/cover.jpg) |
 | [São Francisco Xavier](docs/santos/sao-francisco-xavier/index.md) | ![São Francisco Xavier](docs/santos/sao-francisco-xavier/imagens/sao-francisco-xavier.jpg) |
 | [São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/index.md) | ![São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/imagens/portrait.jpg) |
+| [São Gaspar del Búfalo](docs/santos/sao-gaspar-del-bufalo/index.md) | ![São Gaspar del Búfalo](docs/santos/sao-gaspar-del-bufalo/imagens/portrait.jpg) |
 | [Santa Gemma Galgani](docs/santos/santa-gemma-galgani/index.md) | ![Santa Gemma Galgani](docs/santos/santa-gemma-galgani/imagens/portrait.jpg) |
 | [Santa Genoveva](docs/santos/santa-genoveva/index.md) | ![Santa Genoveva](docs/santos/santa-genoveva/imagens/portrait.jpg) |
 | [São Geraldo Majella](docs/santos/sao-geraldo-majella/index.md) | ![São Geraldo Majella](docs/santos/sao-geraldo-majella/imagens/sao-geraldo.png) |
