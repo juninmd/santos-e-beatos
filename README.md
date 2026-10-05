@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 172 beatos e 187 santos catalogados.
+São 173 beatos e 188 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -91,6 +91,7 @@ São 172 beatos e 187 santos catalogados.
 | [Beata Benedita Cambiagio](docs/beatos/beata-benedita-cambiagio/index.md) | ![Beata Benedita Cambiagio](docs/beatos/beata-benedita-cambiagio/imagens/portrait.jpg) |
 | [Beata Benigna](docs/beatos/beata-benigna/index.md) | ![Beata Benigna](docs/beatos/beata-benigna/imagens/benigna.jpg) |
 | [Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/index.md) | ![Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/imagens/cover.jpg) |
+| [Beato Carlo Acutis](docs/beatos/beato-carlo-acutis/index.md) | ![Beato Carlo Acutis](docs/beatos/beato-carlo-acutis/imagens/retrato.svg) |
 | [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/imagens/portrait.jpg) |
 | [Beato Carlo Steeb](docs/beatos/beato-carlo-steeb/index.md) | ![Beato Carlo Steeb](docs/beatos/beato-carlo-steeb/imagens/portrait.jpg) |
 | [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/portrait.jpg) |
@@ -415,6 +416,7 @@ São 172 beatos e 187 santos catalogados.
 | [São Tomé](docs/santos/sao-tome/index.md) | ![São Tomé](docs/santos/sao-tome/imagens/retrato.svg) |
 | [São Valentim](docs/santos/sao-valentim/index.md) | ![São Valentim](docs/santos/sao-valentim/imagens/portrait.jpg) |
 | [São Venceslau](docs/santos/sao-venceslau/index.md) | ![São Venceslau](docs/santos/sao-venceslau/imagens/portrait.jpg) |
+| [Santa Verônica](docs/santos/santa-veronica/index.md) | ![Santa Verônica](docs/santos/santa-veronica/imagens/retrato.svg) |
 | [São Vicente de Paulo](docs/santos/sao-vicente-de-paulo/index.md) | ![São Vicente de Paulo](docs/santos/sao-vicente-de-paulo/imagens/retrato.svg) |
 | [São Vicente Ferrer](docs/santos/sao-vicente-ferrer/index.md) | ![São Vicente Ferrer](docs/santos/sao-vicente-ferrer/imagens/portrait.jpg) |
 | [São Vicente Pallotti](docs/santos/sao-vicente-pallotti/index.md) | ![São Vicente Pallotti](docs/santos/sao-vicente-pallotti/imagens/portrait.jpg) |
