@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 173 beatos e 188 santos catalogados.
+São 174 beatos e 189 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -227,6 +227,7 @@ São 173 beatos e 188 santos catalogados.
 | [Beato Solanus Casey](docs/beatos/beato-solanus-casey/index.md) | ![Beato Solanus Casey](docs/beatos/beato-solanus-casey/imagens/portrait.jpg) |
 | [Beato Stanley Rother](docs/beatos/beato-stanley-rother/index.md) | ![Beato Stanley Rother](docs/beatos/beato-stanley-rother/imagens/portrait.jpg) |
 | [Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/index.md) | ![Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/imagens/portrait.jpg) |
+| [Beata Teresa de Portugal](docs/beatos/beata-teresa-de-portugal/index.md) | ![Beata Teresa de Portugal](docs/beatos/beata-teresa-de-portugal/imagens/retrato.svg) |
 | [Beato Teresio Olivelli](docs/beatos/beato-teresio-olivelli/index.md) | ![Beato Teresio Olivelli](docs/beatos/beato-teresio-olivelli/imagens/retrato.jpg) |
 | [Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/index.md) | ![Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/imagens/retrato.svg) |
 | [Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/index.md) | ![Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/imagens/portrait.jpg) |
@@ -360,6 +361,7 @@ São 173 beatos e 188 santos catalogados.
 | [São Luís Orione](docs/santos/sao-luis-orione/index.md) | ![São Luís Orione](docs/santos/sao-luis-orione/imagens/portrait.jpg) |
 | [Santa Luísa de Marillac](docs/santos/santa-luisa-de-marillac/index.md) | ![Santa Luísa de Marillac](docs/santos/santa-luisa-de-marillac/imagens/retrato.svg) |
 | [Santa Luzia](docs/santos/santa-luzia/index.md) | ![Santa Luzia](docs/santos/santa-luzia/imagens/retrato.svg) |
+| [São Marcelino Champagnat](docs/santos/sao-marcelino-champagnat/index.md) | ![São Marcelino Champagnat](docs/santos/sao-marcelino-champagnat/imagens/retrato.svg) |
 | [São Marcos](docs/santos/sao-marcos/index.md) | ![São Marcos](docs/santos/sao-marcos/imagens/retrato.svg) |
 | [Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/index.md) | ![Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/imagens/portrait.jpg) |
 | [Santa Maria Domingas Mazzarello](docs/santos/santa-maria-domingas-mazzarello/index.md) | ![Santa Maria Domingas Mazzarello](docs/santos/santa-maria-domingas-mazzarello/imagens/retrato.jpg) |
