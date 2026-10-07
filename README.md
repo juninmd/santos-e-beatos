@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 174 beatos e 189 santos catalogados.
+São 175 beatos e 190 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -66,6 +66,7 @@ São 174 beatos e 189 santos catalogados.
 | [Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/index.md) | ![Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/imagens/retrato.svg) |
 | [Beato Alberto Marvelli](docs/beatos/beato-alberto-marvelli/index.md) | ![Beato Alberto Marvelli](docs/beatos/beato-alberto-marvelli/imagens/portrait.jpg) |
 | [Beata Alexandrina de Balasar](docs/beatos/alexandrina-de-balasar/index.md) | ![Beata Alexandrina de Balasar](docs/beatos/alexandrina-de-balasar/imagens/alexandrina.jpg) |
+| [Beata Alexandrina Maria da Costa](docs/beatos/beata-alexandrina-maria-da-costa/index.md) | ![Beata Alexandrina Maria da Costa](docs/beatos/beata-alexandrina-maria-da-costa/imagens/retrato.jpg) |
 | [Beato Alojzije Stepinac](docs/beatos/beato-alojzije-stepinac/index.md) | ![Beato Alojzije Stepinac](docs/beatos/beato-alojzije-stepinac/imagens/cover.jpg) |
 | [Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/index.md) | ![Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/imagens/retrato.svg) |
 | [Beata Ana Catarina Emmerich](docs/beatos/beata-ana-catarina-emmerich/index.md) | ![Beata Ana Catarina Emmerich](docs/beatos/beata-ana-catarina-emmerich/imagens/emmerich.jpg) |
@@ -289,6 +290,7 @@ São 174 beatos e 189 santos catalogados.
 | [Beata Elena Guerra](docs/santos/santa-elena-guerra/index.md) | ![Beata Elena Guerra](docs/santos/santa-elena-guerra/imagens/retrato.svg) |
 | [Santa Escolástica](docs/santos/santa-escolastica/index.md) | ![Santa Escolástica](docs/santos/santa-escolastica/imagens/retrato.jpg) |
 | [São Estevão](docs/santos/sao-estevao/index.md) | ![São Estevão](docs/santos/sao-estevao/imagens/retrato.svg) |
+| [Santa Eulália de Mérida](docs/santos/santa-eulalia-de-merida/index.md) | ![Santa Eulália de Mérida](docs/santos/santa-eulalia-de-merida/imagens/retrato.jpg) |
 | [Santo Expedito](docs/santos/santo-expedito/index.md) | ![Santo Expedito](docs/santos/santo-expedito/imagens/portrait.png) |
 | [Santa Faustina Kowalska](docs/santos/santa-faustina-kowalska/index.md) | ![Santa Faustina Kowalska](docs/santos/santa-faustina-kowalska/imagens/santa-faustina.jpg) |
 | [São Filipe](docs/santos/sao-filipe/index.md) | ![São Filipe](docs/santos/sao-filipe/imagens/retrato.svg) |
