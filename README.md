@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 175 beatos e 190 santos catalogados.
+São 176 beatos e 191 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -198,6 +198,7 @@ São 175 beatos e 190 santos catalogados.
 | [Beato Miguel Pro](docs/beatos/beato-miguel-pro/index.md) | ![Beato Miguel Pro](docs/beatos/beato-miguel-pro/imagens/retrato.svg) |
 | [Beato Miguel Rua](docs/beatos/beato-miguel-rua/index.md) | ![Beato Miguel Rua](docs/beatos/beato-miguel-rua/imagens/portrait.jpg) |
 | [Beato Miguel Sopoćko](docs/beatos/beato-miguel-sopocko/index.md) | ![Beato Miguel Sopoćko](docs/beatos/beato-miguel-sopocko/imagens/portrait.jpg) |
+| [Beata Miriam Teresa Demjanovich](docs/beatos/beata-miriam-teresa-demjanovich/index.md) | ![Beata Miriam Teresa Demjanovich](docs/beatos/beata-miriam-teresa-demjanovich/imagens/portrait.jpg) |
 | [Beato Miroslav Bulešić](docs/beatos/beato-miroslav-bulesic/index.md) | ![Beato Miroslav Bulešić](docs/beatos/beato-miroslav-bulesic/imagens/portrait.jpg) |
 | [Beato Moisés Lira](docs/beatos/beato-moises-lira/index.md) | ![Beato Moisés Lira](docs/beatos/beato-moises-lira/imagens/beato-moises-lira.jpg) |
 | [Beata Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/nha-chica.jpg) |
@@ -263,6 +264,7 @@ São 175 beatos e 190 santos catalogados.
 | [São Bento](docs/santos/sao-bento/index.md) | ![São Bento](docs/santos/sao-bento/imagens/retrato.svg) |
 | [São Bento Menni](docs/santos/sao-bento-menni/index.md) | ![São Bento Menni](docs/santos/sao-bento-menni/imagens/retrato.jpg) |
 | [Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/index.md) | ![Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/imagens/portrait.jpg) |
+| [São Bernardino de Sena](docs/santos/sao-bernardino-de-sena/index.md) | ![São Bernardino de Sena](docs/santos/sao-bernardino-de-sena/imagens/portrait.png) |
 | [São Bernardo de Claraval](docs/santos/sao-bernardo/index.md) | ![São Bernardo de Claraval](docs/santos/sao-bernardo/imagens/portrait.jpg) |
 | [São Boaventura](docs/santos/sao-boaventura/index.md) | ![São Boaventura](docs/santos/sao-boaventura/imagens/portrait.jpg) |
 | [São Brás](docs/santos/sao-bras/index.md) | ![São Brás](docs/santos/sao-bras/imagens/portrait.jpg) |
