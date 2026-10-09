@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 176 beatos e 191 santos catalogados.
+São 177 beatos e 192 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -187,6 +187,7 @@ São 176 beatos e 191 santos catalogados.
 | [Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/index.md) | ![Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/imagens/portrait.jpg) |
 | [Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/index.md) | ![Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/imagens/portrait.jpg) |
 | [Beata Maria Repetto](docs/beatos/beata-maria-repetto/index.md) | ![Beata Maria Repetto](docs/beatos/beata-maria-repetto/imagens/portrait.jpg) |
+| [Beata Maria Restituta Kafka](docs/beatos/beata-maria-restituta-kafka/index.md) | ![Beata Maria Restituta Kafka](docs/beatos/beata-maria-restituta-kafka/imagens/retrato.svg) |
 | [Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/index.md) | ![Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/imagens/maria-romero.jpg) |
 | [Beata Maria Teresa de São José](docs/beatos/beata-maria-teresa-de-sao-jose/index.md) | ![Beata Maria Teresa de São José](docs/beatos/beata-maria-teresa-de-sao-jose/imagens/portrait.jpg) |
 | [Beata Maria Teresa Ledóchowska](docs/beatos/beata-maria-teresa-ledochowska/index.md) | ![Beata Maria Teresa Ledóchowska](docs/beatos/beata-maria-teresa-ledochowska/imagens/portrait.jpg) |
@@ -396,6 +397,7 @@ São 176 beatos e 191 santos catalogados.
 | [São Pedro Damião](docs/santos/sao-pedro-damiao/index.md) | ![São Pedro Damião](docs/santos/sao-pedro-damiao/imagens/cover.jpg) |
 | [São Pedro de Alcântara](docs/santos/sao-pedro-de-alcantara/index.md) | ![São Pedro de Alcântara](docs/santos/sao-pedro-de-alcantara/imagens/portrait.jpg) |
 | [São Pedro Julião Eymard](docs/santos/sao-pedro-juliao-eymard/index.md) | ![São Pedro Julião Eymard](docs/santos/sao-pedro-juliao-eymard/imagens/portrait.jpg) |
+| [São Pedro Nolasco](docs/santos/sao-pedro-nolasco/index.md) | ![São Pedro Nolasco](docs/santos/sao-pedro-nolasco/imagens/retrato.svg) |
 | [São Peregrino](docs/santos/sao-peregrino/index.md) | ![São Peregrino](docs/santos/sao-peregrino/imagens/portrait.jpg) |
 | [São Pier Giorgio Frassati](docs/santos/pier-giorgio-frassati/index.md) | ![São Pier Giorgio Frassati](docs/santos/pier-giorgio-frassati/imagens/pier-giorgio.jpg) |
 | [São Pio V](docs/santos/sao-pio-v/index.md) | ![São Pio V](docs/santos/sao-pio-v/imagens/portrait.jpg) |

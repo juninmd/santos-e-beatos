@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 176 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 177 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -129,6 +129,7 @@ Esta seção reúne 176 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Maria Laura Mainetti](beata-maria-laura-mainetti/index.md)
 - [Beata Maria Pierina De Micheli](beata-maria-pierina-de-micheli/index.md)
 - [Beata Maria Repetto](beata-maria-repetto/index.md)
+- [Beata Maria Restituta Kafka](beata-maria-restituta-kafka/index.md)
 - [Beata Maria Romero Meneses](beata-maria-romero-meneses/index.md)
 - [Beata Maria Teresa de São José](beata-maria-teresa-de-sao-jose/index.md)
 - [Beata Maria Teresa Ledóchowska](beata-maria-teresa-ledochowska/index.md)
