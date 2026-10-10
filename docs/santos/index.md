@@ -1,6 +1,6 @@
 # Santos
 
-Esta seção reúne 192 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 193 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
@@ -82,6 +82,7 @@ Esta seção reúne 192 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Inês](santa-ines/index.md)
 - [Santo Ireneu de Lyon](santo-ireneu-de-lyon/index.md)
 - [Santa Isabel da Hungria](santa-isabel-da-hungria/index.md)
+- [Santa Isabel de Portugal](santa-isabel-de-portugal/index.md)
 - [Santo Isidoro de Sevilha](santo-isidoro-de-sevilha/index.md)
 - [Santo Ivo de Kermartin](santo-ivo/index.md)
 - [Santa Jacinta Marto](santa-jacinta-marto/index.md)
