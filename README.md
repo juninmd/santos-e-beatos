@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 177 beatos e 192 santos catalogados.
+São 178 beatos e 193 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -135,6 +135,7 @@ São 177 beatos e 192 santos catalogados.
 | [Beato Guido de Montpellier](docs/beatos/beato-guido-de-montpellier/index.md) | ![Beato Guido de Montpellier](docs/beatos/beato-guido-de-montpellier/imagens/portrait.png) |
 | [Beato Guilherme José Chaminade](docs/beatos/beato-guilherme-jose-chaminade/index.md) | ![Beato Guilherme José Chaminade](docs/beatos/beato-guilherme-jose-chaminade/imagens/portrait.jpg) |
 | [Beato Henrique Suso](docs/beatos/beato-henrique-suso/index.md) | ![Beato Henrique Suso](docs/beatos/beato-henrique-suso/imagens/portrait.jpg) |
+| [Beato Hermann de Reichenau](docs/beatos/beato-hermann-de-reichenau/index.md) | ![Beato Hermann de Reichenau](docs/beatos/beato-hermann-de-reichenau/imagens/retrato.svg) |
 | [Beato Ildefonso Schuster](docs/beatos/beato-ildefonso-schuster/index.md) | ![Beato Ildefonso Schuster](docs/beatos/beato-ildefonso-schuster/imagens/portrait.jpg) |
 | [Beata Imelda Lambertini](docs/beatos/beata-imelda-lambertini/index.md) | ![Beata Imelda Lambertini](docs/beatos/beata-imelda-lambertini/imagens/portrait.jpg) |
 | [Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/index.md) | ![Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/imagens/portrait.jpg) |
@@ -317,6 +318,7 @@ São 177 beatos e 192 santos catalogados.
 | [Santa Inês](docs/santos/santa-ines/index.md) | ![Santa Inês](docs/santos/santa-ines/imagens/retrato.svg) |
 | [Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/index.md) | ![Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/imagens/portrait.jpg) |
 | [Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/index.md) | ![Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/imagens/portrait.jpg) |
+| [Santa Isabel de Portugal](docs/santos/santa-isabel-de-portugal/index.md) | ![Santa Isabel de Portugal](docs/santos/santa-isabel-de-portugal/imagens/retrato.svg) |
 | [Santo Isidoro de Sevilha](docs/santos/santo-isidoro-de-sevilha/index.md) | ![Santo Isidoro de Sevilha](docs/santos/santo-isidoro-de-sevilha/imagens/portrait.jpg) |
 | [Santo Ivo de Kermartin](docs/santos/santo-ivo/index.md) | ![Santo Ivo de Kermartin](docs/santos/santo-ivo/imagens/cover.jpg) |
 | [Santa Jacinta Marto](docs/santos/santa-jacinta-marto/index.md) | ![Santa Jacinta Marto](docs/santos/santa-jacinta-marto/imagens/cover.jpg) |

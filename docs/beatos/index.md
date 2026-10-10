@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 177 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 178 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -77,6 +77,7 @@ Esta seção reúne 177 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Guido de Montpellier](beato-guido-de-montpellier/index.md)
 - [Beato Guilherme José Chaminade](beato-guilherme-jose-chaminade/index.md)
 - [Beato Henrique Suso](beato-henrique-suso/index.md)
+- [Beato Hermann de Reichenau](beato-hermann-de-reichenau/index.md)
 - [Beato Ildefonso Schuster](beato-ildefonso-schuster/index.md)
 - [Beata Imelda Lambertini](beata-imelda-lambertini/index.md)
 - [Beato Inácio de Azevedo](beato-inacio-de-azevedo/index.md)
