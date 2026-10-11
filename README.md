@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 178 beatos e 193 santos catalogados.
+São 179 beatos e 194 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -213,6 +213,7 @@ São 178 beatos e 193 santos catalogados.
 | [Beata Paulina Jaricot](docs/beatos/beata-paulina-jaricot/index.md) | ![Beata Paulina Jaricot](docs/beatos/beata-paulina-jaricot/imagens/portrait.jpg) |
 | [Beato Pedro Donders](docs/beatos/beato-pedro-donders/index.md) | ![Beato Pedro Donders](docs/beatos/beato-pedro-donders/imagens/retrato.jpg) |
 | [Beato Pedro Vigne](docs/beatos/beato-pedro-vigne/index.md) | ![Beato Pedro Vigne](docs/beatos/beato-pedro-vigne/imagens/portrait.jpg) |
+| [Beato Pier Giorgio Frassati](docs/beatos/beato-pier-giorgio-frassati/index.md) | ![Beato Pier Giorgio Frassati](docs/beatos/beato-pier-giorgio-frassati/imagens/retrato.svg) |
 | [Beata Pierina Morosini](docs/beatos/beata-pierina-morosini/index.md) | ![Beata Pierina Morosini](docs/beatos/beata-pierina-morosini/imagens/retrato.jpg) |
 | [Beata Pina Suriano](docs/beatos/beata-pina-suriano/index.md) | ![Beata Pina Suriano](docs/beatos/beata-pina-suriano/imagens/portrait.jpg) |
 | [Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/index.md) | ![Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/imagens/pino-puglisi.jpg) |
@@ -294,6 +295,7 @@ São 178 beatos e 193 santos catalogados.
 | [Beata Elena Guerra](docs/santos/santa-elena-guerra/index.md) | ![Beata Elena Guerra](docs/santos/santa-elena-guerra/imagens/retrato.svg) |
 | [Santa Escolástica](docs/santos/santa-escolastica/index.md) | ![Santa Escolástica](docs/santos/santa-escolastica/imagens/retrato.jpg) |
 | [São Estevão](docs/santos/sao-estevao/index.md) | ![São Estevão](docs/santos/sao-estevao/imagens/retrato.svg) |
+| [Santo Estêvão da Hungria](docs/santos/santo-estevao-da-hungria/index.md) | ![Santo Estêvão da Hungria](docs/santos/santo-estevao-da-hungria/imagens/retrato.svg) |
 | [Santa Eulália de Mérida](docs/santos/santa-eulalia-de-merida/index.md) | ![Santa Eulália de Mérida](docs/santos/santa-eulalia-de-merida/imagens/retrato.jpg) |
 | [Santo Expedito](docs/santos/santo-expedito/index.md) | ![Santo Expedito](docs/santos/santo-expedito/imagens/portrait.png) |
 | [Santa Faustina Kowalska](docs/santos/santa-faustina-kowalska/index.md) | ![Santa Faustina Kowalska](docs/santos/santa-faustina-kowalska/imagens/santa-faustina.jpg) |
