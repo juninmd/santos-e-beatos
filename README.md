@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 179 beatos e 194 santos catalogados.
+São 180 beatos e 195 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -73,6 +73,7 @@ São 179 beatos e 194 santos catalogados.
 | [Beata Ana de Jesus](docs/beatos/beata-ana-de-jesus/index.md) | ![Beata Ana de Jesus](docs/beatos/beata-ana-de-jesus/imagens/retrato.svg) |
 | [Beata Ana de São Bartolomeu](docs/beatos/beata-ana-de-sao-bartolomeu/index.md) | ![Beata Ana de São Bartolomeu](docs/beatos/beata-ana-de-sao-bartolomeu/imagens/portrait.png) |
 | [Beata Ana dos Anjos Monteagudo](docs/beatos/beata-ana-dos-anjos-monteagudo/index.md) | ![Beata Ana dos Anjos Monteagudo](docs/beatos/beata-ana-dos-anjos-monteagudo/imagens/portrait.jpg) |
+| [Beata Ana Maria Javouhey](docs/beatos/beata-ana-maria-javouhey/index.md) | ![Beata Ana Maria Javouhey](docs/beatos/beata-ana-maria-javouhey/imagens/retrato.svg) |
 | [Beato Anacleto González Flores](docs/beatos/beato-anacleto-gonzalez-flores/index.md) | ![Beato Anacleto González Flores](docs/beatos/beato-anacleto-gonzalez-flores/imagens/portrait.jpg) |
 | [Beata Anna Kolesárová](docs/beatos/beata-anna-kolesarova/index.md) | ![Beata Anna Kolesárová](docs/beatos/beata-anna-kolesarova/imagens/cover.jpg) |
 | [Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/index.md) | ![Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/imagens/portrait.jpg) |
@@ -303,6 +304,7 @@ São 179 beatos e 194 santos catalogados.
 | [São Filipe Neri](docs/santos/sao-filipe-neri/index.md) | ![São Filipe Neri](docs/santos/sao-filipe-neri/imagens/sao-filipe-neri.jpg) |
 | [Santa Filomena](docs/santos/santa-filomena/index.md) | ![Santa Filomena](docs/santos/santa-filomena/imagens/portrait.jpg) |
 | [São Francisco de Assis](docs/santos/sao-francisco-de-assis/index.md) | ![São Francisco de Assis](docs/santos/sao-francisco-de-assis/imagens/sao-francisco.jpg) |
+| [São Francisco de Paula](docs/santos/sao-francisco-de-paula/index.md) | ![São Francisco de Paula](docs/santos/sao-francisco-de-paula/imagens/retrato.svg) |
 | [São Francisco de Sales](docs/santos/sao-francisco-de-sales/index.md) | ![São Francisco de Sales](docs/santos/sao-francisco-de-sales/imagens/cover.jpg) |
 | [São Francisco Marto](docs/santos/sao-francisco-marto/index.md) | ![São Francisco Marto](docs/santos/sao-francisco-marto/imagens/cover.jpg) |
 | [São Francisco Xavier](docs/santos/sao-francisco-xavier/index.md) | ![São Francisco Xavier](docs/santos/sao-francisco-xavier/imagens/sao-francisco-xavier.jpg) |
