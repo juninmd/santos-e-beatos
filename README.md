@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 181 beatos e 196 santos catalogados.
+São 182 beatos e 197 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -94,6 +94,7 @@ São 181 beatos e 196 santos catalogados.
 | [Beata Benedita Cambiagio](docs/beatos/beata-benedita-cambiagio/index.md) | ![Beata Benedita Cambiagio](docs/beatos/beata-benedita-cambiagio/imagens/portrait.jpg) |
 | [Beata Benigna](docs/beatos/beata-benigna/index.md) | ![Beata Benigna](docs/beatos/beata-benigna/imagens/benigna.jpg) |
 | [Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/index.md) | ![Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/imagens/cover.jpg) |
+| [Beato Bronislaw Markiewicz](docs/beatos/beato-bronislaw-markiewicz/index.md) | ![Beato Bronislaw Markiewicz](docs/beatos/beato-bronislaw-markiewicz/imagens/retrato.jpg) |
 | [Beato Carlo Acutis](docs/beatos/beato-carlo-acutis/index.md) | ![Beato Carlo Acutis](docs/beatos/beato-carlo-acutis/imagens/retrato.svg) |
 | [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/imagens/portrait.jpg) |
 | [Beato Carlo Steeb](docs/beatos/beato-carlo-steeb/index.md) | ![Beato Carlo Steeb](docs/beatos/beato-carlo-steeb/imagens/portrait.jpg) |
@@ -363,6 +364,7 @@ São 181 beatos e 196 santos catalogados.
 | [São Junípero Serra](docs/santos/sao-junipero-serra/index.md) | ![São Junípero Serra](docs/santos/sao-junipero-serra/imagens/portrait.jpg) |
 | [São Justino Mártir](docs/santos/sao-justino-martir/index.md) | ![São Justino Mártir](docs/santos/sao-justino-martir/imagens/portrait.jpg) |
 | [Santa Kateri Tekakwitha](docs/santos/santa-kateri-tekakwitha/index.md) | ![Santa Kateri Tekakwitha](docs/santos/santa-kateri-tekakwitha/imagens/portrait.jpg) |
+| [São Lázaro de Betânia](docs/santos/sao-lazaro-de-betania/index.md) | ![São Lázaro de Betânia](docs/santos/sao-lazaro-de-betania/imagens/retrato.svg) |
 | [São Leão Magno](docs/santos/sao-leao-magno/index.md) | ![São Leão Magno](docs/santos/sao-leao-magno/imagens/portrait.jpg) |
 | [São Longuinho](docs/santos/sao-longuinho/index.md) | ![São Longuinho](docs/santos/sao-longuinho/imagens/portrait.jpg) |
 | [São Lourenço](docs/santos/sao-lourenco/index.md) | ![São Lourenço](docs/santos/sao-lourenco/imagens/retrato.svg) |
