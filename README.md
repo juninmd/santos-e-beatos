@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 182 beatos e 197 santos catalogados.
+São 183 beatos e 198 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -121,6 +121,7 @@ São 182 beatos e 197 santos catalogados.
 | [Beato Eduardo Pironio](docs/beatos/beato-eduardo-pironio/index.md) | ![Beato Eduardo Pironio](docs/beatos/beato-eduardo-pironio/imagens/portrait.jpg) |
 | [Beata Edviges Carboni](docs/beatos/beata-edviges-carboni/index.md) | ![Beata Edviges Carboni](docs/beatos/beata-edviges-carboni/imagens/portrait.jpg) |
 | [Beata Elena Aiello](docs/beatos/beata-elena-aiello/index.md) | ![Beata Elena Aiello](docs/beatos/beata-elena-aiello/imagens/portrait.jpg) |
+| [Beata Elena Guerra](docs/beatos/beata-elena-guerra/index.md) | ![Beata Elena Guerra](docs/beatos/beata-elena-guerra/imagens/retrato.svg) |
 | [Beata Elisabetta Canori Mora](docs/beatos/beata-elisabetta-canori-mora/index.md) | ![Beata Elisabetta Canori Mora](docs/beatos/beata-elisabetta-canori-mora/imagens/portrait.jpg) |
 | [Beato Estêvão Sándor](docs/beatos/beato-estevao-sandor/index.md) | ![Beato Estêvão Sándor](docs/beatos/beato-estevao-sandor/imagens/retrato.svg) |
 | [Beata Eurosia Fabris](docs/beatos/beata-eurosia-fabris/index.md) | ![Beata Eurosia Fabris](docs/beatos/beata-eurosia-fabris/imagens/cover.jpg) |
@@ -292,6 +293,7 @@ São 182 beatos e 197 santos catalogados.
 | [São Cristóvão](docs/santos/sao-cristovao/index.md) | ![São Cristóvão](docs/santos/sao-cristovao/imagens/portrait.jpg) |
 | [São Damião de Molokai](docs/santos/sao-damiao-de-molokai/index.md) | ![São Damião de Molokai](docs/santos/sao-damiao-de-molokai/imagens/portrait.jpg) |
 | [São Dimas](docs/santos/sao-dimas/index.md) | ![São Dimas](docs/santos/sao-dimas/imagens/portrait.jpg) |
+| [Santa Dinfna](docs/santos/santa-dinfna/index.md) | ![Santa Dinfna](docs/santos/santa-dinfna/imagens/retrato.svg) |
 | [São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/index.md) | ![São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/imagens/portrait.jpg) |
 | [São Domingos Sávio](docs/santos/sao-domingos-savio/index.md) | ![São Domingos Sávio](docs/santos/sao-domingos-savio/imagens/portrait.jpg) |
 | [Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/index.md) | ![Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/imagens/retrato.svg) |
