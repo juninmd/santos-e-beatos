@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 183 beatos e 198 santos catalogados.
+São 184 beatos e 199 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -123,6 +123,7 @@ São 183 beatos e 198 santos catalogados.
 | [Beata Elena Aiello](docs/beatos/beata-elena-aiello/index.md) | ![Beata Elena Aiello](docs/beatos/beata-elena-aiello/imagens/portrait.jpg) |
 | [Beata Elena Guerra](docs/beatos/beata-elena-guerra/index.md) | ![Beata Elena Guerra](docs/beatos/beata-elena-guerra/imagens/retrato.svg) |
 | [Beata Elisabetta Canori Mora](docs/beatos/beata-elisabetta-canori-mora/index.md) | ![Beata Elisabetta Canori Mora](docs/beatos/beata-elisabetta-canori-mora/imagens/portrait.jpg) |
+| [Beata Elisabetta Sanna](docs/beatos/beata-elisabetta-sanna/index.md) | ![Beata Elisabetta Sanna](docs/beatos/beata-elisabetta-sanna/imagens/retrato.svg) |
 | [Beato Estêvão Sándor](docs/beatos/beato-estevao-sandor/index.md) | ![Beato Estêvão Sándor](docs/beatos/beato-estevao-sandor/imagens/retrato.svg) |
 | [Beata Eurosia Fabris](docs/beatos/beata-eurosia-fabris/index.md) | ![Beata Eurosia Fabris](docs/beatos/beata-eurosia-fabris/imagens/cover.jpg) |
 | [Beata Eusébia Palomino Yenes](docs/beatos/beata-eusebia-palomino-yenes/index.md) | ![Beata Eusébia Palomino Yenes](docs/beatos/beata-eusebia-palomino-yenes/imagens/retrato.jpg) |
@@ -378,6 +379,7 @@ São 183 beatos e 198 santos catalogados.
 | [São Luís Orione](docs/santos/sao-luis-orione/index.md) | ![São Luís Orione](docs/santos/sao-luis-orione/imagens/portrait.jpg) |
 | [Santa Luísa de Marillac](docs/santos/santa-luisa-de-marillac/index.md) | ![Santa Luísa de Marillac](docs/santos/santa-luisa-de-marillac/imagens/retrato.svg) |
 | [Santa Luzia](docs/santos/santa-luzia/index.md) | ![Santa Luzia](docs/santos/santa-luzia/imagens/retrato.svg) |
+| [Santa Mama Antula (María Antonia de Paz y Figueroa)](docs/santos/santa-mama-antula/index.md) | ![Santa Mama Antula (María Antonia de Paz y Figueroa)](docs/santos/santa-mama-antula/imagens/retrato.svg) |
 | [São Marcelino Champagnat](docs/santos/sao-marcelino-champagnat/index.md) | ![São Marcelino Champagnat](docs/santos/sao-marcelino-champagnat/imagens/retrato.svg) |
 | [São Marcos](docs/santos/sao-marcos/index.md) | ![São Marcos](docs/santos/sao-marcos/imagens/retrato.svg) |
 | [Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/index.md) | ![Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/imagens/portrait.jpg) |
