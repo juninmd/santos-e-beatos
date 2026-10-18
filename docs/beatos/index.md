@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 183 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 184 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -65,6 +65,7 @@ Esta seção reúne 183 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Elena Aiello](beata-elena-aiello/index.md)
 - [Beata Elena Guerra](beata-elena-guerra/index.md)
 - [Beata Elisabetta Canori Mora](beata-elisabetta-canori-mora/index.md)
+- [Beata Elisabetta Sanna](beata-elisabetta-sanna/index.md)
 - [Beato Estêvão Sándor](beato-estevao-sandor/index.md)
 - [Beata Eurosia Fabris](beata-eurosia-fabris/index.md)
 - [Beata Eusébia Palomino Yenes](beata-eusebia-palomino-yenes/index.md)
