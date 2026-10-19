@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Alojzije Stepinac
 
 # Beato Alojzije Stepinac
 
-![Beato Alojzije Stepinac](imagens/cover.jpg)
+![Beato Alojzije Stepinac](imagens/portrait.jpg)
 
 > "Arcebispo e Mártir da Croácia"
 

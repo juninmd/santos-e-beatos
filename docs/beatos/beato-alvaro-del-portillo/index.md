@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Álvaro del Porti
 
 # Beato Álvaro del Portillo
 
-![Beato Álvaro del Portillo](imagens/retrato.svg)
+![Beato Álvaro del Portillo](imagens/portrait.png)
 
 > "Servo bom e fiel."
 
