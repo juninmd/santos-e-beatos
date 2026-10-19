@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Alexandrina Maria
 
 # Beata Alexandrina Maria da Costa
 
-![Beata Alexandrina Maria da Costa](imagens/retrato.jpg)
+![Beata Alexandrina Maria da Costa](imagens/portrait.jpg)
 
 > "Amar, sofrer, reparar."
 

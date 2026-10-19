@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Ana Catarina Emme
 
 # Beata Ana Catarina Emmerich
 
-![Beata Ana Catarina Emmerich](imagens/emmerich.jpg)
+![Beata Ana Catarina Emmerich](imagens/portrait.jpg)
 
 > "A Mística da Paixão"
 

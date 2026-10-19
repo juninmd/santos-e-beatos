@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Lucas.
 
 # São Lucas
 
-![São Lucas](imagens/retrato.svg)
+![São Lucas](imagens/portrait.jpg)
 
 > "O médico amado."
 

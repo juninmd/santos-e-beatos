@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Ana de Jesus.
 
 # Beata Ana de Jesus
 
-![Beata Ana de Jesus](imagens/retrato.svg)
+![Beata Ana de Jesus](imagens/portrait.jpg)
 
 > "A grande capitã das prioras."** (Santa Teresa de Ávila sobre Ana de Jesus)"
 

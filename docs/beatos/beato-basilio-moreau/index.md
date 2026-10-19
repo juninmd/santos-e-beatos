@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Basílio Moreau.
 
 # Beato Basílio Moreau
 
-![Beato Basílio Moreau](imagens/retrato.svg)
+![Beato Basílio Moreau](imagens/portrait.jpg)
 
 > "A cruz é a nossa única esperança."
 

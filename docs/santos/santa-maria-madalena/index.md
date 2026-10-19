@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Maria Madalena.
 
 # Santa Maria Madalena
 
-![Santa Maria Madalena](imagens/retrato.svg)
+![Santa Maria Madalena](imagens/portrait.jpg)
 
 > "Vi o Senhor!"
 

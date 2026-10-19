@@ -5,7 +5,7 @@ description: Biografia, milagres e ensinamentos de São Leão Magno.
 
 # São Leão Magno
 
-![São Leão Magno](./imagens/portrait.jpg)
+![São Leão Magno](imagens/portrait.png)
 
 > "Quem ignora a divindade de Cristo ignora também a sua humanidade."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Clara do Me
 
 # Beata Maria Clara do Menino Jesus
 
-![Beata Maria Clara do Menino Jesus](imagens/cover.jpg)
+![Beata Maria Clara do Menino Jesus](imagens/portrait.png)
 
 > "Onde há o bem a fazer, que se faça."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Ana de São Barto
 
 # Beata Ana de São Bartolomeu
 
-![Beata Ana de São Bartolomeu](imagens/portrait.png)
+![Beata Ana de São Bartolomeu](imagens/portrait.jpg)
 
 > "Companheira Inseparável e Herdeira Espiritual de Santa Teresa de Ávila"
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Beato Teresio Olivelli.
 
 # Beato Teresio Olivelli
 
-![Beato Teresio Olivelli](imagens/retrato.jpg)
+![Beato Teresio Olivelli](imagens/portrait.jpg)
 
 > "Mártir da resistência pacífica."
 

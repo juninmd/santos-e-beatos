@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Charbel Makhlouf.
 
 # São Charbel Makhlouf
 
-![São Charbel Makhlouf](imagens/charbel.jpg)
+![São Charbel Makhlouf](imagens/portrait.jpg)
 
 > "O Eremita do Líbano"
 
