@@ -99,10 +99,11 @@ onMounted(() => {
 .saint-of-day {
   max-width: 800px;
   margin: 2rem auto;
-  padding: 1.75rem;
+  padding: 3rem 1.75rem 1.75rem;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 16px;
-  background: linear-gradient(135deg, var(--vp-c-bg-soft), var(--vp-c-brand-soft));
+  border-radius: 200px 200px 16px 16px / 60px 60px 16px 16px;
+  border-top: 4px solid var(--sb-gold);
+  background: linear-gradient(180deg, var(--vp-c-brand-soft), var(--vp-c-bg-soft));
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
 }
 
@@ -113,6 +114,7 @@ onMounted(() => {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-size: 0.95rem;
+  font-family: var(--sb-display);
   margin-bottom: 1.5rem;
 }
 
@@ -137,6 +139,9 @@ onMounted(() => {
 }
 
 .image-container img {
+  border: 4px solid var(--sb-parchment);
+  outline: 2px solid var(--sb-gold);
+  margin: 0;
   width: 100%;
   height: auto;
   border-radius: 12px;
