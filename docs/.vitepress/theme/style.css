@@ -1,9 +1,43 @@
 /* docs/.vitepress/theme/style.css */
 
+:root {
+  --vp-c-brand-1: #8a5a14;
+  --vp-c-brand-2: #a06b1c;
+  --vp-c-brand-3: #b87d24;
+  --vp-c-brand-soft: rgba(184, 125, 36, 0.14);
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #b87d24, #6d4c9f);
+}
+
+.dark {
+  --vp-c-brand-1: #e0b062;
+  --vp-c-brand-2: #d19f4a;
+  --vp-c-brand-3: #b87d24;
+  --vp-home-hero-name-background: linear-gradient(120deg, #e0b062, #a78bd4);
+}
+
+.VPHome .VPFeatures .VPFeature {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.VPHome .VPFeatures .VPFeature:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.vp-doc img {
+  border-radius: 10px;
+}
+
+.vp-doc h1 {
+  letter-spacing: -0.01em;
+}
+
 .miracle-map-container {
   height: 400px;
   width: 100%;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  border-radius: 10px;
   z-index: 1; /* Ensure map doesn't cover navbar if issue arises */
 }
