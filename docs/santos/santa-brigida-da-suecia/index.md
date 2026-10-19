@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Brígida da Suéc
 
 # Santa Brígida da Suécia
 
-![Santa Brígida da Suécia](imagens/portrait.jpg)
+![Santa Brígida da Suécia](imagens/portrait.png)
 
 > "Senhor, mostra-me o caminho e torna-me disposta a percorrê-lo."
 

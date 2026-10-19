@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Edel Quinn.
 
 # Beata Edel Quinn
 
-![Beata Edel Quinn](imagens/retrato.jpg)
+![Beata Edel Quinn](imagens/portrait.png)
 
 > "Deus me chamou e eu vou, venha o que vier."
 

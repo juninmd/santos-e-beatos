@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Rutilio Grande.
 
 # Beato Rutilio Grande
 
-![Beato Rutilio Grande](imagens/cover.jpg)
+![Beato Rutilio Grande](imagens/portrait.jpg)
 
 > "O Evangelho tem que criar raízes nas realidades do povo."
 

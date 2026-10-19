@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Teresa de Calcut�
 
 # Santa Teresa de Calcutá
 
-![Santa Teresa de Calcutá](imagens/retrato.svg)
+![Santa Teresa de Calcutá](imagens/portrait.jpg)
 
 > "Não podemos fazer grandes coisas, mas podemos fazer pequenas coisas com grande amor."
 

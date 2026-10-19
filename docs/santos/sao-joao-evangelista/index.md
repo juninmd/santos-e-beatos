@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Evangelista.
 
 # São João Evangelista
 
-![São João Evangelista](imagens/retrato.svg)
+![São João Evangelista](imagens/portrait.jpg)
 
 > "Deus é amor."
 

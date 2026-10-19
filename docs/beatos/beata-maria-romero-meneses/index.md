@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Romero Mene
 
 # Beata Maria Romero Meneses
 
-![Beata Maria Romero Meneses](imagens/maria-romero.jpg)
+![Beata Maria Romero Meneses](imagens/portrait.jpg)
 
 > "Ponha a mão, minha Mãe, ponha a antes da minha."
 

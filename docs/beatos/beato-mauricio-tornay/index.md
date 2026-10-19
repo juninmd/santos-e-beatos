@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa do Beato Maurício Tornay
 
 # Beato Maurício Tornay
 
-![Beato Maurício Tornay](imagens/retrato.svg)
+![Beato Maurício Tornay](imagens/portrait.jpg)
 
 > "Para a minha vocação, eu deixaria tudo, faria todos os sacrifícios."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Estêvão da Hung
 
 # Santo Estêvão da Hungria
 
-![Santo Estêvão da Hungria](imagens/retrato.svg)
+![Santo Estêvão da Hungria](imagens/portrait.jpg)
 
 > "Rei, Apóstolo e Construtor de uma Nação"
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Camilo de Lellis.
 
 # São Camilo de Lellis
 
-![São Camilo de Lellis](imagens/sao-camilo.jpg)
+![São Camilo de Lellis](imagens/portrait.jpg)
 
 > "Mais coração nas mãos, irmãos!"
 

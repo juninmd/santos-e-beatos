@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Ivan Merz.
 
 # Beato Ivan Merz
 
-![Beato Ivan Merz](imagens/cover.jpg)
+![Beato Ivan Merz](imagens/portrait.jpg)
 
 > "A vida não tem sentido sem Cristo; com Ele, tudo ganha uma dimensão de eternidade e amor infinito."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Bernardo de Hoyos
 
 # Beato Bernardo de Hoyos
 
-![Beato Bernardo de Hoyos](imagens/cover.jpg)
+![Beato Bernardo de Hoyos](imagens/portrait.jpg)
 
 > "Achei o tesouro escondido! O Coração de Jesus!"
 

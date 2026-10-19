@@ -5,7 +5,7 @@ description: Biografia, milagres e obra do Beato Pedro Vigne.
 
 # Beato Pedro Vigne
 
-![Beato Pedro Vigne](./imagens/portrait.jpg)
+![Beato Pedro Vigne](imagens/portrait.jpg)
 
 > "Eu não desejo nada senão Deus e fazer a Sua Vontade."
 

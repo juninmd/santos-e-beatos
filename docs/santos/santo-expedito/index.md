@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Expedito.
 
 # Santo Expedito
 
-![Santo Expedito](imagens/portrait.png)
+![Santo Expedito](imagens/portrait.jpg)
 
 > "O Santo das Causas Justas e Urgentes"
 

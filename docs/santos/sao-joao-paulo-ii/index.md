@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Paulo II.
 
 # São João Paulo II
 
-![São João Paulo II](imagens/joao-paulo-ii.jpg)
+![São João Paulo II](imagens/portrait.jpg)
 
 > "Não tenhais medo! Abri, melhor, escancarai as portas a Cristo!"
 

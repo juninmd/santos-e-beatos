@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa do Beato Estêvão Sándo
 
 # Beato Estêvão Sándor
 
-![Beato Estêvão Sándor](imagens/retrato.svg)
+![Beato Estêvão Sándor](imagens/portrait.jpg)
 
 > "A vida é bonita apenas se a dermos por Cristo"
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Vicente Ferrer.
 
 # São Vicente Ferrer
 
-![São Vicente Ferrer](imagens/portrait.jpg)
+![São Vicente Ferrer](imagens/portrait.png)
 
 > "O Anjo do Apocalipse"
 

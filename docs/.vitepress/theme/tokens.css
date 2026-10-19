@@ -1,0 +1,37 @@
+/* Paleta sacra: ouro, vinho e azul-noite de vitral */
+:root {
+  --sb-gold: #b8862b;
+  --sb-gold-soft: #e9c46a;
+  --sb-wine: #7b1e3a;
+  --sb-night: #14122b;
+  --sb-parchment: #fbf6ea;
+  --vp-font-family-base: 'EB Garamond', Georgia, serif;
+  --vp-font-family-mono: ui-monospace, monospace;
+  --sb-display: 'Cinzel', 'Times New Roman', serif;
+  --vp-c-brand-1: #8f6416;
+  --vp-c-brand-2: #a87820;
+  --vp-c-brand-3: #b8862b;
+  --vp-c-brand-soft: rgba(184, 134, 43, 0.14);
+  --vp-c-bg: var(--sb-parchment);
+  --vp-c-bg-alt: #f3ead2;
+  --vp-c-bg-soft: #f6eed9;
+  --vp-c-text-1: #2a2118;
+  --vp-c-divider: rgba(143, 100, 22, 0.25);
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #8f6416, #7b1e3a);
+  --vp-home-hero-image-background-image: radial-gradient(circle, #e9c46a 0%, transparent 70%);
+  --vp-home-hero-image-filter: blur(60px);
+}
+
+.dark {
+  --vp-c-bg: #0f0e22;
+  --vp-c-bg-alt: #14122b;
+  --vp-c-bg-soft: #1b1838;
+  --vp-c-text-1: #f3ead2;
+  --vp-c-brand-1: #e9c46a;
+  --vp-c-brand-2: #d9ae4e;
+  --vp-c-brand-3: #b8862b;
+  --vp-c-brand-soft: rgba(233, 196, 106, 0.16);
+  --vp-c-divider: rgba(233, 196, 106, 0.22);
+  --vp-home-hero-name-background: linear-gradient(120deg, #e9c46a, #f4a6c0);
+}

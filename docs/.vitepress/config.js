@@ -8,6 +8,9 @@ export default {
     }
   },
   themeConfig: {
+    outline: { label: 'Nesta página' },
+    docFooter: { prev: 'Anterior', next: 'Próximo' },
+    darkModeSwitchLabel: 'Tema',
     nav: [
       { text: 'Início', link: '/' },
       { text: 'Beatos', link: '/beatos/' },

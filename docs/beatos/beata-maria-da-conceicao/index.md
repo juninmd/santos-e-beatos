@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Concepción Cabre
 
 # Beata Concepción Cabrera de Armida (Conchita)
 
-![Beata Concepción Cabrera de Armida (Conchita)](imagens/retrato.svg)
+![Beata Concepción Cabrera de Armida (Conchita)](imagens/portrait.jpg)
 
 > "Cristo quer reproduzir a sua vida em cada batizado."
 

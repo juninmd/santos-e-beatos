@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Amaro.
 
 # Santo Amaro
 
-![Santo Amaro](imagens/retrato.jpg)
+![Santo Amaro](imagens/portrait.jpg)
 
 > "Fiel discípulo de São Bento e apóstolo na Gália"
 

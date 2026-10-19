@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato João Baptista Ma
 
 # Beato João Baptista Machado
 
-![Beato João Baptista Machado](imagens/retrato.jpg)
+![Beato João Baptista Machado](imagens/portrait.jpg)
 
 > "Mártir jesuíta português no Japão"
 

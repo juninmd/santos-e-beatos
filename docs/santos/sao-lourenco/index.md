@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Lourenço.
 
 # São Lourenço
 
-![São Lourenço](imagens/retrato.svg)
+![São Lourenço](imagens/portrait.jpg)
 
 > "Vire-me do outro lado, este já está assado."
 

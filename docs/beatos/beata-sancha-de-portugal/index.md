@@ -5,7 +5,7 @@ description: Biografia, vida pessoal, milagres, curiosidades e mapa de Beata San
 
 # Beata Sancha de Portugal
 
-![Beata Sancha de Portugal](imagens/retrato.jpg)
+![Beata Sancha de Portugal](imagens/portrait.png)
 
 > "A Princesa Cisterciense Fundadora de Celas"
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Elena Guerra.
 
 # Beata Elena Guerra
 
-![Beata Elena Guerra](imagens/retrato.svg)
+![Beata Elena Guerra](imagens/portrait.png)
 
 > "Apóstola do Espírito Santo."
 

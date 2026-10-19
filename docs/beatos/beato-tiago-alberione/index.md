@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Tiago Alberione.
 
 # Beato Tiago Alberione
 
-![Beato Tiago Alberione](imagens/retrato.svg)
+![Beato Tiago Alberione](imagens/portrait.jpg)
 
 > "O apóstolo da comunicação."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Pedro Donders.
 
 # Beato Pedro Donders
 
-![Beato Pedro Donders](imagens/retrato.jpg)
+![Beato Pedro Donders](imagens/portrait.jpg)
 
 > "Aos leprosos, ele deu a sua vida; aos pobres, o seu coração."
 

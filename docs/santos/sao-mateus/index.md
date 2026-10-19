@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Mateus.
 
 # São Mateus
 
-![São Mateus](imagens/retrato.svg)
+![São Mateus](imagens/portrait.jpg)
 
 > "Não vim chamar os justos, mas os pecadores."
 

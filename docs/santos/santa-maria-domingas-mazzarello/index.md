@@ -7,7 +7,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Maria Domingas Ma
 
 > "A alegria é o sinal de um coração que ama muito o Senhor."
 
-![Santa Maria Domingas Mazzarello](./imagens/retrato.jpg)
+![Santa Maria Domingas Mazzarello](imagens/portrait.jpg)
 
 - **Nascimento:** 9 de maio de 1837
 - **Morte:** 14 de maio de 1881

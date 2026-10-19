@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Miguel Pro.
 
 # Beato Miguel Pro
 
-![Beato Miguel Pro](imagens/retrato.svg)
+![Beato Miguel Pro](imagens/portrait.jpg)
 
 > "Viva Cristo Rei!"
 

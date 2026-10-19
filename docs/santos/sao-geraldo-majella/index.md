@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Geraldo Majella.
 
 # São Geraldo Majella
 
-![São Geraldo Majella](imagens/sao-geraldo.png)
+![São Geraldo Majella](imagens/portrait.jpg)
 
 > "Aqui se faz a vontade de Deus, como Deus quer e por quanto tempo Ele quiser."
 
@@ -61,4 +61,4 @@ Hoje, o Santuário de São Geraldo em Materdomini é um dos locais de peregrina�
 
 | Imagem | Descrição |
 | :---: | :--- |
-| ![São Geraldo](./imagens/sao-geraldo.png) | Representação artística de São Geraldo Majella. |
+| ![São Geraldo](imagens/portrait.jpg) | Representação artística de São Geraldo Majella. |

@@ -1,0 +1,55 @@
+/* Páginas de santos: tipografia de manuscrito e molduras */
+.vp-doc h1, .vp-doc h2, .vp-doc h3 { font-family: var(--sb-display); letter-spacing: 0.02em; }
+
+.vp-doc h1 { text-align: center; }
+
+.vp-doc h1::after {
+  content: '✠ ✦ ✠';
+  display: block;
+  margin-top: 0.6rem;
+  font-size: 1rem;
+  letter-spacing: 0.6em;
+  color: var(--sb-gold);
+}
+
+.vp-doc h2 { border-top: 1px solid var(--vp-c-divider); }
+
+.vp-doc p, .vp-doc li { font-size: 1.12rem; line-height: 1.8; }
+
+.vp-doc > div > p:nth-of-type(2)::first-letter {
+  font-family: var(--sb-display);
+  float: left;
+  font-size: 3.4rem;
+  line-height: 0.9;
+  padding: 0.3rem 0.5rem 0 0;
+  color: var(--sb-wine);
+}
+
+.dark .vp-doc > div > p:nth-of-type(2)::first-letter { color: var(--sb-gold-soft); }
+
+.vp-doc img {
+  display: block;
+  margin: 1rem auto;
+  max-height: 460px;
+  border-radius: 6px;
+  border: 6px solid var(--sb-parchment);
+  outline: 2px solid var(--sb-gold);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+.vp-doc blockquote {
+  border-left: 4px solid var(--sb-gold);
+  background: var(--vp-c-brand-soft);
+  border-radius: 0 12px 12px 0;
+  font-style: italic;
+  font-size: 1.2rem;
+}
+
+.miracle-map-container {
+  height: 400px;
+  width: 100%;
+  margin: 1rem 0;
+  border-radius: 12px;
+  border: 2px solid var(--sb-gold);
+  z-index: 1; /* mantém o mapa abaixo da navbar */
+}

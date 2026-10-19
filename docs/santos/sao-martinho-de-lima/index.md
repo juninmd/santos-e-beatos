@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Martinho de Lima.
 
 # São Martinho de Lima
 
-![São Martinho de Lima](imagens/retrato.svg)
+![São Martinho de Lima](imagens/portrait.jpg)
 
 > "A vassoura de Frei Martinho."
 

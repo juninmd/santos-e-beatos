@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pedro.
 
 # São Pedro
 
-![São Pedro](imagens/retrato.svg)
+![São Pedro](imagens/portrait.jpg)
 
 > "Tu és Pedro, e sobre esta pedra edificarei a minha Igreja."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Artêmides Zatti, 
 
 # São Artêmides Zatti
 
-![São Artêmides Zatti](imagens/retrato.svg)
+![São Artêmides Zatti](imagens/portrait.jpg)
 
 > "Acreditei, prometi, sarei"
 

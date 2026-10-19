@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luigi Novarese.
 
 # Beato Luigi Novarese
 
-![Beato Luigi Novarese](imagens/portrait.jpg)
+![Beato Luigi Novarese](imagens/portrait.png)
 
 > "O doente deve ser o autor do seu próprio apostolado."
 
@@ -66,4 +66,4 @@ Hoje, o Beato Luigi Novarese é recordado como o "Apóstolo dos Doentes". O "Cen
 
 | Imagem | Descrição |
 | --- | --- |
-| ![Beato Luigi Novarese](./imagens/portrait.jpg) | Retrato do Beato Luigi Novarese. |
+| ![Beato Luigi Novarese](imagens/portrait.png) | Retrato do Beato Luigi Novarese. |

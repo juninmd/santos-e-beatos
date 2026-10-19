@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pedro Nolasco.
 
 # São Pedro Nolasco
 
-![São Pedro Nolasco](imagens/retrato.svg)
+![São Pedro Nolasco](imagens/portrait.jpg)
 
 > "Para a libertação dos cativos, a nossa vida."
 

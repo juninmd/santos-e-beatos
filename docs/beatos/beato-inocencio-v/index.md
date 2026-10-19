@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Inocêncio V.
 
 # Beato Inocêncio V
 
-![Beato Inocêncio V](./imagens/portrait.jpg)
+![Beato Inocêncio V](imagens/portrait.jpg)
 
 > "O Papa que buscou a unidade no amor de Cristo."
 

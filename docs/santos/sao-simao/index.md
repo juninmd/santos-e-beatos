@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Simão.
 
 # São Simão
 
-![São Simão](imagens/retrato.svg)
+![São Simão](imagens/portrait.jpg)
 
 > "Zeloso pela lei do Senhor."
 

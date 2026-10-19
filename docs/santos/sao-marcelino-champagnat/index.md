@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Marcelino Champagn
 
 # São Marcelino Champagnat
 
-![São Marcelino Champagnat](./imagens/retrato.svg)
+![São Marcelino Champagnat](imagens/portrait.jpg)
 
 > "Todas as dioceses do mundo entram em nossos planos." — São Marcelino Champagnat
 

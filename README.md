@@ -4,8 +4,8 @@ Biografias, imagens, milagres e mapas de santos e beatos da Igreja Católica, pu
 
 ## Conteúdo
 
-- **163 santos** em [`docs/santos/`](docs/santos/index.md)
-- **147 beatos** em [`docs/beatos/`](docs/beatos/index.md)
+- **199 santos** em [`docs/santos/`](docs/santos/index.md)
+- **184 beatos** em [`docs/beatos/`](docs/beatos/index.md)
 
 Cada entrada inclui biografia, contexto histórico, imagens (retrato/capa) e, quando aplicável, mapas de nascimento, morte e milagres.
 

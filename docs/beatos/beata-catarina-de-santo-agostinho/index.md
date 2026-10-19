@@ -5,7 +5,7 @@ description: Religiosa francesa e uma das fundadoras da Igreja no Canadá, dedic
 
 # Beata Catarina de Santo Agostinho
 
-![Cover da Beata Catarina de Santo Agostinho](imagens/cover.jpg)
+![Cover da Beata Catarina de Santo Agostinho](imagens/portrait.jpg)
 
 <div class="saint-header">
   <div class="saint-image-container">

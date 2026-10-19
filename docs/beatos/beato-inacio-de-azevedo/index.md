@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Inácio de Azeved
 
 # Beato Inácio de Azevedo
 
-![Beato Inácio de Azevedo](imagens/portrait.jpg)
+![Beato Inácio de Azevedo](imagens/portrait.png)
 
 > "Todos, todos por Cristo!"
 

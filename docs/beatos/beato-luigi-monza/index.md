@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luigi Monza.
 
 # Beato Luigi Monza
 
-![Beato Luigi Monza](imagens/cover.jpg)
+![Beato Luigi Monza](imagens/portrait.jpg)
 
 > "Fundador do Instituto Secular das Pequenas Apóstolas da Caridade"
 

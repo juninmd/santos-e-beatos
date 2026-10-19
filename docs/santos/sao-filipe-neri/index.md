@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Filipe Neri.
 
 # São Filipe Neri
 
-![São Filipe Neri](imagens/sao-filipe-neri.jpg)
+![São Filipe Neri](imagens/portrait.jpg)
 
 > "Prefiro o paraíso!"
 

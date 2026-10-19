@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Gonçalo de Amara
 
 # Beato Gonçalo de Amarante
 
-![Beato Gonçalo de Amarante](imagens/retrato.svg)
+![Beato Gonçalo de Amarante](imagens/portrait.png)
 
 > "O santo casamenteiro e construtor de pontes."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Vicente de Paulo.
 
 # São Vicente de Paulo
 
-![São Vicente de Paulo](imagens/retrato.svg)
+![São Vicente de Paulo](imagens/portrait.png)
 
 > "Não me basta amar a Deus se não o amo no meu próximo."
 

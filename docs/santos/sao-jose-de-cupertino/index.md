@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José de Cupertino
 
 # São José de Cupertino
 
-![São José de Cupertino](imagens/cover.jpg)
+![São José de Cupertino](imagens/portrait.jpg)
 
 > "O santo que não conseguia esconder seu amor por Deus, levitando em êxtase e mostrando a glória do Senhor aos homens."
 

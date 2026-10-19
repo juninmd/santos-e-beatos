@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato João Paulo I.
 
 # Beato João Paulo I
 
-![Beato João Paulo I](imagens/retrato.svg)
+![Beato João Paulo I](imagens/portrait.png)
 
 > "O Papa do Sorriso."
 

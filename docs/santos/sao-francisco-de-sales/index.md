@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Francisco de Sales
 
 # São Francisco de Sales
 
-![São Francisco de Sales](imagens/cover.jpg)
+![São Francisco de Sales](imagens/portrait.jpg)
 
 > "A doçura é a flor da caridade; a amabilidade é o seu perfume."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Bárbara Maix.
 
 # Beata Bárbara Maix
 
-![Beata Bárbara Maix](imagens/barbara-maix.jpg)
+![Beata Bárbara Maix](imagens/portrait.jpg)
 
 > "A vontade de Deus é o meu Paraíso."
 

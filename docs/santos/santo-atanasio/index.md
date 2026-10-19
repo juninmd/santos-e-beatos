@@ -62,4 +62,4 @@ Hoje, Santo Atanásio é venerado não apenas como um santo, mas como um dos qua
   { lat: 49.7499, lng: 6.6371, title: "Tréveris, Alemanha", description: "Local do seu primeiro exílio (335-337).", type: "vida" }
 ]' />
 
-![Santo Atanásio](./imagens/cover.jpg)
+![Santo Atanásio](imagens/portrait.jpg)

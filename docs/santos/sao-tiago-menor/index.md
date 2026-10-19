@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Tiago Menor.
 
 # São Tiago Menor
 
-![São Tiago Menor](imagens/retrato.svg)
+![São Tiago Menor](imagens/portrait.jpg)
 
 > "A fé sem obras é morta."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Teresa de Portuga
 
 # Beata Teresa de Portugal
 
-![Beata Teresa de Portugal](./imagens/retrato.svg)
+![Beata Teresa de Portugal](imagens/portrait.png)
 
 > "Desejo viver e morrer unida à cruz de meu Senhor." — Beata Teresa de Portugal (atribuída a sua espiritualidade)
 

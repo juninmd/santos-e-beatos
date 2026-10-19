@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Moisés Lira.
 
 # Beato Moisés Lira
 
-![Beato Moisés Lira](imagens/beato-moises-lira.jpg)
+![Beato Moisés Lira](imagens/portrait.jpg)
 
 > "É preciso saber viver e conviver."
 

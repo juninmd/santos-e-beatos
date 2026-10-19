@@ -97,17 +97,24 @@ onMounted(() => {
 
 <style scoped>
 .saint-of-day {
-  margin: 2rem 0;
-  padding: 1.5rem;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 3rem 1.75rem 1.75rem;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  background-color: var(--vp-c-bg-soft);
+  border-radius: 200px 200px 16px 16px / 60px 60px 16px 16px;
+  border-top: 4px solid var(--sb-gold);
+  background: linear-gradient(180deg, var(--vp-c-brand-soft), var(--vp-c-bg-soft));
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
 }
 
 .saint-of-day h3 {
   margin-top: 0;
-  color: var(--vp-c-brand);
+  color: var(--vp-c-brand-1);
   text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.95rem;
+  font-family: var(--sb-display);
   margin-bottom: 1.5rem;
 }
 
@@ -132,10 +139,13 @@ onMounted(() => {
 }
 
 .image-container img {
+  border: 4px solid var(--sb-parchment);
+  outline: 2px solid var(--sb-gold);
+  margin: 0;
   width: 100%;
   height: auto;
-  border-radius: 4px;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
 }
 
 .info {
@@ -151,17 +161,17 @@ onMounted(() => {
 .read-more {
   display: inline-block;
   margin-top: 1rem;
-  padding: 0.5rem 1rem;
-  background-color: var(--vp-c-brand);
+  padding: 0.55rem 1.2rem;
+  background-color: var(--vp-c-brand-1);
   color: white !important; /* Force white text */
   text-decoration: none;
-  border-radius: 4px;
+  border-radius: 999px;
   transition: background-color 0.2s;
   font-weight: 500;
 }
 
 .read-more:hover {
-  background-color: var(--vp-c-brand-dark);
+  background-color: var(--vp-c-brand-2);
   text-decoration: none;
 }
 </style>

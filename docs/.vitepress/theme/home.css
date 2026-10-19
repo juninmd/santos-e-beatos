@@ -1,0 +1,55 @@
+/* Home: halo dourado, raios de luz e cards de vitral */
+.VPHome { position: relative; overflow: hidden; }
+
+.VPHome::before {
+  content: '';
+  position: absolute;
+  inset: -20% -10% auto -10%;
+  height: 900px;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(233, 196, 106, 0.55), transparent 60%),
+    repeating-conic-gradient(from 0deg at 50% -10%, rgba(233, 196, 106, 0.16) 0 4deg, transparent 4deg 12deg);
+  -webkit-mask-image: linear-gradient(#000 40%, transparent);
+  mask-image: linear-gradient(#000 40%, transparent);
+  pointer-events: none;
+  animation: sb-breathe 8s ease-in-out infinite alternate;
+}
+
+@keyframes sb-breathe { to { opacity: 0.65; transform: scale(1.04); } }
+
+@media (prefers-reduced-motion: reduce) { .VPHome::before { animation: none; } }
+
+.VPHero .name, .VPHero .text {
+  font-family: var(--sb-display);
+  letter-spacing: 0.04em;
+}
+
+.VPHero .name::before {
+  content: '✠';
+  display: block;
+  font-size: 2.2rem;
+  color: var(--sb-gold);
+  -webkit-text-fill-color: var(--sb-gold);
+  margin-bottom: 0.5rem;
+}
+
+.VPHero .tagline { font-style: italic; font-size: 1.35rem; }
+
+.VPButton { font-family: var(--sb-display); letter-spacing: 0.05em; }
+
+.VPFeature {
+  position: relative;
+  border: 1px solid var(--vp-c-divider) !important;
+  border-top: 3px solid var(--sb-gold) !important;
+  border-radius: 14px 14px 80px 80px / 14px 14px 24px 24px !important;
+  background: linear-gradient(180deg, var(--vp-c-bg-soft), var(--vp-c-bg)) !important;
+  transition: transform 0.25s, box-shadow 0.25s;
+}
+
+.VPFeature:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 34px rgba(184, 134, 43, 0.28);
+}
+
+.VPFeature .title { font-family: var(--sb-display); }
+.VPFeature .icon { background: var(--vp-c-brand-soft) !important; border-radius: 50% !important; }

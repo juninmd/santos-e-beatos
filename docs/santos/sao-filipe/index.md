@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Filipe.
 
 # São Filipe
 
-![São Filipe](imagens/retrato.svg)
+![São Filipe](imagens/portrait.jpg)
 
 > "Senhor, mostra-nos o Pai, e isso nos basta."
 

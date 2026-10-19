@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Policarpo de Esmir
 
 # São Policarpo de Esmirna
 
-![São Policarpo de Esmirna](imagens/cover.jpg)
+![São Policarpo de Esmirna](imagens/portrait.jpg)
 
 > "Discípulo dos Apóstolos, Bispo e Mártir"
 

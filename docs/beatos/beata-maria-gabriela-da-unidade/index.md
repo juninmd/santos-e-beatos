@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Gabriela da
 
 # Beata Maria Gabriela da Unidade
 
-![Beata Maria Gabriela da Unidade](imagens/retrato.svg)
+![Beata Maria Gabriela da Unidade](imagens/portrait.jpg)
 
 > "Ut unum sint (Para que todos sejam um)."
 

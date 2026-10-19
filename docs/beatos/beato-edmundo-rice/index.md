@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Edmundo Rice.
 
 # Beato Edmundo Rice
 
-![Beato Edmundo Rice](./imagens/retrato.jpg)
+![Beato Edmundo Rice](imagens/portrait.jpg)
 
 > "Fundador dos Irmãos Cristãos e dos Irmãos da Apresentação"
 

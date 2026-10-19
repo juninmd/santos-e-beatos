@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Matias.
 
 # São Matias
 
-![São Matias](imagens/retrato.svg)
+![São Matias](imagens/portrait.jpg)
 
 > "E a sorte caiu sobre Matias."
 

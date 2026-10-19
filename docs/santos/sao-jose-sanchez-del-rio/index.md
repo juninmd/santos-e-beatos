@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José Sánchez del
 
 # São José Sánchez del Río
 
-![São José Sánchez del Río](imagens/cover.jpg)
+![São José Sánchez del Río](imagens/portrait.jpg)
 
 > "Viva Cristo Rey!"
 

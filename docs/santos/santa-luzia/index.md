@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Luzia.
 
 # Santa Luzia
 
-![Santa Luzia](imagens/retrato.svg)
+![Santa Luzia](imagens/portrait.jpg)
 
 > "Adoro a um só Deus verdadeiro, e a Ele prometi amor e fidelidade."
 

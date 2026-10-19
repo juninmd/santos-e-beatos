@@ -5,7 +5,7 @@ description: O padroeiro da internet e apóstolo da Eucaristia no século XXI
 
 # Beato Carlo Acutis
 
-![Beato Carlo Acutis](imagens/retrato.svg)
+![Beato Carlo Acutis](imagens/portrait.jpg)
 
 > "A Eucaristia é a minha autoestrada para o Céu."
 

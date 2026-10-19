@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa de Santa Eulália de Mér
 
 # Santa Eulália de Mérida
 
-![Santa Eulália de Mérida](imagens/retrato.jpg)
+![Santa Eulália de Mérida](imagens/portrait.jpg)
 
 > "Podeis queimar-me, ferir-me, mas nunca podereis arrancar o meu Deus do coração."
 

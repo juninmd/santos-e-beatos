@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Assunta Pal
 
 # Beata Maria Assunta Pallotta
 
-![Beata Maria Assunta Pallotta](imagens/portrait.jpg)
+![Beata Maria Assunta Pallotta](imagens/portrait.png)
 
 > "Eu irei a qualquer lugar que o Senhor quiser."
 

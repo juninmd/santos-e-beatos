@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa de Santa Dinfna.
 
 # Santa Dinfna
 
-![Santa Dinfna](imagens/retrato.svg)
+![Santa Dinfna](imagens/portrait.jpg)
 
 > "Padroeira da Saúde Mental e dos Doentes Psiquiátricos"
 

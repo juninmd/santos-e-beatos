@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bartolo Longo, o a
 
 # São Bartolo Longo
 
-![São Bartolo Longo](imagens/retrato.svg)
+![São Bartolo Longo](imagens/portrait.jpg)
 
 > "O Apóstolo do Rosário"
 

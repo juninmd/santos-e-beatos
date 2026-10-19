@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Paulo VI, o Papa d
 
 # São Paulo VI
 
-![São Paulo VI](./imagens/portrait.jpg)
+![São Paulo VI](imagens/portrait.jpg)
 
 > "A civilização do amor precevalerá."
 

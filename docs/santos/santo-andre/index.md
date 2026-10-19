@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo André.
 
 # Santo André
 
-![Santo André](imagens/retrato.svg)
+![Santo André](imagens/portrait.jpg)
 
 > "Achamos o Messias."
 

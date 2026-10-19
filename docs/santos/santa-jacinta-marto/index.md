@@ -5,7 +5,7 @@ description: Conheça a história e os milagres de Santa Jacinta Marto, vidente 
 
 # Santa Jacinta Marto
 
-![Santa Jacinta Marto](./imagens/cover.jpg)
+![Santa Jacinta Marto](imagens/portrait.jpg)
 
 > "Aquele que ama muito a Deus, pouco padece."
 

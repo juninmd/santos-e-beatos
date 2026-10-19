@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Jerônimo.
 
 # São Jerônimo
 
-![São Jerônimo](imagens/cover.jpg)
+![São Jerônimo](imagens/portrait.jpg)
 
 > "A ignorância das Escrituras é a ignorância de Cristo."
 

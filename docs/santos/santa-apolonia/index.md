@@ -5,7 +5,7 @@ description: Padroeira dos dentistas e invocada contra as dores de dente.
 
 # Santa Apolônia
 
-![Cover de Santa Apolônia](imagens/cover.jpg)
+![Cover de Santa Apolônia](imagens/portrait.jpg)
 
 <div class="saint-header">
   <div class="saint-image-container">

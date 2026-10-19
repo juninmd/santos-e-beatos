@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luca Passi, funda
 
 # Beato Luca Passi
 
-![Beato Luca Passi](./imagens/portrait.jpg)
+![Beato Luca Passi](imagens/portrait.jpg)
 
 > "Pai e Apóstolo da Juventude"
 
