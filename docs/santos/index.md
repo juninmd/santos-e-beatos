@@ -1,6 +1,6 @@
 # Santos
 
-Esta seção reúne 199 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 200 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
@@ -133,6 +133,7 @@ Esta seção reúne 199 santos canonizados pela Igreja Católica, com biografia,
 - [São Lucas](sao-lucas/index.md)
 - [São Ludovico Pavoni](sao-ludovico-pavoni/index.md)
 - [São Luís Gonzaga](sao-luis-gonzaga/index.md)
+- [São Luís IX](sao-luis-ix/index.md)
 - [São Luís Maria Grignion de Montfort](sao-luis-maria-grignion-de-montfort/index.md)
 - [São Luís Orione](sao-luis-orione/index.md)
 - [Santa Luísa de Marillac](santa-luisa-de-marillac/index.md)
