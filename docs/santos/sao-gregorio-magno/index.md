@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Gregório Magno.
 
 # São Gregório Magno
 
-![São Gregório Magno](imagens/portrait.png)
+![São Gregório Magno](imagens/portrait.jpg)
 
 > "A Sagrada Escritura é como um rio no qual o cordeiro pode caminhar e o elefante nadar."
 
