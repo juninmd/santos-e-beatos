@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pedro Damião.
 
 # São Pedro Damião
 
-![Cover de São Pedro Damião](imagens/cover.jpg)
+![Cover de São Pedro Damião](imagens/portrait.jpg)
 
 <img src="./imagens/portrait.jpg" alt="Retrato de São Pedro Damião" class="saint-portrait">
 

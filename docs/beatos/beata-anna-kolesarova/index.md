@@ -5,7 +5,7 @@ description: Uma jovem eslovaca mártir da pureza, que sacrificou sua vida para 
 
 # Beata Anna Kolesárová
 
-![Beata Anna Kolesárová](./imagens/cover.jpg)
+![Beata Anna Kolesárová](imagens/portrait.png)
 
 > "Mais vale a morte do que o pecado."
 

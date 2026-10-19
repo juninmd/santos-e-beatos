@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa de São Lourenço Ruiz, o
 
 # São Lourenço Ruiz
 
-![São Lourenço Ruiz](imagens/retrato.svg)
+![São Lourenço Ruiz](imagens/portrait.jpg)
 
 > "Sou católico e de todo o coração aceito a morte por Deus. Se tivesse mil vidas, todas elas ofereceria a Ele."
 

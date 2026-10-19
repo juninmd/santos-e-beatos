@@ -5,7 +5,7 @@ description: Biografia da Beata Marie-Clémentine Anuarite Nengapeta, virgem e m
 
 # Beata Anuarite Nengapeta
 
-![Beata Anuarite Nengapeta](./imagens/cover.jpg)
+![Beata Anuarite Nengapeta](imagens/portrait.jpg)
 
 > "Perdoo-vos, porque não sabeis o que fazeis."
 

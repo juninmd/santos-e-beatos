@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bartolomeu.
 
 # São Bartolomeu
 
-![São Bartolomeu](imagens/retrato.svg)
+![São Bartolomeu](imagens/portrait.jpg)
 
 > "Eis um verdadeiro israelita, em quem não há dolo!"
 

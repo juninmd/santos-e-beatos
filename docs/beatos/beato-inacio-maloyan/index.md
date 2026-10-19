@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa do Beato Inácio Maloyan,
 
 # Beato Inácio Maloyan
 
-![Beato Inácio Maloyan](imagens/retrato.svg)
+![Beato Inácio Maloyan](imagens/portrait.jpg)
 
 > "Meu sangue eu derramo pela minha fé. Que Deus salve o meu povo."
 

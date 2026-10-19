@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Sebastião.
 
 # São Sebastião
 
-![São Sebastião](imagens/retrato.svg)
+![São Sebastião](imagens/portrait.jpg)
 
 > "Soldado de Cristo."
 

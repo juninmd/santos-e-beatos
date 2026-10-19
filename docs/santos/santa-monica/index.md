@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Mônica.
 
 # Santa Mônica
 
-![Santa Mônica](imagens/santa-monica.jpg)
+![Santa Mônica](imagens/portrait.jpg)
 
 > "Modelo de Esposa e Mãe Cristã"
 

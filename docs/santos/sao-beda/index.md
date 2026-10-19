@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Beda, o Venerável
 
 # São Beda
 
-![São Beda](./imagens/retrato.jpg)
+![São Beda](imagens/portrait.jpg)
 
 > "Pai da História Inglesa e Doutor da Igreja"
 

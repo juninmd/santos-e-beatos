@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Raimundo de Cápu
 
 # Beato Raimundo de Cápua
 
-![Beato Raimundo de Cápua](imagens/retrato.jpg)
+![Beato Raimundo de Cápua](imagens/portrait.jpg)
 
 > "A verdade deve ser amada por si mesma, porque é a própria face de Deus."
 

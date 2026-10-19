@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Tito Zeman.
 
 # Beato Tito Zeman
 
-![Beato Tito Zeman](./imagens/portrait.jpg)
+![Beato Tito Zeman](imagens/portrait.jpg)
 
 > "Sacerdote salesiano que sacrificou a vida para salvar vocações na época da perseguição comunista."
 

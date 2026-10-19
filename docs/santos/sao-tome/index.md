@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Tomé.
 
 # São Tomé
 
-![São Tomé](imagens/retrato.svg)
+![São Tomé](imagens/portrait.jpg)
 
 > "Meu Senhor e meu Deus!"
 

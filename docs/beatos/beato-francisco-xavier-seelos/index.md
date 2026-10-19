@@ -60,4 +60,4 @@ O Beato Seelos é lembrado como um modelo de sacerdote compassivo e de missioná
   { lat: 29.9511, lng: -90.0715, title: "Nova Orleans, EUA", description: "Local de falecimento em 4 de outubro de 1867 por febre amarela.", type: "morte" }
 ]' />
 
-![Beato Francisco Xavier Seelos](./imagens/cover.jpg)
+![Beato Francisco Xavier Seelos](imagens/portrait.jpg)

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Tiago Maior.
 
 # São Tiago Maior
 
-![São Tiago Maior](imagens/retrato.svg)
+![São Tiago Maior](imagens/portrait.jpg)
 
 > "Podes beber o cálice que eu vou beber?"
 

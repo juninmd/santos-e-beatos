@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Rosa de Lima.
 
 # Santa Rosa de Lima
 
-![Santa Rosa de Lima](imagens/santa-rosa.jpg)
+![Santa Rosa de Lima](imagens/portrait.jpg)
 
 > "Fora da Cruz não existe outra escada por onde subir ao céu."
 

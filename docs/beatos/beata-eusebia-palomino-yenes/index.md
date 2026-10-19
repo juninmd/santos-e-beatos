@@ -7,7 +7,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Eusébia Palomino
 
 > "A vontade de Deus é o meu Paraíso."
 
-![Beata Eusébia Palomino Yenes](./imagens/retrato.jpg)
+![Beata Eusébia Palomino Yenes](imagens/portrait.jpg)
 
 - **Nascimento:** 15 de dezembro de 1899
 - **Morte:** 10 de fevereiro de 1935

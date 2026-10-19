@@ -57,6 +57,6 @@ Carlo Steeb é frequentemente evocado como um patrono não oficial dos convertid
 
 ## Galeria
 
-| ![Retrato](./imagens/portrait.jpg) | ![Carlo Steeb e a caridade](./imagens/cover.jpg) |
+| ![Retrato](imagens/portrait.jpg) | ![Carlo Steeb e a caridade](./imagens/cover.jpg) |
 | :---: | :---: |
 | *Retrato de Beato Carlo Steeb.* | *Beato Carlo Steeb.* |

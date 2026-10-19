@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades, cidades por onde passou e mapa d
 
 # Beato Hermann de Reichenau
 
-![Beato Hermann de Reichenau](imagens/retrato.svg)
+![Beato Hermann de Reichenau](imagens/portrait.jpg)
 
 > "O Gênio Paralisado, Cantor de Maria"
 

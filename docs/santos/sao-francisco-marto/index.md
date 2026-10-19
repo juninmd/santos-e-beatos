@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Francisco Marto, u
 
 # São Francisco Marto
 
-![São Francisco Marto](imagens/cover.jpg)
+![São Francisco Marto](imagens/portrait.jpg)
 
 > "Para consolar Jesus pelos pecados do mundo."
 

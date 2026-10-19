@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Franz Jägerstät
 
 # Beato Franz Jägerstätter
 
-![Beato Franz Jägerstätter](imagens/retrato.svg)
+![Beato Franz Jägerstätter](imagens/portrait.jpg)
 
 > "Melhor obedecer a Deus do que aos homens."
 

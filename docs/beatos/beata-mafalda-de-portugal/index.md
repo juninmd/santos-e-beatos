@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Mafalda de Portug
 
 # Beata Mafalda de Portugal
 
-![Beata Mafalda de Portugal](imagens/portrait.jpg)
+![Beata Mafalda de Portugal](imagens/portrait.png)
 
 > "A Princesa Cisterciense"
 

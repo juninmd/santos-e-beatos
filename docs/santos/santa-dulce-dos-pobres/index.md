@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Dulce dos Pobres.
 
 # Santa Dulce dos Pobres
 
-![Santa Dulce dos Pobres](imagens/retrato.svg)
+![Santa Dulce dos Pobres](imagens/portrait.jpg)
 
 > "O Anjo Bom da Bahia"
 

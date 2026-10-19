@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bento.
 
 # São Bento
 
-![São Bento](imagens/retrato.svg)
+![São Bento](imagens/portrait.jpg)
 
 > "Ora et Labora (Reza e Trabalha)."
 

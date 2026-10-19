@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Estevão.
 
 # São Estevão
 
-![São Estevão](imagens/retrato.svg)
+![São Estevão](imagens/portrait.jpg)
 
 > "Senhor Jesus, recebe o meu espírito."
 

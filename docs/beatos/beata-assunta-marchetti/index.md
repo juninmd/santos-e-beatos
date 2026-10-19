@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Assunta Marchetti
 
 # Beata Assunta Marchetti
 
-![Beata Assunta Marchetti](imagens/retrato.svg)
+![Beata Assunta Marchetti](imagens/portrait.png)
 
 > "Mãe dos órfãos e migrantes."
 

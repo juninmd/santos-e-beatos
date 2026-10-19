@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José Gregório He
 
 # São José Gregório Hernández
 
-![São José Gregório Hernández](imagens/jose-gregorio.png)
+![São José Gregório Hernández](imagens/portrait.jpg)
 
 > "O dinheiro é o sangue do pobre. Servi-lo é servir a Deus."
 

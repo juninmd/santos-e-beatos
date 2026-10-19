@@ -64,6 +64,6 @@ Embora sua figura tenha sido alvo de controvérsias contemporâneas em relação
 
 ## Galeria
 
-| ![Retrato](./imagens/portrait.jpg) | ![São Junípero Serra no oeste](./imagens/cover.jpg) |
+| ![Retrato](imagens/portrait.jpg) | ![São Junípero Serra no oeste](./imagens/cover.jpg) |
 | :---: | :---: |
 | *Retrato de São Junípero Serra.* | *São Junípero Serra e as missões.* |

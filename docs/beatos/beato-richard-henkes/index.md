@@ -5,7 +5,7 @@ description: Conheça a história e o martírio de Beato Richard Henkes, sacerdo
 
 # Beato Richard Henkes
 
-![Beato Richard Henkes](./imagens/cover.jpg)
+![Beato Richard Henkes](imagens/portrait.jpg)
 
 > "A cruz é a nossa salvação."
 

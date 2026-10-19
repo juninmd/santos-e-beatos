@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Maria Vianne
 
 # São João Maria Vianney
 
-![São João Maria Vianney](imagens/portrait.jpg)
+![São João Maria Vianney](imagens/portrait.png)
 
 > "O Cura d'Ars, Patrono dos Párocos"
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Guido de Montpell
 
 # Beato Guido de Montpellier
 
-![Beato Guido de Montpellier](imagens/portrait.png)
+![Beato Guido de Montpellier](imagens/portrait.jpg)
 
 > "Servir aos pobres e doentes é servir ao próprio Cristo."
 

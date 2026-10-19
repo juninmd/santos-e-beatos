@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Marcel Callo.
 
 # Beato Marcel Callo
 
-![Beato Marcel Callo](imagens/retrato.svg)
+![Beato Marcel Callo](imagens/portrait.jpg)
 
 > "Missionário no campo de concentração."
 

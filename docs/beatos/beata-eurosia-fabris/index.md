@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Eurosia Fabris.
 
 # Beata Eurosia Fabris
 
-![Beata Eurosia Fabris](imagens/cover.jpg)
+![Beata Eurosia Fabris](imagens/portrait.jpg)
 
 > "Fazer o bem aos outros não custa nada."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Karolina Kózka.
 
 # Beata Karolina Kózka
 
-![Beata Karolina Kózka](imagens/retrato.jpg)
+![Beata Karolina Kózka](imagens/portrait.jpg)
 
 > "A pureza e o amor a Deus valem mais do que a própria vida."
 

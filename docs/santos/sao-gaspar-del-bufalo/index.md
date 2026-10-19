@@ -57,6 +57,6 @@ São Gaspar del Búfalo deixou um legado imenso através da sua Congregação do
 
 ## Galeria
 
-| ![Retrato](./imagens/portrait.jpg) | ![Capa](./imagens/cover.jpg) |
+| ![Retrato](imagens/portrait.jpg) | ![Capa](./imagens/cover.jpg) |
 | :---: | :---: |
 | *Retrato de São Gaspar del Búfalo.* | *São Gaspar del Búfalo.* |

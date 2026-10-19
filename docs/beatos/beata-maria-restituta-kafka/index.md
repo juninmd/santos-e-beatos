@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa da Beata Maria Restituta 
 
 # Beata Maria Restituta Kafka
 
-![Beata Maria Restituta Kafka](imagens/retrato.svg)
+![Beata Maria Restituta Kafka](imagens/portrait.jpg)
 
 > "Vivi por Cristo, quero morrer por Cristo."
 

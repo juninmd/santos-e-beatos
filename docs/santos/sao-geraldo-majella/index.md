@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Geraldo Majella.
 
 # São Geraldo Majella
 
-![São Geraldo Majella](imagens/sao-geraldo.png)
+![São Geraldo Majella](imagens/portrait.jpg)
 
 > "Aqui se faz a vontade de Deus, como Deus quer e por quanto tempo Ele quiser."
 

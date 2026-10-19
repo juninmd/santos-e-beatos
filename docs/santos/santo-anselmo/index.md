@@ -5,7 +5,7 @@ description: Biografia, vida pessoal, milagres, curiosidades, cidades e impacto 
 
 # Santo Anselmo de Cantuária
 
-![Santo Anselmo de Cantuária](./imagens/portrait.jpg)
+![Santo Anselmo de Cantuária](imagens/portrait.jpg)
 
 > "Fides quaerens intellectum" (A fé em busca de entendimento)
 

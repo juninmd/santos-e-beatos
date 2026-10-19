@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa da Beata Pierina Morosini
 
 # Beata Pierina Morosini
 
-![Beata Pierina Morosini](./imagens/retrato.jpg)
+![Beata Pierina Morosini](imagens/portrait.jpg)
 
 > "Amo tanto a pureza que preferiria morrer a cometer um pecado que a ofendesse."
 

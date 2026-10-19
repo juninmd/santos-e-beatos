@@ -60,6 +60,6 @@ A figura de Luigi Monti representa um ideal poderoso para os profissionais de sa
 
 ## Galeria
 
-| ![Retrato](./imagens/portrait.jpg) | ![Capa](./imagens/cover.jpg) |
+| ![Retrato](imagens/portrait.png) | ![Capa](./imagens/cover.jpg) |
 | :---: | :---: |
 | *Retrato de Beato Luigi Maria Monti.* | *Beato Luigi Maria Monti.* |

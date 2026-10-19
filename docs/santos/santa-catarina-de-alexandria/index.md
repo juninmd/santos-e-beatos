@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Catarina de Alexa
 
 # Santa Catarina de Alexandria
 
-![Santa Catarina de Alexandria](imagens/retrato.jpg)
+![Santa Catarina de Alexandria](imagens/portrait.jpg)
 
 > "A cruz não é um peso, é o trampolim que nos lança para o céu."
 

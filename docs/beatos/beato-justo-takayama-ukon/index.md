@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Justo Takayama Uk
 
 # Beato Justo Takayama Ukon
 
-![Beato Justo Takayama Ukon](imagens/retrato.svg)
+![Beato Justo Takayama Ukon](imagens/portrait.jpg)
 
 > "A honra de servir a Cristo é maior que qualquer glória terrena."
 

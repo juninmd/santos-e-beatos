@@ -5,7 +5,7 @@ description: Biografia, milagres e impacto do Beato Diogo José de Cádis, grand
 
 # Beato Diogo José de Cádis
 
-![Beato Diogo José de Cádis](./imagens/portrait.jpg)
+![Beato Diogo José de Cádis](imagens/portrait.jpg)
 
 > "O apóstolo da Espanha no século XVIII"
 

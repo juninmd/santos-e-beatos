@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Inácio de Loyola
 
 # Santo Inácio de Loyola
 
-![Santo Inácio de Loyola](imagens/cover.jpg)
+![Santo Inácio de Loyola](imagens/portrait.jpg)
 
 > "Tudo para a maior glória de Deus"
 

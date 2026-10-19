@@ -5,7 +5,7 @@ description: Biografia, vida pessoal, milagres, curiosidades e mapa de São Pant
 
 # São Pantaleão
 
-![São Pantaleão](imagens/retrato.jpg)
+![São Pantaleão](imagens/portrait.jpg)
 
 > "O Médico Mártir de Nicomédia"
 

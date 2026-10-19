@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Ana Maria Javouhe
 
 # Beata Ana Maria Javouhey
 
-![Beata Ana Maria Javouhey](imagens/retrato.svg)
+![Beata Ana Maria Javouhey](imagens/portrait.jpg)
 
 > "Fazer o bem aos outros é a melhor maneira de amar a Deus."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Paulo.
 
 # São Paulo
 
-![São Paulo](imagens/retrato.svg)
+![São Paulo](imagens/portrait.jpg)
 
 > "Combati o bom combate, acabei a carreira, guardei a fé."
 

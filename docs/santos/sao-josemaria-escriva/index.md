@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Josemaria Escrivá
 
 # São Josemaria Escrivá
 
-![São Josemaria Escrivá](imagens/retrato.jpg)
+![São Josemaria Escrivá](imagens/portrait.jpg)
 
 > "A santidade não é coisa para privilegiados: o Senhor chama-nos a todos, de todos espera Amor."
 

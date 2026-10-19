@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Escolástica.
 
 # Santa Escolástica
 
-![Santa Escolástica](imagens/retrato.jpg)
+![Santa Escolástica](imagens/portrait.jpg)
 
 > "Pedi a ti e não me ouviste; pedi a meu Deus e Ele me ouviu."
 

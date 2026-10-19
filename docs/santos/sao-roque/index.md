@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Roque.
 
 # São Roque
 
-![São Roque](./imagens/portrait.jpg)
+![São Roque](imagens/portrait.jpg)
 
 > "O Peregrino e Protetor contra as Pestes"
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria do Divino C
 
 # Beata Maria do Divino Coração
 
-![Beata Maria do Divino Coração](imagens/retrato.svg)
+![Beata Maria do Divino Coração](imagens/portrait.jpg)
 
 > "A entrega total ao amor de Cristo é o segredo da verdadeira felicidade."
 

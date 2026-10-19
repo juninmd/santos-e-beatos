@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Zeferino Namuncur
 
 # Beato Zeferino Namuncurá
 
-![Beato Zeferino Namuncurá](imagens/retrato.svg)
+![Beato Zeferino Namuncurá](imagens/portrait.jpg)
 
 > "O lírio da Patagônia."
 

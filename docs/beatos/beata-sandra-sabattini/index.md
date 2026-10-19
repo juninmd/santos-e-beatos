@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Sandra Sabattini.
 
 # Beata Sandra Sabattini
 
-![Beata Sandra Sabattini](imagens/retrato.svg)
+![Beata Sandra Sabattini](imagens/portrait.jpg)
 
 > "A santa noiva."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Luísa de Marilla
 
 # Santa Luísa de Marillac
 
-![Santa Luísa de Marillac](imagens/retrato.svg)
+![Santa Luísa de Marillac](imagens/portrait.jpg)
 
 > "A caridade de Jesus Cristo Crucificado nos impele."
 

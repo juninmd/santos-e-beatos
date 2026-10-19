@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Beato Pier Giorgio Fras
 
 # Beato Pier Giorgio Frassati
 
-![Beato Pier Giorgio Frassati](imagens/retrato.svg)
+![Beato Pier Giorgio Frassati](imagens/portrait.jpg)
 
 > "O Homem das Oito Bem-aventuranças"
 

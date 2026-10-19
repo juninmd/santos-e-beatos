@@ -5,7 +5,7 @@ description: Conhecido como o "Advogado dos Pobres", Santo Ivo dedicou sua vida 
 
 # Santo Ivo de Kermartin
 
-![Santo Ivo](./imagens/cover.jpg)
+![Santo Ivo](imagens/portrait.jpg)
 
 > "Jura illis reddere qui se defendere non possunt" (Fazer justiça àqueles que não podem se defender)
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Rosário Livatino
 
 # Beato Rosário Livatino
 
-![Beato Rosário Livatino](imagens/cover.jpg)
+![Beato Rosário Livatino](imagens/portrait.jpg)
 
 > "Sub Tutela Dei" (Sob a proteção de Deus)"
 

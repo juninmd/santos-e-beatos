@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Inês.
 
 # Santa Inês
 
-![Santa Inês](imagens/retrato.svg)
+![Santa Inês](imagens/portrait.jpg)
 
 > "Cristo é meu único esposo."
 

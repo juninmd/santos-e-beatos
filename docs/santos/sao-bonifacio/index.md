@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bonifácio.
 
 # São Bonifácio
 
-![São Bonifácio](imagens/retrato.svg)
+![São Bonifácio](imagens/portrait.jpg)
 
 > "Aquele que tiver a mente fortalecida pela paciência não se deixará perturbar pelas aflições, mas se tornará mais forte."
 

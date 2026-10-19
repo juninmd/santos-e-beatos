@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Elisabetta Sanna,
 
 # Beata Elisabetta Sanna
 
-![Beata Elisabetta Sanna](imagens/retrato.svg)
+![Beata Elisabetta Sanna](imagens/portrait.jpg)
 
 > "Deus me chamou para sofrer, e eu aceito a Sua vontade com amor e paciência."
 

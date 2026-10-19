@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa de São Venceslau, padroe
 
 # São Venceslau
 
-![São Venceslau](./imagens/portrait.jpg)
+![São Venceslau](imagens/portrait.jpg)
 
 > "O Bom Rei Wenceslau"
 

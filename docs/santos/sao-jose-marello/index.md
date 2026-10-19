@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José Marello.
 
 # São José Marello
 
-![São José Marello](imagens/cover.jpg)
+![São José Marello](imagens/portrait.jpg)
 
 > "Fundador dos Oblatos de São José"
 

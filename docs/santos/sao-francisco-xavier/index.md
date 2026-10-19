@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Francisco Xavier.
 
 # São Francisco Xavier
 
-![São Francisco Xavier](imagens/sao-francisco-xavier.jpg)
+![São Francisco Xavier](imagens/portrait.jpg)
 
 > "Senhor, eis-me aqui! Que queres que eu faça?"
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Mama Antula, a pr
 
 # Santa Mama Antula (María Antonia de Paz y Figueroa)
 
-![Santa Mama Antula (María Antonia de Paz y Figueroa)](imagens/retrato.svg)
+![Santa Mama Antula (María Antonia de Paz y Figueroa)](imagens/portrait.png)
 
 > "A paciência é o escudo das almas fortes; ela vence as adversidades e não se deixa perturbar."
 

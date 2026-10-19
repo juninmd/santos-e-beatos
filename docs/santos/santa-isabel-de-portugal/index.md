@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades, cidades por onde passou e mapa d
 
 # Santa Isabel de Portugal
 
-![Santa Isabel de Portugal](imagens/retrato.svg)
+![Santa Isabel de Portugal](imagens/portrait.jpg)
 
 > "Rainha Santa e Pacificadora"
 

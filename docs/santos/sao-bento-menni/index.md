@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bento Menni.
 
 # São Bento Menni
 
-![São Bento Menni](imagens/retrato.jpg)
+![São Bento Menni](imagens/portrait.jpg)
 
 > "Coração sem fronteiras."
 

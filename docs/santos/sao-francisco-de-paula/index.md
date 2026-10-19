@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Francisco de Paula
 
 # São Francisco de Paula
 
-![São Francisco de Paula](imagens/retrato.svg)
+![São Francisco de Paula](imagens/portrait.jpg)
 
 > "A quem ama a Deus, tudo é possível."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Catarina de Sena.
 
 # Santa Catarina de Sena
 
-![Santa Catarina de Sena](imagens/retrato.svg)
+![Santa Catarina de Sena](imagens/portrait.jpg)
 
 > "Sejais quem Deus quis que fôsseis e incendiareis o mundo."
 

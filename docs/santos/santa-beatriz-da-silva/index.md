@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Beatriz da Silva,
 
 # Santa Beatriz da Silva
 
-![Santa Beatriz da Silva](imagens/retrato.svg)
+![Santa Beatriz da Silva](imagens/portrait.jpg)
 
 > "Nossa Senhora ordenou-me que eu fundasse uma ordem em sua honra, com vestes brancas e azuis."
 

@@ -5,7 +5,7 @@ description: A mulher piedosa que enxugou o rosto de Jesus a caminho do Calvári
 
 # Santa Verônica
 
-![Santa Verônica](imagens/retrato.svg)
+![Santa Verônica](imagens/portrait.jpg)
 
 > "Verdadeira Imagem do Salvador."
 

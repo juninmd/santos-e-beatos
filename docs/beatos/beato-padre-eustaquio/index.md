@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Padre Eustáquio.
 
 # Beato Padre Eustáquio
 
-![Beato Padre Eustáquio](imagens/retrato.svg)
+![Beato Padre Eustáquio](imagens/portrait.jpg)
 
 > "Saúde e paz."
 

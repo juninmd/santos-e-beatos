@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Águeda (ou Ágat
 
 # Santa Águeda
 
-![Santa Águeda](imagens/retrato.jpg)
+![Santa Águeda](imagens/portrait.jpg)
 
 > "Senhor, meu Criador, desde o berço me protegeste; guardaste-me do amor ao mundo e deste-me paciência para sofrer. Recebe a minha alma."
 

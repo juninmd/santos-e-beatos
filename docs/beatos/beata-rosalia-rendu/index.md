@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Rosália Rendu.
 
 # Beata Rosália Rendu
 
-![Beata Rosália Rendu](./imagens/portrait.jpg)
+![Beata Rosália Rendu](imagens/portrait.jpg)
 
 > "A Mãe do Bairro Mouffetard"
 

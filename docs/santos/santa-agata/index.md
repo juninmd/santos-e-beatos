@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Ágata.
 
 # Santa Ágata
 
-![Santa Ágata](./imagens/portrait.jpg)
+![Santa Ágata](imagens/portrait.jpg)
 
 > "A virgem mártir de Catânia, protetora contra o fogo e padroeira das doenças da mama."
 

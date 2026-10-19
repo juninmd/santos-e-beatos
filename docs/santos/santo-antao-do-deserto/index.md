@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Antão do Deserto
 
 # Santo Antão do Deserto
 
-![Santo Antão do Deserto](imagens/portrait.jpg)
+![Santo Antão do Deserto](imagens/portrait.png)
 
 > "Aquele que se senta na solidão e se aquieta escapou de três guerras: audição, fala, visão; mas há uma coisa contra a qual ele deve lutar constantemente: seu próprio coração."
 

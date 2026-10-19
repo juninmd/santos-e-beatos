@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Marcos.
 
 # São Marcos
 
-![São Marcos](imagens/retrato.svg)
+![São Marcos](imagens/portrait.jpg)
 
 > "Voz do que clama no deserto."
 

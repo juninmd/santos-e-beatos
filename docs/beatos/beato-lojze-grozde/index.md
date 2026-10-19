@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Lojze Grozde.
 
 # Beato Lojze Grozde
 
-![Beato Lojze Grozde](imagens/cover.jpg)
+![Beato Lojze Grozde](imagens/portrait.jpg)
 
 > "Sinfonia do martírio da juventude"
 

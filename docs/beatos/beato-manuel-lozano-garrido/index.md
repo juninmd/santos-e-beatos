@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Manuel Lozano Gar
 
 # Beato Manuel Lozano Garrido
 
-![Beato Manuel Lozano Garrido](imagens/retrato.svg)
+![Beato Manuel Lozano Garrido](imagens/portrait.jpg)
 
 > "Lolo, o santo jornalista."
 
