@@ -61,4 +61,4 @@ Hoje, o Santuário de São Geraldo em Materdomini é um dos locais de peregrina�
 
 | Imagem | Descrição |
 | :---: | :--- |
-| ![São Geraldo](./imagens/sao-geraldo.png) | Representação artística de São Geraldo Majella. |
+| ![São Geraldo](imagens/portrait.jpg) | Representação artística de São Geraldo Majella. |

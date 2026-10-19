@@ -60,5 +60,5 @@ Hoje, o Santuário de São Charbel em Annaya é um dos locais de peregrinação 
 
 | Imagem | Descrição |
 | --- | --- |
-| ![São Charbel](imagens/charbel.jpg) | Retrato popular de São Charbel. |
+| ![São Charbel](imagens/portrait.jpg) | Retrato popular de São Charbel. |
 | ![Santuário](imagens/cover.jpg) | Santuário de São Maron em Annaya. |

@@ -60,4 +60,4 @@ São José Gregório Hernández é um ícone nacional na Venezuela e um símbolo
 
 | Imagem | Descrição |
 | :---: | :--- |
-| ![Beato José Gregorio Hernández](./imagens/jose-gregorio.png) | Representação do Beato José Gregorio Hernández. |
+| ![Beato José Gregorio Hernández](imagens/portrait.jpg) | Representação do Beato José Gregorio Hernández. |
