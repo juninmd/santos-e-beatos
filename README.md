@@ -4,8 +4,8 @@ Biografias, imagens, milagres e mapas de santos e beatos da Igreja Católica, pu
 
 ## Conteúdo
 
-- **199 santos** em [`docs/santos/`](docs/santos/index.md)
-- **184 beatos** em [`docs/beatos/`](docs/beatos/index.md)
+- **200 santos** em [`docs/santos/`](docs/santos/index.md)
+- **185 beatos** em [`docs/beatos/`](docs/beatos/index.md)
 
 Cada entrada inclui biografia, contexto histórico, imagens (retrato/capa) e, quando aplicável, mapas de nascimento, morte e milagres.
 
@@ -165,6 +165,7 @@ São 184 beatos e 199 santos catalogados.
 | [Beata Karolina Kózka](docs/beatos/beata-karolina-kozka/index.md) | ![Beata Karolina Kózka](docs/beatos/beata-karolina-kozka/imagens/retrato.jpg) |
 | [Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/index.md) | ![Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/imagens/laura-vicuna.jpg) |
 | [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/imagens/retrato.svg) |
+| [Beata Lúcia de Narni](docs/beatos/beata-lucia-de-narni/index.md) | ![Beata Lúcia de Narni](docs/beatos/beata-lucia-de-narni/imagens/retrato.svg) |
 | [Beato Lojze Grozde](docs/beatos/beato-lojze-grozde/index.md) | ![Beato Lojze Grozde](docs/beatos/beato-lojze-grozde/imagens/cover.jpg) |
 | [Beato Luca Belludi](docs/beatos/beato-luca-belludi/index.md) | ![Beato Luca Belludi](docs/beatos/beato-luca-belludi/imagens/portrait.jpg) |
 | [Beato Luca Passi](docs/beatos/beato-luca-passi/index.md) | ![Beato Luca Passi](docs/beatos/beato-luca-passi/imagens/portrait.jpg) |
@@ -374,6 +375,7 @@ São 184 beatos e 199 santos catalogados.
 | [São Lourenço Ruiz](docs/santos/sao-lourenco-ruiz/index.md) | ![São Lourenço Ruiz](docs/santos/sao-lourenco-ruiz/imagens/retrato.svg) |
 | [São Lucas](docs/santos/sao-lucas/index.md) | ![São Lucas](docs/santos/sao-lucas/imagens/retrato.svg) |
 | [São Ludovico Pavoni](docs/santos/sao-ludovico-pavoni/index.md) | ![São Ludovico Pavoni](docs/santos/sao-ludovico-pavoni/imagens/portrait.jpg) |
+| [São Luís IX](docs/santos/sao-luis-ix/index.md) | ![São Luís IX](docs/santos/sao-luis-ix/imagens/retrato.svg) |
 | [São Luís Gonzaga](docs/santos/sao-luis-gonzaga/index.md) | ![São Luís Gonzaga](docs/santos/sao-luis-gonzaga/imagens/portrait.png) |
 | [São Luís Maria Grignion de Montfort](docs/santos/sao-luis-maria-grignion-de-montfort/index.md) | ![São Luís Maria Grignion de Montfort](docs/santos/sao-luis-maria-grignion-de-montfort/imagens/portrait.jpg) |
 | [São Luís Orione](docs/santos/sao-luis-orione/index.md) | ![São Luís Orione](docs/santos/sao-luis-orione/imagens/portrait.jpg) |
