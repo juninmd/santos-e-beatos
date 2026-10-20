@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 185 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 186 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -125,6 +125,7 @@ Esta seção reúne 185 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Marcos de Aviano](beato-marcos-de-aviano/index.md)
 - [Beata Maria Assunta Pallotta](beata-maria-assunta-pallotta/index.md)
 - [Beata Maria Bolognesi](beata-maria-bolognesi/index.md)
+- [Beata Maria Candelária de São José](beata-maria-candelaria/index.md)
 - [Beata Maria Cândida da Eucaristia](beata-maria-candida-da-eucaristia/index.md)
 - [Beata Maria Celeste Crostarosa](beata-maria-celeste-crostarosa/index.md)
 - [Beata Maria Clara do Menino Jesus](beata-maria-clara-do-menino-jesus/index.md)
