@@ -1,6 +1,6 @@
 # Santos
 
-Esta seção reúne 200 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 201 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
@@ -108,6 +108,7 @@ Esta seção reúne 200 santos canonizados pela Igreja Católica, com biografia,
 - [São João Evangelista](sao-joao-evangelista/index.md)
 - [São João Macías](sao-joao-macias/index.md)
 - [São João Maria Vianney](sao-joao-maria-vianney/index.md)
+- [São João Nepomuceno](sao-joao-nepomuceno/index.md)
 - [São João Neumann](sao-joao-neumann/index.md)
 - [São João Paulo II](sao-joao-paulo-ii/index.md)
 - [São João XXIII](sao-joao-xxiii/index.md)
