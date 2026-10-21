@@ -1,6 +1,6 @@
 # Santos
 
-Esta seção reúne 201 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 202 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
@@ -191,6 +191,7 @@ Esta seção reúne 201 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Teresinha do Menino Jesus](santa-teresinha-do-menino-jesus/index.md)
 - [São Tiago Maior](sao-tiago-maior/index.md)
 - [São Tiago Menor](sao-tiago-menor/index.md)
+- [São Tito Brandsma](sao-tito-brandsma/index.md)
 - [São Tomás Becket](sao-tomas-becket/index.md)
 - [São Tomás de Aquino](sao-tomas-de-aquino/index.md)
 - [São Tomás de Vilanova](sao-tomas-de-vilanova/index.md)

@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 186 beatos e 201 santos catalogados.
+São 187 beatos e 202 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -191,6 +191,7 @@ São 186 beatos e 201 santos catalogados.
 | [Beata Maria da Paixão](docs/beatos/beata-maria-da-paixao/index.md) | ![Beata Maria da Paixão](docs/beatos/beata-maria-da-paixao/imagens/portrait.jpg) |
 | [Beata Maria de San José Alvarado](docs/beatos/beata-maria-de-san-jose-alvarado/index.md) | ![Beata Maria de San José Alvarado](docs/beatos/beata-maria-de-san-jose-alvarado/imagens/portrait.jpg) |
 | [Beata Maria do Divino Coração](docs/beatos/beata-maria-do-divino-coracao/index.md) | ![Beata Maria do Divino Coração](docs/beatos/beata-maria-do-divino-coracao/imagens/portrait.jpg) |
+| [Beata Maria dos Apóstolos](docs/beatos/beata-maria-dos-apostolos/index.md) | ![Beata Maria dos Apóstolos](docs/beatos/beata-maria-dos-apostolos/imagens/portrait.jpg) |
 | [Beata Maria Gabriela da Unidade](docs/beatos/beata-maria-gabriela-da-unidade/index.md) | ![Beata Maria Gabriela da Unidade](docs/beatos/beata-maria-gabriela-da-unidade/imagens/portrait.jpg) |
 | [Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/index.md) | ![Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/imagens/portrait.jpg) |
 | [Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/index.md) | ![Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/imagens/portrait.jpg) |
@@ -435,6 +436,7 @@ São 186 beatos e 201 santos catalogados.
 | [Santa Teresinha do Menino Jesus](docs/santos/santa-teresinha-do-menino-jesus/index.md) | ![Santa Teresinha do Menino Jesus](docs/santos/santa-teresinha-do-menino-jesus/imagens/santa-teresinha.jpg) |
 | [São Tiago Maior](docs/santos/sao-tiago-maior/index.md) | ![São Tiago Maior](docs/santos/sao-tiago-maior/imagens/portrait.jpg) |
 | [São Tiago Menor](docs/santos/sao-tiago-menor/index.md) | ![São Tiago Menor](docs/santos/sao-tiago-menor/imagens/portrait.jpg) |
+| [São Tito Brandsma](docs/santos/sao-tito-brandsma/index.md) | ![São Tito Brandsma](docs/santos/sao-tito-brandsma/imagens/portrait.jpg) |
 | [São Tomás Becket](docs/santos/sao-tomas-becket/index.md) | ![São Tomás Becket](docs/santos/sao-tomas-becket/imagens/portrait.jpg) |
 | [São Tomás de Aquino](docs/santos/sao-tomas-de-aquino/index.md) | ![São Tomás de Aquino](docs/santos/sao-tomas-de-aquino/imagens/portrait.jpg) |
 | [São Tomás de Vilanova](docs/santos/sao-tomas-de-vilanova/index.md) | ![São Tomás de Vilanova](docs/santos/sao-tomas-de-vilanova/imagens/portrait.jpg) |
