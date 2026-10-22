@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 187 beatos e 202 santos catalogados.
+São 188 beatos e 203 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -89,6 +89,7 @@ São 187 beatos e 202 santos catalogados.
 | [Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/index.md) | ![Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/imagens/portrait.png) |
 | [Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/index.md) | ![Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/imagens/portrait.jpg) |
 | [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/portrait.jpg) |
+| [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/imagens/retrato.svg) |
 | [Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/index.md) | ![Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/imagens/portrait.jpg) |
 | [Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/index.md) | ![Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/imagens/portrait.jpg) |
 | [Beata Benedita Cambiagio](docs/beatos/beata-benedita-cambiagio/index.md) | ![Beata Benedita Cambiagio](docs/beatos/beata-benedita-cambiagio/imagens/portrait.jpg) |
@@ -333,6 +334,7 @@ São 187 beatos e 202 santos catalogados.
 | [Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/index.md) | ![Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/imagens/portrait.jpg) |
 | [Santa Isabel de Portugal](docs/santos/santa-isabel-de-portugal/index.md) | ![Santa Isabel de Portugal](docs/santos/santa-isabel-de-portugal/imagens/portrait.jpg) |
 | [Santo Isidoro de Sevilha](docs/santos/santo-isidoro-de-sevilha/index.md) | ![Santo Isidoro de Sevilha](docs/santos/santo-isidoro-de-sevilha/imagens/portrait.jpg) |
+| [Santo Isidro Lavrador](docs/santos/santo-isidro-lavrador/index.md) | ![Santo Isidro Lavrador](docs/santos/santo-isidro-lavrador/imagens/retrato.svg) |
 | [Santo Ivo de Kermartin](docs/santos/santo-ivo/index.md) | ![Santo Ivo de Kermartin](docs/santos/santo-ivo/imagens/portrait.jpg) |
 | [Santa Jacinta Marto](docs/santos/santa-jacinta-marto/index.md) | ![Santa Jacinta Marto](docs/santos/santa-jacinta-marto/imagens/portrait.jpg) |
 | [São Jerônimo](docs/santos/sao-jeronimo/index.md) | ![São Jerônimo](docs/santos/sao-jeronimo/imagens/portrait.jpg) |
