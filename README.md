@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 188 beatos e 203 santos catalogados.
+São 189 beatos e 204 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -90,6 +90,7 @@ São 188 beatos e 203 santos catalogados.
 | [Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/index.md) | ![Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/imagens/portrait.jpg) |
 | [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/portrait.jpg) |
 | [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/imagens/retrato.svg) |
+| [Beato Bartolomeu dos Mártires](docs/beatos/beato-bartolomeu-dos-martires/index.md) | ![Beato Bartolomeu dos Mártires](docs/beatos/beato-bartolomeu-dos-martires/imagens/portrait.jpg) |
 | [Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/index.md) | ![Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/imagens/portrait.jpg) |
 | [Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/index.md) | ![Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/imagens/portrait.jpg) |
 | [Beata Benedita Cambiagio](docs/beatos/beata-benedita-cambiagio/index.md) | ![Beata Benedita Cambiagio](docs/beatos/beata-benedita-cambiagio/imagens/portrait.jpg) |
@@ -323,6 +324,7 @@ São 188 beatos e 203 santos catalogados.
 | [Santa Gemma Galgani](docs/santos/santa-gemma-galgani/index.md) | ![Santa Gemma Galgani](docs/santos/santa-gemma-galgani/imagens/portrait.jpg) |
 | [Santa Genoveva](docs/santos/santa-genoveva/index.md) | ![Santa Genoveva](docs/santos/santa-genoveva/imagens/portrait.jpg) |
 | [São Geraldo Majella](docs/santos/sao-geraldo-majella/index.md) | ![São Geraldo Majella](docs/santos/sao-geraldo-majella/imagens/portrait.jpg) |
+| [Santa Gertrudes, a Grande](docs/santos/santa-gertrudes/index.md) | ![Santa Gertrudes, a Grande](docs/santos/santa-gertrudes/imagens/portrait.jpg) |
 | [Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/index.md) | ![Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/imagens/portrait.jpg) |
 | [São Gregório Magno](docs/santos/sao-gregorio-magno/index.md) | ![São Gregório Magno](docs/santos/sao-gregorio-magno/imagens/portrait.jpg) |
 | [Santa Helena](docs/santos/santa-helena/index.md) | ![Santa Helena](docs/santos/santa-helena/imagens/portrait.jpg) |
