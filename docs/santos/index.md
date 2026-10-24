@@ -1,6 +1,6 @@
 # Santos
 
-Esta seção reúne 203 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 204 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
@@ -77,6 +77,7 @@ Esta seção reúne 203 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Gemma Galgani](santa-gemma-galgani/index.md)
 - [Santa Genoveva](santa-genoveva/index.md)
 - [São Geraldo Majella](sao-geraldo-majella/index.md)
+- [Santa Gertrudes, a Grande](santa-gertrudes/index.md)
 - [Santa Gianna Beretta Molla](santa-gianna-beretta-molla/index.md)
 - [São Gregório Magno](sao-gregorio-magno/index.md)
 - [Santa Helena](santa-helena/index.md)
