@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 189 beatos e 204 santos catalogados.
+São 190 beatos e 205 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -182,6 +182,7 @@ São 189 beatos e 204 santos catalogados.
 | [Beato Manuel Gómez González](docs/beatos/beato-manuel-gomez-gonzalez/index.md) | ![Beato Manuel Gómez González](docs/beatos/beato-manuel-gomez-gonzalez/imagens/portrait.jpg) |
 | [Beato Manuel Lozano Garrido](docs/beatos/beato-manuel-lozano-garrido/index.md) | ![Beato Manuel Lozano Garrido](docs/beatos/beato-manuel-lozano-garrido/imagens/portrait.jpg) |
 | [Beato Marcel Callo](docs/beatos/beato-marcel-callo/index.md) | ![Beato Marcel Callo](docs/beatos/beato-marcel-callo/imagens/portrait.jpg) |
+| [Beato Marcelo Spínola e Maestre](docs/beatos/beato-marcelo-spinola/index.md) | ![Beato Marcelo Spínola e Maestre](docs/beatos/beato-marcelo-spinola/imagens/cover.jpg) |
 | [Beato Marcos de Aviano](docs/beatos/beato-marcos-de-aviano/index.md) | ![Beato Marcos de Aviano](docs/beatos/beato-marcos-de-aviano/imagens/portrait.jpg) |
 | [Beata Maria Assunta Pallotta](docs/beatos/beata-maria-assunta-pallotta/index.md) | ![Beata Maria Assunta Pallotta](docs/beatos/beata-maria-assunta-pallotta/imagens/portrait.png) |
 | [Beata Maria Bolognesi](docs/beatos/beata-maria-bolognesi/index.md) | ![Beata Maria Bolognesi](docs/beatos/beata-maria-bolognesi/imagens/portrait.jpg) |
@@ -303,6 +304,7 @@ São 189 beatos e 204 santos catalogados.
 | [São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/index.md) | ![São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/imagens/portrait.jpg) |
 | [São Domingos Sávio](docs/santos/sao-domingos-savio/index.md) | ![São Domingos Sávio](docs/santos/sao-domingos-savio/imagens/portrait.jpg) |
 | [Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/index.md) | ![Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/imagens/portrait.jpg) |
+| [Santo Eduardo, o Confessor](docs/santos/santo-eduardo-o-confessor/index.md) | ![Santo Eduardo, o Confessor](docs/santos/santo-eduardo-o-confessor/imagens/cover.jpg) |
 | [Santa Edwiges](docs/santos/santa-edwiges/index.md) | ![Santa Edwiges](docs/santos/santa-edwiges/imagens/portrait.jpg) |
 | [Beata Elena Guerra](docs/santos/santa-elena-guerra/index.md) | ![Beata Elena Guerra](docs/santos/santa-elena-guerra/imagens/portrait.png) |
 | [Santa Escolástica](docs/santos/santa-escolastica/index.md) | ![Santa Escolástica](docs/santos/santa-escolastica/imagens/portrait.jpg) |
