@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 190 beatos e 205 santos catalogados.
+São 191 beatos e 206 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -166,6 +166,7 @@ São 190 beatos e 205 santos catalogados.
 | [Beato Karl Leisner](docs/beatos/beato-karl-leisner/index.md) | ![Beato Karl Leisner](docs/beatos/beato-karl-leisner/imagens/portrait.jpg) |
 | [Beata Karolina Kózka](docs/beatos/beata-karolina-kozka/index.md) | ![Beata Karolina Kózka](docs/beatos/beata-karolina-kozka/imagens/portrait.jpg) |
 | [Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/index.md) | ![Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/imagens/laura-vicuna.jpg) |
+| [Beata Liduina Meneguzzi](docs/beatos/beata-liduina-meneguzzi/index.md) | ![Beata Liduina Meneguzzi](docs/beatos/beata-liduina-meneguzzi/imagens/cover.jpg) |
 | [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/imagens/retrato.svg) |
 | [Beato Lojze Grozde](docs/beatos/beato-lojze-grozde/index.md) | ![Beato Lojze Grozde](docs/beatos/beato-lojze-grozde/imagens/portrait.jpg) |
 | [Beato Luca Belludi](docs/beatos/beato-luca-belludi/index.md) | ![Beato Luca Belludi](docs/beatos/beato-luca-belludi/imagens/portrait.jpg) |
@@ -285,6 +286,7 @@ São 190 beatos e 205 santos catalogados.
 | [São Brás](docs/santos/sao-bras/index.md) | ![São Brás](docs/santos/sao-bras/imagens/portrait.jpg) |
 | [Santa Brígida da Suécia](docs/santos/santa-brigida-da-suecia/index.md) | ![Santa Brígida da Suécia](docs/santos/santa-brigida-da-suecia/imagens/portrait.png) |
 | [São Bruno](docs/santos/sao-bruno/index.md) | ![São Bruno](docs/santos/sao-bruno/imagens/portrait.jpg) |
+| [São Caetano de Thiene](docs/santos/sao-caetano-de-thiene/index.md) | ![São Caetano de Thiene](docs/santos/sao-caetano-de-thiene/imagens/cover.jpg) |
 | [São Camilo de Lellis](docs/santos/sao-camilo-de-lellis/index.md) | ![São Camilo de Lellis](docs/santos/sao-camilo-de-lellis/imagens/portrait.jpg) |
 | [São Carlo Acutis](docs/santos/carlo-acutis/index.md) | ![São Carlo Acutis](docs/santos/carlo-acutis/imagens/carlo-acutis.jpg) |
 | [São Carlos Borromeu](docs/santos/sao-carlos-borromeu/index.md) | ![São Carlos Borromeu](docs/santos/sao-carlos-borromeu/imagens/portrait.jpg) |

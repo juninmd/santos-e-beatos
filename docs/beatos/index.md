@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 190 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 191 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -108,6 +108,7 @@ Esta seção reúne 190 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Karl Leisner](beato-karl-leisner/index.md)
 - [Beata Karolina Kózka](beata-karolina-kozka/index.md)
 - [Beata Laura Vicuña](beata-laura-vicuna/index.md)
+- [Beata Liduina Meneguzzi](beata-liduina-meneguzzi/index.md)
 - [Beata Lindalva Justo de Oliveira](beata-lindalva-justo-de-oliveira/index.md)
 - [Beato Lojze Grozde](beato-lojze-grozde/index.md)
 - [Beato Luca Belludi](beato-luca-belludi/index.md)
