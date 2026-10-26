@@ -7,7 +7,7 @@
 </template>
 
 <script setup>
-import { ref, onMounted, onUnmounted } from 'vue'
+import { ref, onUnmounted } from 'vue'
 
 const isSpeaking = ref(false)
 let utterance = null
@@ -29,13 +29,18 @@ const speak = () => {
 
   // Get text from the article content, excluding the title which is usually h1
   // We'll target the main content area in VitePress
-  const content = document.querySelector('.vp-doc main') || document.body
+  const content = document.querySelector('main .vp-doc') || document.querySelector('.vp-doc')
+  if (!content) return
   const text = content.innerText
 
   utterance = new SpeechSynthesisUtterance(text)
   utterance.lang = 'pt-BR'
 
   utterance.onend = () => {
+    isSpeaking.value = false
+  }
+
+  utterance.onerror = () => {
     isSpeaking.value = false
   }
 

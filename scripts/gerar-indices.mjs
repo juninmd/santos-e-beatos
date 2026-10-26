@@ -38,8 +38,9 @@ const config = fs.readFileSync(path.join(DOCS, '.vitepress/config.js'), 'utf8')
 const trocarSecao = (texto, tipo, lista) => {
   const marcador = `'/${tipo}/': [`
   const inicio = texto.indexOf(marcador)
-  const abre = texto.indexOf('items: [', inicio)
-  const fecha = texto.indexOf('\n          ]', abre)
+  const abre = inicio < 0 ? -1 : texto.indexOf('items: [', inicio)
+  const fecha = abre < 0 ? -1 : texto.indexOf('\n          ]', abre)
+  if (fecha < 0) throw new Error(`marcador da sidebar não encontrado: ${tipo}`)
   return texto.slice(0, abre + 'items: ['.length) + '\n' + itensSidebar(lista) + texto.slice(fecha)
 }
 let novoConfig = trocarSecao(config, 'beatos', beatos)
@@ -74,7 +75,9 @@ const tabela = [
 
 const readme = fs.readFileSync(path.join(RAIZ, 'README.md'), 'utf8')
 const cabecalho = '## Lista de Santos e Beatos'
-const antes = readme.slice(0, readme.indexOf(cabecalho))
+const posCabecalho = readme.indexOf(cabecalho)
+if (posCabecalho < 0) throw new Error(`cabeçalho não encontrado no README: ${cabecalho}`)
+const antes = readme.slice(0, posCabecalho)
 fs.writeFileSync(
   path.join(RAIZ, 'README.md'),
   `${antes}${cabecalho}\n\nSão ${beatos.length} beatos e ${santos.length} santos catalogados.\n\n${tabela}\n`
