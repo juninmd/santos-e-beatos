@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 190 beatos e 205 santos catalogados.
+São 191 beatos e 206 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -157,6 +157,7 @@ São 190 beatos e 205 santos catalogados.
 | [Beato Joan Roig i Diggle](docs/beatos/beato-joan-roig-i-diggle/index.md) | ![Beato Joan Roig i Diggle](docs/beatos/beato-joan-roig-i-diggle/imagens/portrait.jpg) |
 | [Beata Joana de Portugal](docs/beatos/beata-joana-de-portugal/index.md) | ![Beata Joana de Portugal](docs/beatos/beata-joana-de-portugal/imagens/portrait.jpg) |
 | [Beato João Baptista Machado](docs/beatos/beato-joao-baptista-machado/index.md) | ![Beato João Baptista Machado](docs/beatos/beato-joao-baptista-machado/imagens/portrait.jpg) |
+| [Beato João de Fiesole (Fra Angelico)](docs/beatos/beato-joao-de-fiesole/index.md) | ![Beato João de Fiesole (Fra Angelico)](docs/beatos/beato-joao-de-fiesole/imagens/retrato.svg) |
 | [Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/index.md) | ![Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/imagens/portrait.jpg) |
 | [Beato João Paulo I](docs/beatos/beato-joao-paulo-i/index.md) | ![Beato João Paulo I](docs/beatos/beato-joao-paulo-i/imagens/portrait.png) |
 | [Beato João Schiavo](docs/beatos/beato-joao-schiavo/index.md) | ![Beato João Schiavo](docs/beatos/beato-joao-schiavo/imagens/portrait.jpg) |
@@ -296,6 +297,7 @@ São 190 beatos e 205 santos catalogados.
 | [São Charbel Makhlouf](docs/santos/sao-charbel/index.md) | ![São Charbel Makhlouf](docs/santos/sao-charbel/imagens/portrait.jpg) |
 | [São Charles de Foucauld](docs/santos/sao-charles-de-foucauld/index.md) | ![São Charles de Foucauld](docs/santos/sao-charles-de-foucauld/imagens/portrait.jpg) |
 | [Santa Clara de Assis](docs/santos/santa-clara-de-assis/index.md) | ![Santa Clara de Assis](docs/santos/santa-clara-de-assis/imagens/portrait.jpg) |
+| [Santa Clotilde](docs/santos/santa-clotilde/index.md) | ![Santa Clotilde](docs/santos/santa-clotilde/imagens/retrato.svg) |
 | [São Columbano](docs/santos/sao-columbano/index.md) | ![São Columbano](docs/santos/sao-columbano/imagens/portrait.jpg) |
 | [São Cristóvão](docs/santos/sao-cristovao/index.md) | ![São Cristóvão](docs/santos/sao-cristovao/imagens/portrait.jpg) |
 | [São Damião de Molokai](docs/santos/sao-damiao-de-molokai/index.md) | ![São Damião de Molokai](docs/santos/sao-damiao-de-molokai/imagens/portrait.jpg) |
