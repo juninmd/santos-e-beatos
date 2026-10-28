@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 190 beatos e 205 santos catalogados.
+São 191 beatos e 206 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -140,6 +140,7 @@ São 190 beatos e 205 santos catalogados.
 | [Beato Gonçalo de Amarante](docs/beatos/beato-goncalo-de-amarante/index.md) | ![Beato Gonçalo de Amarante](docs/beatos/beato-goncalo-de-amarante/imagens/portrait.png) |
 | [Beata Guadalupe Ortiz de Landázuri](docs/beatos/beata-guadalupe-ortiz-de-landazuri/index.md) | ![Beata Guadalupe Ortiz de Landázuri](docs/beatos/beata-guadalupe-ortiz-de-landazuri/imagens/portrait.jpg) |
 | [Beato Guido de Montpellier](docs/beatos/beato-guido-de-montpellier/index.md) | ![Beato Guido de Montpellier](docs/beatos/beato-guido-de-montpellier/imagens/portrait.jpg) |
+| [Beato Guido Maria Conforti](docs/beatos/beato-guido-maria-conforti/index.md) | ![Beato Guido Maria Conforti](docs/beatos/beato-guido-maria-conforti/imagens/retrato.svg) |
 | [Beato Guilherme José Chaminade](docs/beatos/beato-guilherme-jose-chaminade/index.md) | ![Beato Guilherme José Chaminade](docs/beatos/beato-guilherme-jose-chaminade/imagens/portrait.jpg) |
 | [Beato Henrique Suso](docs/beatos/beato-henrique-suso/index.md) | ![Beato Henrique Suso](docs/beatos/beato-henrique-suso/imagens/portrait.jpg) |
 | [Beato Hermann de Reichenau](docs/beatos/beato-hermann-de-reichenau/index.md) | ![Beato Hermann de Reichenau](docs/beatos/beato-hermann-de-reichenau/imagens/portrait.jpg) |
@@ -347,6 +348,7 @@ São 190 beatos e 205 santos catalogados.
 | [São João Batista](docs/santos/sao-joao-batista/index.md) | ![São João Batista](docs/santos/sao-joao-batista/imagens/portrait.jpg) |
 | [São João Batista de La Salle](docs/santos/sao-joao-batista-de-la-salle/index.md) | ![São João Batista de La Salle](docs/santos/sao-joao-batista-de-la-salle/imagens/portrait.jpg) |
 | [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
+| [São João Calábria](docs/santos/sao-joao-calabria/index.md) | ![São João Calábria](docs/santos/sao-joao-calabria/imagens/retrato.svg) |
 | [São João Crisóstomo](docs/santos/sao-joao-crisostomo/index.md) | ![São João Crisóstomo](docs/santos/sao-joao-crisostomo/imagens/portrait.jpg) |
 | [São João da Cruz](docs/santos/sao-joao-da-cruz/index.md) | ![São João da Cruz](docs/santos/sao-joao-da-cruz/imagens/cover.jpg) |
 | [São João Damasceno](docs/santos/sao-joao-damasceno/index.md) | ![São João Damasceno](docs/santos/sao-joao-damasceno/imagens/portrait.jpg) |
