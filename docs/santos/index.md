@@ -101,6 +101,7 @@ Esta seção reúne 206 santos canonizados pela Igreja Católica, com biografia,
 - [São João Batista](sao-joao-batista/index.md)
 - [São João Batista de La Salle](sao-joao-batista-de-la-salle/index.md)
 - [São João Bosco](sao-joao-bosco/index.md)
+- [São João Calábria](sao-joao-calabria/index.md)
 - [São João Crisóstomo](sao-joao-crisostomo/index.md)
 - [São João da Cruz](sao-joao-da-cruz/index.md)
 - [São João Damasceno](sao-joao-damasceno/index.md)
