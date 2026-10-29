@@ -3,6 +3,7 @@
 // offline e não era licenciada). Rode com: node scripts/gerar-retratos.mjs
 import fs from 'node:fs'
 import path from 'node:path'
+import { pathToFileURL } from 'node:url'
 
 const DOCS = path.join(process.cwd(), 'docs')
 
@@ -71,7 +72,7 @@ export function anosDe(src) {
   return nasc || morte || null
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
   let criados = 0
   for (const tipo of ['santos', 'beatos']) {
     for (const slug of fs.readdirSync(path.join(DOCS, tipo)).sort()) {
