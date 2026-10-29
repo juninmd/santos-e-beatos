@@ -49,6 +49,7 @@ Esta seção reúne 206 santos canonizados pela Igreja Católica, com biografia,
 - [São Charbel Makhlouf](sao-charbel/index.md)
 - [São Charles de Foucauld](sao-charles-de-foucauld/index.md)
 - [Santa Clara de Assis](santa-clara-de-assis/index.md)
+- [Santa Clotilde](santa-clotilde/index.md)
 - [São Columbano](sao-columbano/index.md)
 - [São Cristóvão](sao-cristovao/index.md)
 - [São Damião de Molokai](sao-damiao-de-molokai/index.md)
