@@ -24,7 +24,7 @@ const problemas = []
 const reportar = (id, msg) => problemas.push(`${id}: ${msg}`)
 
 for (const p of paginas()) {
-  const src = fs.readFileSync(p.arquivo, 'utf8').replace(/\r\n/g, '\n')
+  const src = fs.readFileSync(p.arquivo, 'utf8')
 
   if (!/^---\ntitle: .+\ndescription: .+\n---/m.test(src)) reportar(p.id, 'frontmatter incompleto')
   if (!/^#\s+\S/m.test(src)) reportar(p.id, 'sem título H1')

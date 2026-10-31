@@ -1,10 +1,11 @@
 # Santos
 
-Esta seção reúne 211 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 209 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
 - [Santo Agostinho](santo-agostinho/index.md)
+- [Santa Águeda](santa-agueda/index.md)
 - [Santo Alberto Hurtado](santo-alberto-hurtado/index.md)
 - [Santo Alberto Magno](santo-alberto-magno/index.md)
 - [Santo Amaro](santo-amaro/index.md)
@@ -22,11 +23,9 @@ Esta seção reúne 211 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Bárbara](santa-barbara/index.md)
 - [São Bartolo Longo](sao-bartolo-longo/index.md)
 - [São Bartolomeu](sao-bartolomeu/index.md)
-- [São Bartolomeu dos Mártires](sao-bartolomeu-dos-martires/index.md)
 - [São Basílio Magno](sao-basilio-magno/index.md)
 - [Santa Beatriz da Silva](santa-beatriz-da-silva/index.md)
 - [São Beda](sao-beda/index.md)
-- [Santa Benedita Cambiagio Frassinello](santa-benedita-cambiagio/index.md)
 - [São Benedito](sao-benedito/index.md)
 - [São Bento](sao-bento/index.md)
 - [São Bento Menni](sao-bento-menni/index.md)
@@ -52,7 +51,6 @@ Esta seção reúne 211 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Clara de Assis](santa-clara-de-assis/index.md)
 - [Santa Clotilde](santa-clotilde/index.md)
 - [São Columbano](sao-columbano/index.md)
-- [São Crispino de Viterbo](sao-crispino-de-viterbo/index.md)
 - [São Cristóvão](sao-cristovao/index.md)
 - [São Damião de Molokai](sao-damiao-de-molokai/index.md)
 - [São Dimas](sao-dimas/index.md)
@@ -62,7 +60,8 @@ Esta seção reúne 211 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Dulce dos Pobres](santa-dulce-dos-pobres/index.md)
 - [Santo Eduardo, o Confessor](santo-eduardo-o-confessor/index.md)
 - [Santa Edwiges](santa-edwiges/index.md)
-- [Santa Elena Guerra](santa-elena-guerra/index.md)
+- [Beata Elena Guerra](santa-elena-guerra/index.md)
+- [Santa Engrácia](santa-engracia/index.md)
 - [Santa Escolástica](santa-escolastica/index.md)
 - [São Estevão](sao-estevao/index.md)
 - [Santo Estêvão da Hungria](santo-estevao-da-hungria/index.md)
@@ -85,7 +84,6 @@ Esta seção reúne 211 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Gertrudes, a Grande](santa-gertrudes/index.md)
 - [Santa Gianna Beretta Molla](santa-gianna-beretta-molla/index.md)
 - [São Gregório Magno](sao-gregorio-magno/index.md)
-- [São Guido Maria Conforti](sao-guido-maria-conforti/index.md)
 - [Santa Helena](santa-helena/index.md)
 - [Santa Hildegarda de Bingen](santa-hildegarda-de-bingen/index.md)
 - [Santo Inácio de Antioquia](santo-inacio-de-antioquia/index.md)
