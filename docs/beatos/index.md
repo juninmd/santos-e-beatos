@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 183 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 184 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -39,6 +39,7 @@ Esta seção reúne 183 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Carlo Steeb](beato-carlo-steeb/index.md)
 - [Beato Carlos da Áustria](beato-carlos-da-austria/index.md)
 - [Beato Carlos Manuel Rodríguez Santiago](beato-carlos-manuel/index.md)
+- [Beata Carmen Rendiles](beata-carmen-rendiles/index.md)
 - [Beata Catarina de Santo Agostinho](beata-catarina-de-santo-agostinho/index.md)
 - [Beata Catarina Troiani](beata-catarina-troiani/index.md)
 - [Beato Ceferino Giménez Malla](beato-ceferino-gimenez-malla/index.md)

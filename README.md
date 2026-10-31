@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 183 beatos e 211 santos catalogados.
+São 184 beatos e 212 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -97,6 +97,7 @@ São 183 beatos e 211 santos catalogados.
 | [Beato Carlo Steeb](docs/beatos/beato-carlo-steeb/index.md) | ![Beato Carlo Steeb](docs/beatos/beato-carlo-steeb/imagens/portrait.jpg) |
 | [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/portrait.jpg) |
 | [Beato Carlos Manuel Rodríguez Santiago](docs/beatos/beato-carlos-manuel/index.md) | ![Beato Carlos Manuel Rodríguez Santiago](docs/beatos/beato-carlos-manuel/imagens/beato-carlos-manuel.jpg) |
+| [Beata Carmen Rendiles](docs/beatos/beata-carmen-rendiles/index.md) | ![Beata Carmen Rendiles](docs/beatos/beata-carmen-rendiles/imagens/retrato.svg) |
 | [Beata Catarina de Santo Agostinho](docs/beatos/beata-catarina-de-santo-agostinho/index.md) | ![Beata Catarina de Santo Agostinho](docs/beatos/beata-catarina-de-santo-agostinho/imagens/portrait.jpg) |
 | [Beata Catarina Troiani](docs/beatos/beata-catarina-troiani/index.md) | ![Beata Catarina Troiani](docs/beatos/beata-catarina-troiani/imagens/portrait.jpg) |
 | [Beato Ceferino Giménez Malla](docs/beatos/beato-ceferino-gimenez-malla/index.md) | ![Beato Ceferino Giménez Malla](docs/beatos/beato-ceferino-gimenez-malla/imagens/portrait.jpg) |
@@ -392,6 +393,7 @@ São 183 beatos e 211 santos catalogados.
 | [Santa Mama Antula (María Antonia de Paz y Figueroa)](docs/santos/santa-mama-antula/index.md) | ![Santa Mama Antula (María Antonia de Paz y Figueroa)](docs/santos/santa-mama-antula/imagens/portrait.png) |
 | [São Marcelino Champagnat](docs/santos/sao-marcelino-champagnat/index.md) | ![São Marcelino Champagnat](docs/santos/sao-marcelino-champagnat/imagens/portrait.jpg) |
 | [São Marcos](docs/santos/sao-marcos/index.md) | ![São Marcos](docs/santos/sao-marcos/imagens/portrait.jpg) |
+| [Santa Margarida da Escócia](docs/santos/santa-margarida-da-escocia/index.md) | ![Santa Margarida da Escócia](docs/santos/santa-margarida-da-escocia/imagens/retrato.svg) |
 | [Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/index.md) | ![Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/imagens/portrait.jpg) |
 | [Santa Maria Domingas Mazzarello](docs/santos/santa-maria-domingas-mazzarello/index.md) | ![Santa Maria Domingas Mazzarello](docs/santos/santa-maria-domingas-mazzarello/imagens/portrait.jpg) |
 | [Santa Maria Goretti](docs/santos/santa-maria-goretti/index.md) | ![Santa Maria Goretti](docs/santos/santa-maria-goretti/imagens/portrait.jpg) |
