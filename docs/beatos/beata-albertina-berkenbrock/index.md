@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Albertina Berkenb
 
 # Beata Albertina Berkenbrock
 
-![Beata Albertina Berkenbrock](imagens/retrato.svg)
+![Beata Albertina Berkenbrock](imagens/albertina-berkenbrock.jpg)
 
 > "A 'Maria Goretti' brasileira."
 

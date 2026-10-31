@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Luís IX (Rei da F
 
 # São Luís IX
 
-![São Luís IX](imagens/retrato.svg)
+![São Luís IX](imagens/sao-luis-ix.jpg)
 
 > "Rei justo e piedoso"
 

@@ -41,7 +41,7 @@ Embora sua vida tenha sido curta, sua fama de santidade explodiu em seu funeral,
 
 Sua beatificação por João Paulo II confirmou suas virtudes heroicas. Ele é frequentemente citado como patrono informal dos jovens e dos esportistas. Milagres de cura foram atribuídos à sua intercessão para o processo de beatificação.
 
-(Nota: Sua canonização é aguardada com grande expectativa pela Igreja, especialmente no contexto dos Jubileus e Jornadas Mundiais da Juventude).
+Foi solenemente canonizado em 7 de setembro de 2025, na Praça de São Pedro, pelo Papa Leão XIV, na mesma celebração de Carlo Acutis, como modelo perpétuo da juventude católica.
 
 ## Curiosidades
 

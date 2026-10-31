@@ -56,16 +56,15 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 191 beatos e 206 santos catalogados.
+São 183 beatos e 211 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
-| [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/imagens/retrato.svg) |
+| [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/imagens/adilio-daronch.jpg) |
 | [Beato Agostinho Kazotić](docs/beatos/beato-agostinho-kazotic/index.md) | ![Beato Agostinho Kazotić](docs/beatos/beato-agostinho-kazotic/imagens/portrait.jpg) |
 | [Beato Alano de la Roche](docs/beatos/beato-alano-de-la-roche/index.md) | ![Beato Alano de la Roche](docs/beatos/beato-alano-de-la-roche/imagens/portrait.jpg) |
-| [Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/index.md) | ![Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/imagens/retrato.svg) |
+| [Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/index.md) | ![Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/imagens/albertina-berkenbrock.jpg) |
 | [Beato Alberto Marvelli](docs/beatos/beato-alberto-marvelli/index.md) | ![Beato Alberto Marvelli](docs/beatos/beato-alberto-marvelli/imagens/portrait.jpg) |
-| [Beata Alexandrina de Balasar](docs/beatos/alexandrina-de-balasar/index.md) | ![Beata Alexandrina de Balasar](docs/beatos/alexandrina-de-balasar/imagens/alexandrina.jpg) |
 | [Beata Alexandrina Maria da Costa](docs/beatos/beata-alexandrina-maria-da-costa/index.md) | ![Beata Alexandrina Maria da Costa](docs/beatos/beata-alexandrina-maria-da-costa/imagens/portrait.jpg) |
 | [Beato Alojzije Stepinac](docs/beatos/beato-alojzije-stepinac/index.md) | ![Beato Alojzije Stepinac](docs/beatos/beato-alojzije-stepinac/imagens/portrait.jpg) |
 | [Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/index.md) | ![Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/imagens/portrait.png) |
@@ -89,15 +88,11 @@ São 191 beatos e 206 santos catalogados.
 | [Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/index.md) | ![Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/imagens/portrait.png) |
 | [Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/index.md) | ![Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/imagens/portrait.jpg) |
 | [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/portrait.jpg) |
-| [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/imagens/retrato.svg) |
-| [Beato Bartolomeu dos Mártires](docs/beatos/beato-bartolomeu-dos-martires/index.md) | ![Beato Bartolomeu dos Mártires](docs/beatos/beato-bartolomeu-dos-martires/imagens/portrait.jpg) |
 | [Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/index.md) | ![Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/imagens/portrait.jpg) |
 | [Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/index.md) | ![Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/imagens/portrait.jpg) |
-| [Beata Benedita Cambiagio](docs/beatos/beata-benedita-cambiagio/index.md) | ![Beata Benedita Cambiagio](docs/beatos/beata-benedita-cambiagio/imagens/portrait.jpg) |
 | [Beata Benigna](docs/beatos/beata-benigna/index.md) | ![Beata Benigna](docs/beatos/beata-benigna/imagens/benigna.jpg) |
 | [Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/index.md) | ![Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/imagens/portrait.jpg) |
 | [Beato Bronislaw Markiewicz](docs/beatos/beato-bronislaw-markiewicz/index.md) | ![Beato Bronislaw Markiewicz](docs/beatos/beato-bronislaw-markiewicz/imagens/retrato.jpg) |
-| [Beato Carlo Acutis](docs/beatos/beato-carlo-acutis/index.md) | ![Beato Carlo Acutis](docs/beatos/beato-carlo-acutis/imagens/portrait.jpg) |
 | [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/imagens/portrait.jpg) |
 | [Beato Carlo Steeb](docs/beatos/beato-carlo-steeb/index.md) | ![Beato Carlo Steeb](docs/beatos/beato-carlo-steeb/imagens/portrait.jpg) |
 | [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/portrait.jpg) |
@@ -112,9 +107,9 @@ São 191 beatos e 206 santos catalogados.
 | [Beato Clemente August von Galen](docs/beatos/beato-clemente-august-von-galen/index.md) | ![Beato Clemente August von Galen](docs/beatos/beato-clemente-august-von-galen/imagens/portrait.jpg) |
 | [Beato Clemente Marchisio](docs/beatos/beato-clemente-marchisio/index.md) | ![Beato Clemente Marchisio](docs/beatos/beato-clemente-marchisio/imagens/portrait.jpg) |
 | [Beato Columba Marmion](docs/beatos/beato-columba-marmion/index.md) | ![Beato Columba Marmion](docs/beatos/beato-columba-marmion/imagens/portrait.jpg) |
+| [Beata Concepción Cabrera de Armida](docs/beatos/beata-concepcion-cabrera/index.md) | ![Beata Concepción Cabrera de Armida](docs/beatos/beata-concepcion-cabrera/imagens/portrait.jpg) |
 | [Beata Concepción Cabrera de Armida (Conchita)](docs/beatos/beata-maria-da-conceicao/index.md) | ![Beata Concepción Cabrera de Armida (Conchita)](docs/beatos/beata-maria-da-conceicao/imagens/portrait.jpg) |
 | [Beato Contardo Ferrini](docs/beatos/beato-contardo-ferrini/index.md) | ![Beato Contardo Ferrini](docs/beatos/beato-contardo-ferrini/imagens/portrait.jpg) |
-| [Beato Crispino de Viterbo](docs/beatos/beato-crispino-de-viterbo/index.md) | ![Beato Crispino de Viterbo](docs/beatos/beato-crispino-de-viterbo/imagens/portrait.jpg) |
 | [Beata Dina Bélanger](docs/beatos/beata-dina-belanger/index.md) | ![Beata Dina Bélanger](docs/beatos/beata-dina-belanger/imagens/portrait.jpg) |
 | [Beato Diogo José de Cádis](docs/beatos/beato-diogo-jose-de-cadiz/index.md) | ![Beato Diogo José de Cádis](docs/beatos/beato-diogo-jose-de-cadiz/imagens/portrait.jpg) |
 | [Beato Domingos da Mãe de Deus](docs/beatos/beato-domingos-da-mae-de-deus/index.md) | ![Beato Domingos da Mãe de Deus](docs/beatos/beato-domingos-da-mae-de-deus/imagens/portrait.jpg) |
@@ -123,7 +118,6 @@ São 191 beatos e 206 santos catalogados.
 | [Beato Eduardo Pironio](docs/beatos/beato-eduardo-pironio/index.md) | ![Beato Eduardo Pironio](docs/beatos/beato-eduardo-pironio/imagens/portrait.jpg) |
 | [Beata Edviges Carboni](docs/beatos/beata-edviges-carboni/index.md) | ![Beata Edviges Carboni](docs/beatos/beata-edviges-carboni/imagens/portrait.jpg) |
 | [Beata Elena Aiello](docs/beatos/beata-elena-aiello/index.md) | ![Beata Elena Aiello](docs/beatos/beata-elena-aiello/imagens/portrait.jpg) |
-| [Beata Elena Guerra](docs/beatos/beata-elena-guerra/index.md) | ![Beata Elena Guerra](docs/beatos/beata-elena-guerra/imagens/portrait.png) |
 | [Beata Elisabetta Canori Mora](docs/beatos/beata-elisabetta-canori-mora/index.md) | ![Beata Elisabetta Canori Mora](docs/beatos/beata-elisabetta-canori-mora/imagens/portrait.jpg) |
 | [Beata Elisabetta Sanna](docs/beatos/beata-elisabetta-sanna/index.md) | ![Beata Elisabetta Sanna](docs/beatos/beata-elisabetta-sanna/imagens/portrait.jpg) |
 | [Beato Estêvão Sándor](docs/beatos/beato-estevao-sandor/index.md) | ![Beato Estêvão Sándor](docs/beatos/beato-estevao-sandor/imagens/portrait.jpg) |
@@ -140,7 +134,6 @@ São 191 beatos e 206 santos catalogados.
 | [Beato Gonçalo de Amarante](docs/beatos/beato-goncalo-de-amarante/index.md) | ![Beato Gonçalo de Amarante](docs/beatos/beato-goncalo-de-amarante/imagens/portrait.png) |
 | [Beata Guadalupe Ortiz de Landázuri](docs/beatos/beata-guadalupe-ortiz-de-landazuri/index.md) | ![Beata Guadalupe Ortiz de Landázuri](docs/beatos/beata-guadalupe-ortiz-de-landazuri/imagens/portrait.jpg) |
 | [Beato Guido de Montpellier](docs/beatos/beato-guido-de-montpellier/index.md) | ![Beato Guido de Montpellier](docs/beatos/beato-guido-de-montpellier/imagens/portrait.jpg) |
-| [Beato Guido Maria Conforti](docs/beatos/beato-guido-maria-conforti/index.md) | ![Beato Guido Maria Conforti](docs/beatos/beato-guido-maria-conforti/imagens/retrato.svg) |
 | [Beato Guilherme José Chaminade](docs/beatos/beato-guilherme-jose-chaminade/index.md) | ![Beato Guilherme José Chaminade](docs/beatos/beato-guilherme-jose-chaminade/imagens/portrait.jpg) |
 | [Beato Henrique Suso](docs/beatos/beato-henrique-suso/index.md) | ![Beato Henrique Suso](docs/beatos/beato-henrique-suso/imagens/portrait.jpg) |
 | [Beato Hermann de Reichenau](docs/beatos/beato-hermann-de-reichenau/index.md) | ![Beato Hermann de Reichenau](docs/beatos/beato-hermann-de-reichenau/imagens/portrait.jpg) |
@@ -158,22 +151,20 @@ São 191 beatos e 206 santos catalogados.
 | [Beato Joan Roig i Diggle](docs/beatos/beato-joan-roig-i-diggle/index.md) | ![Beato Joan Roig i Diggle](docs/beatos/beato-joan-roig-i-diggle/imagens/portrait.jpg) |
 | [Beata Joana de Portugal](docs/beatos/beata-joana-de-portugal/index.md) | ![Beata Joana de Portugal](docs/beatos/beata-joana-de-portugal/imagens/portrait.jpg) |
 | [Beato João Baptista Machado](docs/beatos/beato-joao-baptista-machado/index.md) | ![Beato João Baptista Machado](docs/beatos/beato-joao-baptista-machado/imagens/portrait.jpg) |
-| [Beato João de Fiesole (Fra Angelico)](docs/beatos/beato-joao-de-fiesole/index.md) | ![Beato João de Fiesole (Fra Angelico)](docs/beatos/beato-joao-de-fiesole/imagens/retrato.svg) |
 | [Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/index.md) | ![Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/imagens/portrait.jpg) |
 | [Beato João Paulo I](docs/beatos/beato-joao-paulo-i/index.md) | ![Beato João Paulo I](docs/beatos/beato-joao-paulo-i/imagens/portrait.png) |
 | [Beato João Schiavo](docs/beatos/beato-joao-schiavo/index.md) | ![Beato João Schiavo](docs/beatos/beato-joao-schiavo/imagens/portrait.jpg) |
 | [Beato Jordão da Saxônia](docs/beatos/beato-jordao-da-saxonia/index.md) | ![Beato Jordão da Saxônia](docs/beatos/beato-jordao-da-saxonia/imagens/portrait.png) |
-| [Beato José Gregório Hernández](docs/beatos/beato-jose-gregorio-hernandez/index.md) | ![Beato José Gregório Hernández](docs/beatos/beato-jose-gregorio-hernandez/imagens/portrait.jpg) |
 | [Beato Justo Takayama Ukon](docs/beatos/beato-justo-takayama-ukon/index.md) | ![Beato Justo Takayama Ukon](docs/beatos/beato-justo-takayama-ukon/imagens/portrait.jpg) |
 | [Beato Karl Leisner](docs/beatos/beato-karl-leisner/index.md) | ![Beato Karl Leisner](docs/beatos/beato-karl-leisner/imagens/portrait.jpg) |
 | [Beata Karolina Kózka](docs/beatos/beata-karolina-kozka/index.md) | ![Beata Karolina Kózka](docs/beatos/beata-karolina-kozka/imagens/portrait.jpg) |
 | [Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/index.md) | ![Beata Laura Vicuña](docs/beatos/beata-laura-vicuna/imagens/laura-vicuna.jpg) |
 | [Beata Liduina Meneguzzi](docs/beatos/beata-liduina-meneguzzi/index.md) | ![Beata Liduina Meneguzzi](docs/beatos/beata-liduina-meneguzzi/imagens/cover.jpg) |
-| [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/imagens/retrato.svg) |
+| [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/imagens/lindalva-oliveira.jpg) |
 | [Beato Lojze Grozde](docs/beatos/beato-lojze-grozde/index.md) | ![Beato Lojze Grozde](docs/beatos/beato-lojze-grozde/imagens/portrait.jpg) |
 | [Beato Luca Belludi](docs/beatos/beato-luca-belludi/index.md) | ![Beato Luca Belludi](docs/beatos/beato-luca-belludi/imagens/portrait.jpg) |
 | [Beato Luca Passi](docs/beatos/beato-luca-passi/index.md) | ![Beato Luca Passi](docs/beatos/beato-luca-passi/imagens/portrait.jpg) |
-| [Beata Lúcia de Narni](docs/beatos/beata-lucia-de-narni/index.md) | ![Beata Lúcia de Narni](docs/beatos/beata-lucia-de-narni/imagens/retrato.svg) |
+| [Beata Lúcia de Narni](docs/beatos/beata-lucia-de-narni/index.md) | ![Beata Lúcia de Narni](docs/beatos/beata-lucia-de-narni/imagens/beata-lucia-de-narni.jpg) |
 | [Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/index.md) | ![Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/imagens/portrait.jpg) |
 | [Beato Luigi Maria Monti](docs/beatos/beato-luigi-maria-monti/index.md) | ![Beato Luigi Maria Monti](docs/beatos/beato-luigi-maria-monti/imagens/portrait.png) |
 | [Beato Luigi Monza](docs/beatos/beato-luigi-monza/index.md) | ![Beato Luigi Monza](docs/beatos/beato-luigi-monza/imagens/portrait.jpg) |
@@ -189,7 +180,7 @@ São 191 beatos e 206 santos catalogados.
 | [Beato Marcos de Aviano](docs/beatos/beato-marcos-de-aviano/index.md) | ![Beato Marcos de Aviano](docs/beatos/beato-marcos-de-aviano/imagens/portrait.jpg) |
 | [Beata Maria Assunta Pallotta](docs/beatos/beata-maria-assunta-pallotta/index.md) | ![Beata Maria Assunta Pallotta](docs/beatos/beata-maria-assunta-pallotta/imagens/portrait.png) |
 | [Beata Maria Bolognesi](docs/beatos/beata-maria-bolognesi/index.md) | ![Beata Maria Bolognesi](docs/beatos/beata-maria-bolognesi/imagens/portrait.jpg) |
-| [Beata Maria Candelária de São José](docs/beatos/beata-maria-candelaria/index.md) | ![Beata Maria Candelária de São José](docs/beatos/beata-maria-candelaria/imagens/retrato.svg) |
+| [Beata Maria Candelária de São José](docs/beatos/beata-maria-candelaria/index.md) | ![Beata Maria Candelária de São José](docs/beatos/beata-maria-candelaria/imagens/beata-maria-candelaria.jpg) |
 | [Beata Maria Cândida da Eucaristia](docs/beatos/beata-maria-candida-da-eucaristia/index.md) | ![Beata Maria Cândida da Eucaristia](docs/beatos/beata-maria-candida-da-eucaristia/imagens/portrait.jpg) |
 | [Beata Maria Celeste Crostarosa](docs/beatos/beata-maria-celeste-crostarosa/index.md) | ![Beata Maria Celeste Crostarosa](docs/beatos/beata-maria-celeste-crostarosa/imagens/portrait.jpg) |
 | [Beata Maria Clara do Menino Jesus](docs/beatos/beata-maria-clara-do-menino-jesus/index.md) | ![Beata Maria Clara do Menino Jesus](docs/beatos/beata-maria-clara-do-menino-jesus/imagens/portrait.png) |
@@ -206,8 +197,8 @@ São 191 beatos e 206 santos catalogados.
 | [Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/index.md) | ![Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/imagens/portrait.jpg) |
 | [Beata Maria Teresa de São José](docs/beatos/beata-maria-teresa-de-sao-jose/index.md) | ![Beata Maria Teresa de São José](docs/beatos/beata-maria-teresa-de-sao-jose/imagens/portrait.jpg) |
 | [Beata Maria Teresa Ledóchowska](docs/beatos/beata-maria-teresa-ledochowska/index.md) | ![Beata Maria Teresa Ledóchowska](docs/beatos/beata-maria-teresa-ledochowska/imagens/portrait.jpg) |
-| [Beata Mariana de Jesus](docs/beatos/beata-mariana-de-jesus/index.md) | ![Beata Mariana de Jesus](docs/beatos/beata-mariana-de-jesus/imagens/retrato.svg) |
-| [Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/index.md) | ![Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/imagens/retrato.svg) |
+| [Beata Mariana de Jesus](docs/beatos/beata-mariana-de-jesus/index.md) | ![Beata Mariana de Jesus](docs/beatos/beata-mariana-de-jesus/imagens/beata-mariana-de-jesus.jpg) |
+| [Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/index.md) | ![Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/imagens/beato-mariano-de-la-mata.jpg) |
 | [Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/index.md) | ![Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/imagens/portrait.jpg) |
 | [Beato Maurício Tornay](docs/beatos/beato-mauricio-tornay/index.md) | ![Beato Maurício Tornay](docs/beatos/beato-mauricio-tornay/imagens/portrait.jpg) |
 | [Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/index.md) | ![Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/imagens/portrait.jpg) |
@@ -227,7 +218,6 @@ São 191 beatos e 206 santos catalogados.
 | [Beata Paulina Jaricot](docs/beatos/beata-paulina-jaricot/index.md) | ![Beata Paulina Jaricot](docs/beatos/beata-paulina-jaricot/imagens/portrait.jpg) |
 | [Beato Pedro Donders](docs/beatos/beato-pedro-donders/index.md) | ![Beato Pedro Donders](docs/beatos/beato-pedro-donders/imagens/portrait.jpg) |
 | [Beato Pedro Vigne](docs/beatos/beato-pedro-vigne/index.md) | ![Beato Pedro Vigne](docs/beatos/beato-pedro-vigne/imagens/portrait.jpg) |
-| [Beato Pier Giorgio Frassati](docs/beatos/beato-pier-giorgio-frassati/index.md) | ![Beato Pier Giorgio Frassati](docs/beatos/beato-pier-giorgio-frassati/imagens/portrait.jpg) |
 | [Beata Pierina Morosini](docs/beatos/beata-pierina-morosini/index.md) | ![Beata Pierina Morosini](docs/beatos/beata-pierina-morosini/imagens/portrait.jpg) |
 | [Beata Pina Suriano](docs/beatos/beata-pina-suriano/index.md) | ![Beata Pina Suriano](docs/beatos/beata-pina-suriano/imagens/portrait.jpg) |
 | [Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/index.md) | ![Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/imagens/portrait.jpg) |
@@ -235,7 +225,7 @@ São 191 beatos e 206 santos catalogados.
 | [Beato Raimundo de Cápua](docs/beatos/beato-raimundo-de-capua/index.md) | ![Beato Raimundo de Cápua](docs/beatos/beato-raimundo-de-capua/imagens/portrait.jpg) |
 | [Beato Richard Henkes](docs/beatos/beato-richard-henkes/index.md) | ![Beato Richard Henkes](docs/beatos/beato-richard-henkes/imagens/portrait.jpg) |
 | [Beata Rita Amada de Jesus](docs/beatos/beata-rita-amada-de-jesus/index.md) | ![Beata Rita Amada de Jesus](docs/beatos/beata-rita-amada-de-jesus/imagens/portrait.jpg) |
-| [Beato Rolando Rivi](docs/beatos/beato-rolando-rivi/index.md) | ![Beato Rolando Rivi](docs/beatos/beato-rolando-rivi/imagens/retrato.svg) |
+| [Beato Rolando Rivi](docs/beatos/beato-rolando-rivi/index.md) | ![Beato Rolando Rivi](docs/beatos/beato-rolando-rivi/imagens/beato-rolando-rivi.jpg) |
 | [Beata Rosália Rendu](docs/beatos/beata-rosalia-rendu/index.md) | ![Beata Rosália Rendu](docs/beatos/beata-rosalia-rendu/imagens/portrait.jpg) |
 | [Beato Rosário Livatino](docs/beatos/beato-rosario-livatino/index.md) | ![Beato Rosário Livatino](docs/beatos/beato-rosario-livatino/imagens/portrait.jpg) |
 | [Beato Rupert Mayer](docs/beatos/beato-rupert-mayer/index.md) | ![Beato Rupert Mayer](docs/beatos/beato-rupert-mayer/imagens/portrait.jpg) |
@@ -256,7 +246,6 @@ São 191 beatos e 206 santos catalogados.
 | [Santo Afonso Maria de Ligório](docs/santos/santo-afonso-maria-de-ligorio/index.md) | ![Santo Afonso Maria de Ligório](docs/santos/santo-afonso-maria-de-ligorio/imagens/portrait.jpg) |
 | [Santa Ágata](docs/santos/santa-agata/index.md) | ![Santa Ágata](docs/santos/santa-agata/imagens/portrait.jpg) |
 | [Santo Agostinho](docs/santos/santo-agostinho/index.md) | ![Santo Agostinho](docs/santos/santo-agostinho/imagens/agostinho.jpg) |
-| [Santa Águeda](docs/santos/santa-agueda/index.md) | ![Santa Águeda](docs/santos/santa-agueda/imagens/portrait.jpg) |
 | [Santo Alberto Hurtado](docs/santos/santo-alberto-hurtado/index.md) | ![Santo Alberto Hurtado](docs/santos/santo-alberto-hurtado/imagens/portrait.jpg) |
 | [Santo Alberto Magno](docs/santos/santo-alberto-magno/index.md) | ![Santo Alberto Magno](docs/santos/santo-alberto-magno/imagens/portrait.jpg) |
 | [Santo Amaro](docs/santos/santo-amaro/index.md) | ![Santo Amaro](docs/santos/santo-amaro/imagens/portrait.jpg) |
@@ -274,9 +263,11 @@ São 191 beatos e 206 santos catalogados.
 | [Santa Bárbara](docs/santos/santa-barbara/index.md) | ![Santa Bárbara](docs/santos/santa-barbara/imagens/portrait.jpg) |
 | [São Bartolo Longo](docs/santos/sao-bartolo-longo/index.md) | ![São Bartolo Longo](docs/santos/sao-bartolo-longo/imagens/portrait.jpg) |
 | [São Bartolomeu](docs/santos/sao-bartolomeu/index.md) | ![São Bartolomeu](docs/santos/sao-bartolomeu/imagens/portrait.jpg) |
+| [São Bartolomeu dos Mártires](docs/santos/sao-bartolomeu-dos-martires/index.md) | ![São Bartolomeu dos Mártires](docs/santos/sao-bartolomeu-dos-martires/imagens/portrait.jpg) |
 | [São Basílio Magno](docs/santos/sao-basilio-magno/index.md) | ![São Basílio Magno](docs/santos/sao-basilio-magno/imagens/portrait.jpg) |
 | [Santa Beatriz da Silva](docs/santos/santa-beatriz-da-silva/index.md) | ![Santa Beatriz da Silva](docs/santos/santa-beatriz-da-silva/imagens/portrait.jpg) |
 | [São Beda](docs/santos/sao-beda/index.md) | ![São Beda](docs/santos/sao-beda/imagens/portrait.jpg) |
+| [Santa Benedita Cambiagio Frassinello](docs/santos/santa-benedita-cambiagio/index.md) | ![Santa Benedita Cambiagio Frassinello](docs/santos/santa-benedita-cambiagio/imagens/portrait.jpg) |
 | [São Benedito](docs/santos/sao-benedito/index.md) | ![São Benedito](docs/santos/sao-benedito/imagens/portrait.jpg) |
 | [São Bento](docs/santos/sao-bento/index.md) | ![São Bento](docs/santos/sao-bento/imagens/portrait.jpg) |
 | [São Bento Menni](docs/santos/sao-bento-menni/index.md) | ![São Bento Menni](docs/santos/sao-bento-menni/imagens/portrait.jpg) |
@@ -300,8 +291,9 @@ São 191 beatos e 206 santos catalogados.
 | [São Charbel Makhlouf](docs/santos/sao-charbel/index.md) | ![São Charbel Makhlouf](docs/santos/sao-charbel/imagens/portrait.jpg) |
 | [São Charles de Foucauld](docs/santos/sao-charles-de-foucauld/index.md) | ![São Charles de Foucauld](docs/santos/sao-charles-de-foucauld/imagens/portrait.jpg) |
 | [Santa Clara de Assis](docs/santos/santa-clara-de-assis/index.md) | ![Santa Clara de Assis](docs/santos/santa-clara-de-assis/imagens/portrait.jpg) |
-| [Santa Clotilde](docs/santos/santa-clotilde/index.md) | ![Santa Clotilde](docs/santos/santa-clotilde/imagens/retrato.svg) |
+| [Santa Clotilde](docs/santos/santa-clotilde/index.md) | ![Santa Clotilde](docs/santos/santa-clotilde/imagens/santa-clotilde.jpg) |
 | [São Columbano](docs/santos/sao-columbano/index.md) | ![São Columbano](docs/santos/sao-columbano/imagens/portrait.jpg) |
+| [São Crispino de Viterbo](docs/santos/sao-crispino-de-viterbo/index.md) | ![São Crispino de Viterbo](docs/santos/sao-crispino-de-viterbo/imagens/portrait.jpg) |
 | [São Cristóvão](docs/santos/sao-cristovao/index.md) | ![São Cristóvão](docs/santos/sao-cristovao/imagens/portrait.jpg) |
 | [São Damião de Molokai](docs/santos/sao-damiao-de-molokai/index.md) | ![São Damião de Molokai](docs/santos/sao-damiao-de-molokai/imagens/portrait.jpg) |
 | [São Dimas](docs/santos/sao-dimas/index.md) | ![São Dimas](docs/santos/sao-dimas/imagens/portrait.jpg) |
@@ -311,7 +303,7 @@ São 191 beatos e 206 santos catalogados.
 | [Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/index.md) | ![Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/imagens/portrait.jpg) |
 | [Santo Eduardo, o Confessor](docs/santos/santo-eduardo-o-confessor/index.md) | ![Santo Eduardo, o Confessor](docs/santos/santo-eduardo-o-confessor/imagens/cover.jpg) |
 | [Santa Edwiges](docs/santos/santa-edwiges/index.md) | ![Santa Edwiges](docs/santos/santa-edwiges/imagens/portrait.jpg) |
-| [Beata Elena Guerra](docs/santos/santa-elena-guerra/index.md) | ![Beata Elena Guerra](docs/santos/santa-elena-guerra/imagens/portrait.png) |
+| [Santa Elena Guerra](docs/santos/santa-elena-guerra/index.md) | ![Santa Elena Guerra](docs/santos/santa-elena-guerra/imagens/portrait.png) |
 | [Santa Escolástica](docs/santos/santa-escolastica/index.md) | ![Santa Escolástica](docs/santos/santa-escolastica/imagens/portrait.jpg) |
 | [São Estevão](docs/santos/sao-estevao/index.md) | ![São Estevão](docs/santos/sao-estevao/imagens/portrait.jpg) |
 | [Santo Estêvão da Hungria](docs/santos/santo-estevao-da-hungria/index.md) | ![Santo Estêvão da Hungria](docs/santos/santo-estevao-da-hungria/imagens/portrait.jpg) |
@@ -334,6 +326,7 @@ São 191 beatos e 206 santos catalogados.
 | [Santa Gertrudes, a Grande](docs/santos/santa-gertrudes/index.md) | ![Santa Gertrudes, a Grande](docs/santos/santa-gertrudes/imagens/portrait.jpg) |
 | [Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/index.md) | ![Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/imagens/portrait.jpg) |
 | [São Gregório Magno](docs/santos/sao-gregorio-magno/index.md) | ![São Gregório Magno](docs/santos/sao-gregorio-magno/imagens/portrait.jpg) |
+| [São Guido Maria Conforti](docs/santos/sao-guido-maria-conforti/index.md) | ![São Guido Maria Conforti](docs/santos/sao-guido-maria-conforti/imagens/guido-conforti.jpg) |
 | [Santa Helena](docs/santos/santa-helena/index.md) | ![Santa Helena](docs/santos/santa-helena/imagens/portrait.jpg) |
 | [Santa Hildegarda de Bingen](docs/santos/santa-hildegarda-de-bingen/index.md) | ![Santa Hildegarda de Bingen](docs/santos/santa-hildegarda-de-bingen/imagens/portrait.jpg) |
 | [Santo Inácio de Antioquia](docs/santos/santo-inacio-de-antioquia/index.md) | ![Santo Inácio de Antioquia](docs/santos/santo-inacio-de-antioquia/imagens/portrait.jpg) |
@@ -343,7 +336,7 @@ São 191 beatos e 206 santos catalogados.
 | [Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/index.md) | ![Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/imagens/portrait.jpg) |
 | [Santa Isabel de Portugal](docs/santos/santa-isabel-de-portugal/index.md) | ![Santa Isabel de Portugal](docs/santos/santa-isabel-de-portugal/imagens/portrait.jpg) |
 | [Santo Isidoro de Sevilha](docs/santos/santo-isidoro-de-sevilha/index.md) | ![Santo Isidoro de Sevilha](docs/santos/santo-isidoro-de-sevilha/imagens/portrait.jpg) |
-| [Santo Isidro Lavrador](docs/santos/santo-isidro-lavrador/index.md) | ![Santo Isidro Lavrador](docs/santos/santo-isidro-lavrador/imagens/retrato.svg) |
+| [Santo Isidro Lavrador](docs/santos/santo-isidro-lavrador/index.md) | ![Santo Isidro Lavrador](docs/santos/santo-isidro-lavrador/imagens/santo-isidro.jpg) |
 | [Santo Ivo de Kermartin](docs/santos/santo-ivo/index.md) | ![Santo Ivo de Kermartin](docs/santos/santo-ivo/imagens/portrait.jpg) |
 | [Santa Jacinta Marto](docs/santos/santa-jacinta-marto/index.md) | ![Santa Jacinta Marto](docs/santos/santa-jacinta-marto/imagens/portrait.jpg) |
 | [São Jerônimo](docs/santos/sao-jeronimo/index.md) | ![São Jerônimo](docs/santos/sao-jeronimo/imagens/portrait.jpg) |
@@ -352,7 +345,7 @@ São 191 beatos e 206 santos catalogados.
 | [São João Batista](docs/santos/sao-joao-batista/index.md) | ![São João Batista](docs/santos/sao-joao-batista/imagens/portrait.jpg) |
 | [São João Batista de La Salle](docs/santos/sao-joao-batista-de-la-salle/index.md) | ![São João Batista de La Salle](docs/santos/sao-joao-batista-de-la-salle/imagens/portrait.jpg) |
 | [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
-| [São João Calábria](docs/santos/sao-joao-calabria/index.md) | ![São João Calábria](docs/santos/sao-joao-calabria/imagens/retrato.svg) |
+| [São João Calábria](docs/santos/sao-joao-calabria/index.md) | ![São João Calábria](docs/santos/sao-joao-calabria/imagens/sao-joao-calabria.jpg) |
 | [São João Crisóstomo](docs/santos/sao-joao-crisostomo/index.md) | ![São João Crisóstomo](docs/santos/sao-joao-crisostomo/imagens/portrait.jpg) |
 | [São João da Cruz](docs/santos/sao-joao-da-cruz/index.md) | ![São João da Cruz](docs/santos/sao-joao-da-cruz/imagens/cover.jpg) |
 | [São João Damasceno](docs/santos/sao-joao-damasceno/index.md) | ![São João Damasceno](docs/santos/sao-joao-damasceno/imagens/portrait.jpg) |
@@ -365,7 +358,7 @@ São 191 beatos e 206 santos catalogados.
 | [São João Evangelista](docs/santos/sao-joao-evangelista/index.md) | ![São João Evangelista](docs/santos/sao-joao-evangelista/imagens/portrait.jpg) |
 | [São João Macías](docs/santos/sao-joao-macias/index.md) | ![São João Macías](docs/santos/sao-joao-macias/imagens/portrait.jpg) |
 | [São João Maria Vianney](docs/santos/sao-joao-maria-vianney/index.md) | ![São João Maria Vianney](docs/santos/sao-joao-maria-vianney/imagens/portrait.png) |
-| [São João Nepomuceno](docs/santos/sao-joao-nepomuceno/index.md) | ![São João Nepomuceno](docs/santos/sao-joao-nepomuceno/imagens/retrato.svg) |
+| [São João Nepomuceno](docs/santos/sao-joao-nepomuceno/index.md) | ![São João Nepomuceno](docs/santos/sao-joao-nepomuceno/imagens/sao-joao-nepomuceno.jpg) |
 | [São João Neumann](docs/santos/sao-joao-neumann/index.md) | ![São João Neumann](docs/santos/sao-joao-neumann/imagens/portrait.jpg) |
 | [São João Paulo II](docs/santos/sao-joao-paulo-ii/index.md) | ![São João Paulo II](docs/santos/sao-joao-paulo-ii/imagens/portrait.jpg) |
 | [São João XXIII](docs/santos/sao-joao-xxiii/index.md) | ![São João XXIII](docs/santos/sao-joao-xxiii/imagens/portrait.jpg) |
@@ -391,7 +384,7 @@ São 191 beatos e 206 santos catalogados.
 | [São Lucas](docs/santos/sao-lucas/index.md) | ![São Lucas](docs/santos/sao-lucas/imagens/portrait.jpg) |
 | [São Ludovico Pavoni](docs/santos/sao-ludovico-pavoni/index.md) | ![São Ludovico Pavoni](docs/santos/sao-ludovico-pavoni/imagens/portrait.jpg) |
 | [São Luís Gonzaga](docs/santos/sao-luis-gonzaga/index.md) | ![São Luís Gonzaga](docs/santos/sao-luis-gonzaga/imagens/portrait.png) |
-| [São Luís IX](docs/santos/sao-luis-ix/index.md) | ![São Luís IX](docs/santos/sao-luis-ix/imagens/retrato.svg) |
+| [São Luís IX](docs/santos/sao-luis-ix/index.md) | ![São Luís IX](docs/santos/sao-luis-ix/imagens/sao-luis-ix.jpg) |
 | [São Luís Maria Grignion de Montfort](docs/santos/sao-luis-maria-grignion-de-montfort/index.md) | ![São Luís Maria Grignion de Montfort](docs/santos/sao-luis-maria-grignion-de-montfort/imagens/portrait.jpg) |
 | [São Luís Orione](docs/santos/sao-luis-orione/index.md) | ![São Luís Orione](docs/santos/sao-luis-orione/imagens/portrait.jpg) |
 | [Santa Luísa de Marillac](docs/santos/santa-luisa-de-marillac/index.md) | ![Santa Luísa de Marillac](docs/santos/santa-luisa-de-marillac/imagens/portrait.jpg) |
@@ -403,7 +396,7 @@ São 191 beatos e 206 santos catalogados.
 | [Santa Maria Domingas Mazzarello](docs/santos/santa-maria-domingas-mazzarello/index.md) | ![Santa Maria Domingas Mazzarello](docs/santos/santa-maria-domingas-mazzarello/imagens/portrait.jpg) |
 | [Santa Maria Goretti](docs/santos/santa-maria-goretti/index.md) | ![Santa Maria Goretti](docs/santos/santa-maria-goretti/imagens/portrait.jpg) |
 | [Santa Maria Madalena](docs/santos/santa-maria-madalena/index.md) | ![Santa Maria Madalena](docs/santos/santa-maria-madalena/imagens/portrait.jpg) |
-| [Santa Maria Troncatti](docs/santos/santa-maria-troncatti/index.md) | ![Santa Maria Troncatti](docs/santos/santa-maria-troncatti/imagens/retrato.svg) |
+| [Santa Maria Troncatti](docs/santos/santa-maria-troncatti/index.md) | ![Santa Maria Troncatti](docs/santos/santa-maria-troncatti/imagens/maria-troncatti.jpg) |
 | [Santa Marta](docs/santos/santa-marta/index.md) | ![Santa Marta](docs/santos/santa-marta/imagens/portrait.jpg) |
 | [São Martinho de Lima](docs/santos/sao-martinho-de-lima/index.md) | ![São Martinho de Lima](docs/santos/sao-martinho-de-lima/imagens/portrait.jpg) |
 | [São Martinho de Tours](docs/santos/sao-martinho-de-tours/index.md) | ![São Martinho de Tours](docs/santos/sao-martinho-de-tours/imagens/portrait.jpg) |

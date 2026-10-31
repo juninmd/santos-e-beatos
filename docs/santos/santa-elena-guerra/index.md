@@ -1,17 +1,18 @@
 ---
-title: Beata Elena Guerra
-description: Biografia, milagres, curiosidades e mapa da Beata Elena Guerra.
+title: Santa Elena Guerra
+description: Biografia, milagres, curiosidades e mapa de Santa Elena Guerra.
 ---
 
-# Beata Elena Guerra
+# Santa Elena Guerra
 
-![Beata Elena Guerra](imagens/portrait.png)
+![Santa Elena Guerra](imagens/portrait.png)
 
 > "Apóstola do Espírito Santo."
 
 - **Nascimento:** 23 de junho de 1835, Lucca, Itália
 - **Morte:** 11 de abril de 1914, Lucca, Itália
-- **Beatificação:** 1959, pelo Papa João XXIII
+- **Beatificação:** 26 de abril de 1959, pelo Papa João XXIII
+- **Canonização:** 20 de outubro de 2024, pelo Papa Francisco
 - **Festa Litúrgica:** 11 de abril
 
 <TextToSpeech />

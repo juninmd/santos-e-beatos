@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Lindalva Justo de
 
 # Beata Lindalva Justo de Oliveira
 
-![Beata Lindalva Justo de Oliveira](imagens/retrato.svg)
+![Beata Lindalva Justo de Oliveira](imagens/lindalva-oliveira.jpg)
 
 > "Mártir da caridade."
 
