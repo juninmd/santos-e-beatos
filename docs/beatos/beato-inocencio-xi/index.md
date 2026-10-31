@@ -42,7 +42,6 @@ Os milagres reconhecidos para a beatificação do Papa Inocêncio XI envolviam p
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Inocêncio XI Original](imagens/original.jpg) | ![Beato Inocêncio XI Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - Como: Cidade onde nasceu.

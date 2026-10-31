@@ -45,7 +45,6 @@ O milagre que levou à sua beatificação não foi de grandiosidade pública, ma
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Rosália Rendu Original](imagens/original.jpg) | ![Beata Rosália Rendu Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Confort, França:** Cidade natal onde cresceu sob a influência de padres refratários abrigados em sua casa.

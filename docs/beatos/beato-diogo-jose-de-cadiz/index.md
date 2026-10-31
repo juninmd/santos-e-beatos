@@ -49,7 +49,6 @@ Após sua morte, sua fama de santidade continuou. Curas inexplicáveis por inter
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Diogo José de Cádis Original](imagens/original.jpg) | ![Beato Diogo José de Cádis Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 O Beato Diogo percorreu de forma incessante muitas províncias e cidades da Península Ibérica.

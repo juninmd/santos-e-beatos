@@ -45,10 +45,9 @@ Contra todos os prognósticos médicos, o líquido desapareceu completamente e o
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Moisés Lira Original](imagens/original.jpg) | ![Beato Moisés Lira Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Do Nordeste ao Sudeste, o Beato Moisés Lira deixou marcas de santidade.

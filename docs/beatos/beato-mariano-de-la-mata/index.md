@@ -49,7 +49,6 @@ O milagre reconhecido para a beatificação foi a cura de uma criança brasileir
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Mariano de la Mata Original](imagens/original.jpg) | ![Beato Mariano de la Mata Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu em Barrio de la Puebla, na província de Palência, formou-se em Valladolid e viveu de 1932 a 1983 em São Paulo, onde está sepultado na igreja do Colégio Santo Agostinho.

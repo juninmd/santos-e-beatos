@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Romero Mene
 
 # Beata Maria Romero Meneses
 
-![Beata Maria Romero Meneses](imagens/restaurada_4k.jpg)
+![Beata Maria Romero Meneses](imagens/restaurada_colorida_4k.jpg)
 
 > "Ponha a mão, minha Mãe, ponha a antes da minha."
 
@@ -43,10 +43,9 @@ Era uma mística da ação: sua intensa vida de oração transbordava em obras c
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beata Maria Romero Meneses Original](imagens/original.jpg) | ![Beata Maria Romero Meneses Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beata Maria Romero Meneses Original](imagens/original.jpg) | ![Beata Maria Romero Meneses Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 *   **Granada (Nicarágua):** Cidade de seu nascimento.

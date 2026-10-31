@@ -44,10 +44,9 @@ O Cardeal Pironio faleceu em Roma após lutar contra um doloroso câncer de pró
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Eduardo Pironio Original](imagens/original.jpg) | ![Beato Eduardo Pironio Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 1. **Nueve de Julio, Argentina:** A cidade onde ele nasceu e cresceu, moldando sua fé profunda.
 2. **La Plata, Argentina:** Onde foi ordenado bispo auxiliar.

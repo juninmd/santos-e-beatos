@@ -43,10 +43,9 @@ Para sua beatificação, a Congregação para as Causas dos Santos aprovou a cur
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Concepción Cabrera de Armida Original](imagens/original.jpg) | ![Beata Concepción Cabrera de Armida Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

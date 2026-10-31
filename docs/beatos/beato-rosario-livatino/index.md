@@ -53,7 +53,6 @@ Ele dizia: *"Quando morrermos, ninguém nos perguntará o quanto fomos crentes, 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Rosário Livatino Original](imagens/original.jpg) | ![Beato Rosário Livatino Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

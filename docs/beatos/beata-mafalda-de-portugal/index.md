@@ -47,7 +47,6 @@ A devoção à Beata Mafalda cresceu logo após a sua morte, devido à sua fama 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Mafalda de Portugal Original](imagens/original.jpg) | ![Beata Mafalda de Portugal Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Coimbra:** Sua cidade natal e centro da corte real portuguesa na época.

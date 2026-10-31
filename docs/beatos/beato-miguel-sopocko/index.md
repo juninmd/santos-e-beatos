@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Miguel Sopoćko.
 
 # Beato Miguel Sopoćko
 
-![Beato Miguel Sopoćko](imagens/restaurada_4k.jpg)
+![Beato Miguel Sopoćko](imagens/restaurada_colorida_4k.jpg)
 
 > "A misericórdia é o maior atributo de Deus."
 
@@ -55,12 +55,6 @@ A devoção à Divina Misericórdia é uma das mais populares na Igreja Católic
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Miguel Sopoćko Original](imagens/original.jpg) | ![Beato Miguel Sopoćko Restaurada](imagens/restaurada_4k.jpg) |
-
-### Outras Imagens
-
-| Capa |
-| --- |
-| ![Capa de Beato Miguel Sopoćko](imagens/cover.jpg) |
+| ![Beato Miguel Sopoćko Original](imagens/original.jpg) | ![Beato Miguel Sopoćko Restaurada](imagens/restaurada_colorida_4k.jpg) |

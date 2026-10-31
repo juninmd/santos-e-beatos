@@ -45,7 +45,6 @@ A beatificação de Maria Cândida da Eucaristia foi impulsionada por milagres a
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Maria Cândida da Eucaristia Original](imagens/original.jpg) | ![Beata Maria Cândida da Eucaristia Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Catanzaro, Itália:** Cidade onde nasceu e passou seus primeiros anos de vida.

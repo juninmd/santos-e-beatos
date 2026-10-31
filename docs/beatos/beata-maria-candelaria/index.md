@@ -42,7 +42,6 @@ O milagre que lhe abriu o caminho para a beatificação ocorreu em 1995, na Vene
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Maria Candelária de São José Original](imagens/original.jpg) | ![Beata Maria Candelária de São José Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 A ação de Maria Candelária ocorreu fundamentalmente no seu país natal.

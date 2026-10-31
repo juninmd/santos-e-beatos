@@ -48,7 +48,6 @@ Ele foi executado por enforcamento a 8 de junho de 1953, na prisão de Budapeste
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Estêvão Sándor Original](imagens/original.jpg) | ![Beato Estêvão Sándor Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Estêvão Sándor viveu sua vida dedicando-se inteiramente aos jovens húngaros, sofrendo pela fé no seu próprio país.

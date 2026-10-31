@@ -46,7 +46,6 @@ O processo de beatificação de Ana de Jesus foi longo, iniciado logo após sua 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Ana de Jesus Original](imagens/original.jpg) | ![Beata Ana de Jesus Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

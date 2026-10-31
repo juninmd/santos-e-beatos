@@ -47,10 +47,9 @@ Sua breve vida já foi reconhecida oficialmente pela Igreja por suas "virtudes h
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Venerável Antonietta Meo (Nennolina) Original](imagens/original.jpg) | ![Venerável Antonietta Meo (Nennolina) Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nennolina passou sua breve e intensa vida em Roma.

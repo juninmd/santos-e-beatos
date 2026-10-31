@@ -42,7 +42,6 @@ A beatificação do Padre Chevrier ocorreu após a aprovação de um milagre atr
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Antônio Chevrier Original](imagens/original.jpg) | ![Beato Antônio Chevrier Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Lyon, França:** A cidade onde nasceu, foi ordenado, serviu os pobres no bairro de Guillotière e fundou a Obra do Prado. Praticamente toda a sua vida e missão se concentraram em sua cidade natal e em seus arredores.

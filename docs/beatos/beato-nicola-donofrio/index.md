@@ -56,10 +56,9 @@ A causa de beatificação e canonização de Nicola D'Onofrio foi impulsionada p
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Venerável Nicola D'Onofrio Original](imagens/original.jpg) | ![Venerável Nicola D'Onofrio Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 *   **Villamagna (Itália):** Cidade onde nasceu, cresceu e onde lutou por sua vocação.

@@ -50,7 +50,6 @@ A Beata Mariana de Jesus é lembrada como a "Padroeira de Madri" ao lado de Sant
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Mariana de Jesus Original](imagens/original.jpg) | ![Beata Mariana de Jesus Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

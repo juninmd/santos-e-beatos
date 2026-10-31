@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Pierina De 
 
 # Beata Maria Pierina De Micheli
 
-![Beata Maria Pierina De Micheli](imagens/restaurada_colorida_4k.jpg)
+![Beata Maria Pierina De Micheli](imagens/restaurada_4k.jpg)
 
 > "Quero que o meu Rosto, que reflete as penas íntimas do meu ânimo, a dor e o amor do meu Coração, seja mais honrado. Quem me contempla, me consola."
 
@@ -43,10 +43,9 @@ A devoção à Sagrada Face, propagada pela Beata Maria Pierina, é associada a 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada em 4K |
 | :---: | :---: |
-| ![Beata Maria Pierina De Micheli Original](imagens/original.jpg) | ![Beata Maria Pierina De Micheli Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beata Maria Pierina De Micheli Original](imagens/original.jpg) | ![Beata Maria Pierina De Micheli Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Sua missão a levou da Itália à América do Sul e de volta, espalhando a devoção onde quer que fosse.

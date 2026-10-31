@@ -42,10 +42,9 @@ Com a morte de São João Bosco em 1888, o Papa Leão XIII nomeou Miguel Rua com
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Miguel Rua Original](imagens/original.jpg) | ![Beato Miguel Rua Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 *   **Turim (Itália):** Cidade natal e centro de toda a sua vida, onde conheceu Dom Bosco, foi ordenado sacerdote e de onde governou a Congregação Salesiana.

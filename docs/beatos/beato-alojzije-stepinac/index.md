@@ -49,10 +49,9 @@ Em relação a Stepinac, como mártir (alguém morto devido aos danos infringido
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Alojzije Stepinac Original](imagens/original.jpg) | ![Beato Alojzije Stepinac Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 *   **Krašić (Croácia):** Sua aldeia natal, onde nasceu e viveu em confinamento e exílio domiciliar após a libertação da prisão até o fim da vida.

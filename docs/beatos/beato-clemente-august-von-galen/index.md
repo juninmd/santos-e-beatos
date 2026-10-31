@@ -39,10 +39,9 @@ O milagre que levou à sua beatificação envolveu a cura inexplicável e comple
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Clemente August von Galen Original](imagens/original.jpg) | ![Beato Clemente August von Galen Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Dinklage, Alemanha:** Cidade onde nasceu na Baixa Saxônia.

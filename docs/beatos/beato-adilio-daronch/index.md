@@ -47,7 +47,6 @@ Por serem mártires, a beatificação dispensou milagre. A comunidade registra d
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Adílio Daronch Original](imagens/original.jpg) | ![Beato Adílio Daronch Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu em Dona Francisca (RS), viveu em Nonoai e na região das missões do norte gaúcho, e foi martirizado nas proximidades de Nonoai.

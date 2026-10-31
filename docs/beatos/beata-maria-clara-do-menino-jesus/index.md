@@ -42,7 +42,6 @@ Acolhida nas pensionistas das Irmãs Capuchinhas e, posteriormente, mudando-se p
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Maria Clara do Menino Jesus Original](imagens/original.jpg) | ![Beata Maria Clara do Menino Jesus Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - Amadora, Portugal (Nascimento e infância)

@@ -43,10 +43,9 @@ Este milagre, junto com outro examinado e aprovado pela Congregação para as Ca
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Pio IX Original](imagens/original.jpg) | ![Beato Pio IX Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Senigallia:** Sua cidade natal na província de Ancona, Itália.

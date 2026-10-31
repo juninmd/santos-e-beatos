@@ -65,12 +65,6 @@ Hoje, o Beato Luigi Novarese é recordado como o "Apóstolo dos Doentes". O "Cen
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Luigi Novarese Original](imagens/original.jpg) | ![Beato Luigi Novarese Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
-### Outras Imagens
-
-| Imagem | Descrição |
-| --- | --- |
-| ![Beato Luigi Novarese](imagens/portrait.png) | Retrato do Beato Luigi Novarese. |

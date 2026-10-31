@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Carlos Manuel Rod
 
 # Beato Carlos Manuel Rodríguez Santiago
 
-![Beato Carlos Manuel Rodríguez Santiago](imagens/restaurada_colorida_4k.jpg)
+![Beato Carlos Manuel Rodríguez Santiago](imagens/restaurada_4k.jpg)
 
 > "Charlie: Apóstolo da Liturgia"
 
@@ -42,10 +42,9 @@ O milagre aprovado para sua beatificação envolveu a cura de uma mulher diagnos
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada em 4K |
 | :---: | :---: |
-| ![Beato Carlos Manuel Rodríguez Santiago Original](imagens/original.jpg) | ![Beato Carlos Manuel Rodríguez Santiago Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beato Carlos Manuel Rodríguez Santiago Original](imagens/original.jpg) | ![Beato Carlos Manuel Rodríguez Santiago Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

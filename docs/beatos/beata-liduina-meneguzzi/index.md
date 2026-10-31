@@ -39,10 +39,9 @@ Durante a sua missão, ela operou incontáveis "milagres cotidianos" de caridade
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Capa Original](imagens/original.jpg) | ![Capa Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beata Liduina Meneguzzi Original](imagens/original.jpg) | ![Beata Liduina Meneguzzi Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 - Abano Terme (Nascimento)
 - Pádua

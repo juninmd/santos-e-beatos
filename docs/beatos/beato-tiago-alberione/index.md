@@ -47,7 +47,6 @@ O milagre reconhecido para a beatificação foi a cura de Josephine Anne Cheah, 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Tiago Alberione Original](imagens/original.jpg) | ![Beato Tiago Alberione Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu em San Lorenzo di Fossano, formou-se e fundou sua obra em Alba, no Piemonte, e viveu os últimos anos em Roma, onde morreu e está sepultado na cripta do Santuário Rainha dos Apóstolos.

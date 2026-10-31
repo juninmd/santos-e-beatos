@@ -52,7 +52,6 @@ Sua vida inteira foi um testemunho milagroso de fidelidade em meio à perseguiç
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Justo Takayama Ukon Original](imagens/original.jpg) | ![Beato Justo Takayama Ukon Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 A jornada de Justo Takayama Ukon cruzou o Japão e o mar:
 *   **Sawa (Japão):** Provável local de nascimento.

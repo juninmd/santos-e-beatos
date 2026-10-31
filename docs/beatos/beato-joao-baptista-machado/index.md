@@ -41,7 +41,6 @@ Apesar do decreto e das graves perseguições, o Padre João Baptista Machado es
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato João Baptista Machado Original](imagens/original.jpg) | ![Beato João Baptista Machado Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Da Ilha Terceira no Atlântico até as remotas ilhas do Japão.

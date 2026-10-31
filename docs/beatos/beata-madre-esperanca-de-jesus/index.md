@@ -43,7 +43,6 @@ Além disso, muitos testemunharam suas habilidades sobrenaturais de cura espirit
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Madre Esperança de Jesus Original](imagens/original.jpg) | ![Beata Madre Esperança de Jesus Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 A trajetória de Madre Esperança reflete seu ardor missionário em diferentes países:

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria de San Jos�
 
 # Beata Maria de San José Alvarado
 
-![Beata Maria de San José Alvarado](imagens/restaurada_colorida_4k.jpg)
+![Beata Maria de San José Alvarado](imagens/restaurada_4k.jpg)
 
 > "Fundadora dedicada aos necessitados da Venezuela."
 
@@ -36,10 +36,9 @@ O milagre que abriu as portas à sua beatificação foi o da Irmã Teresa Silva.
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada em 4K |
 | :---: | :---: |
-| ![Beata Maria de San José Alvarado Original](imagens/original.jpg) | ![Beata Maria de San José Alvarado Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beata Maria de San José Alvarado Original](imagens/original.jpg) | ![Beata Maria de San José Alvarado Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 A sua vida foi dedicada sobretudo à Venezuela, tendo fundado casas em diversas regiões:
 

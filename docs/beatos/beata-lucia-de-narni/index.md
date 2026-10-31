@@ -38,10 +38,9 @@ A vida de Lúcia foi repleta de fenômenos sobrenaturais. Os estigmas que portav
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Lúcia de Narni Original](imagens/original.jpg) | ![Beata Lúcia de Narni Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

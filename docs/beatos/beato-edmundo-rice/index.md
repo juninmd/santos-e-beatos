@@ -42,7 +42,6 @@ A causa para a beatificação de Edmundo Rice incluiu o reconhecimento de um mil
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Edmundo Rice Original](imagens/original.jpg) | ![Beato Edmundo Rice Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 O Beato Edmundo desenvolveu sua missão primeiramente em Waterford, mas a expansão de suas congregações o levou a várias cidades da Irlanda para fundar novas escolas.

@@ -47,10 +47,9 @@ Sua reabilitação doutrinal, iniciada pelo Papa João XXIII e continuada por Pa
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Antonio Rosmini Original](imagens/original.jpg) | ![Beato Antonio Rosmini Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 O mapa abaixo reúne os lugares ligados a Beato Antonio Rosmini: nascimento, morte, milagres e locais de devoção.

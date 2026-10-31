@@ -62,50 +62,50 @@ São 183 beatos e 211 santos catalogados.
 | --- | --- |
 | [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/imagens/restaurada_4k.jpg) |
 | [Beato Agostinho Kazotić](docs/beatos/beato-agostinho-kazotic/index.md) | ![Beato Agostinho Kazotić](docs/beatos/beato-agostinho-kazotic/imagens/restaurada_4k.jpg) |
-| [Beato Alano de la Roche](docs/beatos/beato-alano-de-la-roche/index.md) | ![Beato Alano de la Roche](docs/beatos/beato-alano-de-la-roche/imagens/restaurada_4k.jpg) |
+| [Beato Alano de la Roche](docs/beatos/beato-alano-de-la-roche/index.md) | ![Beato Alano de la Roche](docs/beatos/beato-alano-de-la-roche/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/index.md) | ![Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/imagens/restaurada_4k.jpg) |
 | [Beato Alberto Marvelli](docs/beatos/beato-alberto-marvelli/index.md) | ![Beato Alberto Marvelli](docs/beatos/beato-alberto-marvelli/imagens/restaurada_4k.jpg) |
-| [Beata Alexandrina Maria da Costa](docs/beatos/beata-alexandrina-maria-da-costa/index.md) | ![Beata Alexandrina Maria da Costa](docs/beatos/beata-alexandrina-maria-da-costa/imagens/restaurada_4k.jpg) |
+| [Beata Alexandrina Maria da Costa](docs/beatos/beata-alexandrina-maria-da-costa/index.md) | ![Beata Alexandrina Maria da Costa](docs/beatos/beata-alexandrina-maria-da-costa/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Alojzije Stepinac](docs/beatos/beato-alojzije-stepinac/index.md) | ![Beato Alojzije Stepinac](docs/beatos/beato-alojzije-stepinac/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/index.md) | ![Beato Álvaro del Portillo](docs/beatos/beato-alvaro-del-portillo/imagens/restaurada_4k.jpg) |
-| [Beata Ana Catarina Emmerich](docs/beatos/beata-ana-catarina-emmerich/index.md) | ![Beata Ana Catarina Emmerich](docs/beatos/beata-ana-catarina-emmerich/imagens/restaurada_4k.jpg) |
+| [Beata Ana Catarina Emmerich](docs/beatos/beata-ana-catarina-emmerich/index.md) | ![Beata Ana Catarina Emmerich](docs/beatos/beata-ana-catarina-emmerich/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Ana de Jesus](docs/beatos/beata-ana-de-jesus/index.md) | ![Beata Ana de Jesus](docs/beatos/beata-ana-de-jesus/imagens/restaurada_4k.jpg) |
 | [Beata Ana de São Bartolomeu](docs/beatos/beata-ana-de-sao-bartolomeu/index.md) | ![Beata Ana de São Bartolomeu](docs/beatos/beata-ana-de-sao-bartolomeu/imagens/restaurada_4k.jpg) |
 | [Beata Ana dos Anjos Monteagudo](docs/beatos/beata-ana-dos-anjos-monteagudo/index.md) | ![Beata Ana dos Anjos Monteagudo](docs/beatos/beata-ana-dos-anjos-monteagudo/imagens/restaurada_4k.jpg) |
 | [Beata Ana Maria Javouhey](docs/beatos/beata-ana-maria-javouhey/index.md) | ![Beata Ana Maria Javouhey](docs/beatos/beata-ana-maria-javouhey/imagens/restaurada_4k.jpg) |
 | [Beato Anacleto González Flores](docs/beatos/beato-anacleto-gonzalez-flores/index.md) | ![Beato Anacleto González Flores](docs/beatos/beato-anacleto-gonzalez-flores/imagens/restaurada_colorida_4k.jpg) |
-| [Beata Anna Kolesárová](docs/beatos/beata-anna-kolesarova/index.md) | ![Beata Anna Kolesárová](docs/beatos/beata-anna-kolesarova/imagens/restaurada_4k.jpg) |
-| [Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/index.md) | ![Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/imagens/restaurada_4k.jpg) |
-| [Beata Anna Rosa Gattorno](docs/beatos/beata-anna-rosa-gattorno/index.md) | ![Beata Anna Rosa Gattorno](docs/beatos/beata-anna-rosa-gattorno/imagens/restaurada_colorida_4k.jpg) |
+| [Beata Anna Kolesárová](docs/beatos/beata-anna-kolesarova/index.md) | ![Beata Anna Kolesárová](docs/beatos/beata-anna-kolesarova/imagens/restaurada_colorida_4k.jpg) |
+| [Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/index.md) | ![Beata Anna Maria Taigi](docs/beatos/beata-anna-maria-taigi/imagens/restaurada_colorida_4k.jpg) |
+| [Beata Anna Rosa Gattorno](docs/beatos/beata-anna-rosa-gattorno/index.md) | ![Beata Anna Rosa Gattorno](docs/beatos/beata-anna-rosa-gattorno/imagens/restaurada_4k.jpg) |
 | [Beata Antônia Mesina](docs/beatos/beata-antonia-mesina/index.md) | ![Beata Antônia Mesina](docs/beatos/beata-antonia-mesina/imagens/restaurada_4k.jpg) |
 | [Venerável Antonietta Meo (Nennolina)](docs/beatos/beata-antonieta-meo/index.md) | ![Venerável Antonietta Meo (Nennolina)](docs/beatos/beata-antonieta-meo/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Antônio Chevrier](docs/beatos/beato-antonio-chevrier/index.md) | ![Beato Antônio Chevrier](docs/beatos/beato-antonio-chevrier/imagens/restaurada_4k.jpg) |
-| [Beato Antônio de Categeró](docs/beatos/beato-antonio-de-categero/index.md) | ![Beato Antônio de Categeró](docs/beatos/beato-antonio-de-categero/imagens/restaurada_colorida_4k.jpg) |
+| [Beato Antônio de Categeró](docs/beatos/beato-antonio-de-categero/index.md) | ![Beato Antônio de Categeró](docs/beatos/beato-antonio-de-categero/imagens/restaurada_4k.jpg) |
 | [Beato Antônio Frederico Ozanam](docs/beatos/beato-antonio-frederico-ozanam/index.md) | ![Beato Antônio Frederico Ozanam](docs/beatos/beato-antonio-frederico-ozanam/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/index.md) | ![Beato Antonio Rosmini](docs/beatos/beato-antonio-rosmini/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Anuarite Nengapeta](docs/beatos/beata-anuarite-nengapeta/index.md) | ![Beata Anuarite Nengapeta](docs/beatos/beata-anuarite-nengapeta/imagens/restaurada_colorida_4k.jpg) |
-| [Beata Armida Barelli](docs/beatos/beata-armida-barelli/index.md) | ![Beata Armida Barelli](docs/beatos/beata-armida-barelli/imagens/restaurada_4k.jpg) |
+| [Beata Armida Barelli](docs/beatos/beata-armida-barelli/index.md) | ![Beata Armida Barelli](docs/beatos/beata-armida-barelli/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/index.md) | ![Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/imagens/restaurada_4k.jpg) |
-| [Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/index.md) | ![Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/imagens/restaurada_4k.jpg) |
+| [Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/index.md) | ![Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/restaurada_4k.jpg) |
 | [Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/index.md) | ![Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/imagens/restaurada_4k.jpg) |
 | [Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/index.md) | ![Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Benigna](docs/beatos/beata-benigna/index.md) | ![Beata Benigna](docs/beatos/beata-benigna/imagens/restaurada_4k.jpg) |
-| [Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/index.md) | ![Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/imagens/restaurada_4k.jpg) |
+| [Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/index.md) | ![Beato Bernardo de Hoyos](docs/beatos/beato-bernardo-de-hoyos/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Bronislaw Markiewicz](docs/beatos/beato-bronislaw-markiewicz/index.md) | ![Beato Bronislaw Markiewicz](docs/beatos/beato-bronislaw-markiewicz/imagens/restaurada_colorida_4k.jpg) |
-| [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/imagens/restaurada_4k.jpg) |
+| [Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/index.md) | ![Beato Carlo Gnocchi](docs/beatos/beato-carlo-gnocchi/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Carlo Steeb](docs/beatos/beato-carlo-steeb/index.md) | ![Beato Carlo Steeb](docs/beatos/beato-carlo-steeb/imagens/original.jpg) |
 | [Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/index.md) | ![Beato Carlos da Áustria](docs/beatos/beato-carlos-da-austria/imagens/restaurada_colorida_4k.jpg) |
-| [Beato Carlos Manuel Rodríguez Santiago](docs/beatos/beato-carlos-manuel/index.md) | ![Beato Carlos Manuel Rodríguez Santiago](docs/beatos/beato-carlos-manuel/imagens/restaurada_colorida_4k.jpg) |
+| [Beato Carlos Manuel Rodríguez Santiago](docs/beatos/beato-carlos-manuel/index.md) | ![Beato Carlos Manuel Rodríguez Santiago](docs/beatos/beato-carlos-manuel/imagens/restaurada_4k.jpg) |
 | [Beata Catarina de Santo Agostinho](docs/beatos/beata-catarina-de-santo-agostinho/index.md) | ![Beata Catarina de Santo Agostinho](docs/beatos/beata-catarina-de-santo-agostinho/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Catarina Troiani](docs/beatos/beata-catarina-troiani/index.md) | ![Beata Catarina Troiani](docs/beatos/beata-catarina-troiani/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Ceferino Giménez Malla](docs/beatos/beato-ceferino-gimenez-malla/index.md) | ![Beato Ceferino Giménez Malla](docs/beatos/beato-ceferino-gimenez-malla/imagens/restaurada_colorida_4k.jpg) |
-| [Beata Chiara Luce Badano](docs/beatos/beata-chiara-luce-badano/index.md) | ![Beata Chiara Luce Badano](docs/beatos/beata-chiara-luce-badano/imagens/restaurada_colorida_4k.jpg) |
+| [Beata Chiara Luce Badano](docs/beatos/beata-chiara-luce-badano/index.md) | ![Beata Chiara Luce Badano](docs/beatos/beata-chiara-luce-badano/imagens/restaurada_4k.jpg) |
 | [Beata Chiquitunga](docs/beatos/beata-chiquitunga/index.md) | ![Beata Chiquitunga](docs/beatos/beata-chiquitunga/imagens/restaurada_4k.jpg) |
 | [Beato Cláudio Granzotto](docs/beatos/beato-claudio-granzotto/index.md) | ![Beato Cláudio Granzotto](docs/beatos/beato-claudio-granzotto/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Clélia Merloni](docs/beatos/beata-clelia-merloni/index.md) | ![Beata Clélia Merloni](docs/beatos/beata-clelia-merloni/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Clemente August von Galen](docs/beatos/beato-clemente-august-von-galen/index.md) | ![Beato Clemente August von Galen](docs/beatos/beato-clemente-august-von-galen/imagens/restaurada_colorida_4k.jpg) |
-| [Beato Clemente Marchisio](docs/beatos/beato-clemente-marchisio/index.md) | ![Beato Clemente Marchisio](docs/beatos/beato-clemente-marchisio/imagens/restaurada_colorida_4k.jpg) |
+| [Beato Clemente Marchisio](docs/beatos/beato-clemente-marchisio/index.md) | ![Beato Clemente Marchisio](docs/beatos/beato-clemente-marchisio/imagens/restaurada_4k.jpg) |
 | [Beato Columba Marmion](docs/beatos/beato-columba-marmion/index.md) | ![Beato Columba Marmion](docs/beatos/beato-columba-marmion/imagens/restaurada_4k.jpg) |
 | [Beata Concepción Cabrera de Armida](docs/beatos/beata-concepcion-cabrera/index.md) | ![Beata Concepción Cabrera de Armida](docs/beatos/beata-concepcion-cabrera/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Concepción Cabrera de Armida (Conchita)](docs/beatos/beata-maria-da-conceicao/index.md) | ![Beata Concepción Cabrera de Armida (Conchita)](docs/beatos/beata-maria-da-conceicao/imagens/restaurada_colorida_4k.jpg) |
@@ -113,7 +113,7 @@ São 183 beatos e 211 santos catalogados.
 | [Beata Dina Bélanger](docs/beatos/beata-dina-belanger/index.md) | ![Beata Dina Bélanger](docs/beatos/beata-dina-belanger/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Diogo José de Cádis](docs/beatos/beato-diogo-jose-de-cadiz/index.md) | ![Beato Diogo José de Cádis](docs/beatos/beato-diogo-jose-de-cadiz/imagens/restaurada_4k.jpg) |
 | [Beato Domingos da Mãe de Deus](docs/beatos/beato-domingos-da-mae-de-deus/index.md) | ![Beato Domingos da Mãe de Deus](docs/beatos/beato-domingos-da-mae-de-deus/imagens/restaurada_4k.jpg) |
-| [Beata Edel Quinn](docs/beatos/beata-edel-quinn/index.md) | ![Beata Edel Quinn](docs/beatos/beata-edel-quinn/imagens/restaurada_4k.jpg) |
+| [Beata Edel Quinn](docs/beatos/beata-edel-quinn/index.md) | ![Beata Edel Quinn](docs/beatos/beata-edel-quinn/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Edmundo Rice](docs/beatos/beato-edmundo-rice/index.md) | ![Beato Edmundo Rice](docs/beatos/beato-edmundo-rice/imagens/restaurada_4k.jpg) |
 | [Beato Eduardo Pironio](docs/beatos/beato-eduardo-pironio/index.md) | ![Beato Eduardo Pironio](docs/beatos/beato-eduardo-pironio/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Edviges Carboni](docs/beatos/beata-edviges-carboni/index.md) | ![Beata Edviges Carboni](docs/beatos/beata-edviges-carboni/imagens/restaurada_colorida_4k.jpg) |
@@ -135,11 +135,11 @@ São 183 beatos e 211 santos catalogados.
 | [Beata Guadalupe Ortiz de Landázuri](docs/beatos/beata-guadalupe-ortiz-de-landazuri/index.md) | ![Beata Guadalupe Ortiz de Landázuri](docs/beatos/beata-guadalupe-ortiz-de-landazuri/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Guido de Montpellier](docs/beatos/beato-guido-de-montpellier/index.md) | ![Beato Guido de Montpellier](docs/beatos/beato-guido-de-montpellier/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Guilherme José Chaminade](docs/beatos/beato-guilherme-jose-chaminade/index.md) | ![Beato Guilherme José Chaminade](docs/beatos/beato-guilherme-jose-chaminade/imagens/restaurada_4k.jpg) |
-| [Beato Henrique Suso](docs/beatos/beato-henrique-suso/index.md) | ![Beato Henrique Suso](docs/beatos/beato-henrique-suso/imagens/restaurada_4k.jpg) |
-| [Beato Hermann de Reichenau](docs/beatos/beato-hermann-de-reichenau/index.md) | ![Beato Hermann de Reichenau](docs/beatos/beato-hermann-de-reichenau/imagens/restaurada_4k.jpg) |
+| [Beato Henrique Suso](docs/beatos/beato-henrique-suso/index.md) | ![Beato Henrique Suso](docs/beatos/beato-henrique-suso/imagens/restaurada_colorida_4k.jpg) |
+| [Beato Hermann de Reichenau](docs/beatos/beato-hermann-de-reichenau/index.md) | ![Beato Hermann de Reichenau](docs/beatos/beato-hermann-de-reichenau/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Ildefonso Schuster](docs/beatos/beato-ildefonso-schuster/index.md) | ![Beato Ildefonso Schuster](docs/beatos/beato-ildefonso-schuster/imagens/restaurada_4k.jpg) |
-| [Beata Imelda Lambertini](docs/beatos/beata-imelda-lambertini/index.md) | ![Beata Imelda Lambertini](docs/beatos/beata-imelda-lambertini/imagens/restaurada_4k.jpg) |
-| [Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/index.md) | ![Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/imagens/restaurada_4k.jpg) |
+| [Beata Imelda Lambertini](docs/beatos/beata-imelda-lambertini/index.md) | ![Beata Imelda Lambertini](docs/beatos/beata-imelda-lambertini/imagens/restaurada_colorida_4k.jpg) |
+| [Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/index.md) | ![Beato Inácio de Azevedo](docs/beatos/beato-inacio-de-azevedo/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Inácio Maloyan](docs/beatos/beato-inacio-maloyan/index.md) | ![Beato Inácio Maloyan](docs/beatos/beato-inacio-maloyan/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Inocêncio V](docs/beatos/beato-inocencio-v/index.md) | ![Beato Inocêncio V](docs/beatos/beato-inocencio-v/imagens/restaurada_4k.jpg) |
 | [Beato Inocêncio XI](docs/beatos/beato-inocencio-xi/index.md) | ![Beato Inocêncio XI](docs/beatos/beato-inocencio-xi/imagens/restaurada_4k.jpg) |
@@ -152,7 +152,7 @@ São 183 beatos e 211 santos catalogados.
 | [Beata Joana de Portugal](docs/beatos/beata-joana-de-portugal/index.md) | ![Beata Joana de Portugal](docs/beatos/beata-joana-de-portugal/imagens/restaurada_4k.jpg) |
 | [Beato João Baptista Machado](docs/beatos/beato-joao-baptista-machado/index.md) | ![Beato João Baptista Machado](docs/beatos/beato-joao-baptista-machado/imagens/restaurada_4k.jpg) |
 | [Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/index.md) | ![Beato João Duns Scotus](docs/beatos/beato-joao-duns-scotus/imagens/restaurada_4k.jpg) |
-| [Beato João Paulo I](docs/beatos/beato-joao-paulo-i/index.md) | ![Beato João Paulo I](docs/beatos/beato-joao-paulo-i/imagens/restaurada_4k.jpg) |
+| [Beato João Paulo I](docs/beatos/beato-joao-paulo-i/index.md) | ![Beato João Paulo I](docs/beatos/beato-joao-paulo-i/imagens/restaurada_colorida_4k.jpg) |
 | [Beato João Schiavo](docs/beatos/beato-joao-schiavo/index.md) | ![Beato João Schiavo](docs/beatos/beato-joao-schiavo/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Jordão da Saxônia](docs/beatos/beato-jordao-da-saxonia/index.md) | ![Beato Jordão da Saxônia](docs/beatos/beato-jordao-da-saxonia/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Justo Takayama Ukon](docs/beatos/beato-justo-takayama-ukon/index.md) | ![Beato Justo Takayama Ukon](docs/beatos/beato-justo-takayama-ukon/imagens/restaurada_4k.jpg) |
@@ -163,9 +163,9 @@ São 183 beatos e 211 santos catalogados.
 | [Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/index.md) | ![Beata Lindalva Justo de Oliveira](docs/beatos/beata-lindalva-justo-de-oliveira/imagens/restaurada_4k.jpg) |
 | [Beato Lojze Grozde](docs/beatos/beato-lojze-grozde/index.md) | ![Beato Lojze Grozde](docs/beatos/beato-lojze-grozde/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Luca Belludi](docs/beatos/beato-luca-belludi/index.md) | ![Beato Luca Belludi](docs/beatos/beato-luca-belludi/imagens/restaurada_4k.jpg) |
-| [Beato Luca Passi](docs/beatos/beato-luca-passi/index.md) | ![Beato Luca Passi](docs/beatos/beato-luca-passi/imagens/restaurada_4k.jpg) |
+| [Beato Luca Passi](docs/beatos/beato-luca-passi/index.md) | ![Beato Luca Passi](docs/beatos/beato-luca-passi/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Lúcia de Narni](docs/beatos/beata-lucia-de-narni/index.md) | ![Beata Lúcia de Narni](docs/beatos/beata-lucia-de-narni/imagens/restaurada_colorida_4k.jpg) |
-| [Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/index.md) | ![Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/imagens/restaurada_4k.jpg) |
+| [Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/index.md) | ![Beato Luigi Beltrame Quattrocchi](docs/beatos/beato-luigi-beltrame-quattrocchi/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Luigi Maria Monti](docs/beatos/beato-luigi-maria-monti/index.md) | ![Beato Luigi Maria Monti](docs/beatos/beato-luigi-maria-monti/imagens/original.jpg) |
 | [Beato Luigi Monza](docs/beatos/beato-luigi-monza/index.md) | ![Beato Luigi Monza](docs/beatos/beato-luigi-monza/imagens/restaurada_4k.jpg) |
 | [Beato Luigi Novarese](docs/beatos/beato-luigi-novarese/index.md) | ![Beato Luigi Novarese](docs/beatos/beato-luigi-novarese/imagens/restaurada_colorida_4k.jpg) |
@@ -178,7 +178,7 @@ São 183 beatos e 211 santos catalogados.
 | [Beato Marcel Callo](docs/beatos/beato-marcel-callo/index.md) | ![Beato Marcel Callo](docs/beatos/beato-marcel-callo/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Marcelo Spínola e Maestre](docs/beatos/beato-marcelo-spinola/index.md) | ![Beato Marcelo Spínola e Maestre](docs/beatos/beato-marcelo-spinola/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Marcos de Aviano](docs/beatos/beato-marcos-de-aviano/index.md) | ![Beato Marcos de Aviano](docs/beatos/beato-marcos-de-aviano/imagens/restaurada_4k.jpg) |
-| [Beata Maria Assunta Pallotta](docs/beatos/beata-maria-assunta-pallotta/index.md) | ![Beata Maria Assunta Pallotta](docs/beatos/beata-maria-assunta-pallotta/imagens/restaurada_4k.jpg) |
+| [Beata Maria Assunta Pallotta](docs/beatos/beata-maria-assunta-pallotta/index.md) | ![Beata Maria Assunta Pallotta](docs/beatos/beata-maria-assunta-pallotta/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Maria Bolognesi](docs/beatos/beata-maria-bolognesi/index.md) | ![Beata Maria Bolognesi](docs/beatos/beata-maria-bolognesi/imagens/restaurada_4k.jpg) |
 | [Beata Maria Candelária de São José](docs/beatos/beata-maria-candelaria/index.md) | ![Beata Maria Candelária de São José](docs/beatos/beata-maria-candelaria/imagens/restaurada_4k.jpg) |
 | [Beata Maria Cândida da Eucaristia](docs/beatos/beata-maria-candida-da-eucaristia/index.md) | ![Beata Maria Cândida da Eucaristia](docs/beatos/beata-maria-candida-da-eucaristia/imagens/restaurada_4k.jpg) |
@@ -186,41 +186,41 @@ São 183 beatos e 211 santos catalogados.
 | [Beata Maria Clara do Menino Jesus](docs/beatos/beata-maria-clara-do-menino-jesus/index.md) | ![Beata Maria Clara do Menino Jesus](docs/beatos/beata-maria-clara-do-menino-jesus/imagens/restaurada_4k.jpg) |
 | [Beata Maria Cristina de Saboia](docs/beatos/beata-maria-cristina-de-saboia/index.md) | ![Beata Maria Cristina de Saboia](docs/beatos/beata-maria-cristina-de-saboia/imagens/restaurada_4k.jpg) |
 | [Beata Maria da Paixão](docs/beatos/beata-maria-da-paixao/index.md) | ![Beata Maria da Paixão](docs/beatos/beata-maria-da-paixao/imagens/restaurada_4k.jpg) |
-| [Beata Maria de San José Alvarado](docs/beatos/beata-maria-de-san-jose-alvarado/index.md) | ![Beata Maria de San José Alvarado](docs/beatos/beata-maria-de-san-jose-alvarado/imagens/restaurada_colorida_4k.jpg) |
+| [Beata Maria de San José Alvarado](docs/beatos/beata-maria-de-san-jose-alvarado/index.md) | ![Beata Maria de San José Alvarado](docs/beatos/beata-maria-de-san-jose-alvarado/imagens/restaurada_4k.jpg) |
 | [Beata Maria do Divino Coração](docs/beatos/beata-maria-do-divino-coracao/index.md) | ![Beata Maria do Divino Coração](docs/beatos/beata-maria-do-divino-coracao/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Maria dos Apóstolos](docs/beatos/beata-maria-dos-apostolos/index.md) | ![Beata Maria dos Apóstolos](docs/beatos/beata-maria-dos-apostolos/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Maria Gabriela da Unidade](docs/beatos/beata-maria-gabriela-da-unidade/index.md) | ![Beata Maria Gabriela da Unidade](docs/beatos/beata-maria-gabriela-da-unidade/imagens/restaurada_4k.jpg) |
 | [Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/index.md) | ![Beata Maria Laura Mainetti](docs/beatos/beata-maria-laura-mainetti/imagens/restaurada_4k.jpg) |
-| [Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/index.md) | ![Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/imagens/restaurada_colorida_4k.jpg) |
+| [Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/index.md) | ![Beata Maria Pierina De Micheli](docs/beatos/beata-maria-pierina-de-micheli/imagens/restaurada_4k.jpg) |
 | [Beata Maria Repetto](docs/beatos/beata-maria-repetto/index.md) | ![Beata Maria Repetto](docs/beatos/beata-maria-repetto/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Maria Restituta Kafka](docs/beatos/beata-maria-restituta-kafka/index.md) | ![Beata Maria Restituta Kafka](docs/beatos/beata-maria-restituta-kafka/imagens/restaurada_colorida_4k.jpg) |
-| [Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/index.md) | ![Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/imagens/restaurada_4k.jpg) |
+| [Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/index.md) | ![Beata Maria Romero Meneses](docs/beatos/beata-maria-romero-meneses/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Maria Teresa de São José](docs/beatos/beata-maria-teresa-de-sao-jose/index.md) | ![Beata Maria Teresa de São José](docs/beatos/beata-maria-teresa-de-sao-jose/imagens/restaurada_4k.jpg) |
-| [Beata Maria Teresa Ledóchowska](docs/beatos/beata-maria-teresa-ledochowska/index.md) | ![Beata Maria Teresa Ledóchowska](docs/beatos/beata-maria-teresa-ledochowska/imagens/restaurada_4k.jpg) |
+| [Beata Maria Teresa Ledóchowska](docs/beatos/beata-maria-teresa-ledochowska/index.md) | ![Beata Maria Teresa Ledóchowska](docs/beatos/beata-maria-teresa-ledochowska/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Mariana de Jesus](docs/beatos/beata-mariana-de-jesus/index.md) | ![Beata Mariana de Jesus](docs/beatos/beata-mariana-de-jesus/imagens/restaurada_4k.jpg) |
 | [Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/index.md) | ![Beato Mariano de la Mata](docs/beatos/beato-mariano-de-la-mata/imagens/restaurada_4k.jpg) |
-| [Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/index.md) | ![Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/imagens/restaurada_colorida_4k.jpg) |
+| [Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/index.md) | ![Beata Marta Le Bouteiller](docs/beatos/beata-marta-le-bouteiller/imagens/restaurada_4k.jpg) |
 | [Beato Maurício Tornay](docs/beatos/beato-mauricio-tornay/index.md) | ![Beato Maurício Tornay](docs/beatos/beato-mauricio-tornay/imagens/restaurada_colorida_4k.jpg) |
-| [Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/index.md) | ![Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/imagens/restaurada_4k.jpg) |
-| [Beato Miguel Pro](docs/beatos/beato-miguel-pro/index.md) | ![Beato Miguel Pro](docs/beatos/beato-miguel-pro/imagens/restaurada_4k.jpg) |
+| [Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/index.md) | ![Beato Michael McGivney](docs/beatos/beato-michael-mcgivney/imagens/restaurada_colorida_4k.jpg) |
+| [Beato Miguel Pro](docs/beatos/beato-miguel-pro/index.md) | ![Beato Miguel Pro](docs/beatos/beato-miguel-pro/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Miguel Rua](docs/beatos/beato-miguel-rua/index.md) | ![Beato Miguel Rua](docs/beatos/beato-miguel-rua/imagens/restaurada_colorida_4k.jpg) |
-| [Beato Miguel Sopoćko](docs/beatos/beato-miguel-sopocko/index.md) | ![Beato Miguel Sopoćko](docs/beatos/beato-miguel-sopocko/imagens/restaurada_4k.jpg) |
+| [Beato Miguel Sopoćko](docs/beatos/beato-miguel-sopocko/index.md) | ![Beato Miguel Sopoćko](docs/beatos/beato-miguel-sopocko/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Miriam Teresa Demjanovich](docs/beatos/beata-miriam-teresa-demjanovich/index.md) | ![Beata Miriam Teresa Demjanovich](docs/beatos/beata-miriam-teresa-demjanovich/imagens/restaurada_4k.jpg) |
 | [Beato Miroslav Bulešić](docs/beatos/beato-miroslav-bulesic/index.md) | ![Beato Miroslav Bulešić](docs/beatos/beato-miroslav-bulesic/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Moisés Lira](docs/beatos/beato-moises-lira/index.md) | ![Beato Moisés Lira](docs/beatos/beato-moises-lira/imagens/restaurada_colorida_4k.jpg) |
 | [Beata Nhá Chica](docs/beatos/nha-chica/index.md) | ![Beata Nhá Chica](docs/beatos/nha-chica/imagens/restaurada_4k.jpg) |
 | [Venerável Nicola D'Onofrio](docs/beatos/beato-nicola-donofrio/index.md) | ![Venerável Nicola D'Onofrio](docs/beatos/beato-nicola-donofrio/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Nicolau Steno](docs/beatos/beato-nicolau-steno/index.md) | ![Beato Nicolau Steno](docs/beatos/beato-nicolau-steno/imagens/restaurada_4k.jpg) |
-| [Beato Odoardo Focherini](docs/beatos/beato-odoardo-focherini/index.md) | ![Beato Odoardo Focherini](docs/beatos/beato-odoardo-focherini/imagens/restaurada_4k.jpg) |
+| [Beato Odoardo Focherini](docs/beatos/beato-odoardo-focherini/index.md) | ![Beato Odoardo Focherini](docs/beatos/beato-odoardo-focherini/imagens/restaurada_colorida_4k.jpg) |
 | [Padre Donizetti Tavares de Lima](docs/beatos/padre-donizetti/index.md) | ![Padre Donizetti Tavares de Lima](docs/beatos/padre-donizetti/imagens/padre_restaurada_colorida.jpg) |
-| [Beato Padre Eustáquio](docs/beatos/beato-padre-eustaquio/index.md) | ![Beato Padre Eustáquio](docs/beatos/beato-padre-eustaquio/imagens/restaurada_4k.jpg) |
+| [Beato Padre Eustáquio](docs/beatos/beato-padre-eustaquio/index.md) | ![Beato Padre Eustáquio](docs/beatos/beato-padre-eustaquio/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Padre Victor](docs/beatos/padre-victor/index.md) | ![Beato Padre Victor](docs/beatos/padre-victor/imagens/restaurada_4k.jpg) |
 | [Beata Paulina Jaricot](docs/beatos/beata-paulina-jaricot/index.md) | ![Beata Paulina Jaricot](docs/beatos/beata-paulina-jaricot/imagens/restaurada_4k.jpg) |
-| [Beato Pedro Donders](docs/beatos/beato-pedro-donders/index.md) | ![Beato Pedro Donders](docs/beatos/beato-pedro-donders/imagens/restaurada_4k.jpg) |
+| [Beato Pedro Donders](docs/beatos/beato-pedro-donders/index.md) | ![Beato Pedro Donders](docs/beatos/beato-pedro-donders/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Pedro Vigne](docs/beatos/beato-pedro-vigne/index.md) | ![Beato Pedro Vigne](docs/beatos/beato-pedro-vigne/imagens/restaurada_4k.jpg) |
 | [Beata Pierina Morosini](docs/beatos/beata-pierina-morosini/index.md) | ![Beata Pierina Morosini](docs/beatos/beata-pierina-morosini/imagens/restaurada_4k.jpg) |
-| [Beata Pina Suriano](docs/beatos/beata-pina-suriano/index.md) | ![Beata Pina Suriano](docs/beatos/beata-pina-suriano/imagens/restaurada_colorida_4k.jpg) |
-| [Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/index.md) | ![Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/imagens/restaurada_colorida_4k.jpg) |
+| [Beata Pina Suriano](docs/beatos/beata-pina-suriano/index.md) | ![Beata Pina Suriano](docs/beatos/beata-pina-suriano/imagens/restaurada_4k.jpg) |
+| [Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/index.md) | ![Beato Pino Puglisi](docs/beatos/beato-pino-puglisi/imagens/restaurada_4k.jpg) |
 | [Beato Pio IX](docs/beatos/beato-pio-ix/index.md) | ![Beato Pio IX](docs/beatos/beato-pio-ix/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Raimundo de Cápua](docs/beatos/beato-raimundo-de-capua/index.md) | ![Beato Raimundo de Cápua](docs/beatos/beato-raimundo-de-capua/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Richard Henkes](docs/beatos/beato-richard-henkes/index.md) | ![Beato Richard Henkes](docs/beatos/beato-richard-henkes/imagens/restaurada_4k.jpg) |
@@ -233,15 +233,15 @@ São 183 beatos e 211 santos catalogados.
 | [Beata Sancha de Portugal](docs/beatos/beata-sancha-de-portugal/index.md) | ![Beata Sancha de Portugal](docs/beatos/beata-sancha-de-portugal/imagens/restaurada_4k.jpg) |
 | [Beata Sandra Sabattini](docs/beatos/beata-sandra-sabattini/index.md) | ![Beata Sandra Sabattini](docs/beatos/beata-sandra-sabattini/imagens/restaurada_4k.jpg) |
 | [Beata Savina Petrilli](docs/beatos/beata-savina-petrilli/index.md) | ![Beata Savina Petrilli](docs/beatos/beata-savina-petrilli/imagens/restaurada_4k.jpg) |
-| [Beato Solanus Casey](docs/beatos/beato-solanus-casey/index.md) | ![Beato Solanus Casey](docs/beatos/beato-solanus-casey/imagens/restaurada_4k.jpg) |
+| [Beato Solanus Casey](docs/beatos/beato-solanus-casey/index.md) | ![Beato Solanus Casey](docs/beatos/beato-solanus-casey/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Stanley Rother](docs/beatos/beato-stanley-rother/index.md) | ![Beato Stanley Rother](docs/beatos/beato-stanley-rother/imagens/restaurada_4k.jpg) |
 | [Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/index.md) | ![Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/imagens/restaurada_4k.jpg) |
 | [Beata Teresa de Portugal](docs/beatos/beata-teresa-de-portugal/index.md) | ![Beata Teresa de Portugal](docs/beatos/beata-teresa-de-portugal/imagens/restaurada_4k.jpg) |
 | [Beato Teresio Olivelli](docs/beatos/beato-teresio-olivelli/index.md) | ![Beato Teresio Olivelli](docs/beatos/beato-teresio-olivelli/imagens/restaurada_4k.jpg) |
 | [Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/index.md) | ![Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/imagens/restaurada_4k.jpg) |
 | [Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/index.md) | ![Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/imagens/restaurada_4k.jpg) |
-| [Beato Tito Zeman](docs/beatos/beato-tito-zeman/index.md) | ![Beato Tito Zeman](docs/beatos/beato-tito-zeman/imagens/restaurada_4k.jpg) |
-| [Beato Urbano V](docs/beatos/beato-urbano-v/index.md) | ![Beato Urbano V](docs/beatos/beato-urbano-v/imagens/restaurada_4k.jpg) |
+| [Beato Tito Zeman](docs/beatos/beato-tito-zeman/index.md) | ![Beato Tito Zeman](docs/beatos/beato-tito-zeman/imagens/restaurada_colorida_4k.jpg) |
+| [Beato Urbano V](docs/beatos/beato-urbano-v/index.md) | ![Beato Urbano V](docs/beatos/beato-urbano-v/imagens/restaurada_colorida_4k.jpg) |
 | [Beato Zeferino Namuncurá](docs/beatos/beato-zeferino-namuncura/index.md) | ![Beato Zeferino Namuncurá](docs/beatos/beato-zeferino-namuncura/imagens/restaurada_colorida_4k.jpg) |
 | [Santo Afonso Maria de Ligório](docs/santos/santo-afonso-maria-de-ligorio/index.md) | ![Santo Afonso Maria de Ligório](docs/santos/santo-afonso-maria-de-ligorio/imagens/restaurada_4k.jpg) |
 | [Santa Ágata](docs/santos/santa-agata/index.md) | ![Santa Ágata](docs/santos/santa-agata/imagens/restaurada_4k.jpg) |

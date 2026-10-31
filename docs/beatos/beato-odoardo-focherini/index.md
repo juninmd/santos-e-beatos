@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Odoardo Focherini
 
 # Beato Odoardo Focherini
 
-![Beato Odoardo Focherini](imagens/restaurada_4k.jpg)
+![Beato Odoardo Focherini](imagens/restaurada_colorida_4k.jpg)
 
 > "A fé se demonstra com a vida e as obras, não só com as palavras."
 
@@ -36,10 +36,9 @@ Por ser reconhecido como Mártir ("in odium fidei" - por ódio à fé), não foi
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Odoardo Focherini Original](imagens/original.jpg) | ![Beato Odoardo Focherini Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Odoardo Focherini Original](imagens/original.jpg) | ![Beato Odoardo Focherini Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 Sua vida começou e foi principalmente centrada na Itália (Carpi, Bolonha, Trento). Com sua prisão, o percurso forçado passou por vários campos na Itália e Alemanha, até encontrar a morte em Hersbruck.
 

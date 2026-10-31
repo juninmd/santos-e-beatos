@@ -41,7 +41,6 @@ Em vida, seu grande "milagre" era o impressionante testemunho de abandono radica
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Nicolau Steno Original](imagens/original.jpg) | ![Beato Nicolau Steno Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

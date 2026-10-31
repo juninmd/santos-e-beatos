@@ -55,7 +55,6 @@ Sua intercessão, no entanto, é constantemente invocada por aqueles que lutam p
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Rutilio Grande Original](imagens/original.jpg) | ![Beato Rutilio Grande Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 *   **El Paisnal, El Salvador:** Sua cidade natal e local para onde se dirigia no dia de seu martírio.

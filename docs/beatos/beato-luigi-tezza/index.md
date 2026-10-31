@@ -45,10 +45,9 @@ Um dos milagres reconhecidos para a sua beatificação envolveu a cura inexplic�
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Cover do Beato Luigi Tezza Original](imagens/original.jpg) | ![Cover do Beato Luigi Tezza Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beato Luigi Tezza Original](imagens/original.jpg) | ![Beato Luigi Tezza Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Luigi Tezza uniu a Europa e a América Latina em seu serviço aos doentes.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Armida Barelli.
 
 # Beata Armida Barelli
 
-![Beata Armida Barelli](imagens/restaurada_4k.jpg)
+![Beata Armida Barelli](imagens/restaurada_colorida_4k.jpg)
 
 > "Col mio Signore nel cuore io vado incontro a tutto il mondo e sono sicura che con Lui vincerò sempre."
 
@@ -41,10 +41,9 @@ O milagre atribuído a sua intercessão para sua beatificação foi a cura de um
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beata Armida Barelli Original](imagens/original.jpg) | ![Beata Armida Barelli Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beata Armida Barelli Original](imagens/original.jpg) | ![Beata Armida Barelli Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - Milão, Itália (nascimento e centro da sua atuação educacional e católica)

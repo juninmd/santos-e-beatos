@@ -49,7 +49,6 @@ Muitos milagres são atribuídos à sua intercessão, tanto em vida quanto após
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Gonçalo de Amarante Original](imagens/original.jpg) | ![Beato Gonçalo de Amarante Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

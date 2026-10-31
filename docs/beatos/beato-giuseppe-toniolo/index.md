@@ -50,7 +50,6 @@ A beatificação do Beato Giuseppe Toniolo foi impulsionada pelo reconhecimento 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Giuseppe Toniolo Original](imagens/original.jpg) | ![Beato Giuseppe Toniolo Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

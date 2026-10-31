@@ -44,10 +44,9 @@ Apesar de sua origem nobre, Maria escolheu a pobreza e o serviço aos mais neces
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Maria do Divino Coração Original](imagens/original.jpg) | ![Beata Maria do Divino Coração Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Maria nasceu na Alemanha, fez noviciado na França e viveu seus últimos anos em Portugal.

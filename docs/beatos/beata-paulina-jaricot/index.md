@@ -46,7 +46,6 @@ O milagre aprovado para sua beatificação envolveu a cura de Mayline Tran, uma 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Paulina Jaricot Original](imagens/original.jpg) | ![Beata Paulina Jaricot Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

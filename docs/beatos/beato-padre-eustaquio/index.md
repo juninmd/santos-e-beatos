@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Padre Eustáquio.
 
 # Beato Padre Eustáquio
 
-![Beato Padre Eustáquio](imagens/restaurada_4k.jpg)
+![Beato Padre Eustáquio](imagens/restaurada_colorida_4k.jpg)
 
 > "Saúde e paz."
 
@@ -46,10 +46,9 @@ O milagre reconhecido para a beatificação foi a cura de Divina Aparecida de Pa
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Padre Eustáquio Original](imagens/original.jpg) | ![Beato Padre Eustáquio Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Padre Eustáquio Original](imagens/original.jpg) | ![Beato Padre Eustáquio Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Nasceu em Aarle-Rixtel, nos Países Baixos; no Brasil, atuou no Espírito Santo, em Poá e Agudos (SP) e, sobretudo, em Belo Horizonte, onde morreu e está sepultado.

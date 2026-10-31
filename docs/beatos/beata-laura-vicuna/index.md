@@ -44,10 +44,9 @@ Mas o maior "milagre" foi a conversão de sua própria mãe. No leito de morte, 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Laura Vicuña Original](imagens/original.jpg) | ![Beata Laura Vicuña Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Laura nasceu no Chile, mas viveu a maior parte de sua breve vida e santidade na Argentina.

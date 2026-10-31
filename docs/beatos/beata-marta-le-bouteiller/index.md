@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Marta Le Bouteill
 
 # Beata Marta Le Bouteiller
 
-![Beata Marta Le Bouteiller](imagens/restaurada_colorida_4k.jpg)
+![Beata Marta Le Bouteiller](imagens/restaurada_4k.jpg)
 
 > "A Irmã da Cidra"
 
@@ -41,10 +41,9 @@ Inúmeros relatos de graças e favores, desde curas até a resolução de proble
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada em 4K |
 | :---: | :---: |
-| ![Beata Marta Le Bouteiller Original](imagens/original.jpg) | ![Beata Marta Le Bouteiller Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beata Marta Le Bouteiller Original](imagens/original.jpg) | ![Beata Marta Le Bouteiller Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Ela passou toda a sua vida na região da Normandia, na França.

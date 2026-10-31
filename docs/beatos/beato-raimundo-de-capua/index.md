@@ -46,10 +46,9 @@ Os milagres atribuídos ao Beato Raimundo de Cápua estão intimamente ligados �
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Raimundo de Cápua Original](imagens/original.jpg) | ![Beato Raimundo de Cápua Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - Cápua, Itália (Nascimento)

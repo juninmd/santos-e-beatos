@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Edel Quinn.
 
 # Beata Edel Quinn
 
-![Beata Edel Quinn](imagens/restaurada_4k.jpg)
+![Beata Edel Quinn](imagens/restaurada_colorida_4k.jpg)
 
 > "Deus me chamou e eu vou, venha o que vier."
 
@@ -37,10 +37,9 @@ Inúmeros testemunhos de graças alcançadas através de sua intercessão foram 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beata Edel Quinn Original](imagens/original.jpg) | ![Beata Edel Quinn Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beata Edel Quinn Original](imagens/original.jpg) | ![Beata Edel Quinn Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Edel Quinn deixou a sua Irlanda natal, onde se formou na fé e se juntou à Legião de Maria, para transformar a África Oriental através do seu apostolado leigo incansável.

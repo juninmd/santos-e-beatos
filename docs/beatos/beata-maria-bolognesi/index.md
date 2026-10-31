@@ -42,7 +42,6 @@ Inúmeros relatos de graças e favores celestes cercaram sua vida, incluindo cap
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Maria Bolognesi Original](imagens/original.jpg) | ![Beata Maria Bolognesi Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Bosaro, Itália:** Cidade natal, onde passou sua infância marcada por dificuldades e onde começou a ter suas primeiras experiências místicas.

@@ -44,7 +44,6 @@ Após orações intensas de sua família, dos marianistas locais e da comunidade
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Guilherme José Chaminade Original](imagens/original.jpg) | ![Beato Guilherme José Chaminade Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

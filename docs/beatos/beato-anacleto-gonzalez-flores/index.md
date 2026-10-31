@@ -47,10 +47,9 @@ Ele é reconhecido como mártir pela Igreja, tendo derramado seu sangue em ódio
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Anacleto González Flores Original](imagens/original.jpg) | ![Beato Anacleto González Flores Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

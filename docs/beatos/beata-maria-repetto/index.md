@@ -43,10 +43,9 @@ Um dos milagres reconhecidos para a sua beatificação envolveu a cura instantâ
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Maria Repetto Original](imagens/original.jpg) | ![Beata Maria Repetto Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Ao contrário de muitos missionários, a vida de Maria Repetto decorreu num raio geográfico muito limitado, provando que a santidade pode florescer na estabilidade e no serviço constante num único lugar.

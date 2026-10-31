@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Anna Maria Taigi.
 
 # Beata Anna Maria Taigi
 
-![Beata Anna Maria Taigi](imagens/restaurada_4k.jpg)
+![Beata Anna Maria Taigi](imagens/restaurada_colorida_4k.jpg)
 
 > "Esposa e mãe exemplar, mística da luz divina."
 
@@ -43,10 +43,9 @@ Ela também realizou muitas curas durante sua vida, apenas com o sinal da cruz o
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beata Anna Maria Taigi Original](imagens/original.jpg) | ![Beata Anna Maria Taigi Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beata Anna Maria Taigi Original](imagens/original.jpg) | ![Beata Anna Maria Taigi Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Sua vida transcorreu quase inteiramente na Itália, entre Siena e Roma.

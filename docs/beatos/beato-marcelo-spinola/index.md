@@ -40,10 +40,9 @@ Os milagres que levaram à sua beatificação incluem curas inexplicáveis. O ma
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Cover Original](imagens/original.jpg) | ![Cover Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beato Marcelo Spínola e Maestre Original](imagens/original.jpg) | ![Beato Marcelo Spínola e Maestre Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - **San Fernando, Espanha:** Local de seu nascimento, uma cidade na província de Cádiz.

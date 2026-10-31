@@ -43,10 +43,9 @@ A beatificação de Lojze Grozde foi aprovada como mártir (martírio 'in odium 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Lojze Grozde Original](imagens/original.jpg) | ![Beato Lojze Grozde Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 * Zgornje Vodale, Eslovênia (Nascimento)

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Teresa Led�
 
 # Beata Maria Teresa Ledóchowska
 
-![Beata Maria Teresa Ledóchowska](imagens/restaurada_4k.jpg)
+![Beata Maria Teresa Ledóchowska](imagens/restaurada_colorida_4k.jpg)
 
 > "Minha vocação é trabalhar pelas missões africanas e pela libertação dos escravos."
 
@@ -44,10 +44,9 @@ Maria Teresa Ledóchowska foi beatificada pelo Papa Paulo VI em 19 de outubro de
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beata Maria Teresa Ledóchowska Original](imagens/original.jpg) | ![Beata Maria Teresa Ledóchowska Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beata Maria Teresa Ledóchowska Original](imagens/original.jpg) | ![Beata Maria Teresa Ledóchowska Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - Loosdorf, Áustria (Nascimento e infância)

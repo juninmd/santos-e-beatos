@@ -42,10 +42,9 @@ Em 11 de junho, os prisioneiros foram levados para o deserto para as "marchas da
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Inácio Maloyan Original](imagens/original.jpg) | ![Beato Inácio Maloyan Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Inácio Maloyan passou a maior parte de sua vida entre Mardin (seu local de nascimento e sé episcopal) e o Líbano.

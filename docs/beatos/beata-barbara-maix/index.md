@@ -50,7 +50,6 @@ O milagre que levou à sua beatificação foi a cura do menino Onorino Ecker, em
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Bárbara Maix Original](imagens/original.jpg) | ![Beata Bárbara Maix Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nascida na Áustria, Bárbara fez do Brasil sua casa, passando por importantes cidades.

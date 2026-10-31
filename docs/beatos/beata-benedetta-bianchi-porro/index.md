@@ -71,12 +71,6 @@ Sua vida desafia a "cultura do descarte" e mostra que o sofrimento, quando vivid
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Benedetta Bianchi Porro Original](imagens/original.jpg) | ![Beata Benedetta Bianchi Porro Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
-### Outras Imagens
-
-| Benedetta Sorrindo |
-| --- |
-| ![Retrato](imagens/cover.jpg) |

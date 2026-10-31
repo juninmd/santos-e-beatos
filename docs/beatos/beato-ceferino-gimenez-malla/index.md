@@ -35,10 +35,9 @@ Ceferino Giménez Malla, carinhosamente conhecido como "El Pelé", nasceu na Esp
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Ceferino Giménez Malla Original](imagens/original.jpg) | ![Beato Ceferino Giménez Malla Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Fraga, Espanha:** Sua cidade natal.

@@ -46,7 +46,6 @@ Inúmeros milagres foram atribuídos à sua intercessão após sua morte, princi
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Ana Maria Javouhey Original](imagens/original.jpg) | ![Beata Ana Maria Javouhey Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

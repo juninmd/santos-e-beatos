@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Clemente Marchisi
 
 # Beato Clemente Marchisio
 
-![Beato Clemente Marchisio](imagens/restaurada_colorida_4k.jpg)
+![Beato Clemente Marchisio](imagens/restaurada_4k.jpg)
 
 > "O Pároco da Eucaristia e das Operárias"
 
@@ -45,10 +45,9 @@ O trabalho incansável de Dom Clemente esteve concentrado em poucas cidades do n
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada em 4K |
 | :---: | :---: |
-| ![Beato Clemente Marchisio Original](imagens/original.jpg) | ![Beato Clemente Marchisio Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beato Clemente Marchisio Original](imagens/original.jpg) | ![Beato Clemente Marchisio Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 O mapa abaixo reúne os lugares ligados a Beato Clemente Marchisio: nascimento, morte, milagres e locais de devoção.

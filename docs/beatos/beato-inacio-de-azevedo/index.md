@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Inácio de Azeved
 
 # Beato Inácio de Azevedo
 
-![Beato Inácio de Azevedo](imagens/restaurada_4k.jpg)
+![Beato Inácio de Azevedo](imagens/restaurada_colorida_4k.jpg)
 
 > "Todos, todos por Cristo!"
 
@@ -44,10 +44,9 @@ A tradição conta que, no momento do martírio, o corpo de Inácio não afundou
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Inácio de Azevedo Original](imagens/original.jpg) | ![Beato Inácio de Azevedo Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Inácio de Azevedo Original](imagens/original.jpg) | ![Beato Inácio de Azevedo Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 *   **Porto (Portugal):** Cidade natal.

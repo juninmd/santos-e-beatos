@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Augusto Czartorys
 
 # Beato Augusto Czartoryski
 
-![Beato Augusto Czartoryski](imagens/restaurada_4k.jpg)
+![Beato Augusto Czartoryski](imagens/restaurada_colorida_4k.jpg)
 
 > "Um Príncipe para os Jovens"
 
@@ -55,13 +55,6 @@ O Beato Augusto Czartoryski é um exemplo poderoso de renúncia às glórias ter
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Augusto Czartoryski Original](imagens/original.jpg) | ![Beato Augusto Czartoryski Restaurada](imagens/restaurada_4k.jpg) |
-
-### Outras Imagens
-
-| Imagem | Descrição |
-| --- | --- |
-| ![Beato Augusto Czartoryski](imagens/portrait.jpg) | Retrato do Beato Augusto Czartoryski. |
-| ![Valdocco](imagens/cover.jpg) | Basílica de Maria Auxiliadora em Turim, coração da obra de Dom Bosco. |
+| ![Beato Augusto Czartoryski Original](imagens/original.jpg) | ![Beato Augusto Czartoryski Restaurada](imagens/restaurada_colorida_4k.jpg) |

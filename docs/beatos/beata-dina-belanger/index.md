@@ -43,10 +43,9 @@ Um dos milagres reconhecidos para sua beatificação foi a cura repentina, perfe
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Dina Bélanger Original](imagens/original.jpg) | ![Beata Dina Bélanger Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

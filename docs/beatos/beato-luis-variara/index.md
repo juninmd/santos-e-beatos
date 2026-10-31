@@ -46,7 +46,6 @@ O milagre que levou à sua beatificação aconteceu em 1993. Um jovem colombiano
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Luis Variara Original](imagens/original.jpg) | ![Beato Luis Variara Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

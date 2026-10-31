@@ -48,7 +48,6 @@ Sendo aclamado como mártir (morto "in odium fidei" – por ódio à fé), Teres
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Teresio Olivelli Original](imagens/original.jpg) | ![Beato Teresio Olivelli Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Teresio espalhou paz em cenários conturbados da Europa.

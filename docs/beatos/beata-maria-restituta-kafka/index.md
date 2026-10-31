@@ -41,10 +41,9 @@ O Papa Pio XII tentou interceder por ela sem sucesso. Em 30 de março de 1943, f
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Maria Restituta Kafka Original](imagens/original.jpg) | ![Beata Maria Restituta Kafka Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Brno, Áustria-Hungria (hoje República Tcheca):** Cidade de seu nascimento.

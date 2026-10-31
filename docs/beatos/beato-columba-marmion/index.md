@@ -49,7 +49,6 @@ Muitas outras graças são relatadas por pessoas que se aprofundam em seus ensin
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Columba Marmion Original](imagens/original.jpg) | ![Beato Columba Marmion Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Dublin, Irlanda:** Sua cidade natal, onde viveu sua juventude e iniciou a formação sacerdotal.

@@ -42,10 +42,9 @@ O milagre que permitiu sua beatificação ocorreu no Brasil, em 1951. O médico 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Clélia Merloni Original](imagens/original.jpg) | ![Beata Clélia Merloni Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Clélia nasceu em Forlì, fundou a obra em Viareggio, mas estabeleceu-se posteriormente em Roma.

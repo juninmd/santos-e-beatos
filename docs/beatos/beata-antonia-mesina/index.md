@@ -46,7 +46,6 @@ A beatificação de Antônia Mesina não exigiu a comprovação de um milagre es
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Antônia Mesina Original](imagens/original.jpg) | ![Beata Antônia Mesina Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Antônia viveu e morreu no mesmo local:

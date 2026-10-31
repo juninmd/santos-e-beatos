@@ -44,10 +44,9 @@ Inúmeros relatos de curas inexplicáveis foram associados à sua intercessão, 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Francisco Xavier Seelos Original](imagens/original.jpg) | ![Beato Francisco Xavier Seelos Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - Füssen (Alemanha): Cidade natal, onde viveu sua infância e juventude.

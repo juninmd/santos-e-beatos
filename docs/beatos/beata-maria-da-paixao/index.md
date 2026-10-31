@@ -50,7 +50,6 @@ A cura atribuída para sua beatificação validou o seu grau de intercessão jun
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Maria da Paixão Original](imagens/original.jpg) | ![Beata Maria da Paixão Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Da França, para a distante Índia e finalmente, pela consolidação em Roma e sua morte na Itália, a Beata desbravou o mundo do século XIX.

@@ -45,7 +45,6 @@ Embora seja mais conhecido por seu intelecto, a ele são atribuídos milagres de
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato João Duns Scotus Original](imagens/original.jpg) | ![Beato João Duns Scotus Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Scotus viajou extensivamente para estudar e ensinar, passando pela Escócia, Inglaterra, França e Alemanha.

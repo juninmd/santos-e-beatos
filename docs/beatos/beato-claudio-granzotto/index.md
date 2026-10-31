@@ -45,10 +45,9 @@ Numerosos outros relatos locais de intervenções miraculosas e curas sem explic
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Cláudio Granzotto Original](imagens/original.jpg) | ![Beato Cláudio Granzotto Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Santa Lucia di Piave, Itália**: Local do seu nascimento, primeira infância e desenvolvimento de seus talentos iniciais.

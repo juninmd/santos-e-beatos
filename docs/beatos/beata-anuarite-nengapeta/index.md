@@ -30,10 +30,9 @@ Quando era menina, ela secretamente subiu a bordo do caminhão de um sacerdote p
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Anuarite Nengapeta Original](imagens/original.jpg) | ![Beata Anuarite Nengapeta Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 Nasceu na aldeia perto de **Wamba** e mais tarde mudou-se para a missão de **Bafwabaka**, onde professou os seus votos religiosos na Congregação das Irmãs da Sagrada Família. Ela viveu grande parte de sua vida religiosa nesta área e ensinou escolas na província até que os rebeldes capturaram as irmãs e as levaram para **Isiro** (antiga Paulis), o local de seu martírio.
 

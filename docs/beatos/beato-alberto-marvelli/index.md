@@ -46,7 +46,6 @@ Sua vida inteira, dedicada intensamente ao próximo em tempos de crise, é frequ
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Alberto Marvelli Original](imagens/original.jpg) | ![Beato Alberto Marvelli Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 A vida de Alberto foi marcada por seu nascimento em Ferrara e, de forma mais significativa, por sua ação heroica e política na cidade de Rimini.

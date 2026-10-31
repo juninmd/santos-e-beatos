@@ -41,7 +41,6 @@ Em 1292, apesar de sua relutância, ele foi nomeado Arcebispo de Gênova. Como a
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Tiago de Voragine Original](imagens/original.jpg) | ![Beato Tiago de Voragine Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

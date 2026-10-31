@@ -44,7 +44,6 @@ O milagre que levou à beatificação do Pe. Luigi Monza ocorreu em 1965 e envol
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Luigi Monza Original](imagens/original.jpg) | ![Beato Luigi Monza Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - Cislago, Itália (Nascimento)

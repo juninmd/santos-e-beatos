@@ -38,10 +38,9 @@ Em 1956, ocorreu um milagre crucial para o seu processo de beatificação em Mil
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Maria dos Apóstolos Original](imagens/original.jpg) | ![Beata Maria dos Apóstolos Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

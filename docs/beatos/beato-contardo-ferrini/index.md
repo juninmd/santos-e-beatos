@@ -43,10 +43,9 @@ A sua fama de santidade espalhou-se rapidamente, especialmente entre os estudant
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Contardo Ferrini Original](imagens/original.jpg) | ![Beato Contardo Ferrini Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Milão, Itália:** A sua cidade natal, onde cresceu e absorveu os valores cristãos na sua família.

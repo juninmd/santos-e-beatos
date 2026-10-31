@@ -41,10 +41,9 @@ Embora Jordão não fosse especialmente conhecido por milagres espetaculares dur
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Jordão da Saxônia Original](imagens/original.jpg) | ![Beato Jordão da Saxônia Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

@@ -46,7 +46,6 @@ Apesar de sua juventude, sua saúde era frágil, possivelmente devido às duras 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Ivan Merz Original](imagens/original.jpg) | ![Beato Ivan Merz Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Banja Luka, Bósnia e Herzegovina:** Sua cidade natal, onde cresceu e fez seus primeiros estudos.

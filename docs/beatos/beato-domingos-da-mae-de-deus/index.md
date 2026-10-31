@@ -37,7 +37,6 @@ Os milagres reconhecidos para a sua beatificação envolveram curas de doenças 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Domingos da Mãe de Deus Original](imagens/original.jpg) | ![Beato Domingos da Mãe de Deus Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 A jornada do Beato Domingos levou-o das fazendas rurais italianas ao centro do renascimento católico inglês.
 - **Viterbo, Itália:** Nasceu perto desta cidade, trabalhou como pastor e ouviu seu chamado religioso.

@@ -42,7 +42,6 @@ Sua beatificação por João Paulo II em 1988 foi possível após o reconhecimen
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Savina Petrilli Original](imagens/original.jpg) | ![Beata Savina Petrilli Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 *   **Siena (Itália):** Cidade onde nasceu, fundou a congregação e faleceu.

@@ -49,7 +49,6 @@ Por ter sido reconhecido como mártir *in odium fidei*, a beatificação dispens
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Franz Jägerstätter Original](imagens/original.jpg) | ![Beato Franz Jägerstätter Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu e viveu em St. Radegund, na Alta Áustria; foi instruído militarmente em Enns, preso em Linz e Berlim, e executado em Brandemburgo-Görden, na Alemanha.

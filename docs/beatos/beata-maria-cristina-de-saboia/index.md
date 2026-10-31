@@ -44,7 +44,6 @@ O processo de beatificação foi longo. Em 2013, o Papa Francisco aprovou um mil
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Maria Cristina de Saboia Original](imagens/original.jpg) | ![Beata Maria Cristina de Saboia Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 *   **Cagliari**: Capital da Sardenha, onde nasceu durante o exílio de sua família.

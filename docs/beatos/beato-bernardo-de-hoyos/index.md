@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Bernardo de Hoyos
 
 # Beato Bernardo de Hoyos
 
-![Beato Bernardo de Hoyos](imagens/restaurada_4k.jpg)
+![Beato Bernardo de Hoyos](imagens/restaurada_colorida_4k.jpg)
 
 > "Achei o tesouro escondido! O Coração de Jesus!"
 
@@ -44,10 +44,9 @@ A fama de santidade de Bernardo começou logo após sua morte, mas o milagre rec
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Bernardo de Hoyos Original](imagens/original.jpg) | ![Beato Bernardo de Hoyos Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Bernardo de Hoyos Original](imagens/original.jpg) | ![Beato Bernardo de Hoyos Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 O jovem Beato Bernardo de Hoyos viveu intensamente em algumas regiões da Espanha:

@@ -49,10 +49,9 @@ Os milagres atribuídos à Beata Catarina frequentemente envolvem curas inexplic
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Cover da Beata Catarina de Santo Agostinho Original](imagens/original.jpg) | ![Cover da Beata Catarina de Santo Agostinho Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beata Catarina de Santo Agostinho Original](imagens/original.jpg) | ![Beata Catarina de Santo Agostinho Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - **Saint-Sauveur-le-Vicomte, França:** Sua cidade natal, onde nasceu e cresceu, sentindo o chamado para a vida religiosa.

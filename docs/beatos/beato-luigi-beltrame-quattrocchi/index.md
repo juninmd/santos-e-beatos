@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luigi Beltrame Qu
 
 # Beato Luigi Beltrame Quattrocchi
 
-![Beato Luigi Beltrame Quattrocchi](imagens/restaurada_4k.jpg)
+![Beato Luigi Beltrame Quattrocchi](imagens/restaurada_colorida_4k.jpg)
 
 > "Um modelo de santidade na vida conjugal e familiar."
 
@@ -41,10 +41,9 @@ O milagre que abriu caminho para a beatificação conjunta de Luigi e sua esposa
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Luigi Beltrame Quattrocchi Original](imagens/original.jpg) | ![Beato Luigi Beltrame Quattrocchi Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Luigi Beltrame Quattrocchi Original](imagens/original.jpg) | ![Beato Luigi Beltrame Quattrocchi Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - **Catânia, Itália:** Sua cidade natal na Sicília.

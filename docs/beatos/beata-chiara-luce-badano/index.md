@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Chiara Luce Badan
 
 # Beata Chiara Luce Badano
 
-![Beata Chiara Luce Badano](imagens/restaurada_colorida_4k.jpg)
+![Beata Chiara Luce Badano](imagens/restaurada_4k.jpg)
 
 > "Eu não tenho mais nada, mas ainda tenho o meu coração com o qual posso amar a Jesus."
 
@@ -49,10 +49,9 @@ Incontáveis graças, tanto espirituais quanto físicas, têm sido creditadas à
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada em 4K |
 | :---: | :---: |
-| ![Beata Chiara Luce Badano Original](imagens/original.jpg) | ![Beata Chiara Luce Badano Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beata Chiara Luce Badano Original](imagens/original.jpg) | ![Beata Chiara Luce Badano Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

@@ -42,7 +42,6 @@ Demonstrando heroica caridade, ele dedicou as últimas semanas de sua vida alime
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Richard Henkes Original](imagens/original.jpg) | ![Beato Richard Henkes Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Ruppach-Goldhausen, Alemanha:** Cidade de seu nascimento.

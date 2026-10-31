@@ -46,10 +46,9 @@ Reconhecido mártir *in odium fidei*, sua beatificação não exigiu milagre —
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Marcel Callo Original](imagens/original.jpg) | ![Beato Marcel Callo Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu e cresceu em Rennes, na França; foi deportado para Zella-Mehlis, na Turíngia, passou pelas prisões de Gotha e Flossenbürg e morreu no campo de Mauthausen, na Áustria.

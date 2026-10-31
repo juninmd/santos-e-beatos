@@ -43,10 +43,9 @@ O milagre que permitiu a sua beatificação envolveu a cura instantânea e inexp
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Guadalupe Ortiz de Landázuri Original](imagens/original.jpg) | ![Beata Guadalupe Ortiz de Landázuri Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 *   Madri, Espanha (Nascimento e vida universitária)

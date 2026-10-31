@@ -53,7 +53,6 @@ Seu coração e seu sangue, recolhidos após o assassinato, permanecem incorrupt
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Stanley Rother Original](imagens/original.jpg) | ![Beato Stanley Rother Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 *   **Okarche, Oklahoma (EUA):** Cidade natal, onde cresceu e está sepultado.

@@ -49,7 +49,6 @@ O milagre reconhecido para a beatificação foi a cura de uma religiosa scalabri
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Assunta Marchetti Original](imagens/original.jpg) | ![Beata Assunta Marchetti Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu em Lombrici di Camaiore, na Toscana, e viveu de 1895 a 1948 no Brasil, sobretudo em São Paulo, onde está sepultada.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades, cidades por onde passou e mapa d
 
 # Beato Hermann de Reichenau
 
-![Beato Hermann de Reichenau](imagens/restaurada_4k.jpg)
+![Beato Hermann de Reichenau](imagens/restaurada_colorida_4k.jpg)
 
 > "O Gênio Paralisado, Cantor de Maria"
 
@@ -43,10 +43,9 @@ A sua vida é frequentemente vista como um milagre de graça e resiliência, dem
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Hermann de Reichenau Original](imagens/original.jpg) | ![Beato Hermann de Reichenau Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Hermann de Reichenau Original](imagens/original.jpg) | ![Beato Hermann de Reichenau Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Toda a sua vida a partir dos sete anos foi passada no Mosteiro da Ilha de Reichenau, um dos centros culturais e espirituais mais importantes do Império Romano-Germânico na Idade Média.

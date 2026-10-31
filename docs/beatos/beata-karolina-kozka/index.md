@@ -41,10 +41,9 @@ Após sua beatificação, diversos relatos de favores espirituais e curas físic
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Karolina Kózka Original](imagens/original.jpg) | ![Beata Karolina Kózka Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

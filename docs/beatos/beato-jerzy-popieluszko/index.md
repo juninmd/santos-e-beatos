@@ -51,10 +51,9 @@ Ele foi brutalmente espancado, torturado e amarrado de tal forma que, se tentass
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Jerzy Popiełuszko Original](imagens/original.jpg) | ![Beato Jerzy Popiełuszko Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 * **Okopy, Polônia:** Local de nascimento e infância rural.

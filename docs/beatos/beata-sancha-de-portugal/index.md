@@ -44,7 +44,6 @@ A Sancha e às suas irmãs (Teresa e Mafalda) foram atribuídos diversos milagre
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Sancha de Portugal Original](imagens/original.jpg) | ![Beata Sancha de Portugal Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 A vida de Sancha esteve intimamente ligada ao centro de Portugal, destacando-se a cidade de Coimbra e a vila de Alenquer.

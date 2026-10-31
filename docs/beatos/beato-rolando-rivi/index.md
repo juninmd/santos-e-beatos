@@ -44,10 +44,9 @@ Foi reconhecido mártir *in odium fidei* — o decreto foi assinado por Bento XV
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Rolando Rivi Original](imagens/original.jpg) | ![Beato Rolando Rivi Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu e viveu em San Valentino di Castellarano, estudou no seminário de Marola e foi morto em Piane di Monchio, todas na região da Emília-Romanha, na Itália.

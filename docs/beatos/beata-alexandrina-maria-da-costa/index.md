@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Alexandrina Maria
 
 # Beata Alexandrina Maria da Costa
 
-![Beata Alexandrina Maria da Costa](imagens/restaurada_4k.jpg)
+![Beata Alexandrina Maria da Costa](imagens/restaurada_colorida_4k.jpg)
 
 > "Amar, sofrer, reparar."
 
@@ -40,10 +40,9 @@ Foi uma alma vítima, e a sua união mística com Jesus culminou na sua vivênci
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beata Alexandrina Maria da Costa Original](imagens/original.jpg) | ![Beata Alexandrina Maria da Costa Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beata Alexandrina Maria da Costa Original](imagens/original.jpg) | ![Beata Alexandrina Maria da Costa Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 * **Balasar (Portugal):** A freguesia onde nasceu, onde ocorreu o salto heroico da janela, onde viveu toda a sua vida acamada em profunda mística, e onde faleceu.

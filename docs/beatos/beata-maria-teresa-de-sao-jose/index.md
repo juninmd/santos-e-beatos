@@ -50,7 +50,6 @@ Em vida, seu maior milagre foi a própria fundação e expansão da sua obra em 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Maria Teresa de São José Original](imagens/original.jpg) | ![Beata Maria Teresa de São José Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Beata Maria Teresa viajou incansavelmente para fundar e visitar as diversas casas de sua Congregação.

@@ -43,10 +43,9 @@ Determinados a impedir que o Padre Maurício levasse sua causa às autoridades e
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Maurício Tornay Original](imagens/original.jpg) | ![Beato Maurício Tornay Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - La Rosière, Orsières, Suíça (Nascimento e juventude)

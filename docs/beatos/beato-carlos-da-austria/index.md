@@ -65,12 +65,6 @@ O Beato Carlos é um modelo de governante cristão, pai de família e pacificado
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Carlos da Áustria Original](imagens/original.jpg) | ![Beato Carlos da Áustria Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
-### Outras Imagens
-
-| Imagem | Descrição |
-| --- | --- |
-| ![Beato Carlos da Áustria](./imagens/cover.jpg) | O Imperador Carlos I e a Imperatriz Zita. |

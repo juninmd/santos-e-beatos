@@ -41,7 +41,6 @@ A fama de santidade de Francisco Gárate era tão grande que, logo após a sua m
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Francisco Gárate Original](imagens/original.jpg) | ![Beato Francisco Gárate Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Azpeitia, Espanha:** Sua cidade natal, próxima a Loyola.

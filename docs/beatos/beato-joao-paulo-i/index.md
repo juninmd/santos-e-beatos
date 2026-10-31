@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato João Paulo I.
 
 # Beato João Paulo I
 
-![Beato João Paulo I](imagens/restaurada_4k.jpg)
+![Beato João Paulo I](imagens/restaurada_colorida_4k.jpg)
 
 > "O Papa do Sorriso."
 
@@ -46,10 +46,9 @@ O milagre reconhecido para a beatificação foi a cura de Candela Giarda, uma me
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato João Paulo I Original](imagens/original.jpg) | ![Beato João Paulo I Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato João Paulo I Original](imagens/original.jpg) | ![Beato João Paulo I Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Nasceu em Canale d'Agordo, formou-se em Belluno e Roma, foi bispo de Vittorio Veneto e Patriarca de Veneza, e morreu no Vaticano.

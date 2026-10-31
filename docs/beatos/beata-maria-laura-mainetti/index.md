@@ -43,7 +43,6 @@ O reconhecimento de seu martírio pela Igreja, "in odium fidei" (por ódio à f�
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Maria Laura Mainetti Original](imagens/original.jpg) | ![Beata Maria Laura Mainetti Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Colico:** Cidade natal.

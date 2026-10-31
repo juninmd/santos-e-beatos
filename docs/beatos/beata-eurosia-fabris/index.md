@@ -51,7 +51,6 @@ Para sua beatificação, a Igreja reconheceu milagres alcançados por sua interc
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Eurosia Fabris Original](imagens/original.jpg) | ![Beata Eurosia Fabris Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <br>

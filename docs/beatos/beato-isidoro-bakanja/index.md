@@ -49,10 +49,9 @@ Ele faleceu em 15 de agosto de 1909, na Solenidade da Assunção de Nossa Senhor
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Isidoro Bakanja Original](imagens/original.jpg) | ![Beato Isidoro Bakanja Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Isidoro viveu toda sua vida na região do Congo.

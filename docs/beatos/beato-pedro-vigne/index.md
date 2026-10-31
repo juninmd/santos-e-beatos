@@ -46,7 +46,6 @@ Inesgotável em seu zelo pastoral, Pedro continuou a pregar até os seus último
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Pedro Vigne Original](imagens/original.jpg) | ![Beato Pedro Vigne Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - Privas, França (Nascimento e infância)

@@ -36,10 +36,9 @@ Guido via em cada pobre e doente a face de Cristo sofredor. Sua espiritualidade 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Guido de Montpellier Original](imagens/original.jpg) | ![Beato Guido de Montpellier Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 O mapa abaixo reúne os lugares ligados a Beato Guido de Montpellier: nascimento, morte, milagres e locais de devoção.

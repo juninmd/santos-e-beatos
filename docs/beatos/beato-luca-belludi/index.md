@@ -42,7 +42,6 @@ Em 1256, quando o cruel tirano Ezzelino da Romano oprimia Pádua e seus habitant
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Luca Belludi Original](imagens/original.jpg) | ![Beato Luca Belludi Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

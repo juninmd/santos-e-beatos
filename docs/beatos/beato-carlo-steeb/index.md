@@ -41,8 +41,7 @@ Exames médicos posteriores comprovaram o inexplicável desaparecimento completo
 
 | Original | Restaurada em 4K |
 | :---: | :---: |
-| ![Retrato Original](imagens/original.jpg) | ![Retrato Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Carlo Steeb Original](imagens/original.jpg) | ![Beato Carlo Steeb Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - Tübingen (Alemanha)

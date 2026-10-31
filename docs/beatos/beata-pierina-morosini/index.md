@@ -44,7 +44,6 @@ Após o ataque, Pierina foi levada ao hospital, onde permaneceu em coma profundo
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Pierina Morosini Original](imagens/original.jpg) | ![Beata Pierina Morosini Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Fiobbio di Albino, Itália:** Local do seu nascimento, vida inteira e onde sofreu o martírio.

@@ -47,7 +47,6 @@ O milagre que a levou à beatificação envolveu a cura inexplicável de uma mul
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Maria Celeste Crostarosa Original](imagens/original.jpg) | ![Beata Maria Celeste Crostarosa Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Nápoles, Itália:** Sua cidade natal, onde cresceu e recebeu sua formação inicial.

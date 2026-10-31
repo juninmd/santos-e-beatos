@@ -50,7 +50,6 @@ Após a batalha de Viena, ele libertou um grupo de prisioneiros muçulmanos cond
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Marcos de Aviano Original](imagens/original.jpg) | ![Beato Marcos de Aviano Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

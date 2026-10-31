@@ -47,7 +47,6 @@ Em relação à sua causa de beatificação, a Igreja reconheceu-o oficialmente 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Karl Leisner Original](imagens/original.jpg) | ![Beato Karl Leisner Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

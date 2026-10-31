@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Miguel Pro.
 
 # Beato Miguel Pro
 
-![Beato Miguel Pro](imagens/restaurada_4k.jpg)
+![Beato Miguel Pro](imagens/restaurada_colorida_4k.jpg)
 
 > "Viva Cristo Rei!"
 
@@ -45,10 +45,9 @@ Sua beatificação foi impulsionada pela fama de santidade e martírio, e muitos
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Miguel Pro Original](imagens/original.jpg) | ![Beato Miguel Pro Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Miguel Pro Original](imagens/original.jpg) | ![Beato Miguel Pro Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Nasceu em Guadalupe (Zacatecas), estudou na Europa e foi martirizado na Cidade do México.

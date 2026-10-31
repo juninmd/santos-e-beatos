@@ -39,10 +39,9 @@ Como mártir da Igreja, o milagre que o elevou aos altares foi a entrega de sua 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Miroslav Bulešić Original](imagens/original.jpg) | ![Beato Miroslav Bulešić Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 O mapa abaixo reúne os lugares ligados a Beato Miroslav Bulešić:

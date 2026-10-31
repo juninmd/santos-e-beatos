@@ -48,7 +48,6 @@ A canonização de suas irmãs Beata Mafalda e Beata Sancha de Portugal gerou ai
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Teresa de Portugal Original](imagens/original.jpg) | ![Beata Teresa de Portugal Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Teresa viveu durante as turbulentas e formadoras primeiras décadas de Portugal como Reino.

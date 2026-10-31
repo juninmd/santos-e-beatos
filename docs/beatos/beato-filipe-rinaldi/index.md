@@ -45,7 +45,6 @@ Para sua beatificação em 1990 pelo Papa João Paulo II, foi reconhecido um mil
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Filipe Rinaldi Original](imagens/original.jpg) | ![Beato Filipe Rinaldi Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Lu Monferrato, Itália:** Cidade natal onde passou os primeiros anos de vida.

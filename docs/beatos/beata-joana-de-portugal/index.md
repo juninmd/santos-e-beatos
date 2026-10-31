@@ -44,7 +44,6 @@ Um dos relatos mais conhecidos descreve que as flores sobre o seu túmulo não m
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Joana de Portugal Original](imagens/original.jpg) | ![Beata Joana de Portugal Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Lisboa:** Cidade onde nasceu, cresceu na corte e exerceu temporariamente o cargo de regente do reino.

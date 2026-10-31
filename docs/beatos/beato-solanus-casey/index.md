@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Solanus Casey.
 
 # Beato Solanus Casey
 
-![Beato Solanus Casey](imagens/restaurada_4k.jpg)
+![Beato Solanus Casey](imagens/restaurada_colorida_4k.jpg)
 
 > "O Porteiro de Deus"
 
@@ -47,10 +47,9 @@ Para sua beatificação, o Vaticano reconheceu a cura milagrosa de Paula Medina 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Solanus Casey Original](imagens/original.jpg) | ![Beato Solanus Casey Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Solanus Casey Original](imagens/original.jpg) | ![Beato Solanus Casey Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

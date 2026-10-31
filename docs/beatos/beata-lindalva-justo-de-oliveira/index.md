@@ -49,7 +49,6 @@ Por ser mártir, sua beatificação não exigiu milagre. Desde a morte, o abrigo
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Lindalva Justo de Oliveira Original](imagens/original.jpg) | ![Beata Lindalva Justo de Oliveira Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu em Açu, no Rio Grande do Norte, formou-se para a vida religiosa em Recife e no Rio de Janeiro, e viveu seus últimos anos em Salvador, onde foi martirizada e onde repousa.

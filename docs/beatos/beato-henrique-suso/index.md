@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Henrique Suso.
 
 # Beato Henrique Suso
 
-![Beato Henrique Suso](imagens/restaurada_4k.jpg)
+![Beato Henrique Suso](imagens/restaurada_colorida_4k.jpg)
 
 > "O Minnesänger da Sabedoria Divina"
 
@@ -47,10 +47,9 @@ Seus milagres após a morte estão principalmente ligados a curas espirituais e 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Henrique Suso Original](imagens/original.jpg) | ![Beato Henrique Suso Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Henrique Suso Original](imagens/original.jpg) | ![Beato Henrique Suso Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - Constança, Alemanha (Nascimento, ingresso na Ordem Dominicana e grande parte de sua vida)

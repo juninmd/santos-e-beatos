@@ -42,7 +42,6 @@ Trabalhou com a Beata Maria dos Apóstolos (Therese von Wüllenweber) para funda
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Francisco Jordan Original](imagens/original.jpg) | ![Beato Francisco Jordan Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - Gurtweil (Alemanha)

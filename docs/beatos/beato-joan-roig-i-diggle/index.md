@@ -47,10 +47,9 @@ Ele não precisou ter milagres diretamente aprovados pelo processo de canonizaç
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Joan Roig i Diggle Original](imagens/original.jpg) | ![Beato Joan Roig i Diggle Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Joan morou principalmente em Barcelona e em cidades vizinhas como El Masnou, na Catalunha, onde cresceu e formou seu caráter religioso. Sua execução ocorreu em Santa Coloma de Gramenet.

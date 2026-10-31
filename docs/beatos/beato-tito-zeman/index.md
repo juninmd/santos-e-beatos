@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Tito Zeman.
 
 # Beato Tito Zeman
 
-![Beato Tito Zeman](imagens/restaurada_4k.jpg)
+![Beato Tito Zeman](imagens/restaurada_colorida_4k.jpg)
 
 > "Sacerdote salesiano que sacrificou a vida para salvar vocações na época da perseguição comunista."
 
@@ -42,10 +42,9 @@ A beatificação do Beato Tito Zeman foi fundamentada não por um milagre, mas p
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Tito Zeman Original](imagens/original.jpg) | ![Beato Tito Zeman Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Tito Zeman Original](imagens/original.jpg) | ![Beato Tito Zeman Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 * Vajnory, Bratislava: Seu local de nascimento e descanso final.

@@ -50,7 +50,6 @@ A vida de Ana de São Bartolomeu foi pontuada por fenômenos místicos e graças
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Ana de São Bartolomeu Original](imagens/original.jpg) | ![Beata Ana de São Bartolomeu Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Ana viajou incansavelmente como companheira de Santa Teresa, e depois por conta própria:

@@ -57,7 +57,6 @@ O Beato Ildefonso Schuster é lembrado como um verdadeiro "Pai dos Pobres" e um 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Ildefonso Schuster Original](imagens/original.jpg) | ![Beato Ildefonso Schuster Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Alano de la Roche
 
 # Beato Alano de la Roche
 
-![Beato Alano de la Roche](imagens/restaurada_4k.jpg)
+![Beato Alano de la Roche](imagens/restaurada_colorida_4k.jpg)
 
 > "A quem me servir fielmente pela recitação do Rosário, eu prometo graças singulares."
 
@@ -62,6 +62,6 @@ O impacto de Alano de la Roche é imensurável, pois foi ele o grande catalisado
 
 ## Galeria de Imagens e Restaurações
 
-| Imagem Original | Restauração / Ilustração |
-| --- | --- |
-| ![Beato Alano](./imagens/portrait.jpg) | ![Capa](./imagens/cover.jpg) |
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Alano de la Roche Original](imagens/original.jpg) | ![Beato Alano de la Roche Restaurada](imagens/restaurada_colorida_4k.jpg) |

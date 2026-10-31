@@ -49,7 +49,6 @@ Este milagre, minuciosamente investigado pelas comissões médicas do Vaticano, 
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Miriam Teresa Demjanovich Original](imagens/original.jpg) | ![Beata Miriam Teresa Demjanovich Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Miriam Teresa Demjanovich viveu e atuou no estado de Nova Jersey, EUA, deixando um impacto profundo e duradouro na região.

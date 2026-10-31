@@ -46,7 +46,6 @@ O milagre aprovado para sua beatificação foi a cura inexplicável de uma pesso
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Elisabetta Canori Mora Original](imagens/original.jpg) | ![Beata Elisabetta Canori Mora Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Roma, Itália:** Viveu toda a sua vida em Roma, onde suportou os sofrimentos de seu casamento e onde desenvolveu sua intensa vida mística.

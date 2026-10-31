@@ -47,7 +47,6 @@ Por ter sido reconhecida como mártir, sua beatificação dispensou a comprovaç
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Albertina Berkenbrock Original](imagens/original.jpg) | ![Beata Albertina Berkenbrock Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Toda a sua vida transcorreu em São Luís, distrito de Imaruí, no litoral sul de Santa Catarina, onde nasceu, morreu e onde hoje repousa.

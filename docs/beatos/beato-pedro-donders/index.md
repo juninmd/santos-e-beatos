@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Pedro Donders.
 
 # Beato Pedro Donders
 
-![Beato Pedro Donders](imagens/restaurada_4k.jpg)
+![Beato Pedro Donders](imagens/restaurada_colorida_4k.jpg)
 
 > "Aos leprosos, ele deu a sua vida; aos pobres, o seu coração."
 
@@ -42,10 +42,9 @@ Para além deste milagre formal, a própria vida de Pedro Donders em Batávia, c
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Pedro Donders Original](imagens/original.jpg) | ![Beato Pedro Donders Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Pedro Donders Original](imagens/original.jpg) | ![Beato Pedro Donders Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 * **Tilburg (Países Baixos):** Local de nascimento e juventude.

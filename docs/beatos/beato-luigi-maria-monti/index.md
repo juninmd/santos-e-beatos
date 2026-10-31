@@ -41,10 +41,9 @@ A esposa e as filhas de Giovanni começaram a rezar intensamente, pedindo a inte
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Retrato Original](imagens/original.jpg) | ![Retrato Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Luigi Maria Monti Original](imagens/original.jpg) | ![Beato Luigi Maria Monti Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - Bovisio Masciago (Itália)
@@ -67,6 +66,6 @@ A figura de Luigi Monti representa um ideal poderoso para os profissionais de sa
 
 ## Galeria
 
-| ![Retrato](imagens/restaurada_4k.jpg) | ![Capa](./imagens/cover.jpg) |
+| ![Retrato](imagens/restaurada_colorida_4k.jpg) | ![Capa](./imagens/cover.jpg) |
 | :---: | :---: |
 | *Retrato de Beato Luigi Maria Monti.* | *Beato Luigi Maria Monti.* |

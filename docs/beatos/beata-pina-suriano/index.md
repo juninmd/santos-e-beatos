@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Pina Suriano.
 
 # Beata Pina Suriano
 
-![Beata Pina Suriano](imagens/restaurada_colorida_4k.jpg)
+![Beata Pina Suriano](imagens/restaurada_4k.jpg)
 
 > "Senhor, a ti confio a minha vida. Que seja feita a tua vontade."
 
@@ -43,10 +43,9 @@ Aos poucos, sua saúde física começou a declinar, e ela sofreu de diversas enf
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada em 4K |
 | :---: | :---: |
-| ![Beata Pina Suriano Original](imagens/original.jpg) | ![Beata Pina Suriano Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beata Pina Suriano Original](imagens/original.jpg) | ![Beata Pina Suriano Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Sua vida e missão foram inteiramente dedicadas à sua cidade natal na Sicília.

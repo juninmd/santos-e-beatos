@@ -59,9 +59,3 @@ O impacto do Beato Basílio Moreau continua vivo principalmente na Congregação
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Basílio Moreau Original](imagens/original.jpg) | ![Beato Basílio Moreau Restaurada](imagens/restaurada_4k.jpg) |
-
-### Outras Imagens
-
-| Imagem | Descrição |
-| --- | --- |
-| ![Beato Basílio Moreau](./imagens/cover.jpg) | Retrato do Beato Basílio Moreau. |

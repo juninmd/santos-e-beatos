@@ -47,7 +47,6 @@ O milagre reconhecido para a beatificação foi a cura de uma mulher espanhola q
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Manuel Lozano Garrido Original](imagens/original.jpg) | ![Beato Manuel Lozano Garrido Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu, escreveu e morreu em Linares, na província de Jaén, onde está sepultado.

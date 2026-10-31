@@ -49,7 +49,6 @@ O milagre que permitiu sua beatificação foi a cura de um recém-nascido paragu
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Chiquitunga Original](imagens/original.jpg) | ![Beata Chiquitunga Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu e cresceu em Villarrica. Viveu em Assunção, onde estudou e ingressou no Carmelo. Durante a guerra civil de 1947, sua família refugiou-se brevemente em Posadas, na Argentina.

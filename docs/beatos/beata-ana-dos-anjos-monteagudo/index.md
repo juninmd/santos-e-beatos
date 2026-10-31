@@ -45,7 +45,6 @@ A Beata Ana dos Anjos foi agraciada com muitos dons místicos. Ela tinha visões
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Ana dos Anjos Monteagudo Original](imagens/original.jpg) | ![Beata Ana dos Anjos Monteagudo Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 - **Arequipa (Peru):** A única cidade em que viveu, no Mosteiro de Santa Catalina, onde nasceu, passou toda a sua vida consagrada e faleceu.
 

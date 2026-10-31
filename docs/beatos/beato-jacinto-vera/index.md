@@ -42,7 +42,6 @@ A sua beatificação foi impulsionada pela cura milagrosa de Maria del Carmen G�
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Jacinto Vera Original](imagens/original.jpg) | ![Beato Jacinto Vera Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Oceano Atlântico:** Onde nasceu a bordo do navio.

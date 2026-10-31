@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Michael McGivney.
 
 # Beato Michael McGivney
 
-![Beato Michael McGivney](imagens/restaurada_4k.jpg)
+![Beato Michael McGivney](imagens/restaurada_colorida_4k.jpg)
 
 > "Unidade e Caridade."
 
@@ -57,6 +57,6 @@ O legado do Beato Michael McGivney continua vivo através dos Cavaleiros de Colo
 
 ## Galeria de Imagens e Restaurações
 
-| Imagem Original | Imagem Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Original](imagens/cover.jpg) | ![Restaurada](imagens/portrait.jpg) |
+| ![Beato Michael McGivney Original](imagens/original.jpg) | ![Beato Michael McGivney Restaurada](imagens/restaurada_colorida_4k.jpg) |

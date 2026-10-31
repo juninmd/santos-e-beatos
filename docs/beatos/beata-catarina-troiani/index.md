@@ -41,10 +41,9 @@ A beatificação de Maria Catarina Troiani foi impulsionada pela confirmação d
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Catarina Troiani Original](imagens/original.jpg) | ![Beata Catarina Troiani Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Giuliano di Roma, Itália:** Sua cidade natal.

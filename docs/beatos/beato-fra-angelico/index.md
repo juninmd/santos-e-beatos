@@ -44,7 +44,6 @@ Sua beatificação reconheceu o culto imemorial e a fama de santidade que o acom
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Fra Angelico (João de Fiesole) Original](imagens/original.jpg) | ![Beato Fra Angelico (João de Fiesole) Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Fra Angelico viveu e trabalhou nos principais centros da Itália renascentista.

@@ -41,10 +41,9 @@ Atualmente, investiga-se um possível segundo milagre (necessário para a canoni
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Antônio Frederico Ozanam Original](imagens/original.jpg) | ![Beato Antônio Frederico Ozanam Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

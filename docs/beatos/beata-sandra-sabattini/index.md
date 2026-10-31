@@ -47,7 +47,6 @@ O milagre reconhecido para a beatificação foi a cura de Stefano Vitali, morado
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Sandra Sabattini Original](imagens/original.jpg) | ![Beata Sandra Sabattini Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu em Riccione, cresceu em Rimini, estudou medicina em Bolonha e morreu em Rimini, onde está sepultada na igreja da Comunidade Papa João XXIII.

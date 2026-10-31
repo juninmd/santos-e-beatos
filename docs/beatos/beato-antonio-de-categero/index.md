@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Antônio de Categ
 
 # Beato Antônio de Categeró
 
-![Beato Antônio de Categeró](imagens/restaurada_colorida_4k.jpg)
+![Beato Antônio de Categeró](imagens/restaurada_4k.jpg)
 
 > "Servir ao Senhor na pobreza e na humildade."
 
@@ -39,10 +39,9 @@ Os devotos começaram a relatar diversos milagres e curas operadas por sua inter
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada em 4K |
 | :---: | :---: |
-| ![Beato Antônio de Categeró Original](imagens/original.jpg) | ![Beato Antônio de Categeró Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
+| ![Beato Antônio de Categeró Original](imagens/original.jpg) | ![Beato Antônio de Categeró Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Barca (Cirenaica/Líbia):** Local de nascimento e sua juventude antes de ser escravizado.

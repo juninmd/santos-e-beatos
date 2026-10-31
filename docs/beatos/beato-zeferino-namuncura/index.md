@@ -44,10 +44,9 @@ O milagre reconhecido para a beatificação foi a cura de Valeria Herrera, uma m
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Zeferino Namuncurá Original](imagens/original.jpg) | ![Beato Zeferino Namuncurá Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu em Chimpay, na Patagônia argentina, estudou em Buenos Aires, viajou para a Itália e morreu em Roma; seus restos repousam hoje novamente em Chimpay.

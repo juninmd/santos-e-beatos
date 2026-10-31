@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Urbano V.
 
 # Beato Urbano V
 
-![Beato Urbano V](imagens/restaurada_4k.jpg)
+![Beato Urbano V](imagens/restaurada_colorida_4k.jpg)
 
 > "A Igreja e a fé são construídas não em muros e ouro, mas em corações firmes em Cristo."
 
@@ -41,10 +41,9 @@ Ele conseguiu retornar a Roma em 1367, onde começou a restaurar as basílicas d
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Urbano V Original](imagens/original.jpg) | ![Beato Urbano V Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Urbano V Original](imagens/original.jpg) | ![Beato Urbano V Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 O Beato Urbano V dividiu sua vida entre estudos na França e seus deveres diplomáticos e papais.

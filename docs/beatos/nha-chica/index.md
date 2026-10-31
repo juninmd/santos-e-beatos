@@ -50,7 +50,6 @@ O milagre aprovado pelo Vaticano para sua beatificação foi a cura inexplicáve
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Nhá Chica Original](imagens/original.jpg) | ![Beata Nhá Chica Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nhá Chica viveu quase toda a sua vida em **Baependi (MG)**, cidade que se tornou indissociável de sua imagem. Nasceu em **São João del-Rei (MG)**.

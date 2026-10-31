@@ -46,7 +46,6 @@ Milagres e curas foram relatados após a sua morte junto ao seu túmulo na Basí
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Inocêncio V Original](imagens/original.jpg) | ![Beato Inocêncio V Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Ana Catarina Emme
 
 # Beata Ana Catarina Emmerich
 
-![Beata Ana Catarina Emmerich](imagens/restaurada_4k.jpg)
+![Beata Ana Catarina Emmerich](imagens/restaurada_colorida_4k.jpg)
 
 > "A Mística da Paixão"
 
@@ -57,13 +57,6 @@ A beatificação de Ana Catarina Emmerich em 2004 reacendeu o interesse por suas
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beata Ana Catarina Emmerich Original](imagens/original.jpg) | ![Beata Ana Catarina Emmerich Restaurada](imagens/restaurada_4k.jpg) |
-
-### Outras Imagens
-
-| Imagem | Descrição |
-| --- | --- |
-| ![Beata Ana Catarina](imagens/portrait.jpg) | Retrato da Beata Ana Catarina Emmerich. |
-| ![Visões](imagens/cover.jpg) | Representação artística de suas visões. |
+| ![Beata Ana Catarina Emmerich Original](imagens/original.jpg) | ![Beata Ana Catarina Emmerich Restaurada](imagens/restaurada_colorida_4k.jpg) |

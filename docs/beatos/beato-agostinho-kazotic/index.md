@@ -42,7 +42,6 @@ Segundo a tradição, durante uma grande seca em Zagreb, o bispo Agostinho cavou
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Agostinho Kazotić Original](imagens/original.jpg) | ![Beato Agostinho Kazotić Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

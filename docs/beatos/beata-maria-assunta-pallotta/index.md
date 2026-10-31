@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Assunta Pal
 
 # Beata Maria Assunta Pallotta
 
-![Beata Maria Assunta Pallotta](imagens/restaurada_4k.jpg)
+![Beata Maria Assunta Pallotta](imagens/restaurada_colorida_4k.jpg)
 
 > "Eu irei a qualquer lugar que o Senhor quiser."
 
@@ -43,10 +43,9 @@ Durante a sua agonia na China, um perfume misterioso e celestial de violetas esp
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beata Maria Assunta Pallotta Original](imagens/original.jpg) | ![Beata Maria Assunta Pallotta Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beata Maria Assunta Pallotta Original](imagens/original.jpg) | ![Beata Maria Assunta Pallotta Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

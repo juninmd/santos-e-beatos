@@ -35,10 +35,9 @@ Sua espiritualidade era centrada na Paixão de Cristo e na Eucaristia. Ela foi u
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Elena Aiello Original](imagens/original.jpg) | ![Beata Elena Aiello Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 O mapa abaixo reúne os lugares ligados a Beata Elena Aiello: nascimento, morte, milagres e locais de devoção.

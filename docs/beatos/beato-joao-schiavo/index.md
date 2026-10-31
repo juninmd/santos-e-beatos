@@ -46,10 +46,9 @@ Sua esposa invocou a intercessão do Padre João Schiavo, colocando um santinho 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato João Schiavo Original](imagens/original.jpg) | ![Beato João Schiavo Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu na Itália, iniciou sua missão no Brasil em Jaguarão, e desenvolveu grande parte de seu apostolado em Caxias do Sul e arredores.

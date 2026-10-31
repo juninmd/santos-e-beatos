@@ -67,13 +67,3 @@ O legado do Beato Francisco Palau perdura através das Congregações das Irmãs
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Francisco Palau Original](imagens/original.jpg) | ![Beato Francisco Palau Restaurada](imagens/restaurada_4k.jpg) |
-
-### Outras Imagens
-
-| | |
-|---|---|
-| ![Beato Francisco Palau Missionário](https://placehold.co/400x300/jpg?text=Francisco+Palau) | ![Es Vedrà Ibiza](https://placehold.co/400x300/jpg?text=Es+Vedr%C3%A0) |
-| **Beato Francisco Palau em vestes carmelitas** | **Ilhota de Es Vedrà, local de seus retiros eremíticos** |
-
----
-*Beato Francisco Palau, rogai por nós para que amemos a Igreja com todo o nosso coração.*

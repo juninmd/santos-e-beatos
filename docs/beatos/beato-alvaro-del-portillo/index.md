@@ -49,7 +49,6 @@ O milagre reconhecido para a beatificação foi a cura de José Ignacio Ureta Wi
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Álvaro del Portillo Original](imagens/original.jpg) | ![Beato Álvaro del Portillo Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu em Madri, atravessou os Pirineus durante a Guerra Civil, viveu em Roma a partir de 1946 e morreu na capital italiana, onde está sepultado na igreja prelatícia de Santa Maria da Paz.

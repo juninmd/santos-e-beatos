@@ -50,7 +50,6 @@ Em 2011, a Diocese de Crato iniciou o processo de beatificação. Em 2019, o Pap
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Benigna Original](imagens/original.jpg) | ![Beata Benigna Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 O mapa abaixo reúne os lugares ligados a Beata Benigna: nascimento, morte, milagres e locais de devoção.

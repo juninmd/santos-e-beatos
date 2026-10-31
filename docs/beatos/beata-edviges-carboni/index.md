@@ -45,10 +45,9 @@ Faleceu pacificamente em 1952 em Roma. Sua vida de humildade heroica e abnegaç�
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Edviges Carboni Original](imagens/original.jpg) | ![Beata Edviges Carboni Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 * **Pozzomaggiore, Sardenha:** Sua terra natal, onde viveu por décadas servindo a família, os pobres e onde primeiramente recebeu os estigmas.

@@ -43,7 +43,6 @@ O processo de beatificação foi aberto em 2001. O Papa Francisco reconheceu seu
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Isabel Cristina Original](imagens/original.jpg) | ![Beata Isabel Cristina Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 O mapa abaixo reúne os lugares ligados a Beata Isabel Cristina: nascimento, morte, milagres e locais de devoção.

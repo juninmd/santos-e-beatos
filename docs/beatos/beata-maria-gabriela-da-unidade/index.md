@@ -49,7 +49,6 @@ O milagre reconhecido para a beatificação foi a cura de uma religiosa que sofr
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Maria Gabriela da Unidade Original](imagens/original.jpg) | ![Beata Maria Gabriela da Unidade Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu em Dorgali, na Sardenha, e viveu no mosteiro trapista de Grottaferrata, perto de Roma, onde morreu; seus restos foram depois transferidos para o mosteiro de Vitorchiano.

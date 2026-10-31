@@ -44,10 +44,9 @@ A vida singular do Beato Rupert Mayer revela aspectos notáveis sobre seu carát
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Rupert Mayer Original](imagens/original.jpg) | ![Beato Rupert Mayer Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - Stuttgart, Alemanha (Nascimento)

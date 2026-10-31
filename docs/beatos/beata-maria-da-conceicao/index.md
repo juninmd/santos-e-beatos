@@ -46,10 +46,9 @@ O milagre reconhecido para a beatificação foi a cura de uma mulher mexicana qu
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Concepción Cabrera de Armida (Conchita) Original](imagens/original.jpg) | ![Beata Concepción Cabrera de Armida (Conchita) Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 Nasceu em San Luis Potosí, viveu entre as fazendas da região e a Cidade do México, onde morreu e onde está sepultada, na Casa das Obras da Cruz.

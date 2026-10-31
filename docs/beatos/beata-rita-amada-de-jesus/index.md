@@ -48,10 +48,9 @@ Além deste milagre atestado formalmente, os seus biógrafos apontam um constant
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Rita Amada de Jesus Original](imagens/original.jpg) | ![Beata Rita Amada de Jesus Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Ribafeita (e Casalmendinho), Viseu, Portugal:** A aldeia de seu nascimento, e o lugar onde atuou vigorosamente como apóstola leiga e, mais tarde, fundou o seu amado Instituto.

@@ -46,10 +46,9 @@ O milagre formalmente reconhecido para a sua beatificação não envolveu uma cu
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beato Manuel Gómez González Original](imagens/original.jpg) | ![Beato Manuel Gómez González Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **San José de Ribarteme e Tuy, Espanha:** Local de nascimento e ordenação sacerdotal.

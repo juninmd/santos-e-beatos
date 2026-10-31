@@ -40,10 +40,9 @@ A sua beatificação foi impulsionada por inúmeros relatos de graças alcançad
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada/Colorizada |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
 | ![Beata Eusébia Palomino Yenes Original](imagens/original.jpg) | ![Beata Eusébia Palomino Yenes Restaurada](imagens/restaurada_colorida_4k.jpg) |
-
 ## Cidades por onde passou
 
 - Cantalpino (Espanha): A sua aldeia natal, onde viveu a infância em pobreza mas com grande fé.

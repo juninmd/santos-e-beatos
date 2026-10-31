@@ -48,7 +48,6 @@ A fama de santidade de Padre Victor começou ainda em vida e cresceu após sua m
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Padre Victor Original](imagens/original.jpg) | ![Beato Padre Victor Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 *   **Campanha (MG):** Cidade natal e primeiros anos.

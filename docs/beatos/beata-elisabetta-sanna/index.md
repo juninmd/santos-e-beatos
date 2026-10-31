@@ -44,7 +44,6 @@ A beatificação de Elisabetta Sanna foi aprovada após o reconhecimento de um m
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beata Elisabetta Sanna Original](imagens/original.jpg) | ![Beata Elisabetta Sanna Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 <MiracleMap :items='[

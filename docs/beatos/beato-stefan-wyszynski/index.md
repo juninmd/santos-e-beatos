@@ -47,7 +47,6 @@ A beatificação do Cardeal Stefan Wyszyński foi possibilitada pelo reconhecime
 | Original | Restaurada em 4K |
 | :---: | :---: |
 | ![Beato Stefan Wyszyński Original](imagens/original.jpg) | ![Beato Stefan Wyszyński Restaurada](imagens/restaurada_4k.jpg) |
-
 ## Cidades por onde passou
 
 - **Zuzela, Polônia:** Seu local de nascimento.

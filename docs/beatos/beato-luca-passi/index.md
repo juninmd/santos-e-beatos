@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luca Passi, funda
 
 # Beato Luca Passi
 
-![Beato Luca Passi](imagens/restaurada_4k.jpg)
+![Beato Luca Passi](imagens/restaurada_colorida_4k.jpg)
 
 > "Pai e Apóstolo da Juventude"
 
@@ -41,10 +41,9 @@ Mais além de fatos extraordinários, o grande milagre de Luca Passi foi a obra 
 
 ## Galeria de Imagens e Restaurações
 
-| Original | Restaurada em 4K |
+| Original | Restaurada/Colorizada em 4K |
 | :---: | :---: |
-| ![Beato Luca Passi Original](imagens/original.jpg) | ![Beato Luca Passi Restaurada](imagens/restaurada_4k.jpg) |
-
+| ![Beato Luca Passi Original](imagens/original.jpg) | ![Beato Luca Passi Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 O Beato Luca Passi focou seu apostolado nas cidades italianas, percorrendo-as para evangelizar as populações locais.
