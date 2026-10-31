@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Nicolau.
 
 # São Nicolau
 
-![São Nicolau](img/portrait.jpg)
+![São Nicolau](imagens/restaurada_4k.jpg)
 
 > "O protetor das crianças e dos pobres."
 
@@ -42,6 +42,13 @@ Muitos milagres são atribuídos a São Nicolau, valendo-lhe o título de "Tauma
 1.  **Papai Noel:** A figura de São Nicolau (Sinterklaas, em holandês) é a base histórica para o Papai Noel moderno. Sua generosidade e o hábito de dar presentes secretamente evoluíram para a lenda do bom velhinho.
 2.  **Padroeiro Universal:** É padroeiro da Rússia, da Grécia e de muitas cidades e profissões, incluindo marinheiros, crianças, arqueiros, penhoristas e estudantes.
 3.  **O "Maná" de São Nicolau:** De suas relíquias em Bari, exala-se um líquido conhecido como "maná de São Nicolau", que é recolhido anualmente e ao qual se atribuem propriedades curativas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Nicolau Original](imagens/original.jpg) | ![São Nicolau Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

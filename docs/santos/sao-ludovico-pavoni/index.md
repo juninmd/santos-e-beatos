@@ -4,7 +4,7 @@ description: Biografia, milagres, curiosidades e mapa de São Ludovico Pavoni.
 ---
 # São Ludovico Pavoni
 
-![São Ludovico Pavoni](imagens/portrait.jpg)
+![São Ludovico Pavoni](imagens/restaurada_4k.jpg)
 
 > "A caridade é o vínculo da perfeição."
 
@@ -34,6 +34,13 @@ São Ludovico Pavoni dedicou sua vida aos jovens e aos mais necessitados, e apó
 1. **A Escola Tipográfica:** A escola tipográfica fundada por Pavoni em 1821 foi a primeira escola do gênero na Itália. Ele entendia a importância da imprensa para a educação e para o futuro dos jovens.
 2. **Pai dos Jovens Operários:** Ele é frequentemente chamado de "Pai dos Jovens Operários" devido ao seu compromisso pioneiro com o treinamento vocacional para jovens em situação de risco.
 3. **Beatificado por São João Paulo II:** Pavoni foi beatificado no ano de 2002 pelo Papa São João Paulo II.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Ludovico Pavoni Original](imagens/original.jpg) | ![São Ludovico Pavoni Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

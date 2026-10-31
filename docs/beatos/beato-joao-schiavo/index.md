@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato João Schiavo.
 
 # Beato João Schiavo
 
-![Beato João Schiavo](imagens/portrait.jpg)
+![Beato João Schiavo](imagens/restaurada_colorida_4k.jpg)
 
 > "Pai, eu sempre quis fazer a tua vontade"
 
@@ -42,6 +42,13 @@ Sua esposa invocou a intercessão do Padre João Schiavo, colocando um santinho 
 
 1.  **Primeiro Beato da Diocese:** João Schiavo é o primeiro beato beatificado na Diocese de Caxias do Sul.
 2.  **Túmulo:** Seu túmulo, na Capela do Beato João Schiavo em Fazenda Souza, é local de constante peregrinação e graças alcançadas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato João Schiavo Original](imagens/original.jpg) | ![Beato João Schiavo Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

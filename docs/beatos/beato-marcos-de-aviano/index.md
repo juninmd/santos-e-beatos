@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Marcos de Aviano.
 
 # Beato Marcos de Aviano
 
-![Beato Marcos de Aviano](imagens/portrait.jpg)
+![Beato Marcos de Aviano](imagens/restaurada_4k.jpg)
 
 > "O Monge de Viena e Apóstolo da Europa"
 
@@ -43,6 +43,13 @@ Após a batalha de Viena, ele libertou um grupo de prisioneiros muçulmanos cond
 1.  **Origem do Cappuccino:** Uma lenda popular diz que, após a Batalha de Viena, sacas de café foram deixadas pelos otomanos derrotados. Por ser muito amargo, o café foi misturado com mel e leite, assumindo a cor do hábito de Marcos, um frade capuchinho, originando o termo "Cappuccino".
 2.  **O Croissant:** Outra lenda famosa associa a vitória inspirada por ele à criação do "Kipferl" (ancestral do croissant) pelos padeiros de Viena, feito no formato da meia-lua turca como comemoração.
 3.  **Crucifixo:** Ele costumava pregar segurando um simples crucifixo de madeira na mão, que frequentemente apontava para a multidão antes das curas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Marcos de Aviano Original](imagens/original.jpg) | ![Beato Marcos de Aviano Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

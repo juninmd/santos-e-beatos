@@ -36,6 +36,13 @@ Para sua canonização, a Igreja reconheceu dois milagres notáveis: a cura de u
 2. **Exílio Rigoroso:** Durante o período em que esteve preso em Piacenza e na Córsega por não jurar fidelidade a Napoleão, sofreu fome e frio intenso, quase morrendo. Esse período de purificação preparou-o para a vida austera das missões populares.
 3. **São Vicente Pallotti e São Gaspar:** Foi um grande amigo e contemporâneo de outro notável santo romano, São Vicente Pallotti. Pallotti foi seu confessor e permaneceu ao seu lado durante seus últimos momentos de vida, atestando sua profunda santidade.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Retrato Original](imagens/original.jpg) | ![Retrato Restaurada](imagens/restaurada_colorida_4k.jpg) |
+
 ## Cidades por onde passou
 
 - Roma (Itália)
@@ -57,6 +64,6 @@ São Gaspar del Búfalo deixou um legado imenso através da sua Congregação do
 
 ## Galeria
 
-| ![Retrato](imagens/portrait.jpg) | ![Capa](./imagens/cover.jpg) |
+| ![Retrato](imagens/restaurada_colorida_4k.jpg) | ![Capa](./imagens/cover.jpg) |
 | :---: | :---: |
 | *Retrato de São Gaspar del Búfalo.* | *São Gaspar del Búfalo.* |

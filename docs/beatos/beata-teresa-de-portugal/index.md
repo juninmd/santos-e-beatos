@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Teresa de Portuga
 
 # Beata Teresa de Portugal
 
-![Beata Teresa de Portugal](imagens/portrait.png)
+![Beata Teresa de Portugal](imagens/restaurada_4k.jpg)
 
 > "Desejo viver e morrer unida à cruz de meu Senhor." — Beata Teresa de Portugal (atribuída a sua espiritualidade)
 
@@ -41,6 +41,13 @@ A canonização de suas irmãs Beata Mafalda e Beata Sancha de Portugal gerou ai
 1. **Realeza Santa:** Teresa foi irmã das Beatas Mafalda e Sancha. As três filhas de D. Sancho I escolheram a vida monástica e tornaram-se notáveis intercessoras em Portugal. O grupo é frequentemente conhecido como "as Santas Rainhas" ou "Santas Infantas".
 2. **Pacificação:** Seu talento diplomático impediu o derramamento de sangue após a morte de seu ex-marido. Para evitar a guerra, Teresa mediou a sucessão, abrindo mão dos direitos de suas filhas para permitir que a coroa passasse a Fernando III, garantindo a paz entre Leão e Castela.
 3. **Mecenato e Reforma:** O Lorvão tornou-se não apenas um modelo de espiritualidade rigorosa sob os Cistercienses, mas também um formidável centro produtor de manuscritos iluminados financiados por sua patronagem.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Teresa de Portugal Original](imagens/original.jpg) | ![Beata Teresa de Portugal Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Carlo Gnocchi.
 
 # Beato Carlo Gnocchi
 
-![Beato Carlo Gnocchi](imagens/portrait.jpg)
+![Beato Carlo Gnocchi](imagens/restaurada_4k.jpg)
 
 > "O Pai dos Mutiladinhos."
 
@@ -39,6 +39,13 @@ O milagre aprovado para sua beatificação envolveu Sperandio Aldeni, um eletric
 1.  **Doação de Córneas:** Em seu leito de morte, Carlo Gnocchi pediu para doar suas córneas a duas crianças cegas de sua instituição, Silvio Colagrande e Amabile Battistello. Na época (1956), a doação de órgãos não era regulamentada na Itália, mas seu gesto abriu caminho para a legislação sobre transplantes no país.
 2.  **Capelão Alpino:** É venerado pelos "Alpini" (tropas de montanha italianas) como um herói e santo protetor, lembrando sua coragem ao acompanhar os soldados na neve e no gelo da Rússia.
 3.  **Processo Rápido:** Sua fama de santidade era tão grande que o processo de canonização começou pouco tempo após sua morte, impulsionado pela gratidão de milhares de pessoas que ele ajudou.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Carlo Gnocchi Original](imagens/original.jpg) | ![Beato Carlo Gnocchi Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

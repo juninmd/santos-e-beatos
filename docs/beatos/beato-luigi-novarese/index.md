@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luigi Novarese.
 
 # Beato Luigi Novarese
 
-![Beato Luigi Novarese](imagens/portrait.png)
+![Beato Luigi Novarese](imagens/restaurada_colorida_4k.jpg)
 
 > "O doente deve ser o autor do seu próprio apostolado."
 
@@ -62,7 +62,14 @@ O milagre que abriu caminho para a sua beatificação foi reconhecido em dezembr
 
 Hoje, o Beato Luigi Novarese é recordado como o "Apóstolo dos Doentes". O "Centro Voluntário do Sofrimento" (CVS) e os "Silenciosos Operários da Cruz" operam não apenas na Itália, mas em diversos países ao redor do mundo, do Brasil à Polônia, da Colômbia à África. A sua mensagem revolucionária – de que a pessoa que sofre não é um peso para a sociedade, mas um recurso espiritual ativo e indispensável – influenciou toda a pastoral da saúde da Igreja Católica contemporânea. O Papa João Paulo II chamou-o de "o apóstolo dos doentes, apóstolo no sofrimento".
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Luigi Novarese Original](imagens/original.jpg) | ![Beato Luigi Novarese Restaurada](imagens/restaurada_colorida_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

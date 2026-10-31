@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Moisés Lira.
 
 # Beato Moisés Lira
 
-![Beato Moisés Lira](imagens/portrait.jpg)
+![Beato Moisés Lira](imagens/restaurada_colorida_4k.jpg)
 
 > "É preciso saber viver e conviver."
 
@@ -41,6 +41,13 @@ Contra todos os prognósticos médicos, o líquido desapareceu completamente e o
 1.  **Pioneiro:** Foi o primeiro brasileiro a se tornar membro dos Oblatos de Maria Imaculada.
 2.  **Frase:** Sua frase "É preciso saber viver" tornou-se um lema para muitos que o seguiam, incentivando uma vida de virtude e equilíbrio.
 3.  **Devoção:** Tinha uma profunda devoção a Nossa Senhora das Dores, a quem confiou sua nova congregação.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Moisés Lira Original](imagens/original.jpg) | ![Beato Moisés Lira Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

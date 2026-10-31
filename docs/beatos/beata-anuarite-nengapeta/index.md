@@ -5,7 +5,7 @@ description: Biografia da Beata Marie-Clémentine Anuarite Nengapeta, virgem e m
 
 # Beata Anuarite Nengapeta
 
-![Beata Anuarite Nengapeta](imagens/portrait.jpg)
+![Beata Anuarite Nengapeta](imagens/restaurada_colorida_4k.jpg)
 
 > "Perdoo-vos, porque não sabeis o que fazeis."
 
@@ -26,6 +26,13 @@ Embora Anuarite Nengapeta seja venerada como mártir (o que dispensa a exigênci
 
 ## Curiosidades
 Quando era menina, ela secretamente subiu a bordo do caminhão de um sacerdote para ir à missão das freiras para seguir sua vocação. Sua mãe tentou desesperadamente impedi-la, mas Anuarite estava tão decidida a consagrar sua vida a Deus que acabou convencendo as freiras e, posteriormente, seus pais a deixarem-na seguir o caminho religioso.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Anuarite Nengapeta Original](imagens/original.jpg) | ![Beata Anuarite Nengapeta Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 Nasceu na aldeia perto de **Wamba** e mais tarde mudou-se para a missão de **Bafwabaka**, onde professou os seus votos religiosos na Congregação das Irmãs da Sagrada Família. Ela viveu grande parte de sua vida religiosa nesta área e ensinou escolas na província até que os rebeldes capturaram as irmãs e as levaram para **Isiro** (antiga Paulis), o local de seu martírio.

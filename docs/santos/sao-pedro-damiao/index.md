@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pedro Damião.
 
 # São Pedro Damião
 
-![Cover de São Pedro Damião](imagens/portrait.jpg)
+![Cover de São Pedro Damião](imagens/restaurada_4k.jpg)
 
 <img src="./imagens/portrait.jpg" alt="Retrato de São Pedro Damião" class="saint-portrait">
 
@@ -43,6 +43,13 @@ Um dos eventos milagrosos mais célebres na tradição relata que, após sua mor
 1. **O Nome Damião:** Adotou o sufixo "Damião" não como sobrenome de família, mas em honra a seu irmão mais velho, Damião, arquipreste em Ravena, que o resgatou da pobreza e financiou seus estudos superiores.
 2. **"Livro de Gomorra":** Escrito por volta de 1049 e dirigido ao Papa Leão IX, o seu tratado sobre a moralidade do clero ainda hoje é lembrado por sua coragem e zelo na purificação da Igreja, chamando a atenção pela forma crua e direta como lidava com o problema.
 3. **Dante Alighieri:** A grandeza de São Pedro Damião foi imortalizada por Dante Alighieri na *Divina Comédia*. Dante o coloca no sétimo céu do Paraíso, o Céu de Saturno, entre os espíritos contemplativos, celebrando sua busca radical por Deus no silêncio e na ascese.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Cover de São Pedro Damião Original](imagens/original.jpg) | ![Cover de São Pedro Damião Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

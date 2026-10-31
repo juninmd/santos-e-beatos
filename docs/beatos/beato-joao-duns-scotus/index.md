@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato João Duns Scotus
 
 # Beato João Duns Scotus
 
-![Beato João Duns Scotus](imagens/portrait.jpg)
+![Beato João Duns Scotus](imagens/restaurada_4k.jpg)
 
 > "Doutor Sutil e Mariano"
 
@@ -38,6 +38,13 @@ Embora seja mais conhecido por seu intelecto, a ele são atribuídos milagres de
 
 1.  **Epitáfio:** Em seu túmulo em Colônia, lê-se: "Scotia me genuit. Anglia me suscepit. Gallia me docuit. Colonia me tenet." (A Escócia me gerou. A Inglaterra me acolheu. A França me ensinou. Colônia me guarda.)
 2.  **Duns:** O termo "dunce" em inglês (significando tolo ou estúpido) derivou pejorativamente de seu nome, usado pelos humanistas renascentistas para ridicularizar os seguidores da escolástica, uma ironia dado o brilhantismo de Scotus.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato João Duns Scotus Original](imagens/original.jpg) | ![Beato João Duns Scotus Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

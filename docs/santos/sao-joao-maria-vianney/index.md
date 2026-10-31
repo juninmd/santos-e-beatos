@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Maria Vianne
 
 # São João Maria Vianney
 
-![São João Maria Vianney](imagens/portrait.png)
+![São João Maria Vianney](imagens/restaurada_4k.jpg)
 
 > "O Cura d'Ars, Patrono dos Párocos"
 
@@ -39,6 +39,13 @@ Inúmeros milagres e curas foram atribuídos a ele ainda em vida e após sua mor
 1. **Patrono dos Sacerdotes:** Em 1929, o Papa Pio XI declarou-o patrono de todos os párocos do mundo católico, reconhecendo o seu zelo incansável pelo ministério sacerdotal.
 2. **Estudante Com Dificuldades:** Suas dificuldades acadêmicas quase o impediram de ser ordenado. Seu bispo, no entanto, ao reconhecer sua santidade, declarou: "Ele é um modelo de piedade, não é? Bem, então eu o ordenarei."
 3. **Fuga Frustrada:** Ele tentou fugir de sua paróquia em Ars várias vezes devido a um senso de indignidade para com seu cargo como pároco e desejo de se refugiar num convento, mas sempre foi dissuadido pelos fiéis ou por um senso renovado de obediência a Deus.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Maria Vianney Original](imagens/original.jpg) | ![São João Maria Vianney Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

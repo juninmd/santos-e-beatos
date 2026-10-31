@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Matias.
 
 # São Matias
 
-![São Matias](imagens/portrait.jpg)
+![São Matias](imagens/restaurada_4k.jpg)
 
 > "E a sorte caiu sobre Matias."
 
@@ -40,6 +40,13 @@ Os *Atos de André e Matias*, texto apócrifo bastante difundido no Oriente, nar
 2. **Tréveris:** a Abadia de São Matias, em Tréveris, na Alemanha, é o único túmulo de apóstolo ao norte dos Alpes e recebe peregrinos desde a Idade Média.
 3. **Mudança de data:** sua festa era celebrada em 24 de fevereiro; a reforma do calendário de 1969 a transferiu para 14 de maio, para não cair na Quaresma.
 4. **Padroeiro:** dos alfaiates, dos carpinteiros e invocado contra o alcoolismo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Matias Original](imagens/original.jpg) | ![São Matias Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

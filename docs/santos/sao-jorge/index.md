@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Jorge.
 
 # São Jorge
 
-![São Jorge](imagens/sao-jorge.jpg)
+![São Jorge](imagens/restaurada_4k.jpg)
 
 > "Eu andarei vestido e armado com as armas de São Jorge."
 
@@ -44,6 +44,13 @@ Embora os detalhes históricos precisos sejam escassos, a figura de São Jorge d
 2.  **Padroeiro Mundial:** É padroeiro de diversos países e regiões, incluindo Inglaterra, Portugal, Geórgia, Catalunha, Lituânia, Sérvia, Etiópia, e das cidades do Rio de Janeiro (extraoficialmente, mas com grande devoção) e Moscou.
 3.  **Corinthians:** No Brasil, é o padroeiro do Sport Club Corinthians Paulista.
 4.  **Sincretismo:** No Brasil, devido à diáspora africana e à proibição de cultos de matriz africana no passado, São Jorge foi sincretizado com o orixá Ogum (na Umbanda e Candomblé do Rio de Janeiro e sul) e Oxóssi (na Bahia).
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Jorge Original](imagens/original.jpg) | ![São Jorge Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

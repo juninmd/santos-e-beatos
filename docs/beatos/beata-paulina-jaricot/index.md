@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Paulina Jaricot.
 
 # Beata Paulina Jaricot
 
-![Beata Paulina Jaricot](imagens/portrait.jpg)
+![Beata Paulina Jaricot](imagens/restaurada_4k.jpg)
 
 > "A Mãe das Missões"
 
@@ -39,6 +39,13 @@ O milagre aprovado para sua beatificação envolveu a cura de Mayline Tran, uma 
 1.  **Amizade Santa:** Paulina era amiga próxima de São João Maria Vianney, o Cura d'Ars, que a admirava profundamente e frequentemente a defendia.
 2.  **Influência Global:** A obra que ela iniciou sustenta milhares de dioceses missionárias ao redor do mundo até hoje.
 3.  **Rosário Vivo:** Estima-se que, na época de sua morte, mais de 2 milhões de pessoas na França faziam parte do Rosário Vivo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Paulina Jaricot Original](imagens/original.jpg) | ![Beata Paulina Jaricot Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

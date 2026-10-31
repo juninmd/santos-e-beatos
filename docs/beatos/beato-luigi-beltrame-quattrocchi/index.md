@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luigi Beltrame Qu
 
 # Beato Luigi Beltrame Quattrocchi
 
-![Beato Luigi Beltrame Quattrocchi](imagens/portrait.jpg)
+![Beato Luigi Beltrame Quattrocchi](imagens/restaurada_4k.jpg)
 
 > "Um modelo de santidade na vida conjugal e familiar."
 
@@ -37,6 +37,13 @@ O milagre que abriu caminho para a beatificação conjunta de Luigi e sua esposa
 - **Beatificação Conjunta:** Luigi e Maria Beltrame Quattrocchi foram o primeiro casal na história da Igreja a ser beatificado junto. A cerimônia ocorreu no 20º aniversário da Exortação Apostólica *Familiaris Consortio*, e o Papa João Paulo II estabeleceu o dia do aniversário de casamento deles (25 de novembro) como a festa litúrgica do casal.
 - **Participação dos Filhos:** Em um evento raro, três dos quatro filhos do casal (os padres Filippo e Cesare, e a filha Enrichetta) estavam vivos e presentes na missa de beatificação de seus pais no Vaticano em 2001.
 - O sobrenome composto "Beltrame Quattrocchi" ocorreu porque Luigi foi adotado por seus tios que não tinham filhos, acrescentando o sobrenome deles (Quattrocchi) ao seu original (Beltrame).
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Luigi Beltrame Quattrocchi Original](imagens/original.jpg) | ![Beato Luigi Beltrame Quattrocchi Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

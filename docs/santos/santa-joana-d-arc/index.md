@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Joana d'Arc.
 
 # Santa Joana d'Arc
 
-![Santa Joana d'Arc](imagens/portrait.jpg)
+![Santa Joana d'Arc](imagens/restaurada_4k.jpg)
 
 > "A Donzela de Orléans"
 
@@ -38,6 +38,13 @@ A canonização de Santa Joana d'Arc em 1920 exigiu a comprovação de milagres 
 1. **Julgamento de Reabilitação:** Em 1456, a pedido da mãe de Joana e por ordem do Papa Calisto III, o processo que a condenou foi anulado. Ela foi formalmente declarada mártir inocente.
 2. **Armadura Branca:** Joana d'Arc encomendou uma armadura branca para si, a qual foi feita sob medida para o seu corpo feminino, demonstrando que ela nunca escondeu seu gênero durante as batalhas, embora usasse roupas masculinas para proteção e praticidade nos acampamentos militares.
 3. **Analfabeta, mas Sábia:** Embora não soubesse ler nem escrever, as transcrições do seu julgamento revelam respostas de uma profunda sabedoria teológica, que impressionaram até mesmo os teólogos que a interrogavam.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Joana d'Arc Original](imagens/original.jpg) | ![Santa Joana d'Arc Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

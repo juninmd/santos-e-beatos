@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Mafalda de Portug
 
 # Beata Mafalda de Portugal
 
-![Beata Mafalda de Portugal](imagens/portrait.png)
+![Beata Mafalda de Portugal](imagens/restaurada_4k.jpg)
 
 > "A Princesa Cisterciense"
 
@@ -40,6 +40,13 @@ A devoção à Beata Mafalda cresceu logo após a sua morte, devido à sua fama 
 1. **Testamento Detalhado:** O testamento de D. Mafalda chegou até os dias de hoje e é um documento histórico valioso. Nele, ela distribui os seus bens por dezenas de mosteiros, hospitais, leprosarias, familiares e servos, demonstrando uma imensa caridade e espírito de justiça.
 2. **Culto com as Irmãs:** Mafalda era irmã de D. Sancha e D. Teresa, que também dedicaram as suas vidas à religião após desilusões matrimoniais e políticas. As três são conhecidas como as "Santas Rainhas" de Portugal, embora apenas Mafalda, Teresa e Sancha tenham sido beatificadas, e não canonizadas.
 3. **Morte Fora de Arouca:** Mafalda faleceu no Mosteiro de São Pedro de Amarante, enquanto regressava de uma viagem ao Porto ou a Guimarães. Seu corpo foi transportado de volta para Arouca, onde repousa até hoje.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Mafalda de Portugal Original](imagens/original.jpg) | ![Beata Mafalda de Portugal Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

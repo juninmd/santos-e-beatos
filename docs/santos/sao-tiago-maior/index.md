@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Tiago Maior.
 
 # São Tiago Maior
 
-![São Tiago Maior](imagens/portrait.jpg)
+![São Tiago Maior](imagens/restaurada_4k.jpg)
 
 > "Podes beber o cálice que eu vou beber?"
 
@@ -40,6 +40,13 @@ A tradição espanhola atribui a Tiago a aparição da Virgem do Pilar em Sarago
 2. **Compostela:** o nome é geralmente ligado a *campus stellae*, "campo da estrela", pela luz que, segundo a lenda, revelou o sepulcro ao eremita Pelágio.
 3. **Ano Santo Compostelano:** quando 25 de julho cai num domingo, abre-se a Porta Santa da catedral e o ano recebe indulgência plenária.
 4. **Botafumeiro:** o gigantesco incensário da catedral, com cerca de 60 kg, é movido por oito tiraboleiros e atravessa o transepto em festas solenes.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Tiago Maior Original](imagens/original.jpg) | ![São Tiago Maior Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

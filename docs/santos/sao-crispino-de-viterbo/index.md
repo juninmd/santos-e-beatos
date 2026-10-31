@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Crispino de Viterb
 
 # São Crispino de Viterbo
 
-![São Crispino de Viterbo](imagens/portrait.jpg)
+![São Crispino de Viterbo](imagens/restaurada_4k.jpg)
 
 > "Quem ama a Deus com o coração puro, vive sempre na alegria."
 
@@ -38,6 +38,13 @@ Houve também relatos de que ele tinha o dom da profecia e da leitura dos coraç
 - Ele era conhecido por seu senso de humor cativante e frequentemente usava ditados populares e histórias engraçadas para ensinar lições espirituais profundas.
 - O Papa Clemente XI gostava tanto de conversar com Frei Crispino que frequentemente o convidava para visitá-lo e pedia seus conselhos e orações.
 - Embora tenha sido canonizado pelo Papa João Paulo II em 1982 e seja, portanto, São Crispino de Viterbo, ele é tradicionalmente lembrado nas histórias capuchinhas pelo seu longo período como beato.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Crispino de Viterbo Original](imagens/original.jpg) | ![São Crispino de Viterbo Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Ana de São Barto
 
 # Beata Ana de São Bartolomeu
 
-![Beata Ana de São Bartolomeu](imagens/portrait.jpg)
+![Beata Ana de São Bartolomeu](imagens/restaurada_4k.jpg)
 
 > "Companheira Inseparável e Herdeira Espiritual de Santa Teresa de Ávila"
 
@@ -43,6 +43,13 @@ A vida de Ana de São Bartolomeu foi pontuada por fenômenos místicos e graças
 1.  **Proteção de Antuérpia:** O povo de Antuérpia ficou tão grato por sua intercessão durante o cerco militar que até hoje ela é considerada a padroeira e salvadora da cidade.
 2.  **Educação Milagrosa:** Como irmã leiga (encarregada de serviços manuais), ela não sabia ler ou escrever. Para que pudesse ser priora e dirigir fundações na França e na Bélgica, precisou aprender, e seus escritos posteriores revelam profunda sabedoria mística.
 3.  **Herança de Santa Teresa:** Ana de São Bartolomeu é reconhecida como aquela que melhor assimilou o espírito, a simplicidade e a teologia prática da fundadora, Santa Teresa de Jesus.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Ana de São Bartolomeu Original](imagens/original.jpg) | ![Beata Ana de São Bartolomeu Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

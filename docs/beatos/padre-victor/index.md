@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Padre Victor.
 
 # Beato Padre Victor
 
-![Beato Padre Victor](imagens/padre-victor.jpg)
+![Beato Padre Victor](imagens/restaurada_4k.jpg)
 
 > "Sua vida foi um Evangelho – sua memória, a sagração eterna de um exemplo vivo."
 
@@ -41,6 +41,13 @@ A fama de santidade de Padre Victor começou ainda em vida e cresceu após sua m
 1.  **Vencendo o Preconceito:** Padre Victor é um dos primeiros padres ex-escravos do Brasil e venceu o preconceito não com revolta, mas com amor e serviço.
 2.  **Perfume de Rosas:** Relatos históricos contam que, durante seu velório, que durou três dias devido à multidão que queria se despedir, seu corpo exalava um suave perfume de rosas, em vez de odor de decomposição.
 3.  **Anjo Tutelar:** É chamado de "Anjo Tutelar de Três Pontas" pela proteção espiritual que exerceu sobre a cidade.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Padre Victor Original](imagens/original.jpg) | ![Beato Padre Victor Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

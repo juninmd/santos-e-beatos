@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Francisco de Sales
 
 # São Francisco de Sales
 
-![São Francisco de Sales](imagens/portrait.jpg)
+![São Francisco de Sales](imagens/restaurada_4k.jpg)
 
 > "A doçura é a flor da caridade; a amabilidade é o seu perfume."
 
@@ -50,6 +50,13 @@ Inúmeros milagres foram atribuídos à intercessão de São Francisco de Sales,
 *   **Doutor do Amor:** Por seus profundos escritos sobre a caridade divina e humana, é frequentemente chamado de "Doutor do Amor".
 *   **Língua Incorrupta:** Após sua morte, ao exumarem seu corpo, verificou-se que parte de seu corpo estava incorrupta, mas sua língua, o instrumento de sua pregação, estava perfeitamente conservada.
 *   **Linguagem de Sinais:** Ele criou um método inicial de comunicação por sinais para se comunicar com um homem surdo a fim de ensiná-lo sobre Deus e prepará-lo para a comunhão. Por isso, é considerado por muitos o padroeiro dos surdos.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Francisco de Sales Original](imagens/original.jpg) | ![São Francisco de Sales Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

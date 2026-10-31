@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Paulo VI, o Papa d
 
 # São Paulo VI
 
-![São Paulo VI](imagens/portrait.jpg)
+![São Paulo VI](imagens/restaurada_4k.jpg)
 
 > "A civilização do amor precevalerá."
 
@@ -33,6 +33,13 @@ O milagre para sua beatificação em 2014 envolveu a cura inexplicável na Calif
 1. **Primeiro Papa Peregrino:** Foi o primeiro pontífice na era moderna a viajar de avião e visitar os cinco continentes, incluindo Terra Santa, Colômbia (Medellín), Uganda e as Nações Unidas em Nova York.
 2. **Coroa Papal:** Foi o último Papa a ser coroado com a tiara papal. Logo depois de recebê-la, desceu do trono e depositou-a no altar da Basílica de São Pedro como símbolo da renúncia ao poder temporal, sendo depois vendida e o dinheiro dado aos pobres.
 3. **Escapulário da Paixão:** Ele foi profundamente devoto e marcou o rumo da Igreja com um chamado constante à caridade evangélica, num tempo de extremismos políticos globais (Guerra Fria).
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Paulo VI Original](imagens/original.jpg) | ![São Paulo VI Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

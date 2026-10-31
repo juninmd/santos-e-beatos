@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Bernardo de Hoyos
 
 # Beato Bernardo de Hoyos
 
-![Beato Bernardo de Hoyos](imagens/portrait.jpg)
+![Beato Bernardo de Hoyos](imagens/restaurada_4k.jpg)
 
 > "Achei o tesouro escondido! O Coração de Jesus!"
 
@@ -40,6 +40,13 @@ A fama de santidade de Bernardo começou logo após sua morte, mas o milagre rec
 *   Morreu aos 24 anos, tendo vivido menos tempo, mas alcançou um impacto imensurável na espiritualidade de uma nação inteira.
 *   Sua primeira obra para promover a devoção foi traduzir, adaptar e publicar o livro "Tesouro Escondido", sobre o Sagrado Coração, que teve um enorme sucesso em toda a Espanha.
 *   Apesar de sua tenra idade, foi diretor espiritual e correspondente de várias figuras importantes da época.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Bernardo de Hoyos Original](imagens/original.jpg) | ![Beato Bernardo de Hoyos Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

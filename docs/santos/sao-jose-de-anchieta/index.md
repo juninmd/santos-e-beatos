@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José de Anchieta.
 
 # São José de Anchieta
 
-![São José de Anchieta](imagens/portrait.jpg)
+![São José de Anchieta](imagens/restaurada_4k.jpg)
 
 > "Apóstolo do Brasil"
 
@@ -45,6 +45,13 @@ Um dos milagres reconhecidos para sua beatificação foi a cura inexplicável de
 1.  **Poema à Virgem:** Em 1563, durante a Confederação dos Tamoios, Anchieta ofereceu-se como refém aos indígenas em Iperoig (atual Ubatuba) para garantir a paz. Durante o cativeiro, escreveu na areia da praia o "Poema à Virgem", com mais de 5.000 versos em latim, que depois transcreveu de memória para o papel.
 2.  **Apóstolo do Brasil:** É, junto com Nossa Senhora Aparecida, um dos padroeiros do Brasil.
 3.  **Parentesco:** Era parente de Santo Inácio de Loyola, fundador da Companhia de Jesus.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São José de Anchieta Original](imagens/original.jpg) | ![São José de Anchieta Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

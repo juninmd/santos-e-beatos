@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Edel Quinn.
 
 # Beata Edel Quinn
 
-![Beata Edel Quinn](imagens/portrait.png)
+![Beata Edel Quinn](imagens/restaurada_4k.jpg)
 
 > "Deus me chamou e eu vou, venha o que vier."
 
@@ -33,6 +33,13 @@ Inúmeros testemunhos de graças alcançadas através de sua intercessão foram 
 1. **Sacrifício na África:** Mesmo nos estágios finais de sua doença avançada, Edel recusava-se a parar de viajar para fundar grupos da Legião de Maria, afirmando que a melhor maneira de morrer era trabalhando pela Mãe de Deus.
 2. **Coração Jovem:** Era conhecida por seu sorriso brilhante, senso de humor e espírito inquebrantável. Nunca reclamava de suas terríveis dores físicas.
 3. **Respeito dos Bispos:** Ao chegar na África, seu zelo e santidade pessoal convenceram rapidamente os bispos céticos que temiam que seu estado de saúde fosse um fardo para a missão.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Edel Quinn Original](imagens/original.jpg) | ![Beata Edel Quinn Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa de Santa Dinfna.
 
 # Santa Dinfna
 
-![Santa Dinfna](imagens/portrait.jpg)
+![Santa Dinfna](imagens/restaurada_4k.jpg)
 
 > "Padroeira da Saúde Mental e dos Doentes Psiquiátricos"
 
@@ -39,6 +39,13 @@ Enfurecido, o rei ordenou que seus soldados decapitassem o Padre Gereberno e ten
 1.  **Modelo de Tratamento Psiquiátrico:** Em Geel, foi construída uma igreja em honra a Santa Dinfna. Devido aos inúmeros peregrinos em busca de curas psiquiátricas, os habitantes da cidade começaram a acolher doentes em suas casas. Essa tradição secular tornou a cidade uma referência internacional no tratamento comunitário e humanizado de transtornos mentais, o qual sobrevive até hoje.
 2.  **Representação Artística:** É frequentemente retratada como uma jovem princesa segurando uma espada ou com o demônio acorrentado a seus pés, simbolizando a vitória sobre a doença mental. Em muitas imagens mais antigas, sua espada também fura o pescoço de um demônio, em alusão à sua alcunha de Matadora de Demônios.
 3.  **Lírio de Éire:** Também é conhecida como Lírio da Irlanda (Éire) devido a sua virtude inabalável e pureza de intenções.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Dinfna Original](imagens/original.jpg) | ![Santa Dinfna Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

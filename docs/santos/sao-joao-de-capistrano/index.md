@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João de Capistran
 
 # São João de Capistrano
 
-![São João de Capistrano](./imagens/portrait.jpg)
+![São João de Capistrano](imagens/restaurada_4k.jpg)
 
 > "Aquele que trabalha com as próprias mãos é um trabalhador. Aquele que trabalha com as mãos e a cabeça é um artesão. Aquele que trabalha com as mãos, a cabeça e o coração é um artista."
 
@@ -33,6 +33,13 @@ Sua vida foi cercada de curas extraordinárias e milagres que aconteciam durante
 1. **O Santo Soldado:** Participou ativamente da Batalha de Belgrado aos 70 anos de idade, liderando as tropas cristãs na vitória contra os turcos.
 2. **Padroeiro:** É o padroeiro dos juristas e dos capelães militares.
 3. **Missões:** O seu nome inspirou as famosas missões espanholas nas Américas, como a Missão San Juan Capistrano, na Califórnia (famosa pelo retorno das andorinhas).
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João de Capistrano Original](imagens/original.jpg) | ![São João de Capistrano Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

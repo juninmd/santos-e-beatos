@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Joan Roig i Diggl
 
 # Beato Joan Roig i Diggle
 
-![Beato Joan Roig i Diggle](imagens/portrait.jpg)
+![Beato Joan Roig i Diggle](imagens/restaurada_colorida_4k.jpg)
 
 > "Mártir da Guerra Civil Espanhola"
 
@@ -43,6 +43,13 @@ Ele não precisou ter milagres diretamente aprovados pelo processo de canonizaç
 - **Nacionalidade mista:** Ele tinha ascendência britânica através de sua mãe, Maud Diggle, casada com seu pai catalão, Ramón Roig.
 - **Formação de "Apóstolo":** Ele frequentou o Colégio La Salle Bonanova e a escola dos Padres Escolápios, instituições em que demonstrou profundo zelo evangelizador com o ideal de "restaurar todas as coisas em Cristo".
 - **Seminário Clandestino:** A perseguição na época foi tão grave que o bispo local delegou a certos jovens de confiança (como Joan Roig) que guardassem e transportassem o Santíssimo Sacramento pelas ruas escondidos de seus perseguidores, tornando-os uma nova "geração de Tarcísios".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Joan Roig i Diggle Original](imagens/original.jpg) | ![Beato Joan Roig i Diggle Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Tiago Menor.
 
 # São Tiago Menor
 
-![São Tiago Menor](imagens/portrait.jpg)
+![São Tiago Menor](imagens/restaurada_4k.jpg)
 
 > "A fé sem obras é morta."
 
@@ -40,6 +40,13 @@ Os relatos antigos ligam a Tiago menos prodígios espetaculares e mais a fama de
 2. **Relíquias em Roma:** seus restos são venerados junto aos de São Filipe na Basílica dos Santos Doze Apóstolos, e por isso a Igreja celebrava os dois no mesmo dia.
 3. **A Liturgia de São Tiago:** uma das mais antigas anáforas cristãs, ainda usada pelas Igrejas siríaca e ortodoxa, leva seu nome como primeiro bispo de Jerusalém.
 4. **Padroeiro:** dos chapeleiros, dos boticários e dos moribundos.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Tiago Menor Original](imagens/original.jpg) | ![São Tiago Menor Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -41,6 +41,13 @@ Inúmeros relatos de curas inexplicáveis foram associados à sua intercessão, 
 - Ele sempre mantinha o sorriso e uma alegria contagiante, sendo frequentemente chamado de "O Padre Alegre".
 - O Santuário Nacional do Beato Francisco Xavier Seelos em Nova Orleans abriga seus restos mortais e é um centro de intensa peregrinação nos Estados Unidos.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Francisco Xavier Seelos Original](imagens/original.jpg) | ![Beato Francisco Xavier Seelos Restaurada](imagens/restaurada_colorida_4k.jpg) |
+
 ## Cidades por onde passou
 
 - Füssen (Alemanha): Cidade natal, onde viveu sua infância e juventude.
@@ -60,4 +67,4 @@ O Beato Seelos é lembrado como um modelo de sacerdote compassivo e de missioná
   { lat: 29.9511, lng: -90.0715, title: "Nova Orleans, EUA", description: "Local de falecimento em 4 de outubro de 1867 por febre amarela.", type: "morte" }
 ]' />
 
-![Beato Francisco Xavier Seelos](imagens/portrait.jpg)
+![Beato Francisco Xavier Seelos](imagens/restaurada_colorida_4k.jpg)

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Lucas.
 
 # São Lucas
 
-![São Lucas](imagens/portrait.jpg)
+![São Lucas](imagens/restaurada_4k.jpg)
 
 > "O médico amado."
 
@@ -40,6 +40,13 @@ Sendo médico, Lucas é lembrado menos por prodígios pessoais do que por ter re
 2. **Pintor de Nossa Senhora:** uma tradição do século VI o apresenta como o primeiro iconógrafo, autor de retratos de Maria — daí ser padroeiro dos pintores e das academias de belas-artes.
 3. **Túmulo em Pádua:** seus restos são venerados na Basílica de Santa Justina, em Pádua. Um exame científico realizado em 1998 confirmou que o corpo é de um homem idoso, de origem síria, morto por volta do século I ou II.
 4. **Padroeiro:** dos médicos, cirurgiões, enfermeiros, pintores e açougueiros.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Lucas Original](imagens/original.jpg) | ![São Lucas Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

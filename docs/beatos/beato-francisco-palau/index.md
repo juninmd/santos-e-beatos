@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Francisco Palau.
 
 # Beato Francisco Palau
 
-![Beato Francisco Palau](imagens/portrait.jpg)
+![Beato Francisco Palau](imagens/restaurada_4k.jpg)
 
 > "A Igreja é o amor da minha vida; a ela me entrego sem reservas."
 
@@ -61,7 +61,14 @@ A causa de beatificação do Padre Francisco Palau foi impulsionada por milagres
 
 O legado do Beato Francisco Palau perdura através das Congregações das Irmãs Carmelitas Missionárias e das Carmelitas Missionárias Teresianas, que continuam sua obra em escolas, hospitais e missões em dezenas de países ao redor do mundo. Seu ensino sobre a Igreja como Mistério de Comunhão antecipou notavelmente a eclesiologia do Concílio Vaticano II. Ele inspira a união entre a profunda contemplação interior e a ação apostólica ardente em favor dos mais necessitados.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Francisco Palau Original](imagens/original.jpg) | ![Beato Francisco Palau Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | | |
 |---|---|

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Manuel Lozano Gar
 
 # Beato Manuel Lozano Garrido
 
-![Beato Manuel Lozano Garrido](imagens/portrait.jpg)
+![Beato Manuel Lozano Garrido](imagens/restaurada_4k.jpg)
 
 > "Lolo, o santo jornalista."
 
@@ -40,6 +40,13 @@ O milagre reconhecido para a beatificação foi a cura de uma mulher espanhola q
 2. **"Lolo":** o apelido de infância acabou virando seu nome público e figura na documentação oficial da causa.
 3. **Nove livros sem enxergar:** os últimos títulos foram inteiramente ditados, já cego e praticamente imóvel.
 4. **Padroeiro:** invocado pelos jornalistas, escritores e pessoas com deficiência.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Manuel Lozano Garrido Original](imagens/original.jpg) | ![Beato Manuel Lozano Garrido Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

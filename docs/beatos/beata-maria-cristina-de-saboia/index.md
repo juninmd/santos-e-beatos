@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Cristina de
 
 # Beata Maria Cristina de Saboia
 
-![Beata Maria Cristina de Saboia](imagens/portrait.jpg)
+![Beata Maria Cristina de Saboia](imagens/restaurada_4k.jpg)
 
 > "Creio em Deus, amo a Deus, espero em Deus."
 
@@ -37,6 +37,13 @@ Maria Cristina morreu em 31 de janeiro de 1836, aos 23 anos, devido a complicaç
 ## Milagres e Beatificação
 
 O processo de beatificação foi longo. Em 2013, o Papa Francisco aprovou um milagre atribuído à sua intercessão: a cura inexplicável de uma mulher genovese, Maria Vallarino, que sofria de câncer de mama e fígado, em 1866. A beatificação ocorreu em 25 de janeiro de 2014, na Basílica de Santa Clara em Nápoles, onde seu corpo repousa.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Cristina de Saboia Original](imagens/original.jpg) | ![Beata Maria Cristina de Saboia Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

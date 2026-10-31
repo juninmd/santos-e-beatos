@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pier Giorgio Frass
 
 # São Pier Giorgio Frassati
 
-![São Pier Giorgio Frassati](imagens/pier-giorgio.jpg)
+![São Pier Giorgio Frassati](imagens/restaurada_colorida_4k.jpg)
 
 > "O Homem das Oito Bem-Aventuranças"
 
@@ -49,6 +49,13 @@ Foi solenemente canonizado em 7 de setembro de 2025, na Praça de São Pedro, pe
 2.  **Engenheiro de Minas:** Escolheu essa profissão para estar perto dos operários mais explorados da época.
 3.  **Corpo Incorrupto:** Quando seu corpo foi transladado em 1981, foi encontrado incorrupto.
 4.  **Cachimbo:** É frequentemente retratado fumando cachimbo, mostrando que a santidade é compatível com hábitos cotidianos saudáveis e a alegria.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Pier Giorgio Frassati Original](imagens/original.jpg) | ![São Pier Giorgio Frassati Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

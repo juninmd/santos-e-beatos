@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Columba Marmion.
 
 # Beato Columba Marmion
 
-![Beato Columba Marmion](imagens/portrait.jpg)
+![Beato Columba Marmion](imagens/restaurada_4k.jpg)
 
 > "Mestre da Vida Espiritual e da Adoção Divina"
 
@@ -42,6 +42,13 @@ Muitas outras graças são relatadas por pessoas que se aprofundam em seus ensin
 - **Doutrina da Adoção Divina:** O núcleo de todo o seu ensinamento era a doutrina de que, por meio de Cristo, fomos adotados por Deus como Seus filhos, uma verdade que ele via como a chave de toda a vida espiritual cristã.
 - **Guia de Papas:** Os ensinamentos de Dom Columba Marmion tiveram uma influência tremenda em vários papas. O próprio Papa São João Paulo II, que o beatificou, considerava seus escritos essenciais para a formação espiritual.
 - **Sotaque Irlandês:** Mesmo após décadas vivendo na Bélgica e falando fluentemente francês e latim, nunca perdeu seu forte sotaque irlandês e seu fino senso de humor.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Columba Marmion Original](imagens/original.jpg) | ![Beato Columba Marmion Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

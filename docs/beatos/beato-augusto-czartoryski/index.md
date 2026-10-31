@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Augusto Czartorys
 
 # Beato Augusto Czartoryski
 
-![Beato Augusto Czartoryski](imagens/portrait.jpg)
+![Beato Augusto Czartoryski](imagens/restaurada_4k.jpg)
 
 > "Um Príncipe para os Jovens"
 
@@ -52,7 +52,14 @@ Augusto Czartoryski nasceu em Paris, mas a maior parte da sua formação e vida 
 
 O Beato Augusto Czartoryski é um exemplo poderoso de renúncia às glórias terrenas por um amor maior a Deus e ao próximo. Para a Congregação Salesiana e para a Igreja, ele simboliza o compromisso radical com o serviço aos mais necessitados. Seu legado nos inspira, em um mundo frequentemente focado em poder e riquezas materiais, a procurar a verdadeira alegria no serviço e na vida dedicada aos valores espirituais e aos jovens vulneráveis.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Augusto Czartoryski Original](imagens/original.jpg) | ![Beato Augusto Czartoryski Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

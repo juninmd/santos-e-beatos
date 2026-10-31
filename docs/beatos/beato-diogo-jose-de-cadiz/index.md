@@ -5,7 +5,7 @@ description: Biografia, milagres e impacto do Beato Diogo José de Cádis, grand
 
 # Beato Diogo José de Cádis
 
-![Beato Diogo José de Cádis](imagens/portrait.jpg)
+![Beato Diogo José de Cádis](imagens/restaurada_4k.jpg)
 
 > "O apóstolo da Espanha no século XVIII"
 
@@ -42,6 +42,13 @@ Após sua morte, sua fama de santidade continuou. Curas inexplicáveis por inter
 - **Relíquias:** Hoje as relíquias do Beato Diogo José repousam na igreja paroquial de Nossa Senhora da Paz, em Ronda, Andaluzia.
 - **Dom do Conhecimento Infunso:** Muitas vezes ele exibia conhecimentos teológicos muito avançados sem ter recebido estudo formal para aquilo, dizendo ele que tudo que sabia o aprendera de joelhos.
 - **Autor e Pregador:** Escreveu um número imenso de sermões, opúsculos ascéticos e também obras que combatiam a difusão da incredulidade da época do Iluminismo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Diogo José de Cádis Original](imagens/original.jpg) | ![Beato Diogo José de Cádis Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa de São Lourenço Ruiz, o
 
 # São Lourenço Ruiz
 
-![São Lourenço Ruiz](imagens/portrait.jpg)
+![São Lourenço Ruiz](imagens/restaurada_4k.jpg)
 
 > "Sou católico e de todo o coração aceito a morte por Deus. Se tivesse mil vidas, todas elas ofereceria a Ele."
 
@@ -38,6 +38,13 @@ Apesar da dor excruciante, Lourenço Ruiz recusou-se veementemente a renunciar a
 - **Milagre de Canonização:** O milagre que levou à sua canonização foi a cura inexplicável de Cecília Alegria Policarpio, uma menina filipina de dois anos, portadora de atrofia cerebral, em 1983.
 - **Associação Dominicana:** Embora fosse leigo, ele estava associado à Confraria do Santíssimo Rosário, administrada pela Ordem dos Dominicanos.
 - **Beatificação em Manila:** Sua beatificação, em 1981, pelo Papa João Paulo II, foi a primeira cerimônia de beatificação realizada fora do Vaticano, ocorrendo em Manila, nas Filipinas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Lourenço Ruiz Original](imagens/original.jpg) | ![São Lourenço Ruiz Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

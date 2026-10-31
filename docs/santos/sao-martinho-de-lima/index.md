@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Martinho de Lima.
 
 # São Martinho de Lima
 
-![São Martinho de Lima](imagens/portrait.jpg)
+![São Martinho de Lima](imagens/restaurada_4k.jpg)
 
 > "A vassoura de Frei Martinho."
 
@@ -43,6 +43,13 @@ Chamava a si mesmo de "pobre mulato" e "cão mestiço" e pedia repetidamente par
 2. **Padroeiro da justiça social:** ao canonizá-lo em 1962 — em plena luta pelos direitos civis nos Estados Unidos —, João XXIII o apresentou como modelo de harmonia entre raças, e sua devoção se espalhou entre comunidades negras das Américas.
 3. **Amigo dos animais:** mantinha no convento uma espécie de enfermaria para cães e gatos feridos, e a tradição lhe atribui um trato natural com os bichos.
 4. **Padroeiro:** dos barbeiros e cabeleireiros, dos trabalhadores da saúde pública, da justiça social e da harmonia racial; é padroeiro do Peru junto com Santa Rosa.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Martinho de Lima Original](imagens/original.jpg) | ![São Martinho de Lima Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

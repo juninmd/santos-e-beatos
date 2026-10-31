@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo André Kim Taegõ
 
 # Santo André Kim Taegõn
 
-![Santo André Kim Taegõn](imagens/portrait.jpg)
+![Santo André Kim Taegõn](imagens/restaurada_4k.jpg)
 
 > "Nesta vida, se a nossa vida for cheia de tristezas, e por fim morrermos e formos ao inferno, como seria lamentável! Em contrapartida, se alcançarmos a glória do paraíso depois da nossa morte, todas as dores desta vida nada são."
 
@@ -38,6 +38,13 @@ Os milagres atribuídos a Santo André Kim Taegõn e aos Mártires Coreanos (103
 - Durante seus interrogatórios, André desenhou um mapa detalhado da Coreia e de seus arredores para as autoridades do governo, pois possuía um vasto conhecimento geográfico que surpreendeu seus captores.
 - Em 2021, a UNESCO celebrou o 200º aniversário de seu nascimento, reconhecendo o seu impacto na história e na cultura.
 - Ele era poliglota, sendo fluente em coreano, chinês, latim e possuindo bom entendimento de francês.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo André Kim Taegõn Original](imagens/original.jpg) | ![Santo André Kim Taegõn Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

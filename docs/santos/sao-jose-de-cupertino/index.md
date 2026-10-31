@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José de Cupertino
 
 # São José de Cupertino
 
-![São José de Cupertino](imagens/portrait.jpg)
+![São José de Cupertino](imagens/restaurada_4k.jpg)
 
 > "O santo que não conseguia esconder seu amor por Deus, levitando em êxtase e mostrando a glória do Senhor aos homens."
 
@@ -42,6 +42,13 @@ Os milagres de São José de Cupertino estão em grande parte associados às sua
 - **O "Santo Voador":** Devido às suas famosas levitações, é amplamente conhecido como o "santo voador".
 - **Padroeiro dos Estudantes e Examinandos:** A ironia divina de que um homem que quase foi rejeitado por sua inabilidade nos estudos seja hoje o principal padroeiro dos estudantes. Sua própria aprovação miraculosa é motivo de oração de milhares de estudantes ao redor do mundo em época de exames.
 - **Padroeiro da Aviação:** Por sua habilidade de levitar e "voar", ele também é invocado como padroeiro de pilotos e astronautas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São José de Cupertino Original](imagens/original.jpg) | ![São José de Cupertino Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

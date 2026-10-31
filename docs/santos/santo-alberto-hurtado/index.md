@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Alberto Hurtado.
 
 # Santo Alberto Hurtado
 
-![Santo Alberto Hurtado](imagens/portrait.jpg)
+![Santo Alberto Hurtado](imagens/restaurada_colorida_4k.jpg)
 
 > "É bom ser bom, mas é melhor ser justo."
 
@@ -42,6 +42,13 @@ Após fervorosas orações a Padre Hurtado por parte de seus pais e da comunidad
 - Ele foi o segundo santo chileno a ser canonizado, após Santa Teresa dos Andes.
 - Hurtado foi um autor prolífico. Escreveu diversos livros sobre educação, justiça social e espiritualidade, sendo o mais famoso "É o Chile um país católico?".
 - Seu lema e atitude perante a vida e o sofrimento era "Contento, Señor, contento" (Contente, Senhor, contente), demonstrando sua profunda confiança na vontade de Deus.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Santo Alberto Hurtado Original](imagens/original.jpg) | ![Santo Alberto Hurtado Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

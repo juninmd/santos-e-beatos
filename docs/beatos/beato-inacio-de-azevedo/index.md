@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Inácio de Azeved
 
 # Beato Inácio de Azevedo
 
-![Beato Inácio de Azevedo](imagens/portrait.png)
+![Beato Inácio de Azevedo](imagens/restaurada_4k.jpg)
 
 > "Todos, todos por Cristo!"
 
@@ -40,6 +40,13 @@ A tradição conta que, no momento do martírio, o corpo de Inácio não afundou
 *   **Imagem de Nossa Senhora:** A imagem de Nossa Senhora que Inácio segurava durante o martírio é venerada como Nossa Senhora de *Populo* (do Povo) ou Nossa Senhora dos Mártires. Diz-se que a imagem original foi levada a Roma e é uma cópia da *Salus Populi Romani*.
 *   **Devoção no Brasil:** Embora nunca tenham chegado a desembarcar no Brasil nesta última viagem, são considerados padroeiros secundários do Brasil e venerados como verdadeiros fundadores espirituais da evangelização na terra de Santa Cruz pelo seu sacrifício.
 *   **Visão Profética:** Santa Teresa de Ávila, contemporânea dos fatos, teve uma visão em que viu os quarenta mártires subindo ao céu com palmas de vitória no exato momento do massacre.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Inácio de Azevedo Original](imagens/original.jpg) | ![Beato Inácio de Azevedo Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

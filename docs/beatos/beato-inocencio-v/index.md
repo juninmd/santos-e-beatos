@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Inocêncio V.
 
 # Beato Inocêncio V
 
-![Beato Inocêncio V](imagens/portrait.jpg)
+![Beato Inocêncio V](imagens/restaurada_4k.jpg)
 
 > "O Papa que buscou a unidade no amor de Cristo."
 
@@ -39,6 +39,13 @@ Milagres e curas foram relatados após a sua morte junto ao seu túmulo na Basí
 1.  **Doutor Famosíssimo:** Durante seu tempo como teólogo em Paris, ele era amplamente conhecido pelo título de *Doctor famosissimus* ("Doutor Famosíssimo").
 2.  **Pontificado Curto:** O seu pontificado foi um dos mais breves da história da Igreja, durando apenas cinco meses, de janeiro a junho de 1276.
 3.  **Primeiro Papa Dominicano:** O hábito branco que os Papas usam hoje teria origem na veste dominicana, sendo Inocêncio V o primeiro a utilizá-lo, tradição que posteriormente se fixou com São Pio V.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Inocêncio V Original](imagens/original.jpg) | ![Beato Inocêncio V Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Crisóstomo.
 
 # São João Crisóstomo
 
-![São João Crisóstomo](imagens/portrait.jpg)
+![São João Crisóstomo](imagens/restaurada_4k.jpg)
 
 > "A Boca de Ouro da Igreja"
 
@@ -39,6 +39,13 @@ Após sua morte, vários milagres de cura foram atribuídos à sua intercessão,
 1. **Liturgia de São João Crisóstomo:** Ele é o autor principal da liturgia eucarística que leva seu nome e é a mais celebrada no rito bizantino até os dias de hoje, unindo milhões de cristãos ortodoxos e católicos orientais.
 2. **O Aluno Supera o Mestre:** Quando Libânio, seu mestre pagão, estava em seu leito de morte, perguntaram-lhe quem deveria ser seu sucessor. Ele respondeu: "Teria sido João, se os cristãos não o tivessem roubado de nós."
 3. **Padroeiro:** Devido ao seu talento oratório sem igual, São João Crisóstomo é o santo padroeiro dos oradores, pregadores e locutores.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Crisóstomo Original](imagens/original.jpg) | ![São João Crisóstomo Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Bárbara.
 
 # Santa Bárbara
 
-![Santa Bárbara](imagens/portrait.jpg)
+![Santa Bárbara](imagens/restaurada_4k.jpg)
 
 > "Protetora contra raios e tempestades"
 
@@ -39,6 +39,13 @@ Ao retornar de uma viagem, Dióscoro descobriu a terceira janela e a conversão 
 2.  **Padroeira das Profissões de Risco:** Devido à associação com relâmpagos e explosões, é também a padroeira de artilheiros, mineiros, bombeiros e profissionais que lidam com explosivos.
 3.  **Sincretismo no Brasil:** No sincretismo religioso brasileiro, Santa Bárbara é associada à orixá Iansã, senhora dos ventos e das tempestades.
 4.  **Terceira Janela:** A torre com as três janelas tornou-se seu maior atributo iconográfico, juntamente com o cálice e a espada de seu martírio.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Bárbara Original](imagens/original.jpg) | ![Santa Bárbara Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

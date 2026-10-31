@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Justo Takayama Uk
 
 # Beato Justo Takayama Ukon
 
-![Beato Justo Takayama Ukon](imagens/portrait.jpg)
+![Beato Justo Takayama Ukon](imagens/restaurada_4k.jpg)
 
 > "A honra de servir a Cristo é maior que qualquer glória terrena."
 
@@ -45,6 +45,13 @@ Sua vida inteira foi um testemunho milagroso de fidelidade em meio à perseguiç
 1.  **Samurai de Cristo:** É frequentemente chamado de "O Samurai de Cristo" ou "O Samurai de Deus".
 2.  **Estátua nas Filipinas:** Em Manila, há uma estátua dele no Parque Rizal, vestindo o traje tradicional de samurai, mas segurando uma cruz em vez de uma katana, simbolizando sua escolha pela paz e pela fé.
 3.  **Proposta de Canonização:** A causa de sua canonização foi introduzida logo após sua morte, no século XVII, mas ficou parada por séculos devido à política de isolamento do Japão e à perseguição. Foi retomada com vigor no século XX.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Justo Takayama Ukon Original](imagens/original.jpg) | ![Beato Justo Takayama Ukon Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 A jornada de Justo Takayama Ukon cruzou o Japão e o mar:

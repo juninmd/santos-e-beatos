@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Luzia.
 
 # Santa Luzia
 
-![Santa Luzia](imagens/portrait.jpg)
+![Santa Luzia](imagens/restaurada_4k.jpg)
 
 > "Adoro a um só Deus verdadeiro, e a Ele prometi amor e fidelidade."
 
@@ -42,6 +42,13 @@ Uma das tradições mais famosas sobre Santa Luzia, embora não conste nas atas 
 
 1.  **Dante Alighieri:** O poeta Dante, na "Divina Comédia", atribui a Santa Luzia a sua cura de uma grave doença nos olhos e a coloca como guia ao lado de Beatriz e Maria.
 2.  **Tradições Nórdicas:** Na Suécia e outros países escandinavos, o dia de Santa Luzia é celebrado com procissões de meninas vestidas de branco com uma coroa de velas na cabeça, simbolizando a luz que vence as trevas do inverno.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Luzia Original](imagens/original.jpg) | ![Santa Luzia Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

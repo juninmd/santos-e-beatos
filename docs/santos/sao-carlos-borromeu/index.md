@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Carlos Borromeu.
 
 # São Carlos Borromeu
 
-![São Carlos Borromeu](imagens/portrait.jpg)
+![São Carlos Borromeu](imagens/restaurada_4k.jpg)
 
 > "Pastor e Reformador Extraordinário da Igreja"
 
@@ -37,6 +37,13 @@ Um dos milagres reconhecidos para sua canonização foi a cura de uma freira em 
 1. **Atentado contra sua vida:** Sua firmeza na aplicação das reformas gerou inimizades. Em 1569, a ordem religiosa dos Humilhados (que ele tentava reformar devido à corrupção e acúmulo de riquezas) tentou assassiná-lo. Enquanto ele rezava na capela, um frei disparou um tiro de arcabuz que o atingiu nas costas. Milagrosamente, a bala não penetrou, caindo a seus pés e deixando apenas um hematoma.
 2. **Defensor da pureza da fé:** Ele é considerado um dos maiores exemplos da Contrarreforma, combatendo o avanço do protestantismo através da renovação espiritual da própria Igreja Católica e da melhoria do ensino religioso.
 3. **Padroeiro:** São Carlos Borromeu é o santo padroeiro dos seminaristas, dos catequistas, dos bispos, além de ser invocado contra epidemias, infecções intestinais e doenças do estômago.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Carlos Borromeu Original](imagens/original.jpg) | ![São Carlos Borromeu Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

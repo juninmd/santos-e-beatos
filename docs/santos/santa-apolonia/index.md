@@ -5,7 +5,7 @@ description: Padroeira dos dentistas e invocada contra as dores de dente.
 
 # Santa Apolônia
 
-![Cover de Santa Apolônia](imagens/portrait.jpg)
+![Cover de Santa Apolônia](imagens/restaurada_4k.jpg)
 
 <div class="saint-header">
   <div class="saint-image-container">
@@ -43,6 +43,13 @@ Inúmeros milagres são atribuídos à intercessão de Santa Apolônia, especial
 - **Atributos:** Na arte cristã, Santa Apolônia é frequentemente representada segurando uma tenaz ou fórceps que prende um dente, simbolizando o seu martírio.
 - **Patrocínio:** Ela é amplamente reconhecida como a padroeira dos dentistas, odontologistas e daqueles que sofrem de dor de dente.
 - **Iconografia:** Algumas vezes é retratada também com a palma do martírio e uma coroa, e em certos contextos artísticos aparece jovem, embora os relatos originais a descrevam como uma mulher de idade avançada.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Cover de Santa Apolônia Original](imagens/original.jpg) | ![Cover de Santa Apolônia Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

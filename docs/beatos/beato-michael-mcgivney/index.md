@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Michael McGivney.
 
 # Beato Michael McGivney
 
-![Beato Michael McGivney](imagens/portrait.jpg)
+![Beato Michael McGivney](imagens/restaurada_4k.jpg)
 
 > "Unidade e Caridade."
 

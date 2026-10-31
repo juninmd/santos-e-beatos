@@ -5,7 +5,7 @@ description: Conhecido como o "Advogado dos Pobres", Santo Ivo dedicou sua vida 
 
 # Santo Ivo de Kermartin
 
-![Santo Ivo](imagens/portrait.jpg)
+![Santo Ivo](imagens/restaurada_4k.jpg)
 
 > "Jura illis reddere qui se defendere non possunt" (Fazer justiça àqueles que não podem se defender)
 
@@ -38,6 +38,13 @@ Outro milagre famoso relata que, após sua morte, uma mulher cega recuperou a vi
 * **O "Advogado dos Pobres":** Ele recebeu esse título por sua incansável defesa dos menos favorecidos e por sua recusa em cobrar honorários daqueles que não podiam pagar.
 * **Culto na Bretanha:** Santo Ivo é um dos santos mais populares na região da Bretanha, onde sua festa é celebrada com grande devoção, incluindo o famoso "Pardon de Saint-Yves", uma procissão tradicional que atrai milhares de peregrinos todos os anos.
 * **Igreja de Sant'Ivo alla Sapienza:** Em Roma, há uma belíssima igreja dedicada a Santo Ivo, projetada pelo renomado arquiteto Francesco Borromini, que é considerada uma obra-prima da arquitetura barroca.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Ivo Original](imagens/original.jpg) | ![Santo Ivo Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

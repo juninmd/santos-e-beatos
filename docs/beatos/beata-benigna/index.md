@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Benigna.
 
 # Beata Benigna
 
-![Beata Benigna](imagens/benigna.jpg)
+![Beata Benigna](imagens/restaurada_4k.jpg)
 
 > "Heroína da Castidade"
 
@@ -43,6 +43,13 @@ Em 2011, a Diocese de Crato iniciou o processo de beatificação. Em 2019, o Pap
 1.  **Primeira Beata do Ceará:** Benigna é a primeira beata nascida no estado do Ceará e a quarta mártir do Brasil.
 2.  **Anel de Tucum:** Um dos símbolos associados a ela é a simplicidade e a fé do povo nordestino.
 3.  **Romaria:** A Romaria de Benigna, em Santana do Cariri, atrai dezenas de milhares de fiéis todos os anos em outubro.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Benigna Original](imagens/original.jpg) | ![Beata Benigna Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

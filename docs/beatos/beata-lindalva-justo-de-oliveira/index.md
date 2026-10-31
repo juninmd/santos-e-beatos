@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Lindalva Justo de
 
 # Beata Lindalva Justo de Oliveira
 
-![Beata Lindalva Justo de Oliveira](imagens/lindalva-oliveira.jpg)
+![Beata Lindalva Justo de Oliveira](imagens/restaurada_4k.jpg)
 
 > "Mártir da caridade."
 
@@ -42,6 +42,13 @@ Por ser mártir, sua beatificação não exigiu milagre. Desde a morte, o abrigo
 2. **Primeira beata potiguar:** é a primeira pessoa nascida no Rio Grande do Norte a ser elevada aos altares.
 3. **Vocação tardia:** entrou na vida religiosa aos 33 anos, depois de mais de uma década sustentando a família.
 4. **Padroeira:** invocada pelos cuidadores de idosos, pelas religiosas e pelas vítimas de violência de gênero.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Lindalva Justo de Oliveira Original](imagens/original.jpg) | ![Beata Lindalva Justo de Oliveira Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

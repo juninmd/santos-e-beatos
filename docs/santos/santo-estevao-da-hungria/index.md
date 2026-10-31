@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Estêvão da Hung
 
 # Santo Estêvão da Hungria
 
-![Santo Estêvão da Hungria](imagens/portrait.jpg)
+![Santo Estêvão da Hungria](imagens/restaurada_4k.jpg)
 
 > "Rei, Apóstolo e Construtor de uma Nação"
 
@@ -38,6 +38,13 @@ Outros relatos incluem curas milagrosas de pessoas enfermas que visitavam seu t�
 - Ele ofereceu seu país à proteção da Virgem Maria antes de morrer, tornando a Hungria o primeiro país a ser dedicado a Nossa Senhora (a "Regnum Marianum").
 - Suas "Admoestações", um conjunto de ensinamentos morais escritos para seu filho, o Príncipe Américo (que também foi canonizado), são um tratado de sabedoria e bom governo que inspirou muitas gerações.
 - A coroa usada por Estêvão, conhecida como a "Sagrada Coroa Húngara", tornou-se o símbolo supremo da nação e de sua constituição.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Estêvão da Hungria Original](imagens/original.jpg) | ![Santo Estêvão da Hungria Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

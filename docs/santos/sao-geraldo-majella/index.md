@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Geraldo Majella.
 
 # São Geraldo Majella
 
-![São Geraldo Majella](imagens/portrait.jpg)
+![São Geraldo Majella](imagens/restaurada_4k.jpg)
 
 > "Aqui se faz a vontade de Deus, como Deus quer e por quanto tempo Ele quiser."
 
@@ -57,7 +57,14 @@ São Geraldo viveu toda a sua vida no sul da Itália.
 
 Hoje, o Santuário de São Geraldo em Materdomini é um dos locais de peregrinação mais visitados da Itália. Milhares de cartas e lenços chegam diariamente de mães de todo o mundo agradecendo por graças alcançadas. Sua vida nos ensina que a santidade é acessível a todos, independentemente de status ou saúde, através do amor a Deus e da aceitação de Sua vontade.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Geraldo Majella Original](imagens/original.jpg) | ![São Geraldo Majella Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | :---: | :--- |

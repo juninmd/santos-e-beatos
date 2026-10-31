@@ -5,7 +5,7 @@ description: A enfermeira e missionária italiana, apóstola da paz e do ecumeni
 
 # Beata Liduina Meneguzzi
 
-![Capa](imagens/cover.jpg)
+![Capa](imagens/restaurada_colorida_4k.jpg)
 
 > "Quero ser tudo para todos, para levá-los a Deus."
 
@@ -35,6 +35,13 @@ Durante a sua missão, ela operou incontáveis "milagres cotidianos" de caridade
 - Mesmo não falando perfeitamente as línguas locais na Etiópia, a sua bondade, sorriso e compaixão universal eram a sua linguagem que todos entendiam.
 - Ela baptizou secretamente muitas crianças à beira da morte a pedido das próprias mães não-cristãs, que confiavam plenamente nela.
 - Após sua morte, o seu funeral foi um evento sem precedentes, onde cristãos, muçulmanos, oficiais militares e simples civis choraram juntos a perda da "Irmã Boa".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Capa Original](imagens/original.jpg) | ![Capa Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 - Abano Terme (Nascimento)

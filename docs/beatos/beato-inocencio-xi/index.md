@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Inocêncio XI.
 
 # Beato Inocêncio XI
 
-![Beato Inocêncio XI](imagens/portrait.jpg)
+![Beato Inocêncio XI](imagens/restaurada_4k.jpg)
 
 > "Tudo o que se faz por Deus é eterno."
 
@@ -35,6 +35,13 @@ Os milagres reconhecidos para a beatificação do Papa Inocêncio XI envolviam p
 - **Reforma Econômica:** Inocêncio XI foi um exímio administrador financeiro. Ao herdar um papado afundado em dívidas, ele não só equilibrou as contas da Igreja durante seu reinado, como deixou o papado com um superávit notável.
 - **Tensão com a França:** Ele frequentemente entrava em conflito com o rei Luís XIV da França, recusando-se a aceitar as doutrinas galicanas que tentavam subjugar a Igreja ao estado francês. Em resposta a essa firmeza, a França vetou seu processo de canonização no século XVIII.
 - **Defesa de Viena:** O financiamento enviado por ele foi essencial para que as forças aliadas conseguissem defender Viena, o que marcou o início do declínio militar otomano na Europa.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Inocêncio XI Original](imagens/original.jpg) | ![Beato Inocêncio XI Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

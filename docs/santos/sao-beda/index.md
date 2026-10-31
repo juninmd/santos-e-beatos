@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Beda, o Venerável
 
 # São Beda
 
-![São Beda](imagens/portrait.jpg)
+![São Beda](imagens/restaurada_4k.jpg)
 
 > "Pai da História Inglesa e Doutor da Igreja"
 
@@ -37,6 +37,13 @@ Após a sua morte, sua tumba tornou-se local de peregrinação e inúmeros milag
 1. **O Computus:** Beda foi pioneiro no estudo de como calcular as datas cristãs (o Computus), ajudando a difundir o uso do cálculo *Anno Domini* (D.C. - Depois de Cristo) em toda a Europa.
 2. **Doutor da Igreja:** É o único homem natural da Grã-Bretanha a ser nomeado Doutor da Igreja.
 3. **Morte tranquila:** Segundo o relato de um de seus discípulos, Cutberto, Beda continuou a ditar uma tradução do Evangelho de João e a cantar louvores a Deus até os últimos momentos de sua vida, falecendo rodeado pelos monges com enorme tranquilidade.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Beda Original](imagens/original.jpg) | ![São Beda Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

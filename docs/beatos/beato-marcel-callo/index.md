@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Marcel Callo.
 
 # Beato Marcel Callo
 
-![Beato Marcel Callo](imagens/portrait.jpg)
+![Beato Marcel Callo](imagens/restaurada_colorida_4k.jpg)
 
 > "Missionário no campo de concentração."
 
@@ -42,6 +42,13 @@ Reconhecido mártir *in odium fidei*, sua beatificação não exigiu milagre —
 2. **Escotismo:** foi escoteiro antes de entrar na JOC, e a Federação do Escotismo Francês o considera um de seus patronos.
 3. **Companheiros de causa:** foi beatificado no mesmo período em que a Igreja reconheceu outros jovens da JOC mortos em campos nazistas, entre eles o austríaco Karl Leisner.
 4. **Padroeiro:** dos jovens trabalhadores, dos escoteiros, dos tipógrafos e dos deportados.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Marcel Callo Original](imagens/original.jpg) | ![Beato Marcel Callo Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

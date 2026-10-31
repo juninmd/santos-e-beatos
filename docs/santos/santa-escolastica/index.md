@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Escolástica.
 
 # Santa Escolástica
 
-![Santa Escolástica](imagens/portrait.jpg)
+![Santa Escolástica](imagens/restaurada_4k.jpg)
 
 > "Pedi a ti e não me ouviste; pedi a meu Deus e Ele me ouviu."
 
@@ -37,6 +37,13 @@ Diante da recusa, Escolástica abaixou a cabeça, uniu as mãos e rezou fervoros
 1.  **A Pomba Branca:** Três dias após o último encontro, São Bento, orando em sua cela, teve uma visão. Ele viu a alma de sua irmã ascendendo ao céu em forma de uma pomba branca, sinalizando sua morte e pureza.
 2.  **Padroeira:** Santa Escolástica é a padroeira das monjas beneditinas, da educação, das crianças convulsivas e é invocada contra as tempestades e chuvas excessivas, em referência ao seu famoso milagre.
 3.  **Enterro Conjunto:** Quando São Bento faleceu, foi sepultado no mesmo túmulo que sua irmã em Monte Cassino, unindo-os na morte assim como estiveram unidos na vida e na fé.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Escolástica Original](imagens/original.jpg) | ![Santa Escolástica Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

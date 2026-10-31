@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Columbano.
 
 # São Columbano
 
-![São Columbano](imagens/portrait.jpg)
+![São Columbano](imagens/restaurada_4k.jpg)
 
 > "Deixemos o que somos para sermos o que não somos."
 
@@ -35,6 +35,13 @@ Ele então viajou pela Alemanha, Suíça e finalmente chegou à Itália, onde fo
 - São Columbano é reconhecido como um dos grandes pais da Europa, tendo ajudado a moldar a identidade cristã do continente no início da Idade Média.
 - Em 2002, o Papa São João Paulo II o declarou padroeiro dos motociclistas, em referência às suas inúmeras e longas viagens pela Europa.
 - A "Regra de São Columbano" era conhecida por ser muito severa, incluindo longos jejuns e punições corporais para faltas menores, diferindo da Regra de São Bento, que mais tarde se tornou o padrão.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Columbano Original](imagens/original.jpg) | ![São Columbano Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

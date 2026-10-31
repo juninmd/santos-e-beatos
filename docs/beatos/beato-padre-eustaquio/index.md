@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Padre Eustáquio.
 
 # Beato Padre Eustáquio
 
-![Beato Padre Eustáquio](imagens/portrait.jpg)
+![Beato Padre Eustáquio](imagens/restaurada_4k.jpg)
 
 > "Saúde e paz."
 
@@ -42,6 +42,13 @@ O milagre reconhecido para a beatificação foi a cura de Divina Aparecida de Pa
 2. **Filas de confissão:** relatos da época descrevem filas que dobravam quarteirões, com fiéis chegando de trem de outras cidades.
 3. **Holandês do sertão:** aprendeu português na estrada, atendendo comunidades rurais, e usava as expressões do interior mineiro nas pregações.
 4. **Padroeiro:** invocado pelos doentes, pelos confessores e pelos imigrantes.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Padre Eustáquio Original](imagens/original.jpg) | ![Beato Padre Eustáquio Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Assunta Pal
 
 # Beata Maria Assunta Pallotta
 
-![Beata Maria Assunta Pallotta](imagens/portrait.png)
+![Beata Maria Assunta Pallotta](imagens/restaurada_4k.jpg)
 
 > "Eu irei a qualquer lugar que o Senhor quiser."
 
@@ -39,6 +39,13 @@ Durante a sua agonia na China, um perfume misterioso e celestial de violetas esp
 1. **A Santa Pedreira:** Antes de ser freira, Maria Assunta foi pedreira. Em sua cidade natal, Force, ela é lembrada por carregar materiais pesados de construção, e seu trabalho braçal sempre foi oferecido como sacrifício a Deus.
 2. **Cheiro de Santidade:** O perfume de violetas que exalou no momento da sua morte é um dos fenômenos místicos mais conhecidos associados a ela, e foi testemunhado por muitas pessoas, não apenas religiosas.
 3. **Corpo Incorrupto:** Seu corpo foi exumado alguns anos após o seu sepultamento e encontrado em estado de preservação surpreendente, o que fortaleceu a sua fama de santidade.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Assunta Pallotta Original](imagens/original.jpg) | ![Beata Maria Assunta Pallotta Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

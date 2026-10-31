@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Jerônimo.
 
 # São Jerônimo
 
-![São Jerônimo](imagens/portrait.jpg)
+![São Jerônimo](imagens/restaurada_4k.jpg)
 
 > "A ignorância das Escrituras é a ignorância de Cristo."
 
@@ -34,6 +34,13 @@ Sua vida pessoal foi marcada por um profundo chamado ascético. Após ser ordena
 - São Jerônimo é amplamente considerado o Padroeiro dos Bibliotecários, Tradutores, Exegetas e Arquivistas.
 - A sua tradução da Bíblia, a Vulgata, foi a primeira grande versão acessível às pessoas comuns ("vulgata" significa "para o povo").
 - Ele é frequentemente representado na arte com um leão, uma caveira (símbolo de penitência e da vaidade mundana) e um chapéu de cardeal (embora na sua época não existissem cardeais como hoje, a tradição o associa devido ao seu trabalho direto com o Papa Dâmaso).
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Jerônimo Original](imagens/original.jpg) | ![São Jerônimo Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

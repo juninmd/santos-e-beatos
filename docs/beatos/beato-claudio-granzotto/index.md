@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Cláudio Granzott
 
 # Beato Cláudio Granzotto
 
-![Beato Cláudio Granzotto](imagens/portrait.jpg)
+![Beato Cláudio Granzotto](imagens/restaurada_colorida_4k.jpg)
 
 > "A arte para glorificar a Deus deve ser uma expressão de vida espiritual e não de glória vã."
 
@@ -41,6 +41,13 @@ Numerosos outros relatos locais de intervenções miraculosas e curas sem explic
 - O Beato Cláudio concebeu, modelou e ajudou a construir a famosa Gruta de Lourdes, situada no Santuário de Chiampo. Milhares de peregrinos visitam essa réplica impressionante anualmente em busca de paz e oração.
 - Considerou a sua profissão não como meio para enriquecer ou para alimentar a vaidade pessoal, mas como o meio mais apto e sublime de que dispunha para se aproximar de Deus e de aproximar d'Ele as almas dos que admiravam os seus trabalhos.
 - O seu nome de batismo "Riccardo" significa "Rei Corajoso", um traço evidente em sua ousada renúncia à glória material.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Cláudio Granzotto Original](imagens/original.jpg) | ![Beato Cláudio Granzotto Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

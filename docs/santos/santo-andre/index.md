@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo André.
 
 # Santo André
 
-![Santo André](imagens/portrait.jpg)
+![Santo André](imagens/restaurada_4k.jpg)
 
 > "Achamos o Messias."
 
@@ -40,6 +40,13 @@ Os relatos apócrifos dos *Atos de André*, difundidos desde o século II, atrib
 2. **Padroeiro de nações:** é patrono da Escócia, da Grécia, da Rússia, da Ucrânia e da Romênia, além de padroeiro dos pescadores.
 3. **Relíquias divididas:** a cabeça foi levada a Roma e devolvida a Patras pelo Papa Paulo VI em 1964, como gesto de aproximação com a Igreja Ortodoxa.
 4. **Ecumenismo:** a Igreja de Constantinopla o venera como fundador, e a cada 30 de novembro uma delegação do Vaticano participa da festa no Fanar, enquanto uma delegação ortodoxa vai a Roma na festa de São Pedro.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo André Original](imagens/original.jpg) | ![Santo André Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

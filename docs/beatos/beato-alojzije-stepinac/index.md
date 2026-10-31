@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Alojzije Stepinac
 
 # Beato Alojzije Stepinac
 
-![Beato Alojzije Stepinac](imagens/portrait.jpg)
+![Beato Alojzije Stepinac](imagens/restaurada_colorida_4k.jpg)
 
 > "Arcebispo e Mártir da Croácia"
 
@@ -45,6 +45,13 @@ Em relação a Stepinac, como mártir (alguém morto devido aos danos infringido
 - Após a nomeação de Stepinac ao Colégio de Cardeais pelo Papa Pio XII, a Iugoslávia cortou relações diplomáticas com a Santa Sé.
 - Ele se recusou repetidamente a deixar a Croácia para ir viver a salvo em Roma ou em qualquer outro lugar; o regime queria que ele fosse exilado para calar a voz da Igreja, mas sua frase marcante sobre o assunto foi: "Somente pela força me arrancarão de meu rebanho".
 - Ele está sepultado atrás do altar-mor da majestosa Catedral de Zagreb, num túmulo muito ornamentado onde fiéis se reúnem constantemente; o próprio Beato Papa João Paulo II viajou para orar junto a esse túmulo, momento em que o beatificou.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Alojzije Stepinac Original](imagens/original.jpg) | ![Beato Alojzije Stepinac Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

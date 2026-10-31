@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Agostinho.
 
 # Santo Agostinho
 
-![Santo Agostinho](imagens/agostinho.jpg)
+![Santo Agostinho](imagens/restaurada_4k.jpg)
 
 > "Fizeste-nos para Ti, Senhor, e o nosso coração está inquieto enquanto não descansar em Ti."
 
@@ -41,6 +41,13 @@ Embora sua maior obra seja a conversão e o legado intelectual, muitos milagres 
 1.  **Símbolo:** É frequentemente representado segurando um coração em chamas, símbolo de seu amor ardente por Deus.
 2.  **Influência:** Sua teologia influenciou profundamente tanto o catolicismo quanto o protestantismo (especialmente Lutero).
 3.  **Padroeiro:** É padroeiro dos teólogos, impressores e cervejeiros.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Agostinho Original](imagens/original.jpg) | ![Santo Agostinho Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Guido de Montpell
 
 # Beato Guido de Montpellier
 
-![Beato Guido de Montpellier](imagens/portrait.jpg)
+![Beato Guido de Montpellier](imagens/restaurada_colorida_4k.jpg)
 
 > "Servir aos pobres e doentes é servir ao próprio Cristo."
 
@@ -32,6 +32,13 @@ Guido via em cada pobre e doente a face de Cristo sofredor. Sua espiritualidade 
 
 - **Reconhecimento Papal:** O Papa Inocêncio III tinha tanta confiança em Guido que lhe confiou a diaconia de Santa Maria in Trastevere e o hospital romano.
 - **Confirmação de Culto:** Embora venerado há séculos, seu culto foi oficialmente confirmado e ele foi inscrito no catálogo dos beatos pelo Papa Francisco em 2024.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Guido de Montpellier Original](imagens/original.jpg) | ![Beato Guido de Montpellier Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

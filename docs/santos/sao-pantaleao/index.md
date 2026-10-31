@@ -5,7 +5,7 @@ description: Biografia, vida pessoal, milagres, curiosidades e mapa de São Pant
 
 # São Pantaleão
 
-![São Pantaleão](imagens/portrait.jpg)
+![São Pantaleão](imagens/restaurada_4k.jpg)
 
 > "O Médico Mártir de Nicomédia"
 
@@ -35,6 +35,13 @@ A tradição relata inúmeros milagres e curas operados por Pantaleão em nome d
 1.  **Padroeiro dos Médicos:** É venerado no Oriente e no Ocidente como um dos padroeiros dos médicos e das parteiras.
 2.  **Sangue de São Pantaleão:** Em Ravello e em Madri (Real Mosteiro de la Encarnación), conservam-se ampolas com o que se crê ser seu sangue, o qual se liquefaz anualmente no dia de sua festa, de modo semelhante ao de São Januário em Nápoles.
 3.  **Os Santos Anárgiros:** Faz parte dos "santos anárgiros" (sem prata), assim chamados por curarem sem cobrar nada, junto com São Cosme e São Damião.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Pantaleão Original](imagens/original.jpg) | ![São Pantaleão Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

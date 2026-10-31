@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Afonso Maria de L
 
 # Santo Afonso Maria de Ligório
 
-![Santo Afonso Maria de Ligório](imagens/portrait.jpg)
+![Santo Afonso Maria de Ligório](imagens/restaurada_4k.jpg)
 
 > "Quem reza se salva, quem não reza se condena."
 
@@ -41,6 +41,13 @@ A vida e o trabalho de Santo Afonso são repletos de detalhes fascinantes que de
 - **Obras Escritas Abundantes:** Apesar das dores intensas que sofreu em sua idade avançada, devido à artrite que o forçava a descansar a cabeça no peito com tanta força que causava úlceras incuráveis, ele continuou a escrever incansavelmente. Para isso, pedia aos seus assistentes que amarrassem suas mãos paralisadas ou usava dispositivos especiais para conseguir segurar a caneta, demonstrando uma força de vontade inabalável em prol da evangelização através de seus escritos.
 - **Teologia Moral Bipolar:** Sua teologia moral encontrou o equilíbrio perfeito, ou "via média", entre o jansenismo rigorista, que ensinava que a maioria das pessoas se condenaria e exigia um nível inatingível de pureza para a comunhão, e o laxismo, que ignorava a gravidade do pecado. Ele defendeu a acessibilidade frequente dos sacramentos e a confiança absoluta na misericórdia e no amor infinito de Deus, tornando a confissão um momento de cura, e não de condenação.
 - **Padroeiro dos Confessores e Moralistas:** Por sua extraordinária sabedoria pastoral e por suas fundamentais contribuições à teologia moral católica, baseadas na caridade cristã, o Papa Pio XII o declarou o padroeiro celestial de todos os confessores e moralistas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Afonso Maria de Ligório Original](imagens/original.jpg) | ![Santo Afonso Maria de Ligório Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

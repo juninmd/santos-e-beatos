@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Boaventura.
 
 # São Boaventura
 
-![São Boaventura](imagens/portrait.jpg)
+![São Boaventura](imagens/restaurada_4k.jpg)
 
 > "Se queres saber como estas coisas se fazem, interroga a graça e não a doutrina, o desejo e não a inteligência, o gemido da oração e não o estudo dos compêndios..."
 
@@ -61,7 +61,14 @@ A vida e a intercessão de São Boaventura estão associadas a diversos eventos 
 
 São Boaventura continua a ser um pilar da teologia cristã e da espiritualidade franciscana. Sua capacidade de equilibrar o intelecto com a devoção profunda, a liderança firme com a humildade autêntica, serve de modelo intemporal. O *Itinerarium Mentis in Deum* é lido até hoje como um guia essencial para o crescimento espiritual e místico. Suas biografias de São Francisco moldaram para sempre a imagem popular do pobrezinho de Assis.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Boaventura Original](imagens/original.jpg) | ![São Boaventura Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | | |
 |---|---|

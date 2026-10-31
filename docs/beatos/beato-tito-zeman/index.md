@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Tito Zeman.
 
 # Beato Tito Zeman
 
-![Beato Tito Zeman](imagens/portrait.jpg)
+![Beato Tito Zeman](imagens/restaurada_4k.jpg)
 
 > "Sacerdote salesiano que sacrificou a vida para salvar vocações na época da perseguição comunista."
 
@@ -38,6 +38,13 @@ A beatificação do Beato Tito Zeman foi fundamentada não por um milagre, mas p
 
 * A beatificação de Tito Zeman foi a primeira beatificação de um padre católico na Eslováquia por causa do martírio sob o regime comunista.
 * Ele repetidamente colocou sua vida em risco na perigosa travessia do Rio Morava (fronteira entre a Eslováquia e a Áustria) para ajudar jovens a responderem ao chamado de Deus.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Tito Zeman Original](imagens/original.jpg) | ![Beato Tito Zeman Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

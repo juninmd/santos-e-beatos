@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Damião de Molokai
 
 # São Damião de Molokai
 
-![São Damião de Molokai](imagens/portrait.jpg)
+![São Damião de Molokai](imagens/restaurada_colorida_4k.jpg)
 
 > "O Apóstolo dos Leprosos"
 
@@ -39,6 +39,13 @@ O milagre que levou à sua canonização foi a cura inexplicável de Audrey Togu
 1.  **Estátua no Capitólio:** Uma estátua de São Damião representa o estado do Havaí no Salão das Estátuas do Capitólio dos Estados Unidos, em Washington D.C.
 2.  **Mahatma Gandhi:** O líder indiano citou o Padre Damião como uma de suas inspirações para o trabalho social na Índia.
 3.  **Robert Louis Stevenson:** O famoso escritor defendeu publicamente a memória de Damião contra críticas injustas em uma famosa carta aberta.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Damião de Molokai Original](imagens/original.jpg) | ![São Damião de Molokai Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

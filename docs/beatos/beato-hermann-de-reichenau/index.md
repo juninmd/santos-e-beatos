@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades, cidades por onde passou e mapa d
 
 # Beato Hermann de Reichenau
 
-![Beato Hermann de Reichenau](imagens/portrait.jpg)
+![Beato Hermann de Reichenau](imagens/restaurada_4k.jpg)
 
 > "O Gênio Paralisado, Cantor de Maria"
 
@@ -39,6 +39,13 @@ A sua vida é frequentemente vista como um milagre de graça e resiliência, dem
 1.  **"O Aleijado":** O seu cognome "Contractus" (o Aleijado ou o Contorcido) foi adotado sem qualquer ressentimento; ele frequentemente se autodenominava assim nas suas obras com profunda humildade.
 2.  **Amigo e Professor:** Apesar da sua dificuldade na fala, tornou-se um professor muito amado no mosteiro, sendo procurado por estudiosos de várias regiões pela sua sabedoria.
 3.  **Habilidade Manual:** Incapaz de escrever com facilidade, desenvolveu métodos para ditar aos seus irmãos monges e, nalguns casos, utilizava instrumentos adaptados para conseguir realizar os seus trabalhos matemáticos.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Hermann de Reichenau Original](imagens/original.jpg) | ![Beato Hermann de Reichenau Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

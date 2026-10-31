@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Isabel da Hungria
 
 # Santa Isabel da Hungria
 
-![Santa Isabel da Hungria](imagens/portrait.jpg)
+![Santa Isabel da Hungria](imagens/restaurada_4k.jpg)
 
 > "Padroeira da Ordem Terceira de São Francisco e símbolo de caridade cristã."
 
@@ -39,6 +39,13 @@ Inúmeros milagres foram atribuídos a ela após sua morte, levando a uma das ma
 - **O Milagre das Rosas:** A lenda mais famosa conta que Isabel estava secretamente levando pão escondido em seu manto para os pobres. Encontrou seu marido, que, instigado pela corte, lhe perguntou o que escondia. Ao abrir o manto, os pães haviam se transformado milagrosamente em rosas vermelhas e brancas, protegendo-a (vale notar que essa mesma lenda é associada também a sua sobrinha-neta, Santa Isabel de Portugal).
 - Ela frequentemente tecia e fiava roupas de lã e linho para dar aos pobres, recusando-se a usar as vestes suntuosas de princesa.
 - A Catedral de Marburgo (Elisabethkirche) foi construída para abrigar suas relíquias, embora muitas delas tenham sido posteriormente dispersas por seu descendente, o Landgrave Felipe I (um líder protestante), durante a Reforma.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Isabel da Hungria Original](imagens/original.jpg) | ![Santa Isabel da Hungria Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Conheça a história do Irmão Francisco Gárate, um humilde jesuí
 
 # Beato Francisco Gárate
 
-![Beato Francisco Gárate](imagens/portrait.jpg)
+![Beato Francisco Gárate](imagens/restaurada_4k.jpg)
 
 > "A quem serve a Deus com amor, nunca lhe faltará a consolação."
 
@@ -34,6 +34,13 @@ A fama de santidade de Francisco Gárate era tão grande que, logo após a sua m
 
 - **"Hermano Fininhas":** O apelido de Francisco Gárate, "Fininhas", demonstrava a forma afetuosa, encorajadora e positiva com que ele tratava todos os que se dirigiam à portaria de Deusto.
 - **Relíquias:** Hoje, o corpo de Francisco Gárate repousa numa capela da Universidade de Deusto. O pequeno quarto (a portaria) onde ele passava os seus dias foi preservado.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Francisco Gárate Original](imagens/original.jpg) | ![Beato Francisco Gárate Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

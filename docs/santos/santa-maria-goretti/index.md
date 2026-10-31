@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Maria Goretti.
 
 # Santa Maria Goretti
 
-![Santa Maria Goretti](imagens/portrait.jpg)
+![Santa Maria Goretti](imagens/restaurada_4k.jpg)
 
 > "A Menina do Perdão"
 
@@ -47,6 +47,13 @@ Além da conversão de Alessandro, inúmeros fiéis relatam graças e curas fís
 3.  **Padroeira da Pureza.** Maria Goretti é amplamente venerada como a padroeira da pureza, dos adolescentes e das jovens.
 
 Maria Goretti viveu apenas doze anos, e sua vida foi restrita a uma pequena área geográfica na Itália, marcada pela mudança de sua família em busca de trabalho.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Maria Goretti Original](imagens/original.jpg) | ![Santa Maria Goretti Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

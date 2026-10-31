@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Rutilio Grande.
 
 # Beato Rutilio Grande
 
-![Beato Rutilio Grande](imagens/portrait.jpg)
+![Beato Rutilio Grande](imagens/restaurada_4k.jpg)
 
 > "O Evangelho tem que criar raízes nas realidades do povo."
 
@@ -48,6 +48,13 @@ Sua intercessão, no entanto, é constantemente invocada por aqueles que lutam p
 *   **Companheiros de Martírio:** Rutilio não foi beatificado sozinho; ele foi elevado aos altares junto com seus dois companheiros leigos de martírio: Manuel Solórzano, de 72 anos, e Nelson Rutilio Lemus, de 16 anos.
 *   **Primeiro Jesuíta Mártir:** Ele foi o primeiro padre jesuíta assassinado durante o violento período de repressão em El Salvador, prefigurando o martírio dos jesuítas da UCA em 1989.
 *   **Homilia Profética:** Um mês antes de sua morte, ele pregou uma homilia famosa (o Sermão de Apopa), onde denunciou que até mesmo levar a Bíblia era considerado subversivo no país, prevendo que logo seria perigoso ser cristão.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Rutilio Grande Original](imagens/original.jpg) | ![Beato Rutilio Grande Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

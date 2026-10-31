@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Alexandrina Maria
 
 # Beata Alexandrina Maria da Costa
 
-![Beata Alexandrina Maria da Costa](imagens/portrait.jpg)
+![Beata Alexandrina Maria da Costa](imagens/restaurada_4k.jpg)
 
 > "Amar, sofrer, reparar."
 
@@ -36,6 +36,13 @@ Foi uma alma vítima, e a sua união mística com Jesus culminou na sua vivênci
 * O seu quarto em Balasar tornou-se um local de peregrinação contínua. Mesmo acamada e em sofrimento, ela aconselhava e consolava as multidões que a iam visitar, vindas de todo o país.
 * Foi cooperadora Salesiana, inspirada pelo seu diretor espiritual, que era da congregação de Dom Bosco.
 * A sua beatificação foi celebrada no mesmo dia em que João Paulo II beatificou outros grandes intercessores, o que marcou um período intenso na sua atenção à espiritualidade mariana e eucarística.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Alexandrina Maria da Costa Original](imagens/original.jpg) | ![Beata Alexandrina Maria da Costa Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

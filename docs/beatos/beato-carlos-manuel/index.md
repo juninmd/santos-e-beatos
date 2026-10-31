@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Carlos Manuel Rod
 
 # Beato Carlos Manuel Rodríguez Santiago
 
-![Beato Carlos Manuel Rodríguez Santiago](imagens/beato-carlos-manuel.jpg)
+![Beato Carlos Manuel Rodríguez Santiago](imagens/restaurada_colorida_4k.jpg)
 
 > "Charlie: Apóstolo da Liturgia"
 
@@ -38,6 +38,13 @@ O milagre aprovado para sua beatificação envolveu a cura de uma mulher diagnos
 
 1.  **Primeiro Porto-riquenho:** É o primeiro porto-riquenho e o primeiro leigo do Caribe a ser beatificado.
 2.  **Liturgia:** Antecipou muitas das reformas litúrgicas do Concílio Vaticano II, como o uso do vernáculo (língua do povo) e a participação ativa dos leigos.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Carlos Manuel Rodríguez Santiago Original](imagens/original.jpg) | ![Beato Carlos Manuel Rodríguez Santiago Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

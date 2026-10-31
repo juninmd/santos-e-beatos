@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Alano de la Roche
 
 # Beato Alano de la Roche
 
-![Beato Alano de la Roche](imagens/portrait.jpg)
+![Beato Alano de la Roche](imagens/restaurada_4k.jpg)
 
 > "A quem me servir fielmente pela recitação do Rosário, eu prometo graças singulares."
 

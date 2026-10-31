@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luis Variara.
 
 # Beato Luis Variara
 
-![Beato Luis Variara](imagens/portrait.jpg)
+![Beato Luis Variara](imagens/restaurada_4k.jpg)
 
 > "Apóstolo dos Leprosos na Colômbia"
 
@@ -39,6 +39,13 @@ O milagre que levou à sua beatificação aconteceu em 1993. Um jovem colombiano
 1. **Fundador:** Diante do desejo de muitas mulheres doentes de hanseníase de consagrarem suas vidas a Deus, o que lhes era negado pelas ordens religiosas tradicionais devido à doença, Padre Variara fundou em 1905 as "Filhas dos Sagrados Corações de Jesus e Maria" — a primeira congregação religiosa do mundo composta inteiramente por mulheres afetadas pela hanseníase (ou filhas de leprosos).
 2. **Obediência dolorosa:** Mais tarde em sua vida, por causa de intrigas locais, seus superiores ordenaram que ele deixasse Agua de Dios. Mesmo com o coração partido por se afastar dos seus amados doentes, Variara obedeceu prontamente e passou seus últimos anos longe de sua "Pátria Espiritual".
 3. **Música na Dor:** A banda de música que ele criou no leprosário foi um feito inédito; ensinou os doentes a tocar instrumentos, o que transformou a atmosfera de tristeza do local.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Luis Variara Original](imagens/original.jpg) | ![Beato Luis Variara Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

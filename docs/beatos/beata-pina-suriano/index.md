@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Pina Suriano.
 
 # Beata Pina Suriano
 
-![Beata Pina Suriano](imagens/portrait.jpg)
+![Beata Pina Suriano](imagens/restaurada_colorida_4k.jpg)
 
 > "Senhor, a ti confio a minha vida. Que seja feita a tua vontade."
 
@@ -39,6 +39,13 @@ Aos poucos, sua saúde física começou a declinar, e ela sofreu de diversas enf
 
 1.  **Atuação na Ação Católica:** O engajamento de Pina Suriano na Ação Católica foi tão forte e influente que, após sua beatificação, ela se tornou um dos grandes ícones e patronas para os leigos envolvidos nesse movimento.
 2.  **Sofrimento Escondido:** Ela mantinha em segredo a maioria de seus sofrimentos físicos e espirituais, de modo que apenas o seu diretor espiritual tinha pleno conhecimento da profundidade de sua oferta sacrificial.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Pina Suriano Original](imagens/original.jpg) | ![Beata Pina Suriano Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

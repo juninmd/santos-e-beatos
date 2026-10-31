@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa da Beata Maria Restituta 
 
 # Beata Maria Restituta Kafka
 
-![Beata Maria Restituta Kafka](imagens/portrait.jpg)
+![Beata Maria Restituta Kafka](imagens/restaurada_colorida_4k.jpg)
 
 > "Vivi por Cristo, quero morrer por Cristo."
 
@@ -37,6 +37,13 @@ O Papa Pio XII tentou interceder por ela sem sucesso. Em 30 de março de 1943, f
 - O Papa João Paulo II a beatificou durante sua visita a Viena em 1998.
 - Uma rua e uma praça em Viena foram nomeadas em sua homenagem após a guerra (Restituta-Gasse).
 - A coragem da Irmã Restituta foi tão reconhecida que um de seus captores, impressionado, comentou sobre a serenidade com a qual ela enfrentou a morte.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Maria Restituta Kafka Original](imagens/original.jpg) | ![Beata Maria Restituta Kafka Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

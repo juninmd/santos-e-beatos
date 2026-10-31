@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Lúcia de Narni.
 
 # Beata Lúcia de Narni
 
-![Beata Lúcia de Narni](imagens/beata-lucia-de-narni.jpg)
+![Beata Lúcia de Narni](imagens/restaurada_colorida_4k.jpg)
 
 > "Consoladora dos aflitos."
 
@@ -34,6 +34,13 @@ A vida de Lúcia foi repleta de fenômenos sobrenaturais. Os estigmas que portav
 
 1. **Os Estigmas:** Lúcia recebeu os estigmas em 25 de fevereiro de 1496. As feridas eram profundas e lhe causavam sofrimento intenso, que ela oferecia pela salvação das almas.
 2. **Vida de Penumbra:** Após a morte do Duque Hércules I, seu principal protetor, as freiras que vieram de outros conventos começaram a tratá-la com severidade e, injustamente, a destituíram do cargo de priora, confinando-a numa cela por quase 40 anos, período que ela aceitou com heroica paciência.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Lúcia de Narni Original](imagens/original.jpg) | ![Beata Lúcia de Narni Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

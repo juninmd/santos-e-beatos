@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato João Paulo I.
 
 # Beato João Paulo I
 
-![Beato João Paulo I](imagens/portrait.png)
+![Beato João Paulo I](imagens/restaurada_4k.jpg)
 
 > "O Papa do Sorriso."
 
@@ -42,6 +42,13 @@ O milagre reconhecido para a beatificação foi a cura de Candela Giarda, uma me
 2. **Sem coroação:** recusou a tiara e a *sedia gestatoria* — decisão que todos os seus sucessores mantiveram.
 3. **Teorias e documentação:** sua morte repentina alimentou especulações por décadas; a positio da causa, publicada em 2016 após ampla pesquisa documental, concluiu por morte natural decorrente de infarto.
 4. **A causa e o arquivo:** a documentação reunida pelo postulador deu origem a uma fundação vaticana dedicada a estudar seus escritos e seu breve pontificado.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato João Paulo I Original](imagens/original.jpg) | ![Beato João Paulo I Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

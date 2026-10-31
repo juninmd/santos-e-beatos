@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Tomás de Aquino.
 
 # São Tomás de Aquino
 
-![São Tomás de Aquino](imagens/portrait.jpg)
+![São Tomás de Aquino](imagens/restaurada_4k.jpg)
 
 > "O Doutor Angélico"
 
@@ -42,6 +42,13 @@ Um dos episódios mais célebres ocorreu em Nápoles, quando o sacristão o viu 
 1.  **Padroeiro:** É o padroeiro das escolas católicas, dos estudantes e dos teólogos.
 2.  **O Boi Mudo:** Seu apelido de estudante, dado por ser grande, corpulento e silencioso, tornou-se irônico diante da vastidão de sua obra.
 3.  **Corpus Christi:** A pedido do Papa Urbano IV, compôs os hinos litúrgicos para a Solenidade de Corpus Christi, incluindo o famoso *Tantum Ergo* e o *Panis Angelicus*.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Tomás de Aquino Original](imagens/original.jpg) | ![São Tomás de Aquino Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

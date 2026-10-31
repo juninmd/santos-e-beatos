@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Mariano de la Mat
 
 # Beato Mariano de la Mata
 
-![Beato Mariano de la Mata](imagens/beato-mariano-de-la-mata.jpg)
+![Beato Mariano de la Mata](imagens/restaurada_4k.jpg)
 
 > "O mensageiro da caridade."
 
@@ -42,6 +42,13 @@ O milagre reconhecido para a beatificação foi a cura de uma criança brasileir
 2. **A caderneta:** carregava sempre um caderno com nomes e pedidos, que consultava para não esquecer ninguém — objeto hoje conservado como relíquia.
 3. **Rede de ex-alunos:** usava sistematicamente os contatos formados no colégio para conseguir vagas em hospitais e empregos para os pobres.
 4. **Padroeiro:** invocado pelos educadores, pelos agentes de pastoral da saúde e pelos imigrantes.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Mariano de la Mata Original](imagens/original.jpg) | ![Beato Mariano de la Mata Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Clélia Merloni.
 
 # Beata Clélia Merloni
 
-![Beata Clélia Merloni](imagens/portrait.jpg)
+![Beata Clélia Merloni](imagens/restaurada_colorida_4k.jpg)
 
 > "Só Deus... e depois, nada mais!"
 
@@ -38,6 +38,13 @@ O milagre que permitiu sua beatificação ocorreu no Brasil, em 1951. O médico 
 
 1.  **Corpo Incorrupto:** Em 1945, durante a Segunda Guerra Mundial, seu corpo foi exumado e encontrado incorrupto. Hoje, repousa na Capela da Casa Generalícia em Roma, onde pode ser venerado.
 2.  **O Perdão:** Sua maior virtude foi a caridade através do perdão. Nunca se defendeu das acusações falsas nem guardou rancor daqueles que a perseguiram, vendo em tudo a vontade de Deus.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Clélia Merloni Original](imagens/original.jpg) | ![Beata Clélia Merloni Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

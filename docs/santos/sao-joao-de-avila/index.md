@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João de Ávila.
 
 # São João de Ávila
 
-![São João de Ávila](imagens/portrait.jpg)
+![São João de Ávila](imagens/restaurada_4k.jpg)
 
 > "Sacerdote fiel e modelo de vida evangélica"
 
@@ -38,6 +38,13 @@ Além dos milagres espirituais, muitos fiéis testemunharam curas físicas após
 * Foi proclamado Padroeiro do clero secular espanhol pelo Papa Pio XII em 1946.
 * São João de Ávila tinha o hábito de usar roupas muito simples e, apesar de suas elevadas relações com a nobreza e grandes santos, sempre preferia a companhia dos pobres e doentes.
 * É o 34º Doutor da Igreja Católica.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João de Ávila Original](imagens/original.jpg) | ![São João de Ávila Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

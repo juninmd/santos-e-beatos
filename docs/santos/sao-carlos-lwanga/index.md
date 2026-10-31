@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa de São Carlos Lwanga, m�
 
 # São Carlos Lwanga
 
-![São Carlos Lwanga e Companheiros](imagens/cover.jpg)
+![São Carlos Lwanga e Companheiros](imagens/restaurada_4k.jpg)
 
 > "Podes me queimar, mas o fogo não me fará renunciar a Jesus Cristo!"
 
@@ -55,7 +55,14 @@ O sacrifício de Carlos Lwanga e seus companheiros causou um efeito contrário a
 
 > *"O sangue dos mártires é a semente dos cristãos."* - Tertuliano (aplicável à história de Uganda)
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Carlos Lwanga e Companheiros Original](imagens/original.jpg) | ![São Carlos Lwanga e Companheiros Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 ![Relíquia de São Carlos Lwanga](./imagens/portrait.jpg)
 *Relicário de São Carlos Lwanga*

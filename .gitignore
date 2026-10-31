@@ -1,4 +1,6 @@
 node_modules/
 docs/.vitepress/cache/
 docs/.vitepress/dist/
+__pycache__/
+*.pyc
 e2e*.tmp.mjs

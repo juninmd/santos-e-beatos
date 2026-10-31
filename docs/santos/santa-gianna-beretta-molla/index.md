@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Gianna Beretta Mo
 
 # Santa Gianna Beretta Molla
 
-![Santa Gianna Beretta Molla](imagens/portrait.jpg)
+![Santa Gianna Beretta Molla](imagens/restaurada_4k.jpg)
 
 > "O amor é o sentimento mais bonito que o Senhor colocou na alma dos homens e das mulheres."
 

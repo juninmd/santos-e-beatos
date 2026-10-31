@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Carlo Acutis.
 
 # São Carlo Acutis
 
-![São Carlo Acutis](imagens/carlo-acutis.jpg)
+![São Carlo Acutis](imagens/restaurada_4k.jpg)
 
 > "O Ciberapóstolo da Eucaristia"
 
@@ -63,7 +63,14 @@ Carlo Acutis é um fenômeno mundial, especialmente entre os jovens. Ele mostra 
 
 Foi canonizado pelo Papa Leão XIV em 7 de setembro de 2025, na Praça de São Pedro, na mesma celebração de Pier Giorgio Frassati — tornando-se o primeiro santo da geração millennial. A cerimônia, inicialmente marcada para 27 de abril de 2025, foi adiada com a morte do Papa Francisco.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Carlo Acutis Original](imagens/original.jpg) | ![São Carlo Acutis Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

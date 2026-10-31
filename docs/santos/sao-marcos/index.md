@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Marcos.
 
 # São Marcos
 
-![São Marcos](imagens/portrait.jpg)
+![São Marcos](imagens/restaurada_4k.jpg)
 
 > "Voz do que clama no deserto."
 
@@ -40,6 +40,13 @@ A tradição alexandrina atribui a Marcos curas realizadas ao chegar ao Egito, e
 2. **A translação para Veneza:** em 828, mercadores venezianos levaram suas relíquias de Alexandria para Veneza — segundo a lenda, escondidas sob carne de porco para evitar a inspeção. Sobre elas ergueu-se a Basílica de São Marcos.
 3. **O jovem da túnica:** muitos estudiosos veem uma assinatura discreta do autor no jovem que, na prisão de Jesus, foge deixando cair o lençol (Mc 14,51-52).
 4. **Padroeiro:** de Veneza, do Egito, dos notários e dos vidraceiros.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Marcos Original](imagens/original.jpg) | ![São Marcos Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

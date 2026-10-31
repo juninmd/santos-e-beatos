@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Pio IX.
 
 # Beato Pio IX
 
-![Beato Pio IX](imagens/portrait.jpg)
+![Beato Pio IX](imagens/restaurada_colorida_4k.jpg)
 
 > "O Papa do Dogma da Imaculada Conceição"
 
@@ -39,6 +39,13 @@ Este milagre, junto com outro examinado e aprovado pela Congregação para as Ca
 2. **"Prisioneiro do Vaticano":** Depois que Roma foi tomada em 1870 pelo Reino da Itália, o Papa Pio IX recusou qualquer acordo ou a aceitação das "Leis de Garantia" e fechou-se dentro do Vaticano, recusando-se a sair, o que criou o precedente que durou até os Tratados de Latrão em 1929.
 3. **Pio e o Brasil:** Pio IX criou várias dioceses no Brasil e nomeou o primeiro cardeal sul-americano, o Cardeal Joaquim Arcoverde de Albuquerque Cavalcanti, embora isso só tenha ocorrido nos pontificados seguintes, suas sementes germinaram com ele.
 4. **Condenação de Heresias:** Seu famoso Syllabus of Errors (1864) detalhava os 80 erros mais frequentes na época, abrangendo o racionalismo, comunismo, liberalismo e sociedades secretas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Pio IX Original](imagens/original.jpg) | ![Beato Pio IX Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

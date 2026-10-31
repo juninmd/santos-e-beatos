@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José Moscati.
 
 # São José Moscati
 
-![São José Moscati](imagens/portrait.jpg)
+![São José Moscati](imagens/restaurada_4k.jpg)
 
 > "O Médico dos Pobres"
 
@@ -40,6 +40,13 @@ Outro milagre reconhecido na canonização foi o de Giuseppe Montefusco, um jove
 2. **"O Médico de Nápoles":** Ele era frequentemente chamado carinhosamente pelos napolitanos de "o médico dos pobres" ou "o médico santo".
 3. **Pioneirismo:** Além de santo, foi um proeminente pesquisador e professor, sendo um dos primeiros médicos na Itália a estudar e aplicar insulina no tratamento do diabetes, uma doença que naquela época era quase sempre fatal.
 4. **Cinematografia:** Sua vida foi tema de diversas obras, notavelmente o filme "São José Moscati: O Médico que Curava com o Amor" (Giuseppe Moscati: L'amore che guarisce), uma produção italiana que popularizou ainda mais sua devoção.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São José Moscati Original](imagens/original.jpg) | ![São José Moscati Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

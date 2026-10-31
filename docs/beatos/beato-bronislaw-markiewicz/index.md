@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Bronislaw Markiew
 
 # Beato Bronislaw Markiewicz
 
-![Beato Bronislaw Markiewicz](imagens/retrato.jpg)
+![Beato Bronislaw Markiewicz](imagens/restaurada_colorida_4k.jpg)
 
 > "Desejo reunir milhões de jovens abandonados e alimentar seus corpos e almas."
 

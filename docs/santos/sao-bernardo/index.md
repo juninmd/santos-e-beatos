@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bernardo de Clarav
 
 # São Bernardo de Claraval
 
-![São Bernardo de Claraval](imagens/portrait.jpg)
+![São Bernardo de Claraval](imagens/restaurada_4k.jpg)
 
 > "O Cantor da Virgem Maria e o Doutor Melífluo"
 
@@ -43,6 +43,13 @@ Um milagre célebre é conhecido como o "Milagre da Lactação" (Lactatio Bernar
 1.  **Doutor Melífluo:** Recebeu esse título porque suas palavras eram "doces como o mel" (*mellifluus*).
 2.  **Expansão Cisterciense:** Quando Bernardo morreu, a Ordem Cisterciense contava com mais de 340 mosteiros na Europa, dos quais 68 foram fundados diretamente por ele a partir de Claraval.
 3.  **Hino Famoso:** O famoso hino latino *Jesu Dulcis Memoria* (Jesus, doce memória) é frequentemente atribuído a ele, expressando o intenso amor pelo nome de Jesus que caracterizava a sua piedade.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Bernardo de Claraval Original](imagens/original.jpg) | ![São Bernardo de Claraval Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

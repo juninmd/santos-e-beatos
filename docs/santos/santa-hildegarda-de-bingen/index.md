@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Hildegarda de Bin
 
 # Santa Hildegarda de Bingen
 
-![Santa Hildegarda de Bingen](imagens/portrait.jpg)
+![Santa Hildegarda de Bingen](imagens/restaurada_4k.jpg)
 
 > "Sibila do Reno e Profetisa da Alemanha"
 
@@ -38,6 +38,13 @@ Muitos prodígios foram atribuídos a ela ainda em vida.
 2. **Compositora prolífica:** Hildegarda é uma das primeiras compositoras cuja biografia é bem conhecida. Ela compôs a melodia para 69 composições musicais, cada uma com seu próprio texto poético original, e a primeira "ópera" ou drama litúrgico moral do mundo ocidental, o *Ordo Virtutum* ("Ordem das Virtudes").
 3. **Pioneira na medicina:** Ela foi autora de textos sobre medicina holística e ciências naturais (*Physica* e *Causae et Curae*). Ela documentou as propriedades curativas de ervas e minerais, considerando a saúde humana estritamente conectada com o equilíbrio e a ordem na natureza.
 4. **Língua própria:** Hildegarda inventou uma linguagem construída, conhecida como *Lingua Ignota* ("Língua Desconhecida"), criando um vocabulário novo e até um alfabeto próprio com 23 letras.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Hildegarda de Bingen Original](imagens/original.jpg) | ![Santa Hildegarda de Bingen Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

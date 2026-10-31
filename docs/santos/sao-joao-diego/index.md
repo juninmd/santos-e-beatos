@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Diego Cuauht
 
 # São João Diego Cuauhtlatoatzin
 
-![São João Diego Cuauhtlatoatzin](imagens/portrait.jpg)
+![São João Diego Cuauhtlatoatzin](imagens/restaurada_4k.jpg)
 
 > "Eu sou nada, sou uma pequena corda, uma escada de tábuas..."
 
@@ -54,6 +54,13 @@ O maior milagre associado a São João Diego é o próprio evento milagroso da V
 *   Segundo algumas tradições, o nome Cuauhtlatoatzin ("Águia que fala") está ligado ao seu destino profético de ser o "mensageiro" (como uma águia mensageira divina na cultura asteca) das palavras da Rainha do Céu.
 *   Diferente do costume de sua classe social, ele obteve permissão especial do bispo para receber a comunhão três vezes por semana, demonstrando sua profunda e ardente piedade eucarística, que era muito rara para a época.
 *   O evento da sua tilma desencadeou um movimento de conversão em massa inigualável. Milhões de indígenas se converteram ao cristianismo na década que se seguiu às aparições de Guadalupe.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Diego Cuauhtlatoatzin Original](imagens/original.jpg) | ![São João Diego Cuauhtlatoatzin Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

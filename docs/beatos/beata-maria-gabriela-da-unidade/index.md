@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Gabriela da
 
 # Beata Maria Gabriela da Unidade
 
-![Beata Maria Gabriela da Unidade](imagens/portrait.jpg)
+![Beata Maria Gabriela da Unidade](imagens/restaurada_4k.jpg)
 
 > "Ut unum sint (Para que todos sejam um)."
 
@@ -42,6 +42,13 @@ O milagre reconhecido para a beatificação foi a cura de uma religiosa que sofr
 2. **Quinze meses:** entre a oferta da vida e a morte passaram-se pouco mais de quinze meses, período em que a tuberculose avançou de forma atípica.
 3. **A data escolhida:** a beatificação em 25 de janeiro liga permanentemente sua memória à Semana de Oração pela Unidade dos Cristãos.
 4. **Sardenha:** é uma das figuras mais veneradas da ilha, junto com Antônia Mesina e Edviges Carboni.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Gabriela da Unidade Original](imagens/original.jpg) | ![Beata Maria Gabriela da Unidade Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

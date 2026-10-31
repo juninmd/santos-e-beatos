@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Genoveva.
 
 # Santa Genoveva
 
-![Santa Genoveva](imagens/portrait.jpg)
+![Santa Genoveva](imagens/restaurada_4k.jpg)
 
 > "Não tenham medo, o Senhor nos protegerá."
 

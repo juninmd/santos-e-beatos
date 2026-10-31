@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Mama Antula, a pr
 
 # Santa Mama Antula (María Antonia de Paz y Figueroa)
 
-![Santa Mama Antula (María Antonia de Paz y Figueroa)](imagens/portrait.png)
+![Santa Mama Antula (María Antonia de Paz y Figueroa)](imagens/restaurada_4k.jpg)
 
 > "A paciência é o escudo das almas fortes; ela vence as adversidades e não se deixa perturbar."
 
@@ -38,6 +38,13 @@ A canonização de Mama Antula ocorreu após o reconhecimento de dois milagres n
 1. **A Primeira Santa Argentina:** Ela é a primeira mulher nascida na Argentina a ser canonizada, e por um Papa argentino, o Papa Francisco.
 2. **Andarilha da Fé:** Estima-se que ela tenha caminhado descalça cerca de 4.000 a 5.000 quilômetros para organizar os retiros espirituais e espalhar a fé.
 3. **Influência Histórica:** Muitas figuras importantes da Revolução de Maio de 1810, que levou à independência da Argentina, como Manuel Belgrano e Cornelio Saavedra, participaram de seus retiros na Santa Casa de Exercícios.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Mama Antula (María Antonia de Paz y Figueroa) Original](imagens/original.jpg) | ![Santa Mama Antula (María Antonia de Paz y Figueroa) Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

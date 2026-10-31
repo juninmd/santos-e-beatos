@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa do Beato Estêvão Sándo
 
 # Beato Estêvão Sándor
 
-![Beato Estêvão Sándor](imagens/portrait.jpg)
+![Beato Estêvão Sándor](imagens/restaurada_4k.jpg)
 
 > "A vida é bonita apenas se a dermos por Cristo"
 
@@ -41,6 +41,13 @@ Ele foi executado por enforcamento a 8 de junho de 1953, na prisão de Budapeste
 1. **Mestre e Mártir:** Sándor era mestre impressor, e utilizava as rotativas não só para o trabalho material, mas como instrumento de evangelização, imprimindo milhares de folhetos, catecismos e material para a juventude.
 2. **Descoberta do Destino:** A sua família apenas descobriu o que realmente lhe acontecera após a queda do muro de Berlim e do regime comunista, quase 40 anos depois.
 3. **Mártir Leigo:** Sándor sublinha a importância dos irmãos leigos consagrados (coadjutores) na missão da Igreja, oferecendo um modelo de santidade laical numa profissão operária.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Estêvão Sándor Original](imagens/original.jpg) | ![Beato Estêvão Sándor Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

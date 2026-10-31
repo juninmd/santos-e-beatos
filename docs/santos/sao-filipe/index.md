@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Filipe.
 
 # São Filipe
 
-![São Filipe](imagens/portrait.jpg)
+![São Filipe](imagens/restaurada_4k.jpg)
 
 > "Senhor, mostra-nos o Pai, e isso nos basta."
 
@@ -40,6 +40,13 @@ Os relatos apócrifos dos *Atos de Filipe* atribuem-lhe curas, exorcismos e a co
 2. **Junto com Tiago Menor:** suas relíquias foram levadas para Roma e depositadas na Basílica dos Santos Doze Apóstolos, motivo pelo qual os dois apóstolos partilham a mesma festa, em 3 de maio.
 3. **"Vem e vê":** sua resposta a Natanael tornou-se uma fórmula clássica da catequese e do convite missionário.
 4. **Padroeiro:** dos chapeleiros, dos pasteleiros e do Uruguai.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Filipe Original](imagens/original.jpg) | ![São Filipe Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

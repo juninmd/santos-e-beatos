@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Expedito.
 
 # Santo Expedito
 
-![Santo Expedito](imagens/portrait.jpg)
+![Santo Expedito](imagens/restaurada_4k.jpg)
 
 > "O Santo das Causas Justas e Urgentes"
 
@@ -41,6 +41,13 @@ Ele é frequentemente invocado por pessoas que se encontram em becos sem saída,
 1. **A Palavra "Expedito":** O nome "Expedito" vem do latim *expeditus*, que significa livre de embaraços, pronto, ágil e ativo. Isso pode ter contribuído para a sua associação com a rapidez e as causas urgentes.
 2. **Iconografia:** Ele é quase sempre representado vestindo o traje de legionário romano, com um manto vermelho (símbolo do martírio). Em uma mão ele segura uma palma (símbolo do martírio e da vitória) ou uma cruz na qual está escrita a palavra *HODIE* (Hoje). Sob um de seus pés, encontra-se um corvo negro, com a palavra *CRAS* (Amanhã) inscrita nas proximidades.
 3. **Patronato:** Além de ser o padroeiro das causas urgentes, Santo Expedito também é invocado como protetor dos estudantes, dos jovens, das famílias, dos viajantes, e dos militares. Em algumas regiões, os estudantes rezam a ele antes de exames importantes.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Expedito Original](imagens/original.jpg) | ![Santo Expedito Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

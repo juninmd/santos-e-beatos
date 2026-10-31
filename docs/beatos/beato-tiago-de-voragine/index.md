@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Tiago de Voragine
 
 # Beato Tiago de Voragine
 
-![Beato Tiago de Voragine](imagens/portrait.jpg)
+![Beato Tiago de Voragine](imagens/restaurada_4k.jpg)
 
 > "A memória dos santos é uma bênção para nós."
 
@@ -34,6 +34,13 @@ Em 1292, apesar de sua relutância, ele foi nomeado Arcebispo de Gênova. Como a
 - A "Legenda Áurea" foi tão popular que, após a invenção da imprensa, foram publicadas mais edições dela do que da própria Bíblia durante o final do século XV.
 - O nome "Voragine" é derivado da forma latina "De Voragine", referindo-se a sua cidade natal de Varazze.
 - A devoção popular ao Beato Tiago sempre permaneceu muito forte em Gênova, levando o Papa Pio VII a confirmar formalmente seu culto em 1816.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Tiago de Voragine Original](imagens/original.jpg) | ![Beato Tiago de Voragine Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

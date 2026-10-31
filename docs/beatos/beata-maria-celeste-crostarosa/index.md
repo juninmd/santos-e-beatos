@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Celeste Cro
 
 # Beata Maria Celeste Crostarosa
 
-![Beata Maria Celeste Crostarosa](imagens/portrait.jpg)
+![Beata Maria Celeste Crostarosa](imagens/restaurada_4k.jpg)
 
 > "A alma que ama a Deus não encontra amargura nas tribulações, mas grande doçura por sofrer por Aquele que ama."
 
@@ -40,6 +40,13 @@ O milagre que a levou à beatificação envolveu a cura inexplicável de uma mul
 - O relacionamento espiritual e de aconselhamento entre a Madre Maria Celeste e Santo Afonso Maria de Ligório foi fundamental para a fundação tanto do ramo feminino (Monjas Redentoristas) quanto do ramo masculino (Redentoristas).
 - Suas visões místicas foram detalhadamente registradas em sua autobiografia, que até hoje serve como um valioso documento sobre a teologia mística e ascética do século XVIII.
 - Além de seus dons espirituais, ela possuía notáveis talentos musicais, muitas vezes compondo hinos espontâneos para louvar a Deus.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Celeste Crostarosa Original](imagens/original.jpg) | ![Beata Maria Celeste Crostarosa Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

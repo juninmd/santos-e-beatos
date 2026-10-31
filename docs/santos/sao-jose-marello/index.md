@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José Marello.
 
 # São José Marello
 
-![São José Marello](imagens/portrait.jpg)
+![São José Marello](imagens/restaurada_4k.jpg)
 
 > "Fundador dos Oblatos de São José"
 
@@ -35,6 +35,13 @@ São José Marello é creditado com diversos milagres de cura, tanto durante sua
 1.  **Devoção a São José:** Ele tinha uma devoção profunda a São José, escolhendo-o como patrono de sua congregação e modelo de vida. Ele sempre ensinava seus religiosos a serem "cartuxos em casa e apóstolos fora de casa".
 2.  **Amizade com Dom Bosco:** José Marello conheceu e foi contemporâneo de São João Bosco. Ambos partilhavam a mesma preocupação e dedicação à juventude abandonada no Piemonte.
 3.  **Lema Episcopal:** Seu lema episcopal era "Deus providenciará", demonstrando sua total confiança na providência divina ao longo de toda a sua vida e missão.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São José Marello Original](imagens/original.jpg) | ![São José Marello Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

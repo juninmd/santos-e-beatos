@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Clara de Assis.
 
 # Santa Clara de Assis
 
-![Santa Clara de Assis](imagens/portrait.jpg)
+![Santa Clara de Assis](imagens/restaurada_4k.jpg)
 
 > "Ama totalmente Aquele que totalmente se entregou por teu amor."
 
@@ -39,6 +39,13 @@ Sua espiritualidade era eucarística e centrada na contemplação da humanidade 
 
 1.  **Padroeira da Televisão:** No Natal de 1252, um ano antes de sua morte, Clara estava muito doente e não podia sair de sua cela para a Missa na Basílica de São Francisco. Milagrosamente, Deus concedeu-lhe a visão e a audição da cerimônia projetadas na parede de seu quarto, como se estivesse presente no local. Por esse motivo, o Papa Pio XII a declarou Padroeira da Televisão em 1958.
 2.  **Nome:** Seu nome, Clara, foi inspirado em uma premonição que sua mãe teve antes do parto, de que a criança seria uma luz a iluminar o mundo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Clara de Assis Original](imagens/original.jpg) | ![Santa Clara de Assis Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

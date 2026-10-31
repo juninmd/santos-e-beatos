@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa do Beato Maurício Tornay
 
 # Beato Maurício Tornay
 
-![Beato Maurício Tornay](imagens/portrait.jpg)
+![Beato Maurício Tornay](imagens/restaurada_colorida_4k.jpg)
 
 > "Para a minha vocação, eu deixaria tudo, faria todos os sacrifícios."
 
@@ -39,6 +39,13 @@ Determinados a impedir que o Padre Maurício levasse sua causa às autoridades e
 - Antes de partir para o Tibete, ele passou por uma cirurgia de úlcera sem anestesia para se acostumar com a dor e as privações que poderia enfrentar nas missões.
 - A missão de São Bernardo no Tibete era tão isolada que a correspondência podia levar meses ou até anos para chegar à Europa.
 - Ele foi beatificado pelo Papa João Paulo II ao lado de outros mártires missionários.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Maurício Tornay Original](imagens/original.jpg) | ![Beato Maurício Tornay Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

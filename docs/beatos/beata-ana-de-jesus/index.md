@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Ana de Jesus.
 
 # Beata Ana de Jesus
 
-![Beata Ana de Jesus](imagens/portrait.jpg)
+![Beata Ana de Jesus](imagens/restaurada_4k.jpg)
 
 > "A grande capitã das prioras."** (Santa Teresa de Ávila sobre Ana de Jesus)"
 
@@ -39,6 +39,13 @@ O processo de beatificação de Ana de Jesus foi longo, iniciado logo após sua 
 *   **Guardiã dos Escritos:** Ana de Jesus foi responsável por recolher e preservar os escritos de Santa Teresa de Ávila após sua morte, garantindo que suas obras chegassem às gerações futuras.
 *   **Musa de São João da Cruz:** Foi a pedido dela que São João da Cruz escreveu o comentário ao seu poema "Cântico Espiritual", explicando os versos sobre a união da alma com Deus.
 *   **Influência Real:** A Infanta Isabel Clara Eugênia, governadora dos Países Baixos, tinha grande veneração por Ana e apoiou a fundação do Carmelo em Bruxelas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Ana de Jesus Original](imagens/original.jpg) | ![Beata Ana de Jesus Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

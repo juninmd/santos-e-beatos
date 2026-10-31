@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Antônio Frederic
 
 # Beato Antônio Frederico Ozanam
 
-![Beato Antônio Frederico Ozanam](imagens/portrait.jpg)
+![Beato Antônio Frederico Ozanam](imagens/restaurada_colorida_4k.jpg)
 
 > "A fé sem obras é morta."
 
@@ -37,6 +37,13 @@ Atualmente, investiga-se um possível segundo milagre (necessário para a canoni
 1. **Jornalista e Pensador Social:** Ozanam foi um dos pioneiros da Doutrina Social da Igreja Católica, antecedendo as reflexões da encíclica *Rerum Novarum* do Papa Leão XIII. Ele escrevia ativamente sobre justiça social, salário justo e os direitos dos trabalhadores.
 2. **Sorbonne:** Ele se tornou professor de Literaturas Estrangeiras na Sorbonne em 1844, sendo um dos poucos católicos assumidos e defensores da fé num ambiente acadêmico que, na época, era fortemente secularista e anticlerical.
 3. **Casamento e Vida Laical:** Ele demonstrou fortemente o chamado à santidade dentro do matrimônio e do laicato. A correspondência entre ele e sua esposa Amélie é considerada uma bela demonstração de amor e vida familiar fundamentada na fé.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Antônio Frederico Ozanam Original](imagens/original.jpg) | ![Beato Antônio Frederico Ozanam Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Isidro Lavrador.
 
 # Santo Isidro Lavrador
 
-![Santo Isidro Lavrador](imagens/santo-isidro.jpg)
+![Santo Isidro Lavrador](imagens/restaurada_4k.jpg)
 
 > "Padroeiro dos agricultores e modelo de santidade na vida cotidiana e no trabalho do campo."
 
@@ -42,6 +42,13 @@ Ele sempre demonstrou compaixão e caridade para com os necessitados e até para
 * É o santo padroeiro de Madri, e sua festa em 15 de maio é celebrada com uma imensa festividade folclórica e religiosa na cidade.
 * Ele e sua esposa, Santa Maria de la Cabeza (canonizada no século XVII), são um dos raros exemplos de casais santos na Igreja.
 * É reverenciado em várias partes do mundo hispânico, especialmente em comunidades rurais que dependem da agricultura.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Isidro Lavrador Original](imagens/original.jpg) | ![Santo Isidro Lavrador Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

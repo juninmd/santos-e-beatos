@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Antônio Chevrier
 
 # Beato Antônio Chevrier
 
-![Beato Antônio Chevrier](imagens/portrait.jpg)
+![Beato Antônio Chevrier](imagens/restaurada_4k.jpg)
 
 > "Apóstolo dos Pobres e Fundador do Prado"
 
@@ -35,6 +35,13 @@ A beatificação do Padre Chevrier ocorreu após a aprovação de um milagre atr
 1. **"O Prado":** O salão de baile que ele comprou e transformou em sua obra, "O Prado", deu nome à Associação dos Padres do Prado (Instituto Secular de sacerdotes diocesanos) e à Associação das Irmãs do Prado. Ambas as congregações continuam hoje sua missão de evangelizar os pobres.
 2. **O Presépio, a Cruz e o Tabernáculo:** Estes foram os três grandes pilares da espiritualidade de Antônio Chevrier. Ele dizia que o padre devia ser "um homem despojado" (Presépio), "um homem crucificado" (Cruz) e "um homem comido" (Tabernáculo - Eucaristia) pelos outros.
 3. **Conversão pelo Natal:** Ele costumava dizer sobre sua experiência mística: "O Verbo se fez carne, e nós o compreendemos tão pouco... O Filho de Deus desceu à terra para salvar os homens e nós vivemos como se Ele nunca tivesse vindo". Esse choque de realidade no Natal moldou toda a sua obra.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Antônio Chevrier Original](imagens/original.jpg) | ![Beato Antônio Chevrier Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

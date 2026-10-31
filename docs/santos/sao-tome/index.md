@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Tomé.
 
 # São Tomé
 
-![São Tomé](imagens/portrait.jpg)
+![São Tomé](imagens/restaurada_4k.jpg)
 
 > "Meu Senhor e meu Deus!"
 
@@ -42,6 +42,13 @@ Tomé é, na memória cristã, o apóstolo da fé que atravessa a dúvida — n�
 2. **Cristãos de São Tomé:** cerca de vários milhões de fiéis no estado indiano de Kerala se identificam como herdeiros de sua missão, divididos hoje entre diversas Igrejas siro-malabares e siro-malancares.
 3. **Relíquias em Ortona:** parte de seus restos foi levada de Edessa a Quios e, em 1258, à cidade italiana de Ortona, onde repousam na catedral.
 4. **Padroeiro:** dos arquitetos, engenheiros, agrimensores e da Índia.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Tomé Original](imagens/original.jpg) | ![São Tomé Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

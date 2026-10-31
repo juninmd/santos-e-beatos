@@ -5,7 +5,7 @@ description: O Santo da Providência, fundador dos Teatinos e renovador do clero
 
 # São Caetano de Thiene
 
-![Capa](imagens/cover.jpg)
+![Capa](imagens/restaurada_colorida_4k.jpg)
 
 > "Buscai primeiro o Reino de Deus e a sua justiça, e todas estas coisas vos serão acrescentadas."
 
@@ -33,6 +33,13 @@ Além disso, durante a sua vida e após a sua morte, há inúmeros relatos de do
 - Ele introduziu na Itália o costume de montar o presépio de Natal nas igrejas e casas.
 - Em Buenos Aires, na Argentina, existe um santuário muito famoso dedicado a São Caetano (San Cayetano), onde anualmente milhões de peregrinos se reúnem em 7 de agosto pedindo "pão e trabalho".
 - A regra de sua Ordem proibia até mesmo a mendicância; eles deveriam apenas esperar que Deus tocasse os corações para prover o sustento diário.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Capa Original](imagens/original.jpg) | ![Capa Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 - Vicenza (Nascimento)

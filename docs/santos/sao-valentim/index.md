@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Valentim.
 
 # São Valentim
 
-![São Valentim](imagens/portrait.jpg)
+![São Valentim](imagens/restaurada_4k.jpg)
 
 > "O amor é a única força capaz de transformar um inimigo num amigo."
 
@@ -47,7 +47,14 @@ O mapa abaixo reúne os lugares ligados a São Valentim: nascimento, morte, mila
 
 Hoje, São Valentim é mundialmente conhecido como o santo padroeiro dos namorados, do amor e dos casamentos felizes. O dia 14 de fevereiro é celebrado em muitos países como o "Dia de São Valentim" (Valentine's Day), uma data dedicada a celebrar o amor e a afeição entre companheiros íntimos.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Valentim Original](imagens/original.jpg) | ![São Valentim Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Capa |
 | --- |

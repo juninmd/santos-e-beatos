@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Guido Maria Confor
 
 # São Guido Maria Conforti
 
-![São Guido Maria Conforti](imagens/guido-conforti.jpg)
+![São Guido Maria Conforti](imagens/restaurada_colorida_4k.jpg)
 
 > "Desejaria ser como a pequena haste que não tem luz própria, mas espalha no ambiente a luz viva que recebe do sol."
 
@@ -37,6 +37,13 @@ Em 2011, obteve a confirmação da Santa Sé, de outro milagre – uma cura sem 
 1.  **Doutrina e Ecumenismo:** Durante o tenso período entre a recém-criada república Italiana e a Santa Sé (conhecido como a questão romana), conseguiu por diplomacia um acordo informal para assegurar a protecção do Vaticano sobre as escolas em conflitos sociais crescentes em Itália, que culminariam em revoltas armadas nos anos 20, nas quais, literalmente arriscou o corpo nas barricadas em Parma.
 2.  **O Crucifixo da Paz:**  Costumava sempre beijar e carregar o crucifixo de quando era estudante - mesmo durante uma violenta convulsão de grupos opostos em agosto de 1922 em Itália - conseguiu apaziguar a situação pondo-se perante o tiroteio em defesa das vítimas que sangravam.
 3.  **China:** Embora frágil de saúde, em 1928 iniciou a realização do seu grande desejo e embarcou para visitar as Missões e Bispos dos Xaverianos pela Ásia, na China, espantando os irmãos de fé ao viajar por lugares infestados por malária a pé e por rios.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Guido Maria Conforti Original](imagens/original.jpg) | ![São Guido Maria Conforti Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

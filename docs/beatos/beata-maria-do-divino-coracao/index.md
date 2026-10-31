@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria do Divino C
 
 # Beata Maria do Divino Coração
 
-![Beata Maria do Divino Coração](imagens/portrait.jpg)
+![Beata Maria do Divino Coração](imagens/restaurada_colorida_4k.jpg)
 
 > "A entrega total ao amor de Cristo é o segredo da verdadeira felicidade."
 
@@ -40,6 +40,13 @@ Apesar de sua origem nobre, Maria escolheu a pobreza e o serviço aos mais neces
 
 1.  **Corpo Incorrupto:** Seu corpo foi encontrado incorrupto quando exumado e hoje repousa na Igreja do Sagrado Coração de Jesus, em Ermesinde, Portugal.
 2.  **Influência Papal:** O Papa Leão XIII chamou a consagração do mundo ao Sagrado Coração de "o maior ato do meu pontificado", reconhecendo a influência decisiva da Beata Maria.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Maria do Divino Coração Original](imagens/original.jpg) | ![Beata Maria do Divino Coração Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

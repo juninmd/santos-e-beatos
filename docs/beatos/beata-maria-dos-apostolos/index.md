@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e impacto da Beata Maria dos Apó
 
 # Beata Maria dos Apóstolos
 
-![Beata Maria dos Apóstolos](imagens/portrait.jpg)
+![Beata Maria dos Apóstolos](imagens/restaurada_colorida_4k.jpg)
 
 > "Ide e ensinai a todas as nações: eis o testamento de nosso Salvador."
 
@@ -34,6 +34,13 @@ Em 1956, ocorreu um milagre crucial para o seu processo de beatificação em Mil
 
 1.  **Castelo de Nascimento:** Nascida num dos grandes castelos alemães em Myllendonk, ela renunciou a todos os luxos para viver em profunda pobreza, abraçando as congregações missionárias de braços abertos.
 2.  **Expansão Mundial:** Graças ao seu zelo incansável, durante a sua vida como Superiora, a Sociedade das Irmãs Salvatorianas conseguiu estabelecer colégios, hospitais e missões nos Estados Unidos, na América do Sul e na Índia em menos de três décadas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Maria dos Apóstolos Original](imagens/original.jpg) | ![Beata Maria dos Apóstolos Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

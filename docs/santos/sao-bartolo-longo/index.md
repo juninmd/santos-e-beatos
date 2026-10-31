@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bartolo Longo, o a
 
 # São Bartolo Longo
 
-![São Bartolo Longo](imagens/portrait.jpg)
+![São Bartolo Longo](imagens/restaurada_colorida_4k.jpg)
 
 > "O Apóstolo do Rosário"
 
@@ -45,6 +45,13 @@ O maior milagre de Bartolo Longo foi, sem dúvida, sua própria conversão e a t
 *   **A Súplica:** Escreveu a famosa "Súplica a Nossa Senhora de Pompeia", oração rezada solenemente em todo o mundo duas vezes por ano (8 de maio e no primeiro domingo de outubro).
 *   **Obras Sociais:** Foi um pioneiro na reintegração social, criando escolas e oficinas para os filhos de presidiários, dando-lhes dignidade e futuro, algo revolucionário para a época.
 *   **Influência Papal:** O Papa João Paulo II era muito devoto de Nossa Senhora de Pompeia e citou Bartolo Longo em sua Carta Apostólica *Rosarium Virginis Mariae*, chamando-o de "Apóstolo do Rosário".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Bartolo Longo Original](imagens/original.jpg) | ![São Bartolo Longo Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

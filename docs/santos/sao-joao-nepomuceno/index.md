@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Nepomuceno.
 
 # São João Nepomuceno
 
-![São João Nepomuceno](imagens/sao-joao-nepomuceno.jpg)
+![São João Nepomuceno](imagens/restaurada_4k.jpg)
 
 > "Mártir do Segredo da Confissão"
 
@@ -35,6 +35,13 @@ O martírio de São João Nepomuceno o tornou o primeiro mártir do selo da conf
 1. **Santo das Pontes:** Devido à forma como foi martirizado (lançado de uma ponte), São João Nepomuceno tornou-se o padroeiro das pontes, dos rios, e de todos aqueles que têm ligação com as águas, protegendo também contra as inundações.
 2. **Iconografia:** É frequentemente representado como um sacerdote segurando um crucifixo e uma palma de mártir, com cinco estrelas brilhando ao redor de sua cabeça.
 3. **Expansão da Devoção:** Seu culto foi fortemente propagado pelos jesuítas e pela coroa dos Habsburgos, tornando-o imensamente popular na Europa Central, na Espanha e em muitas colônias da América Ibérica.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Nepomuceno Original](imagens/original.jpg) | ![São João Nepomuceno Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

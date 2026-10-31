@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pedro Nolasco.
 
 # São Pedro Nolasco
 
-![São Pedro Nolasco](imagens/portrait.jpg)
+![São Pedro Nolasco](imagens/restaurada_4k.jpg)
 
 > "Para a libertação dos cativos, a nossa vida."
 
@@ -39,6 +39,13 @@ A vida de São Pedro Nolasco está envolta em relatos de intervenções milagros
 - A Ordem das Mercês foi originalmente uma ordem de cavalaria antes de se tornar uma ordem puramente religiosa mendicante.
 - O hábito branco dos Mercedários exibe o brasão do rei de Aragão, um escudo com quatro listras vermelhas sobre um fundo de ouro.
 - Os mercedários, além dos votos de castidade, pobreza e obediência, faziam um quarto voto de se entregar como reféns se necessário, para libertar um cristão em perigo de perder a fé.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Pedro Nolasco Original](imagens/original.jpg) | ![São Pedro Nolasco Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

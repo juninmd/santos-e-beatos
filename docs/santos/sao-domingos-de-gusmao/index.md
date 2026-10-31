@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Domingos de Gusmã
 
 # São Domingos de Gusmão
 
-![São Domingos de Gusmão](imagens/portrait.jpg)
+![São Domingos de Gusmão](imagens/restaurada_4k.jpg)
 
 > "Contemplar e transmitir aos outros o fruto da contemplação."
 
@@ -44,6 +44,13 @@ A vida de São Domingos é repleta de relatos miraculosos que atestam sua santid
 1.  **O Cão com a Tocha:** Antes de seu nascimento, sua mãe, a Beata Joana de Aza, sonhou que dava à luz um cão com uma tocha acesa na boca, que incendiava o mundo. Isso foi interpretado como um presságio de que seu filho "incendiaria" o mundo com o fogo da pregação do Evangelho. Daí também vem o trocadilho em latim para Dominicanos (*Dominicani*) como *Domini Canes* (Cães do Senhor).
 2.  **A Estrela na Testa:** Diz-se que, no dia de seu batismo, sua madrinha viu uma estrela brilhando em sua testa, simbolizando a luz que ele traria ao mundo. É por isso que ele é frequentemente representado com uma estrela sobre a cabeça.
 3.  **Venda de Si Mesmo:** Além de vender seus livros, em outra ocasião, Domingos tentou vender-se como escravo para resgatar um homem capturado pelos mouros, tamanha era sua caridade.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Domingos de Gusmão Original](imagens/original.jpg) | ![São Domingos de Gusmão Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 São Domingos foi um viajante incansável. Suas pregações e fundações o levaram por diversas cidades da Europa:

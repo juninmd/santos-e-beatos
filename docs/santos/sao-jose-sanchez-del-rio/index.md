@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José Sánchez del
 
 # São José Sánchez del Río
 
-![São José Sánchez del Río](imagens/portrait.jpg)
+![São José Sánchez del Río](imagens/restaurada_4k.jpg)
 
 > "Viva Cristo Rey!"
 
@@ -37,6 +37,13 @@ A canonização de São José Sánchez del Río foi impulsionada por um milagre 
 * José é frequentemente chamado de "Joselito".
 * A sua história ganhou fama mundial através do filme "Cristiada" (For Greater Glory), lançado em 2012, no qual seu papel foi interpretado por Mauricio Kuri.
 * A relíquia de seu osso viajou por várias paróquias do México e dos Estados Unidos.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São José Sánchez del Río Original](imagens/original.jpg) | ![São José Sánchez del Río Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

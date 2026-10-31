@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Concepción Cabre
 
 # Beata Concepción Cabrera de Armida (Conchita)
 
-![Beata Concepción Cabrera de Armida (Conchita)](imagens/portrait.jpg)
+![Beata Concepción Cabrera de Armida (Conchita)](imagens/restaurada_colorida_4k.jpg)
 
 > "Cristo quer reproduzir a sua vida em cada batizado."
 
@@ -42,6 +42,13 @@ O milagre reconhecido para a beatificação foi a cura de uma mulher mexicana qu
 2. **Leiga, esposa e mãe:** inspirou cinco fundações religiosas sem nunca ter sido religiosa, caso raríssimo na história das ordens.
 3. **Conchita:** o apelido de infância é o nome pelo qual é conhecida no México e nos documentos da causa.
 4. **Padroeira:** invocada pelas mães de família, pelas viúvas e pelos leigos com vocação contemplativa.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Concepción Cabrera de Armida (Conchita) Original](imagens/original.jpg) | ![Beata Concepción Cabrera de Armida (Conchita) Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Odoardo Focherini
 
 # Beato Odoardo Focherini
 
-![Beato Odoardo Focherini](imagens/portrait.jpg)
+![Beato Odoardo Focherini](imagens/restaurada_4k.jpg)
 
 > "A fé se demonstra com a vida e as obras, não só com as palavras."
 
@@ -32,6 +32,13 @@ Por ser reconhecido como Mártir ("in odium fidei" - por ódio à fé), não foi
 - Em 1969, ele foi reconhecido pelo Yad Vashem, a instituição de Israel para a memória do Holocausto, como "Justo entre as Nações" por salvar a vida de muitos judeus.
 - As últimas palavras dele relatadas por sobreviventes que o acompanharam no campo de concentração foram pedindo que sua esposa dissesse a seus sete filhos que ele os amava e recomendando-os à Providência.
 - Ele enviava clandestinamente centenas de cartas à sua família durante a prisão; essas cartas se tornaram um testemunho comovente de sua fé e amor conjugal e paternal, mesmo nas piores circunstâncias.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Odoardo Focherini Original](imagens/original.jpg) | ![Beato Odoardo Focherini Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 Sua vida começou e foi principalmente centrada na Itália (Carpi, Bolonha, Trento). Com sua prisão, o percurso forçado passou por vários campos na Itália e Alemanha, até encontrar a morte em Hersbruck.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Lourenço.
 
 # São Lourenço
 
-![São Lourenço](imagens/portrait.jpg)
+![São Lourenço](imagens/restaurada_4k.jpg)
 
 > "Vire-me do outro lado, este já está assado."
 
@@ -42,6 +42,13 @@ Como diácono responsável pelas finanças, Lourenço encarnou o entendimento cr
 2. **As lágrimas de São Lourenço:** a chuva de meteoros das Perseidas, visível em agosto, recebeu esse nome popular na Europa por coincidir com sua festa.
 3. **O Escorial:** Filipe II mandou construir o mosteiro-palácio de São Lourenço do Escorial em planta de grelha, em agradecimento por uma vitória obtida no dia do santo.
 4. **Padroeiro:** dos cozinheiros, bombeiros, vidraceiros, bibliotecários e arquivistas — e da cidade do Rio de Janeiro, fundada em terreno que leva seu nome.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Lourenço Original](imagens/original.jpg) | ![São Lourenço Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

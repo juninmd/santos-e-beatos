@@ -5,7 +5,7 @@ description: Biografia, vida pessoal, milagres, curiosidades e mapa de Beata San
 
 # Beata Sancha de Portugal
 
-![Beata Sancha de Portugal](imagens/portrait.png)
+![Beata Sancha de Portugal](imagens/restaurada_4k.jpg)
 
 > "A Princesa Cisterciense Fundadora de Celas"
 
@@ -37,6 +37,13 @@ A Sancha e às suas irmãs (Teresa e Mafalda) foram atribuídos diversos milagre
 1.  **Irmãs Beatas:** Sancha é frequentemente lembrada junto com as suas irmãs, a Beata Teresa de Portugal (rainha de Leão) e a Beata Mafalda de Portugal (rainha de Castela), todas reconhecidas pela Igreja pela sua santidade.
 2.  **Senhora de Alenquer:** O seu castelo em Alenquer foi palco de refúgio durante o conflito com D. Afonso II. Ela concedeu o foral a Alenquer e promoveu o desenvolvimento local.
 3.  **Túmulo:** Os seus restos mortais encontram-se hoje no Mosteiro de Lorvão, para onde foram trasladados para junto do túmulo da sua irmã Teresa.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Sancha de Portugal Original](imagens/original.jpg) | ![Beata Sancha de Portugal Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

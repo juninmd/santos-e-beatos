@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Neumann, o p
 
 # São João Neumann
 
-![São João Neumann](imagens/portrait.jpg)
+![São João Neumann](imagens/restaurada_colorida_4k.jpg)
 
 > "Um homem deve estar sempre preparado, pois a morte vem quando e onde Deus quiser."
 
@@ -40,6 +40,13 @@ Os milagres que levaram à sua canonização envolveram curas inexplicáveis pel
 
 - João Neumann aprendeu vários idiomas, incluindo inglês, alemão, francês, italiano, espanhol, holandês e até gaélico, apenas para poder ouvir as confissões dos imigrantes que chegavam à América em sua língua materna.
 - Ele frequentemente distribuía tudo o que tinha aos pobres, a ponto de, às vezes, ter apenas um par de sapatos e doar o único que estava usando para alguém mais necessitado.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São João Neumann Original](imagens/original.jpg) | ![São João Neumann Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

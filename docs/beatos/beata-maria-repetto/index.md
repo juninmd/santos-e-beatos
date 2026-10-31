@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Repetto.
 
 # Beata Maria Repetto
 
-![Beata Maria Repetto](imagens/portrait.jpg)
+![Beata Maria Repetto](imagens/restaurada_colorida_4k.jpg)
 
 > "As chaves do paraíso estão nas mãos dos pobres."
 
@@ -39,6 +39,13 @@ Um dos milagres reconhecidos para a sua beatificação envolveu a cura instantâ
 1. **A Porteira Santa:** O povo de Gênova a chamava carinhosamente de "Monaca santa" (A freira santa). Embora nunca tenha saído de Gênova após entrar para o convento, o seu impacto espalhou-se muito além das paredes da instituição.
 2. **"Amizade" com São José:** A sua relação com São José era de uma confiança extraordinária, quase familiar. Quando um problema parecia insolúvel, ela colocava um bilhete com o pedido debaixo da estátua de São José e dizia-lhe para cuidar do assunto, o que invariavelmente resultava em graças alcançadas.
 3. **Humildade e Serviço:** Ela via em cada pessoa que batia à porta, especialmente os pobres e marginalizados, o próprio Jesus Cristo. As suas ações cotidianas e monótonas como porteira foram elevadas a um grau heróico de caridade.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Maria Repetto Original](imagens/original.jpg) | ![Beata Maria Repetto Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

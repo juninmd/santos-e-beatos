@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Vicente Pallotti.
 
 # São Vicente Pallotti
 
-![São Vicente Pallotti](imagens/portrait.jpg)
+![São Vicente Pallotti](imagens/restaurada_4k.jpg)
 
 > "A caridade de Cristo nos impele."
 
@@ -37,6 +37,13 @@ Um dos milagres reconhecidos para sua canonização foi a cura milagrosa de um h
 - **Precursor da Ação Católica:** São Vicente Pallotti é frequentemente considerado o precursor da Ação Católica, pois antecipou em mais de um século o chamado do Concílio Vaticano II para a participação ativa dos leigos na missão da Igreja.
 - **Amigo dos Papas:** Ele mantinha contato com vários Papas e autoridades da Igreja de sua época, e era muito respeitado por sua sabedoria e santidade.
 - **Corpo Incorrupto:** Quando seu corpo foi exumado anos após sua morte, ele foi encontrado parcialmente incorrupto.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Vicente Pallotti Original](imagens/original.jpg) | ![São Vicente Pallotti Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

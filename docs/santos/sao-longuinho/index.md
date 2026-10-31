@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Longuinho.
 
 # São Longuinho
 
-![São Longuinho](imagens/portrait.jpg)
+![São Longuinho](imagens/restaurada_4k.jpg)
 
 > "O centurião que reconheceu o Filho de Deus"
 
@@ -38,6 +38,13 @@ Depois de sua conversão, Longuinho viajou para a Capadócia (atual Turquia) par
 2.  **A Lança do Destino:** A lança usada por Longuinho, conhecida como a "Lança de Longino" ou "Lança do Destino", tornou-se uma das relíquias mais famosas e cobiçadas da história, existindo várias relíquias ao redor do mundo que reivindicam ser a autêntica.
 3.  **Relíquias em Mântua:** A basílica de Santo André, em Mântua, Itália, guarda relíquias que supostamente contêm a terra embebida com o sangue de Cristo, levada para lá por São Longuinho.
 4.  **Representação na Arte:** Na Basílica de São Pedro, no Vaticano, há uma estátua colossal de São Longuinho segurando a lança, esculpida por Gian Lorenzo Bernini, localizada em um dos nichos ao redor do altar principal.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Longuinho Original](imagens/original.jpg) | ![São Longuinho Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

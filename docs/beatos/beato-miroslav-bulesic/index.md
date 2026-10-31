@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Beato Miroslav Buleši�
 
 # Beato Miroslav Bulešić
 
-![Beato Miroslav Bulešić](./imagens/portrait.jpg)
+![Beato Miroslav Bulešić](imagens/restaurada_colorida_4k.jpg)
 
 > "Meu Deus, eu te ofereço toda a minha vida por meu rebanho."
 
@@ -35,6 +35,13 @@ Como mártir da Igreja, o milagre que o elevou aos altares foi a entrega de sua 
 1. **Testamento Espiritual:** Em seu diário pessoal, ele expressou várias vezes que estava disposto a morrer por seus paroquianos, demonstrando uma profunda espiritualidade de entrega e perdão.
 2. **Beatificação em Pula:** A cerimônia de sua beatificação ocorreu na monumental Arena de Pula, na Croácia, reunindo milhares de fiéis para honrar o mártir croata.
 3. **Mártir da Ístria:** Ele é frequentemente invocado como o padroeiro dos sacerdotes perseguidos e um símbolo da resistência cristã croata frente ao totalitarismo do século XX.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Miroslav Bulešić Original](imagens/original.jpg) | ![Beato Miroslav Bulešić Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

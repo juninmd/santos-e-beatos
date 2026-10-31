@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Ana Catarina Emme
 
 # Beata Ana Catarina Emmerich
 
-![Beata Ana Catarina Emmerich](imagens/portrait.jpg)
+![Beata Ana Catarina Emmerich](imagens/restaurada_4k.jpg)
 
 > "A Mística da Paixão"
 
@@ -54,7 +54,14 @@ Ana Catarina viveu toda sua vida na região da Vestfália, na Alemanha.
 
 A beatificação de Ana Catarina Emmerich em 2004 reacendeu o interesse por suas revelações místicas. Seus livros continuam a ser best-sellers espirituais, ajudando muitos a meditar profundamente sobre o sofrimento de Cristo. Ela é um exemplo de como o sofrimento, quando unido à cruz de Cristo, pode ser redentor e fecundo para toda a Igreja.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Ana Catarina Emmerich Original](imagens/original.jpg) | ![Beata Ana Catarina Emmerich Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

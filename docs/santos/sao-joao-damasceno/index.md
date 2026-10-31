@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Damasceno.
 
 # São João Damasceno
 
-![São João Damasceno](imagens/portrait.jpg)
+![São João Damasceno](imagens/restaurada_4k.jpg)
 
 > "O que um livro é para os que sabem ler, uma imagem é para os que não sabem."
 
@@ -34,6 +34,13 @@ O momento mais crítico de sua vida ocorreu durante a controvérsia iconoclasta,
 - **"São Tomás do Oriente":** Devido à sua capacidade de sistematizar a teologia e sua profunda influência, é frequentemente comparado a São Tomás de Aquino.
 - **Hinos Litúrgicos:** Ele é considerado um dos maiores poetas e hinógrafos da Igreja Oriental. Seus hinos são cantados até hoje nas liturgias bizantinas, especialmente o Cânone da Páscoa ("O Dia da Ressurreição").
 - **Doutor da Assunção:** João Damasceno escreveu algumas das homilias mais belas e profundas sobre a Dormição (Assunção) de Maria, que foram citadas pelo Papa Pio XII ao proclamar o dogma da Assunção em 1950.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Damasceno Original](imagens/original.jpg) | ![São João Damasceno Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 - **Damasco (Síria):** Cidade de seu nascimento, onde passou sua juventude e atuou na administração do califado.

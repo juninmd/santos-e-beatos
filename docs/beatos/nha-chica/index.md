@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Nhá Chica.
 
 # Beata Nhá Chica
 
-![Beata Nhá Chica](imagens/nha-chica.jpg)
+![Beata Nhá Chica](imagens/restaurada_4k.jpg)
 
 > "A Santa de Baependi"
 
@@ -43,6 +43,13 @@ O milagre aprovado pelo Vaticano para sua beatificação foi a cura inexplicáve
 1.  **Primeira Beata Negra do Brasil:** Nhá Chica foi a primeira leiga brasileira negra a ser beatificada pela Igreja Católica.
 2.  **Conselheira:** Mesmo sem saber ler, ela "lia" corações. Pessoas viajavam de longe apenas para pedir um conselho ou uma oração dela.
 3.  **Testamento:** Em seu testamento, deixou seus poucos bens para os pobres e para a construção de uma capela maior.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Nhá Chica Original](imagens/original.jpg) | ![Beata Nhá Chica Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

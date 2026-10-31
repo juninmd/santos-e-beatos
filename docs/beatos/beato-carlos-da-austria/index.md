@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Carlos da Áustri
 
 # Beato Carlos da Áustria
 
-![Beato Carlos da Áustria](imagens/portrait.jpg)
+![Beato Carlos da Áustria](imagens/restaurada_colorida_4k.jpg)
 
 > "O meu empenho é sempre, em todas as coisas, conhecer o mais claramente possível e seguir a vontade de Deus, e isso da maneira mais perfeita."
 
@@ -62,7 +62,14 @@ O milagre aprovado para sua beatificação ocorreu no Brasil. A irmã Maria Zita
 
 O Beato Carlos é um modelo de governante cristão, pai de família e pacificador. Sua vida nos lembra que a santidade é possível em todas as vocações, inclusive na política e na liderança. Ele é patrono da Liga de Oração do Imperador Carlos pela Paz entre as Nações. Sua canonização continua sendo promovida, e ele inspira políticos e líderes a buscarem a justiça social e a paz guiados pela fé.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Carlos da Áustria Original](imagens/original.jpg) | ![Beato Carlos da Áustria Restaurada](imagens/restaurada_colorida_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Catarina de Alexa
 
 # Santa Catarina de Alexandria
 
-![Santa Catarina de Alexandria](imagens/portrait.jpg)
+![Santa Catarina de Alexandria](imagens/restaurada_4k.jpg)
 
 > "A cruz não é um peso, é o trampolim que nos lança para o céu."
 
@@ -39,6 +39,13 @@ Após o seu martírio, o milagroso traslado do seu corpo para o Monte Sinai e o 
 * Joana D'Arc relatou que as vozes de Santa Catarina de Alexandria e Santa Margarida de Antioquia a guiaram na sua missão de libertar a França.
 * A Universidade de Paris a tinha como padroeira das suas faculdades, sendo muito reverenciada no meio académico.
 * O Mosteiro de Santa Catarina no Monte Sinai, onde as suas relíquias repousam, é um dos mais antigos mosteiros cristãos continuamente habitados do mundo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Catarina de Alexandria Original](imagens/original.jpg) | ![Santa Catarina de Alexandria Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

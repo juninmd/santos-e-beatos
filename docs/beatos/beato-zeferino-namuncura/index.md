@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Zeferino Namuncur
 
 # Beato Zeferino Namuncurá
 
-![Beato Zeferino Namuncurá](imagens/portrait.jpg)
+![Beato Zeferino Namuncurá](imagens/restaurada_colorida_4k.jpg)
 
 > "O lírio da Patagônia."
 
@@ -40,6 +40,13 @@ O milagre reconhecido para a beatificação foi a cura de Valeria Herrera, uma m
 2. **Repatriado em 2009:** seus restos, sepultados na Itália e depois em Fortín Mercedes, foram transladados para Chimpay, atendendo a um pedido antigo das comunidades mapuches.
 3. **Devoção popular:** é um dos beatos mais venerados da Argentina, com forte presença entre povos indígenas do Cone Sul.
 4. **Padroeiro:** invocado pelos jovens indígenas, pelos estudantes e pelos doentes de tuberculose.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Zeferino Namuncurá Original](imagens/original.jpg) | ![Beato Zeferino Namuncurá Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

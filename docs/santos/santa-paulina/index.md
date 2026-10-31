@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Paulina do Coraç
 
 # Santa Paulina do Coração Agonizante de Jesus
 
-![Santa Paulina do Coração Agonizante de Jesus](imagens/portrait.jpg)
+![Santa Paulina do Coração Agonizante de Jesus](imagens/restaurada_colorida_4k.jpg)
 
 > "Nunca, jamais desanimeis, embora venham ventos contrários!"
 
@@ -45,6 +45,13 @@ O segundo milagre, decisivo para a sua canonização, foi a cura da menina Iza B
 1.  **Primeira Santa Brasileira:** Apesar de ter nascido na Itália, Paulina viveu quase toda a sua vida no Brasil e é reconhecida pela Igreja como a "primeira Santa do Brasil".
 2.  **Santuário:** O Santuário Santa Paulina, em Nova Trento (SC), é um dos maiores do Brasil, atraindo milhares de fiéis anualmente, rodeado por bela natureza e as memórias da vida da Santa.
 3.  **Diabetes:** Madre Paulina sofreu nos últimos anos de sua vida com diabetes crônica. Ela teve parte do seu braço direito amputado por complicações da doença e, mesmo sofrendo dores e ficando cega nos últimos meses, dizia: "Seja feita a Vontade de Deus".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Santa Paulina do Coração Agonizante de Jesus Original](imagens/original.jpg) | ![Santa Paulina do Coração Agonizante de Jesus Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

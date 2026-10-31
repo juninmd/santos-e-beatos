@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Elena Aiello.
 
 # Beata Elena Aiello
 
-![Beata Elena Aiello](imagens/portrait.jpg)
+![Beata Elena Aiello](imagens/restaurada_colorida_4k.jpg)
 
 > "A cruz é a chave do céu."
 
@@ -31,6 +31,13 @@ Sua espiritualidade era centrada na Paixão de Cristo e na Eucaristia. Ela foi u
 - **Os Estigmas:** Elena recebia os estigmas visíveis, sofrendo as dores da Paixão, um fenômeno documentado por médicos e teólogos da época.
 - **Profecias:** É conhecida por diversas profecias sobre o futuro da Igreja e do mundo, muitas das quais exortavam à oração e penitência.
 - **O Milagre da Beatificação:** A cura milagrosa de uma mulher que sofria de graves problemas de saúde foi o milagre aprovado pelo Vaticano que levou à sua beatificação em 2011.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Elena Aiello Original](imagens/original.jpg) | ![Beata Elena Aiello Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

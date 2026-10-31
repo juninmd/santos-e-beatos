@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bartolomeu.
 
 # São Bartolomeu
 
-![São Bartolomeu](imagens/portrait.jpg)
+![São Bartolomeu](imagens/restaurada_4k.jpg)
 
 > "Eis um verdadeiro israelita, em quem não há dolo!"
 
@@ -40,6 +40,13 @@ Os relatos antigos atribuem-lhe a expulsão do demônio que habitava o ídolo As
 2. **Ilha Tiberina:** suas relíquias são veneradas na Basílica de São Bartolomeu, na Ilha Tiberina, em Roma, hoje também memorial dos mártires cristãos do século XX.
 3. **Armênia:** é considerado, com São Judas Tadeu, o evangelizador da Armênia — o primeiro país a adotar oficialmente o cristianismo, em 301.
 4. **Padroeiro:** dos curtidores, encadernadores, açougueiros e alfaiates.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Bartolomeu Original](imagens/original.jpg) | ![São Bartolomeu Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

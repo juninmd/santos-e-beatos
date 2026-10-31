@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Marta.
 
 # Santa Marta
 
-![Santa Marta](imagens/portrait.jpg)
+![Santa Marta](imagens/restaurada_4k.jpg)
 
 > "A Padroeira das Donas de Casa e dos Profissionais da Hospitalidade"
 
@@ -46,6 +46,13 @@ Ela teria fundado um convento em Tarascon, onde viveu uma vida de oração e asc
 * **A "Melhor Parte":** A figura de Marta tem sido frequentemente usada na espiritualidade cristã para simbolizar a vida ativa, enquanto sua irmã Maria representa a vida contemplativa. São João da Cruz e Santa Teresa d'Ávila ensinaram que a perfeição está em unir as duas: ser Marta nas ações e Maria na contemplação.
 * **Tarascon:** A cidade de Nerluc mudou seu nome para Tarascon em memória do monstro Tarasca domado por Santa Marta.
 * **A Padroeira:** Em 1962, o Papa João XXIII a declarou oficialmente padroeira das donas de casa e dos cozinheiros e profissionais da hospitalidade em geral.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Marta Original](imagens/original.jpg) | ![Santa Marta Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

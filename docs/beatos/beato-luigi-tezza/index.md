@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luigi Tezza.
 
 # Beato Luigi Tezza
 
-![Cover do Beato Luigi Tezza](imagens/cover.jpg)
+![Cover do Beato Luigi Tezza](imagens/restaurada_colorida_4k.jpg)
 
 <img src="./imagens/portrait.jpg" alt="Retrato do Beato Luigi Tezza" class="saint-portrait">
 
@@ -41,6 +41,13 @@ Um dos milagres reconhecidos para a sua beatificação envolveu a cura inexplic�
 1. **A Mãe Freira:** É raro que um santo tenha tido uma mãe que se tornou freira ainda durante a sua infância. Catarina Margarita Tezza encorajou fortemente a vocação religiosa do filho antes de ela mesma se recolher à vida consagrada após ficar viúva.
 2. **Santa Josefina Vannini:** A congregação que ele fundou com Josefina Vannini obteve enorme sucesso; ela mesma foi canonizada pelo Papa Francisco em 2019, atestando o imenso legado de santidade do Padre Tezza.
 3. **Chamado Tardio para Missões:** A ida ao Peru aos quase 60 anos, sem sequer conhecer o idioma espanhol, revela a imensa disponibilidade e espírito missionário deste beato, que em vez de descanso, encontrou o auge do seu apostolado nas periferias da América do Sul.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Cover do Beato Luigi Tezza Original](imagens/original.jpg) | ![Cover do Beato Luigi Tezza Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

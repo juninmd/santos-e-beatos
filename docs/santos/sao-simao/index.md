@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Simão.
 
 # São Simão
 
-![São Simão](imagens/portrait.jpg)
+![São Simão](imagens/restaurada_4k.jpg)
 
 > "Zeloso pela lei do Senhor."
 
@@ -38,6 +38,13 @@ Os relatos apócrifos da *Paixão de Simão e Judas* narram que os dois apóstol
 2. **Celebrado com Judas Tadeu:** a Igreja latina celebra os dois no mesmo dia, 28 de outubro, por causa da tradição do martírio comum na Pérsia.
 3. **Relíquias no Vaticano:** seus restos são venerados, com os de São Judas, num altar da Basílica de São Pedro.
 4. **Padroeiro:** dos curtidores, serradores e lenhadores.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Simão Original](imagens/original.jpg) | ![São Simão Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

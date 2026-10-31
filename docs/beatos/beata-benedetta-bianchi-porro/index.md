@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Benedetta Bianchi
 
 # Beata Benedetta Bianchi Porro
 
-![Beata Benedetta Bianchi Porro](imagens/portrait.jpg)
+![Beata Benedetta Bianchi Porro](imagens/restaurada_colorida_4k.jpg)
 
 > "Eu te agradeço, meu Deus, porque fazes florescer o amor no deserto."
 
@@ -68,7 +68,14 @@ A Beata Benedetta Bianchi Porro é um modelo luminoso para o mundo moderno, espe
 
 Sua vida desafia a "cultura do descarte" e mostra que o sofrimento, quando vivido com amor, pode ser fecundo. Ela é venerada como padroeira dos doentes e daqueles que sofrem de doenças raras ou neurológicas. Seu testemunho continua a atrair jovens e profissionais de saúde, inspirando uma medicina mais humana e compassiva.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Benedetta Bianchi Porro Original](imagens/original.jpg) | ![Beata Benedetta Bianchi Porro Restaurada](imagens/restaurada_colorida_4k.jpg) |
+
+### Outras Imagens
 
 | Benedetta Sorrindo |
 | --- |

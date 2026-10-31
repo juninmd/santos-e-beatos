@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Macías.
 
 # São João Macías
 
-![São João Macías](imagens/portrait.jpg)
+![São João Macías](imagens/restaurada_4k.jpg)
 
 > "Oração, humildade e serviço ao próximo."
 
@@ -32,6 +32,13 @@ Também teve o dom da bilocação, sendo relatado que teria assistido aos agoniz
 1. **Amizade com São Martinho de Porres:** Os dois dominicanos não só viveram no mesmo período em Lima, mas foram verdadeiros amigos no serviço da caridade, partilhando visões espirituais.
 2. **O Rosário:** Quando foi porteiro, distribuía centenas de Rosários aos pobres, e ele próprio passava noites inteiras rezando pelos necessitados.
 3. **Padrinho dos pobres:** Era tantas vezes chamado para acalmar conflitos e ajudar desamparados que a população o considerava o padrinho espiritual de Lima, juntamente com São Martinho de Porres e Santa Rosa de Lima.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Macías Original](imagens/original.jpg) | ![São João Macías Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 Ao longo de sua vida, João Macías peregrinou entre a sua terra natal e a capital do Peru, exercendo sempre o seu trabalho caritativo:

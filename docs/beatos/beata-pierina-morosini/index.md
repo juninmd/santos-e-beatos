@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa da Beata Pierina Morosini
 
 # Beata Pierina Morosini
 
-![Beata Pierina Morosini](imagens/portrait.jpg)
+![Beata Pierina Morosini](imagens/restaurada_4k.jpg)
 
 > "Amo tanto a pureza que preferiria morrer a cometer um pecado que a ofendesse."
 
@@ -37,6 +37,13 @@ Após o ataque, Pierina foi levada ao hospital, onde permaneceu em coma profundo
 - O Papa João Paulo II, que a beatificou, a chamou de "a flor de Fiobbio".
 - A sua beatificação ocorreu no mesmo ano em que o Sínodo dos Bispos se reuniu em Roma para discutir a vocação e missão dos leigos, tornando o seu exemplo incrivelmente oportuno.
 - O seu túmulo em Fiobbio é um local de peregrinação contínua, especialmente para a juventude da Lombardia.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Pierina Morosini Original](imagens/original.jpg) | ![Beata Pierina Morosini Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

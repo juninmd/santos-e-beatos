@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Ana dos Anjos Mon
 
 # Beata Ana dos Anjos Monteagudo
 
-![Beata Ana dos Anjos Monteagudo](imagens/portrait.jpg)
+![Beata Ana dos Anjos Monteagudo](imagens/restaurada_4k.jpg)
 
 > "O amor de Deus é a minha única regra de vida."
 
@@ -38,6 +38,13 @@ A Beata Ana dos Anjos foi agraciada com muitos dons místicos. Ela tinha visões
 - **Santa Rosa de Lima do Sul:** Devido às semelhanças em sua espiritualidade, práticas penitenciais e afiliação à ordem dominicana no Vice-Reino do Peru (embora Ana fosse freira e Rosa fosse leiga terceira dominicana), ela é frequentemente comparada e até mesmo chamada de "a Santa Rosa de Arequipa".
 - **Mosteiro de Santa Catalina:** O Mosteiro onde ela viveu a maior parte de sua vida é hoje um dos principais pontos turísticos de Arequipa. É um imenso complexo murado (como uma "cidade dentro da cidade") e a cela onde a Beata Ana viveu e morreu pode ser visitada até hoje.
 - **Beatificação por João Paulo II:** Ela foi beatificada pelo Papa João Paulo II em 1985 durante sua visita apostólica ao Peru.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Ana dos Anjos Monteagudo Original](imagens/original.jpg) | ![Beata Ana dos Anjos Monteagudo Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 - **Arequipa (Peru):** A única cidade em que viveu, no Mosteiro de Santa Catalina, onde nasceu, passou toda a sua vida consagrada e faleceu.

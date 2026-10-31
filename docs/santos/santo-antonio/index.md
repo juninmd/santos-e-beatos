@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Antônio de Pádu
 
 # Santo Antônio de Pádua
 
-![Santo Antônio de Pádua](imagens/santo-antonio.jpg)
+![Santo Antônio de Pádua](imagens/restaurada_4k.jpg)
 
 > "O Santo Casamenteiro e Doutor da Igreja"
 
@@ -45,6 +45,13 @@ Inúmeros milagres são atribuídos a Santo Antônio, tanto em vida quanto após
 2.  **Responsorio:** É invocado para encontrar objetos perdidos ("Santo Antônio, Santo Antônio, correu o mundo e achou...").
 3.  **Patente Militar:** No Brasil e em Portugal, recebeu patentes militares póstumas (chegando a Tenente-Coronel no exército brasileiro).
 4.  **Pão de Santo Antônio:** O costume de abençoar e distribuir pãezinhos no dia de sua festa lembra sua caridade para com os pobres.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Antônio de Pádua Original](imagens/original.jpg) | ![Santo Antônio de Pádua Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

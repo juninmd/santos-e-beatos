@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Antão do Deserto
 
 # Santo Antão do Deserto
 
-![Santo Antão do Deserto](imagens/portrait.png)
+![Santo Antão do Deserto](imagens/restaurada_4k.jpg)
 
 > "Aquele que se senta na solidão e se aquieta escapou de três guerras: audição, fala, visão; mas há uma coisa contra a qual ele deve lutar constantemente: seu próprio coração."
 
@@ -35,6 +35,13 @@ Em vida, inúmeros milagres foram atribuídos a ele. A sua sabedoria atraía pes
 1. **Tentação no Deserto:** Uma das passagens mais famosas de sua vida foram as "Tentações de Santo Antão", onde ele teria enfrentado visões terríveis e ataques físicos do diabo e seus demônios. Esses episódios serviram de inspiração para inúmeras obras de arte na cultura ocidental.
 2. **Animais Selvagens:** É frequentemente associado aos animais, em particular a um porco, simbolizando a sua vitória sobre os instintos terrenos.
 3. **Visita a Paulo, o Eremita:** Segundo a lenda, ele visitou São Paulo, o Eremita, pouco antes da morte deste, e os dois foram alimentados por um corvo que lhes trouxe pão.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Antão do Deserto Original](imagens/original.jpg) | ![Santo Antão do Deserto Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

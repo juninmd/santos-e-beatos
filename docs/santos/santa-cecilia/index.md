@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Cecília.
 
 # Santa Cecília
 
-![Santa Cecília](imagens/portrait.jpg)
+![Santa Cecília](imagens/restaurada_4k.jpg)
 
 > "Senhor, guardai sem mancha meu corpo e minha alma, para que não seja confundida."
 
@@ -39,6 +39,13 @@ Furioso, Almáquio ordenou sua decapitação. O carrasco golpeou seu pescoço tr
 1.  **Incorruptibilidade:** Em 1599, durante a restauração da Basílica de Santa Cecília em Trastevere, seu túmulo foi aberto. Para espanto de todos, seu corpo foi encontrado incorrupto, na mesma posição em que havia sido sepultada séculos antes, com a cabeça virada para o chão e os dedos das mãos indicando sua fé na Trindade (três dedos estendidos na mão direita e um na esquerda).
 2.  **Estátua de Maderno:** O escultor Stefano Maderno presenciou a exumação e esculpiu a célebre estátua de mármore que hoje se encontra sob o altar da basílica, reproduzindo fielmente a posição do corpo da santa.
 3.  **Nome no Cânon:** Santa Cecília é uma das sete mulheres mencionadas nominalmente no Cânon Romano (Oração Eucarística I) da Missa.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Cecília Original](imagens/original.jpg) | ![Santa Cecília Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

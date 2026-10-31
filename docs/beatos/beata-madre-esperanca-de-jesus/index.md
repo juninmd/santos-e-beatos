@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Madre Esperança 
 
 # Beata Madre Esperança de Jesus
 
-![Beata Madre Esperança de Jesus](imagens/portrait.jpg)
+![Beata Madre Esperança de Jesus](imagens/restaurada_4k.jpg)
 
 > "Uma vida dedicada ao Amor Misericordioso"
 
@@ -36,6 +36,13 @@ Além disso, muitos testemunharam suas habilidades sobrenaturais de cura espirit
 * O Santuário de Collevalenza possui piscinas alimentadas por uma fonte de água cuja localização a Madre indicou em 1960. Segundo sua revelação divina, essa água ajudaria na cura de enfermidades graves para a glória de Deus.
 * Ela manteve uma amizade espiritual profunda e recíproca admiração com São Padre Pio de Pietrelcina, chegando a experimentarem visões simultâneas e comunicações através da bilocação.
 * João Paulo II visitou o Santuário de Collevalenza em 1981, onde se encontrou com Madre Esperança no primeiro ano após o atentado que ele sofrera em Roma, para agradecer a misericórdia de Deus.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Madre Esperança de Jesus Original](imagens/original.jpg) | ![Beata Madre Esperança de Jesus Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

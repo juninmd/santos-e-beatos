@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Maria Troncatti, 
 
 # Santa Maria Troncatti
 
-![Santa Maria Troncatti](imagens/maria-troncatti.jpg)
+![Santa Maria Troncatti](imagens/restaurada_4k.jpg)
 
 > "A médica da selva."
 
@@ -43,6 +43,13 @@ O milagre reconhecido para a beatificação foi a cura de uma jovem equatoriana 
 2. **Enfermeira de guerra:** a experiência no hospital militar durante a Primeira Guerra foi o que lhe permitiu enfrentar a medicina de emergência na selva.
 3. **Beatificada na Amazônia:** sua beatificação foi a primeira realizada em território equatoriano e reuniu multidões de comunidades shuar.
 4. **Canonizada em 2025:** foi elevada aos altares na mesma celebração de José Gregório Hernández e Bartolo Longo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Maria Troncatti Original](imagens/original.jpg) | ![Santa Maria Troncatti Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

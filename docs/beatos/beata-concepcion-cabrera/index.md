@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Concepción Cabre
 
 # Beata Concepción Cabrera de Armida
 
-![Beata Concepción Cabrera de Armida](imagens/portrait.jpg)
+![Beata Concepción Cabrera de Armida](imagens/restaurada_colorida_4k.jpg)
 
 > "Jesus, meu amor e meu tudo: na dor e no amor, tudo por Ti e pela Tua Igreja."
 
@@ -39,6 +39,13 @@ Para sua beatificação, a Congregação para as Causas dos Santos aprovou a cur
 1. **Primeira leiga mexicana beatificada:** Foi a primeira mulher leiga, mãe de família e viúva do México a ser elevada às honras dos altares.
 2. **Prolífica escritora mística:** Seus manuscritos religiosos superam em extensão até mesmo obras volumosas de Padres da Igreja.
 3. **Mística da vida cotidiana:** Provou que a mais alta união contemplativa com Deus pode florir entre os cuidados da maternidade, da cozinha e da educação dos filhos.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Concepción Cabrera de Armida Original](imagens/original.jpg) | ![Beata Concepción Cabrera de Armida Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

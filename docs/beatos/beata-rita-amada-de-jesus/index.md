@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Rita Amada de Jes
 
 # Beata Rita Amada de Jesus
 
-![Beata Rita Amada de Jesus](imagens/portrait.jpg)
+![Beata Rita Amada de Jesus](imagens/restaurada_colorida_4k.jpg)
 
 > "Apóstola do Rosário, da Família e da Eucaristia."
 
@@ -44,6 +44,13 @@ Além deste milagre atestado formalmente, os seus biógrafos apontam um constant
 - **A Apóstola da Família:** Por causa da sua incansável pregação contra a dissolução das famílias no seu tempo – viajando e evangelizando pessoalmente nas zonas rurais de Portugal – ela ganhou este título belíssimo da Igreja.
 - **Sinal Verde após 8 anos:** Demonstrou grande paciência e docilidade. Quando sentiu a vontade de fundar a congregação, ouviu inicialmente do seu confessor que aquilo era "obra do demônio". Foi só oito anos mais tarde, após amadurecer e orar, que ela obteve o consentimento espiritual necessário.
 - **Beatificação e Devoção:** Ela foi a primeira e única beata da história da Diocese de Viseu; o reconhecimento fez de Ribafeita um lugar constante de peregrinação de fiéis em Portugal.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Rita Amada de Jesus Original](imagens/original.jpg) | ![Beata Rita Amada de Jesus Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Dina Bélanger.
 
 # Beata Dina Bélanger
 
-![Beata Dina Bélanger](imagens/portrait.jpg)
+![Beata Dina Bélanger](imagens/restaurada_colorida_4k.jpg)
 
 > "A música não era para mim uma arte, mas uma linguagem onde minha alma derramava seu amor por Deus."
 
@@ -39,6 +39,13 @@ Um dos milagres reconhecidos para sua beatificação foi a cura repentina, perfe
 1. **A Substituta de Santa Teresinha:** Dina relatou que Santa Teresinha do Menino Jesus apareceu para ela, dizendo que Jesus lhe pediria que continuasse sua missão de fazer Jesus ser amado, agindo quase como uma "substituta" espiritual.
 2. **Pianista Mística:** Ela via a música não apenas como uma forma de arte, mas como a linguagem principal de sua alma para se comunicar com Deus, compondo sua vida como uma "harmonia divina".
 3. **Obra Póstuma:** Sua autobiografia (frequentemente publicada como *O Cântico do Amor*) só foi lida após sua morte e tornou-se um clássico moderno da literatura mística, traduzido para vários idiomas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Dina Bélanger Original](imagens/original.jpg) | ![Beata Dina Bélanger Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

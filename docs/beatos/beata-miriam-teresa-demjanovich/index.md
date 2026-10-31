@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades, cidades e impacto da Beata Miria
 
 # Beata Miriam Teresa Demjanovich
 
-![Beata Miriam Teresa Demjanovich](imagens/portrait.jpg)
+![Beata Miriam Teresa Demjanovich](imagens/restaurada_4k.jpg)
 
 > "Nossa vida deve ser um contínuo 'Magnificat'"
 
@@ -42,6 +42,13 @@ Este milagre, minuciosamente investigado pelas comissões médicas do Vaticano, 
 - **Rito Bizantino:** Ela cresceu frequentando a Igreja Católica Bizantina, e só mais tarde ingressou em uma ordem religiosa de rito latino (as Irmãs de Caridade), sendo uma ponte espiritual entre os dois ritos católicos.
 - **Autora Anônima:** O famoso livro espiritual *Maior Perfeição*, escrito por ela, só teve a verdadeira autoria revelada após sua morte, surpreendendo a todos que achavam que os profundos textos teológicos e místicos eram de autoria do seu experiente diretor espiritual, o Padre Bradley.
 - **Chamado Universal à Santidade:** Suas escritas anteciparam em várias décadas um dos ensinamentos centrais do Concílio Vaticano II: a ideia de que a santidade não é reservada a padres e freiras, mas é a vocação de todos os leigos cristãos.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Miriam Teresa Demjanovich Original](imagens/original.jpg) | ![Beata Miriam Teresa Demjanovich Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

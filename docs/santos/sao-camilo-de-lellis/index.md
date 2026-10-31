@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Camilo de Lellis.
 
 # São Camilo de Lellis
 
-![São Camilo de Lellis](imagens/portrait.jpg)
+![São Camilo de Lellis](imagens/restaurada_4k.jpg)
 
 > "Mais coração nas mãos, irmãos!"
 
@@ -45,6 +45,13 @@ Um fato notável foi durante uma inundação do rio Tibre em Roma: a água invad
 1.  **A Cruz Vermelha:** Camilo escolheu a cruz vermelha como distintivo de sua ordem séculos antes da fundação da organização humanitária internacional "Cruz Vermelha". Diz-se que Henry Dunant, fundador da Cruz Vermelha Internacional, teria se inspirado no trabalho dos camilianos e em sua cruz na Batalha de Solferino.
 2.  **Patrono:** É o padroeiro dos doentes, dos hospitais e dos profissionais da saúde.
 3.  **Morte:** Morreu em Roma, e diz-se que seus braços estavam abertos em forma de cruz, como se estivesse abraçando os doentes que tanto amou.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Camilo de Lellis Original](imagens/original.jpg) | ![São Camilo de Lellis Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

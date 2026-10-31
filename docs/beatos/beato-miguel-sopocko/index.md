@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Miguel Sopoćko.
 
 # Beato Miguel Sopoćko
 
-![Beato Miguel Sopoćko](imagens/portrait.jpg)
+![Beato Miguel Sopoćko](imagens/restaurada_4k.jpg)
 
 > "A misericórdia é o maior atributo de Deus."
 
@@ -52,7 +52,14 @@ O mapa abaixo reúne os lugares ligados a Beato Miguel Sopoćko: nascimento, mor
 
 A devoção à Divina Misericórdia é uma das mais populares na Igreja Católica hoje, e o papel do Padre Sopoćko foi crucial para que isso acontecesse. Ele é visto como um modelo de sacerdote fiel, humilde e obediente.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Miguel Sopoćko Original](imagens/original.jpg) | ![Beato Miguel Sopoćko Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Capa |
 | --- |

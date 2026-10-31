@@ -5,7 +5,7 @@ description: Conheça a história e os milagres de Santa Jacinta Marto, vidente 
 
 # Santa Jacinta Marto
 
-![Santa Jacinta Marto](imagens/portrait.jpg)
+![Santa Jacinta Marto](imagens/restaurada_colorida_4k.jpg)
 
 > "Aquele que ama muito a Deus, pouco padece."
 
@@ -35,6 +35,13 @@ A família e os fiéis pediram a intercessão dos pastorinhos de Fátima. De for
 - Jacinta tinha um apreço especial pelos "pobres" e frequentemente doava seu lanche às crianças necessitadas que encontrava.
 - As aparições a impactaram tanto que ela viajavam em sua mente frequentemente sobre as imagens do inferno mostradas por Nossa Senhora, impulsionando-a a rezar e sacrificar-se incessantemente.
 - Jacinta e Francisco são as crianças não-mártires mais jovens já canonizadas na história da Igreja Católica.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Santa Jacinta Marto Original](imagens/original.jpg) | ![Santa Jacinta Marto Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

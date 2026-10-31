@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Isidoro Bakanja.
 
 # Beato Isidoro Bakanja
 
-![Beato Isidoro Bakanja](imagens/portrait.jpg)
+![Beato Isidoro Bakanja](imagens/restaurada_colorida_4k.jpg)
 
 > "Se eu encontrar Jesus, rezarei muito por ti."
 
@@ -45,6 +45,13 @@ Ele faleceu em 15 de agosto de 1909, na Solenidade da Assunção de Nossa Senhor
 1.  **Mártir do Escapulário:** Isidoro é conhecido mundialmente como o "Mártir do Escapulário", pois sua recusa em retirar este símbolo mariano foi a causa direta de sua tortura.
 2.  **Perdão Heroico:** Seu testemunho de perdão ao homem que o torturou até a morte é considerado um dos exemplos mais belos de caridade cristã nos tempos modernos.
 3.  **Padroeiro:** É venerado como padroeiro dos leigos, dos catequistas e protetor contra o racismo e a intolerância religiosa na África.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Isidoro Bakanja Original](imagens/original.jpg) | ![Beato Isidoro Bakanja Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

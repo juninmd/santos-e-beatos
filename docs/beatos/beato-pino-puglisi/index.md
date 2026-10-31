@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Pino Puglisi.
 
 # Beato Pino Puglisi
 
-![Beato Pino Puglisi](imagens/portrait.jpg)
+![Beato Pino Puglisi](imagens/restaurada_colorida_4k.jpg)
 
 > "Se ognuno fa qualcosa, allora si può fare molto." (Se cada um fizer algo, então se pode fazer muito.)"
 

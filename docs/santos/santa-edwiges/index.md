@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Edwiges.
 
 # Santa Edwiges
 
-![Santa Edwiges](imagens/portrait.jpg)
+![Santa Edwiges](imagens/restaurada_4k.jpg)
 
 > "Sede compassivos como o vosso Pai é compassivo."
 
@@ -37,6 +37,13 @@ Após sua morte, muitos peregrinos relataram curas milagrosas ao visitar seu tú
 1.  **Padroeira dos Endividados:** Santa Edwiges é amplamente conhecida e invocada como a padroeira dos endividados. Essa devoção se originou de sua compaixão pelos presos por dívidas na Idade Média. Ela frequentemente visitava as prisões, pagava as dívidas com seu próprio dinheiro e ajudava essas pessoas a recomeçar a vida.
 2.  **Imagem Tradicional:** A iconografia tradicional de Santa Edwiges a retrata vestindo os trajes de uma duquesa ou o hábito cisterciense, segurando a maquete de uma igreja, um livro e, muitas vezes, uma estátua da Virgem Maria ou sapatos na mão (simbolizando sua penitência de andar descalça).
 3.  **Influência Política:** Apesar de sua dedicação religiosa, Edwiges exerceu uma influência política pacificadora. Ela ajudou a mediar conflitos na Silésia e promoveu a evangelização e o desenvolvimento cultural da região.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Edwiges Original](imagens/original.jpg) | ![Santa Edwiges Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

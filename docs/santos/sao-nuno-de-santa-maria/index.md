@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Nuno de Santa Mari
 
 # São Nuno de Santa Maria
 
-![São Nuno de Santa Maria](imagens/portrait.jpg)
+![São Nuno de Santa Maria](imagens/restaurada_4k.jpg)
 
 > "O Santo Condestável"
 
@@ -37,6 +37,13 @@ O processo de canonização de Nuno Álvares Pereira foi longo, apesar da devoç
 1. **A Espada e a Cruz:** Nuno costumava gravar o nome de Maria (ou uma cruz) na lâmina da sua espada. Dizia-se que antes de cada batalha, ele passava horas em oração profunda, e a sua devoção mariana era tão intensa que todas as igrejas que mandou construir foram dedicadas a Nossa Senhora.
 2. **O Panela de Caldo:** Durante o tempo que viveu no convento, Nuno era conhecido por distribuir um grande panelão de caldo aos pobres de Lisboa. A panela, de enormes proporções, ainda hoje é uma imagem associada à sua caridade.
 3. **Ascendência da Realeza:** A sua única filha, Dona Beatriz, é a antepassada de toda a Dinastia de Bragança. Assim, o Santo Condestável é antepassado direto dos últimos reis de Portugal e da família imperial brasileira.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Nuno de Santa Maria Original](imagens/original.jpg) | ![São Nuno de Santa Maria Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

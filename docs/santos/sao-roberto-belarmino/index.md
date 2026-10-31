@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Roberto Belarmino.
 
 # São Roberto Belarmino
 
-![São Roberto Belarmino](imagens/portrait.jpg)
+![São Roberto Belarmino](imagens/restaurada_4k.jpg)
 
 > "A paz é um bem tão grande que, mesmo que se deseje, não se pode desejar o bastante."
 
@@ -35,6 +35,13 @@ Embora seja mais conhecido por seu intelecto e defesa da fé, sua santidade foi 
 1.  **Caso Galileu:** Como Cardeal Inquisidor, Belarmino teve um papel central no caso de Galileu Galilei. Ele admoestou Galileu a não ensinar o heliocentrismo como verdade absoluta sem provas irrefutáveis, mantendo uma postura de cautela científica e teológica que é frequentemente mal compreendida.
 2.  **Catecismo:** Escreveu um Catecismo ("Doutrina Cristã Breve") que foi traduzido para mais de 50 línguas e usado como padrão na Igreja por séculos.
 3.  **Humildade:** Mesmo sendo Cardeal, vivia com extrema austeridade, doando seus bens aos pobres e vivendo como um simples religioso.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Roberto Belarmino Original](imagens/original.jpg) | ![São Roberto Belarmino Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

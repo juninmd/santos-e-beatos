@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Mônica.
 
 # Santa Mônica
 
-![Santa Mônica](imagens/portrait.jpg)
+![Santa Mônica](imagens/restaurada_4k.jpg)
 
 > "Modelo de Esposa e Mãe Cristã"
 
@@ -40,6 +40,13 @@ Seu corpo foi trasladado para Roma no século XV e repousa na igreja de Santo Ag
 
 1.  **Lágrimas:** É frequentemente representada chorando ou segurando um lenço, símbolo de suas lágrimas pela conversão do filho.
 2.  **Associações:** Existem muitas associações de "Mães Mônicas" ou "Mães que Oram pelos Filhos" em todo o mundo, inspiradas em seu exemplo de perseverança.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Mônica Original](imagens/original.jpg) | ![Santa Mônica Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

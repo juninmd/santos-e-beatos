@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Paulo.
 
 # São Paulo
 
-![São Paulo](imagens/portrait.jpg)
+![São Paulo](imagens/restaurada_4k.jpg)
 
 > "Combati o bom combate, acabei a carreira, guardei a fé."
 
@@ -43,6 +43,13 @@ Paulo era tecelão de tendas e fazia questão de sustentar-se com o próprio tra
 2. **A Basílica extramuros:** foi sepultado na via Ostiense, e sobre seu túmulo ergue-se a Basílica de São Paulo Fora dos Muros. Análises feitas em 2009 dataram os ossos do sarcófago entre os séculos I e II.
 3. **Decapitado, não crucificado:** por ser cidadão romano, tinha direito a uma execução considerada menos infamante — daí a espada que aparece em suas imagens.
 4. **Padroeiro:** dos escritores, dos jornalistas, da imprensa católica e dos missionários.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Paulo Original](imagens/original.jpg) | ![São Paulo Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

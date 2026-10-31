@@ -5,7 +5,7 @@ description: Biografia, descobertas, santidade e impacto do Beato Nicolau Steno.
 
 # Beato Nicolau Steno
 
-![Beato Nicolau Steno](imagens/portrait.jpg)
+![Beato Nicolau Steno](imagens/restaurada_4k.jpg)
 
 > "Belo é o que vemos, mais belo o que conhecemos, muitíssimo mais belo o que ignoramos."
 
@@ -34,6 +34,13 @@ Em vida, seu grande "milagre" era o impressionante testemunho de abandono radica
 
 1.  **Pai da Geologia:** Steno é universalmente aclamado pelos cientistas como o pai da estratigrafia moderna, mostrando que a ciência e a fé profunda podem habitar perfeitamente o mesmo intelecto.
 2.  **Oração de Santo Inácio:** Inspirou-se intensamente nos ensinamentos jesuíticos após sua conversão, muitas vezes pautando seu serviço missionário pela espiritualidade inaciana, embora não tenha se tornado um jesuíta.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Nicolau Steno Original](imagens/original.jpg) | ![Beato Nicolau Steno Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

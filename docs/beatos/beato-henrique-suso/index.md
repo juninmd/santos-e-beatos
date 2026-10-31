@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Henrique Suso.
 
 # Beato Henrique Suso
 
-![Beato Henrique Suso](imagens/portrait.jpg)
+![Beato Henrique Suso](imagens/restaurada_4k.jpg)
 
 > "O Minnesänger da Sabedoria Divina"
 
@@ -43,6 +43,13 @@ Seus milagres após a morte estão principalmente ligados a curas espirituais e 
 1.  **O Santo Nome de Jesus:** O ato de gravar "IHS" no próprio peito marcou profundamente a iconografia e a devoção cristã. É frequentemente representado nas artes com o peito aberto revelando o nome de Jesus e acompanhado por anjos.
 2.  **O Amigo de Deus:** Ele fazia parte de um grupo informal de místicos conhecidos como "Os Amigos de Deus" (Gottesfreunde), que buscavam uma profunda renovação espiritual da Igreja de seu tempo.
 3.  **Filha Espiritual:** Ele mantinha uma intensa correspondência espiritual com Elsbeth Stagel, uma monja dominicana. Foi ela quem secretamente começou a transcrever suas cartas e ensinamentos, material que ele mais tarde revisou e publicou como sua autobiografia espiritual ("A Vida do Servo").
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Henrique Suso Original](imagens/original.jpg) | ![Beato Henrique Suso Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

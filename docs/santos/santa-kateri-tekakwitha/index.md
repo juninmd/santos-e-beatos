@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Kateri Tekakwitha
 
 # Santa Kateri Tekakwitha
 
-![Santa Kateri Tekakwitha](imagens/portrait.jpg)
+![Santa Kateri Tekakwitha](imagens/restaurada_4k.jpg)
 
 > "O Lírio dos Mohawks"
 
@@ -41,6 +41,13 @@ O milagre que levou à sua canonização envolveu a cura de Jake Finkbonner, um 
 1.  **Primeira Santa Nativa:** Kateri é a primeira mulher nativa americana (indígena da América do Norte) a ser canonizada.
 2.  **Padroeira:** É a padroeira da ecologia e do meio ambiente, dos exilados e dos povos nativos americanos.
 3.  **Devoção à Cruz:** Ela tinha o costume de fazer pequenas cruzes de madeira e colocá-las pela floresta onde costumava rezar, transformando o bosque em seu próprio santuário.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Kateri Tekakwitha Original](imagens/original.jpg) | ![Santa Kateri Tekakwitha Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

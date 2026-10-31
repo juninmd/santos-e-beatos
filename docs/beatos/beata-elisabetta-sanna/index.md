@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Elisabetta Sanna,
 
 # Beata Elisabetta Sanna
 
-![Beata Elisabetta Sanna](imagens/portrait.jpg)
+![Beata Elisabetta Sanna](imagens/restaurada_4k.jpg)
 
 > "Deus me chamou para sofrer, e eu aceito a Sua vontade com amor e paciência."
 
@@ -37,6 +37,13 @@ A beatificação de Elisabetta Sanna foi aprovada após o reconhecimento de um m
 1. **Deficiência Superada:** Apesar de sua deficiência física nos braços devido à varíola, ela realizava suas tarefas domésticas e cuidava de sua família com grande habilidade e amor.
 2. **Mãe Espiritual:** Em Roma, seu apartamento tornou-se um refúgio para muitas pessoas que buscavam consolo e orientação espiritual, incluindo cardeais, nobres e pessoas simples. Ela era frequentemente chamada de "A Santa de Roma".
 3. **Colaboradora de São Vicente Pallotti:** Ela foi fundamental na fundação e expansão da União do Apostolado Católico, dedicando sua vida a apoiar o trabalho missionário e caritativo da organização.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Elisabetta Sanna Original](imagens/original.jpg) | ![Beata Elisabetta Sanna Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Norberto.
 
 # São Norberto
 
-![São Norberto](imagens/portrait.jpg)
+![São Norberto](imagens/restaurada_4k.jpg)
 
 > "A Eucaristia não é um símbolo, é uma pessoa: Jesus Cristo."
 
@@ -37,6 +37,13 @@ Também são atribuídos a ele milagres de cura e apaziguamento de tempestades e
 - São Norberto é quase sempre representado na arte cristã segurando um ostensório com o Santíssimo Sacramento em suas mãos, simbolizando sua defesa apaixonada da presença real de Jesus na Eucaristia.
 - Muitas vezes, ele é retratado com um herege (Tanchelmo) sob seus pés, indicando a sua vitória sobre as heresias através da verdade.
 - Ele foi um dos maiores defensores e promotores da devoção eucarística durante o século XII.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Norberto Original](imagens/original.jpg) | ![São Norberto Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

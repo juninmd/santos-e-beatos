@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Basílio Moreau.
 
 # Beato Basílio Moreau
 
-![Beato Basílio Moreau](imagens/portrait.jpg)
+![Beato Basílio Moreau](imagens/restaurada_4k.jpg)
 
 > "A cruz é a nossa única esperança."
 
@@ -53,7 +53,14 @@ Os últimos anos de Moreau foram marcados por tribulações e perdas. A congrega
 
 O impacto do Beato Basílio Moreau continua vivo principalmente na Congregação de Santa Cruz, que opera uma vasta rede de escolas de ensino fundamental e médio, faculdades, universidades e missões pastorais em diversos continentes. Instituições como a Universidade de Notre Dame, a Universidade de Portland, a St. Edward's University e o King's College são testemunhos do seu modelo pedagógico centrado em preparar cidadãos para o mundo e para a vida eterna. Sua visão de que a "mente não deve ser cultivada à custa do coração" é um pilar da educação católica contemporânea na família de Santa Cruz.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Basílio Moreau Original](imagens/original.jpg) | ![Beato Basílio Moreau Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

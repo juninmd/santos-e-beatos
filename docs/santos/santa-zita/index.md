@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Zita.
 
 # Santa Zita
 
-![Santa Zita](imagens/portrait.jpg)
+![Santa Zita](imagens/restaurada_4k.jpg)
 
 > "As mãos no trabalho, o coração em Deus."
 
@@ -58,7 +58,14 @@ Zita viveu toda a sua vida quase exclusivamente restrita à província de Lucca.
 
 Santa Zita é universalmente reverenciada como a santa padroeira das empregadas domésticas, serventes, garçons, padeiros, costureiras e trabalhadores caseiros, e de todos aqueles que perderam chaves. Sua santidade mostra que a perfeição cristã não exige a realização de grandes obras públicas ou uma vida nos claustros; o heroísmo de Zita reside em cumprir com amor divino, honestidade extrema, alegria e paciência até os menores e mais humildes deveres do dia a dia. Todos os anos, na data de sua festa litúrgica em Lucca, realiza-se uma feira de flores ao redor da Basílica de San Frediano, recordando o milagre das rosas.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Zita Original](imagens/original.jpg) | ![Santa Zita Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

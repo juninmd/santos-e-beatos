@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Assunta Marchetti
 
 # Beata Assunta Marchetti
 
-![Beata Assunta Marchetti](imagens/portrait.png)
+![Beata Assunta Marchetti](imagens/restaurada_4k.jpg)
 
 > "Mãe dos órfãos e migrantes."
 
@@ -42,6 +42,13 @@ O milagre reconhecido para a beatificação foi a cura de uma religiosa scalabri
 2. **Afastada da direção:** governou a congregação nascente e depois passou décadas em tarefas domésticas, sem nunca reivindicar o cargo.
 3. **Primeira beata scalabriniana:** é a primeira religiosa da família scalabriniana elevada aos altares.
 4. **Padroeira:** invocada pelos migrantes, pelos órfãos e pelas religiosas dedicadas à assistência social.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Assunta Marchetti Original](imagens/original.jpg) | ![Beata Assunta Marchetti Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

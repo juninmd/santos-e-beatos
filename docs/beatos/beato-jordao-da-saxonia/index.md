@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Jordão da Saxôn
 
 # Beato Jordão da Saxônia
 
-![Beato Jordão da Saxônia](imagens/portrait.png)
+![Beato Jordão da Saxônia](imagens/restaurada_colorida_4k.jpg)
 
 > "O primeiro sucessor de São Domingos e caçador de almas"
 
@@ -37,6 +37,13 @@ Embora Jordão não fosse especialmente conhecido por milagres espetaculares dur
 2. **Correspondência notável:** Ele manteve uma bela e afetuosa correspondência espiritual com a Beata Diana d'Andalò, fundadora do mosteiro dominicano feminino de Santa Inês em Bolonha. As cerca de 50 cartas que sobreviveram revelam a ternura, a profundidade psicológica e a visão da amizade espiritual dentro do ideal dominicano.
 3. **Mente Matemática:** Antes de sua ordenação, Jordão estudou matemática e é considerado por alguns estudiosos medievais o autor de alguns tratados sobre geometria. Ele utilizava sua inteligência analítica de forma afiada tanto na administração da Ordem quanto nas sutilezas da pregação.
 4. **O Salve Regina:** Foi Jordão da Saxônia quem instituiu a bela tradição (que perdura até hoje) de os dominicanos cantarem solenemente o *Salve Regina* em procissão após as Completas (a última oração do dia), um costume adotado inicialmente para acalmar frades que estavam sofrendo com a opressão de demônios.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Jordão da Saxônia Original](imagens/original.jpg) | ![Beato Jordão da Saxônia Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Cândida da
 
 # Beata Maria Cândida da Eucaristia
 
-![Beata Maria Cândida da Eucaristia](imagens/portrait.jpg)
+![Beata Maria Cândida da Eucaristia](imagens/restaurada_4k.jpg)
 
 > "A Eucaristia é o paraíso na terra."
 
@@ -38,6 +38,13 @@ A beatificação de Maria Cândida da Eucaristia foi impulsionada por milagres a
 ## Curiosidades
 
 - Maria Cândida foi uma exímia escritora espiritual. O seu livro mais conhecido, "A Eucaristia", detalha sua experiência íntima e amorosa com Jesus na hóstia consagrada, sendo considerado um tratado de profunda teologia mística escrito com a linguagem do coração.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Cândida da Eucaristia Original](imagens/original.jpg) | ![Beata Maria Cândida da Eucaristia Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

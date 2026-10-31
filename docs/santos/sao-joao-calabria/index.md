@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Calábria.
 
 # São João Calábria
 
-![São João Calábria](imagens/sao-joao-calabria.jpg)
+![São João Calábria](imagens/restaurada_4k.jpg)
 
 > "Deus Pai nos ama de um amor infinito."
 
@@ -35,6 +35,13 @@ A canonização de São João Calábria ocorreu após a comprovação de vários
 1.  **Amizade inter-religiosa e teológica:** Mantinha correspondência profunda e de mútuo respeito com diversos intelectuais e religiosos do seu tempo. Ficou conhecida sua forte amizade e correspondência com o autor britânico C.S. Lewis.
 2.  **Devoção à Providência Divina:** Proibia terminantemente que sua obra fizesse publicidade ou pedisse esmolas: confiava estritamente que se o trabalho fosse feito por amor e para Deus, as doações necessárias chegariam por "pura providência", algo que repetidamente acontecia, fortalecendo sua fama de santidade.
 3.  **Proximidade com outros Santos:** O Papa João Paulo II, que o canonizou, tinha uma enorme devoção pessoal a São João Calábria e o considerava uma inspiração durante seus tempos difíceis na Polônia.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Calábria Original](imagens/original.jpg) | ![São João Calábria Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

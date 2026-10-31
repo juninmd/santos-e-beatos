@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Jerzy Popiełuszk
 
 # Beato Jerzy Popiełuszko
 
-![Beato Jerzy Popiełuszko](imagens/portrait.jpg)
+![Beato Jerzy Popiełuszko](imagens/restaurada_colorida_4k.jpg)
 
 > "O Mártir da Verdade e da Solidariedade"
 
@@ -47,6 +47,13 @@ Ele foi brutalmente espancado, torturado e amarrado de tal forma que, se tentass
 * Durante seu serviço militar, ele foi repetidamente punido por se recusar a tirar seu rosário e um anel com uma cruz.
 * As "Missas pela Pátria" atraíam milhares de pessoas de toda a Polônia, com os trabalhadores formando um cordão humano em torno da igreja para protegê-lo da polícia secreta.
 * Os três agentes que o assassinaram, juntamente com o seu superior, foram levados a julgamento (um evento raro em regimes comunistas) e condenados, devido à imensa pressão pública após o descobrimento do seu corpo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Jerzy Popiełuszko Original](imagens/original.jpg) | ![Beato Jerzy Popiełuszko Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

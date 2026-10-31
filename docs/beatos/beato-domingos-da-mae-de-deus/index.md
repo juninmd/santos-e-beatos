@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Domingos da Mãe 
 
 # Beato Domingos da Mãe de Deus
 
-![Beato Domingos da Mãe de Deus](imagens/portrait.jpg)
+![Beato Domingos da Mãe de Deus](imagens/restaurada_4k.jpg)
 
 > "A vontade de Deus é o nosso paraíso, e devemos repousar nela em completa submissão."
 
@@ -30,6 +30,13 @@ Os milagres reconhecidos para a sua beatificação envolveram curas de doenças 
 ## Curiosidades
 - **Recepção de São John Henry Newman:** Talvez a sua realização histórica mais famosa tenha sido em outubro de 1845, em Littlemore. Durante uma tempestade terrível, o Padre Domingos encharcado chegou para receber a confissão e abjuração da Igreja Anglicana pelo renomado clérigo e acadêmico de Oxford, John Henry Newman (agora São John Henry Newman), que havia escrito que considerava Domingos um homem de notável santidade.
 - **Autor prolífico:** Apesar de começar como um pastor analfabeto, ele se tornou um teólogo respeitado que debatia de igual para igual com acadêmicos ingleses proeminentes através de cartas e publicações apologéticas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Domingos da Mãe de Deus Original](imagens/original.jpg) | ![Beato Domingos da Mãe de Deus Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 A jornada do Beato Domingos levou-o das fazendas rurais italianas ao centro do renascimento católico inglês.

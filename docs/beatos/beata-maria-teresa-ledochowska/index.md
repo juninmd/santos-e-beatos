@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Teresa Led�
 
 # Beata Maria Teresa Ledóchowska
 
-![Beata Maria Teresa Ledóchowska](imagens/portrait.jpg)
+![Beata Maria Teresa Ledóchowska](imagens/restaurada_4k.jpg)
 
 > "Minha vocação é trabalhar pelas missões africanas e pela libertação dos escravos."
 
@@ -40,6 +40,13 @@ Maria Teresa Ledóchowska foi beatificada pelo Papa Paulo VI em 19 de outubro de
 - Seu irmão, Włodzimierz Ledóchowski, tornou-se o Superior Geral da Companhia de Jesus (Jesuítas), e sua irmã, Úrsula Ledóchowska, também foi canonizada como santa.
 - Sua abordagem para as missões foi revolucionária; ela percebeu que a imprensa seria a "nova ferramenta da evangelização", publicando literatura religiosa nas línguas nativas da África.
 - Ela foi uma das pioneiras na defesa dos direitos humanos contra a escravidão na Europa do século XIX.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Teresa Ledóchowska Original](imagens/original.jpg) | ![Beata Maria Teresa Ledóchowska Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

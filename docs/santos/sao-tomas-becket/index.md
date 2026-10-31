@@ -5,7 +5,7 @@ description: Conheça a história de São Tomás Becket, arcebispo de Cantuária
 
 # São Tomás Becket
 
-![São Tomás Becket](imagens/portrait.jpg)
+![São Tomás Becket](imagens/restaurada_4k.jpg)
 
 > "Aqui estou, pronto a sofrer na defesa de minha Igreja, contanto que, em meu sangue, a paz e a liberdade nela voltem a reinar."
 
@@ -36,6 +36,13 @@ O rei Henrique II, reconhecendo seu erro, fez penitência pública no túmulo de
 
 - **Peregrinações:** O túmulo de São Tomás atraía tantos peregrinos que inspirou Geoffrey Chaucer a escrever "Os Contos de Cantuária", uma das obras mais importantes da literatura inglesa, que narra histórias de um grupo de peregrinos a caminho do santuário.
 - **Relíquias e Destruição:** No século XVI, durante a Reforma Inglesa, o rei Henrique VIII ordenou a destruição do santuário de São Tomás e a queima de suas relíquias para apagar a devoção popular.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Tomás Becket Original](imagens/original.jpg) | ![São Tomás Becket Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

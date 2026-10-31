@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Mateus.
 
 # São Mateus
 
-![São Mateus](imagens/portrait.jpg)
+![São Mateus](imagens/restaurada_4k.jpg)
 
 > "Não vim chamar os justos, mas os pecadores."
 
@@ -40,6 +40,13 @@ Os relatos apócrifos atribuem-lhe curas, a expulsão de dragões venerados como
 2. **Caravaggio:** a *Vocação de São Mateus*, na igreja de San Luigi dei Francesi em Roma, é uma das obras mais célebres da pintura ocidental, e o Papa Francisco costumava citá-la como retrato de sua própria vocação.
 3. **Salerno:** suas relíquias são veneradas na cripta da catedral de Salerno, na Itália, desde o século X.
 4. **Padroeiro:** dos contadores, banqueiros, cobradores de impostos e profissionais de finanças.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Mateus Original](imagens/original.jpg) | ![São Mateus Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

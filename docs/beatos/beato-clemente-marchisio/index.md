@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Clemente Marchisi
 
 # Beato Clemente Marchisio
 
-![Beato Clemente Marchisio](imagens/portrait.jpg)
+![Beato Clemente Marchisio](imagens/restaurada_colorida_4k.jpg)
 
 > "O Pároco da Eucaristia e das Operárias"
 
@@ -41,6 +41,13 @@ A cura de uma irmã da sua própria Congregação, Irmã Agostina, que sofria de
 3.  **Uma Visão Profética.** Marchisio teve uma visão antecipada de como a industrialização no Piemonte afetaria as jovens camponesas e se antecipou abrindo lares onde pudessem morar e trabalhar sob a proteção da Igreja, preservando-as dos abusos dos patrões e da miséria material.
 
 O trabalho incansável de Dom Clemente esteve concentrado em poucas cidades do norte da Itália, onde a revolução industrial trazia novos desafios sociais e pastorais.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beato Clemente Marchisio Original](imagens/original.jpg) | ![Beato Clemente Marchisio Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

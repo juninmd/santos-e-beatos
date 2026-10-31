@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Imelda Lambertini
 
 # Beata Imelda Lambertini
 
-![Beata Imelda Lambertini](imagens/portrait.jpg)
+![Beata Imelda Lambertini](imagens/restaurada_4k.jpg)
 
 > "Dizei-me, vós podeis receber Jesus em vosso coração e não morrer de alegria?"
 
@@ -34,6 +34,13 @@ O padre, vendo o milagre, entendeu que era a vontade de Deus. Pegou a patena, re
 
 - **Padroeira:** É a padroeira das Primeiras Comunhões.
 - **Corpo:** Seus restos mortais repousam na Igreja de San Sigismondo, em Bolonha. Seu corpo é considerado incorrupto.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Imelda Lambertini Original](imagens/original.jpg) | ![Beata Imelda Lambertini Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

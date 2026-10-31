@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bruno.
 
 # São Bruno
 
-![São Bruno](imagens/portrait.jpg)
+![São Bruno](imagens/restaurada_4k.jpg)
 
 > "Fundador da Ordem dos Cartuxos"
 
@@ -41,6 +41,13 @@ A vida de São Bruno é mais reconhecida por seus "milagres de silêncio e santi
 1.  **A Ordem que nunca foi reformada:** A Ordem dos Cartuxos tem um lema famoso: "Numquam reformata, quia numquam deformata" (Nunca reformada, porque nunca deformada). Isso se deve ao fato de que, ao longo de mais de 900 anos, a ordem manteve seu rigor original, sem necessitar de reformas profundas como outras ordens religiosas.
 2.  **Amizade com São Hugo:** A fundação da Grande Cartuxa só foi possível através da amizade e apoio de São Hugo de Grenoble, que teve um sonho premonitório vendo sete estrelas (representando Bruno e seus 6 companheiros) caindo no vale de Chartreuse.
 3.  **Morte na Calábria:** Ao contrário do que se poderia pensar, São Bruno não morreu na Grande Cartuxa, na França, mas sim na Cartuxa de Santa Maria dell'Eremo, na Itália.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Bruno Original](imagens/original.jpg) | ![São Bruno Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Franz Jägerstät
 
 # Beato Franz Jägerstätter
 
-![Beato Franz Jägerstätter](imagens/portrait.jpg)
+![Beato Franz Jägerstätter](imagens/restaurada_4k.jpg)
 
 > "Melhor obedecer a Deus do que aos homens."
 
@@ -42,6 +42,13 @@ Por ter sido reconhecido como mártir *in odium fidei*, a beatificação dispens
 2. **"Uma Vida Oculta":** o filme de Terrence Malick, apresentado em Cannes em 2019, levou sua história ao público mundial; o título vem de uma frase de George Eliot sobre os que vivem vidas ocultas e repousam em túmulos não visitados.
 3. **Redescoberto por um sociólogo:** foi o americano Gordon Zahn quem, nos anos 1960, pesquisou seu caso e publicou o livro que tirou seu nome do esquecimento, influenciando o debate sobre objeção de consciência durante a Guerra do Vietnã.
 4. **Padroeiro:** invocado pelos objetores de consciência e citado com frequência em documentos sobre a liberdade religiosa.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Franz Jägerstätter Original](imagens/original.jpg) | ![Beato Franz Jägerstätter Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

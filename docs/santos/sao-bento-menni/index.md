@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bento Menni.
 
 # São Bento Menni
 
-![São Bento Menni](imagens/portrait.jpg)
+![São Bento Menni](imagens/restaurada_4k.jpg)
 
 > "Coração sem fronteiras."
 
@@ -43,6 +43,13 @@ São reconhecidos incontáveis favores daqueles que rezam, em particular pelas e
 1. **Precursor da psiquiatria moderna:** Muitos historiadores e psiquiatras o consideram um dos grandes pioneiros no modelo asilar no século XIX, exigindo instalações de excelência, higiene rigorosa e a reintrodução na sociedade assim que melhorassem, substituindo assim antigos hospícios cruéis e precários.
 2. **Atuação como maqueiro de guerra:** Seus trabalhos no atendimento dos feridos da sangrenta Batalha de Magenta foram cruciais para sua inclinação religiosa.
 3. **Internacionalização:** Seu laboro não ficou restrito à Europa. Foi encarregado pela Igreja do acolhimento no México e depois enviou grupos a dezenas de outras nações, para continuarem as obras filantrópicas que inaugurou.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Bento Menni Original](imagens/original.jpg) | ![São Bento Menni Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

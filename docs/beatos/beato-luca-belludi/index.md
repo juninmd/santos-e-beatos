@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luca Belludi, fie
 
 # Beato Luca Belludi
 
-![Beato Luca Belludi](imagens/portrait.jpg)
+![Beato Luca Belludi](imagens/restaurada_4k.jpg)
 
 > "Fiel companheiro de Santo Antônio"
 
@@ -35,6 +35,13 @@ Em 1256, quando o cruel tirano Ezzelino da Romano oprimia Pádua e seus habitant
 1.  **A "Arca" do Beato:** Seus restos mortais repousam em sua própria capela dentro da esplêndida Basílica de Santo Antônio em Pádua (a *Cappella del Beato Luca Belludi* ou Capela de São Filipe e Tiago).
 2.  **Educação dos Estudantes:** Luca é tradicionalmente invocado pelos estudantes para obter sucesso em seus exames, uma devoção que atrai incontáveis universitários até a sua tumba ao longo dos séculos.
 3.  **Companheiro Fiel:** Seu papel humilde ao lado de uma figura gigantesca como a de Santo Antônio de Pádua muitas vezes o ofuscou, mas ele é lembrado por sua extraordinária amizade e espírito de serviço fraterno na Ordem.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Luca Belludi Original](imagens/original.jpg) | ![Beato Luca Belludi Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

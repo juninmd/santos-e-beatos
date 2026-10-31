@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Ana Maria Javouhe
 
 # Beata Ana Maria Javouhey
 
-![Beata Ana Maria Javouhey](imagens/portrait.jpg)
+![Beata Ana Maria Javouhey](imagens/restaurada_4k.jpg)
 
 > "Fazer o bem aos outros é a melhor maneira de amar a Deus."
 
@@ -39,6 +39,13 @@ Inúmeros milagres foram atribuídos à sua intercessão após sua morte, princi
 1.  **Libertação:** Muito antes da abolição da escravatura na França, ela emancipou os escravos na colônia de Mana, na Guiana Francesa.
 2.  **Oposição:** Devido ao seu estilo de liderança forte, chegou a ser privada dos sacramentos por um bispo na França durante dois anos, mas manteve-se obediente e humilde, acabando por ser reintegrada.
 3.  **Expansão Global:** Foi chamada de "o grande homem de estado" por líderes políticos de sua época devido à sua capacidade de organização.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Ana Maria Javouhey Original](imagens/original.jpg) | ![Beata Ana Maria Javouhey Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

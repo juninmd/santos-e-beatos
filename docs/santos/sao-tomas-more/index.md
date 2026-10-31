@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Tomás More.
 
 # São Tomás More
 
-![São Tomás More](imagens/portrait.jpg)
+![São Tomás More](imagens/restaurada_4k.jpg)
 
 > "O Homem de Todas as Horas"
 
@@ -41,6 +41,13 @@ Em casos de martírio, o milagre primário considerado pela Igreja é o próprio
 1.  **Autor Renomado:** Escreveu o livro *Utopia* (1516), cunhando a própria palavra para descrever um sistema político imaginário e ideal.
 2.  **Padroeiro:** Em 2000, o Papa João Paulo II o proclamou Padroeiro dos Estadistas e Políticos. Ele também é padroeiro dos advogados.
 3.  **Filme:** Sua vida foi brilhantemente retratada na peça e no filme vencedor do Oscar, *O Homem que Não Vendeu Sua Alma* (A Man for All Seasons).
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Tomás More Original](imagens/original.jpg) | ![São Tomás More Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

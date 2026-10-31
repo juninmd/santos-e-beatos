@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Padre Pio de Pietr
 
 # São Padre Pio de Pietrelcina
 
-![São Padre Pio de Pietrelcina](imagens/padre-pio.jpg)
+![São Padre Pio de Pietrelcina](imagens/restaurada_4k.jpg)
 
 > "Ficarei na porta do Paraíso até que o último dos meus filhos espirituais entre."
 
@@ -43,6 +43,13 @@ Fundou a "Casa Alívio do Sofrimento" (Casa Sollievo della Sofferenza), um dos h
 
 1.  **Perfume:** Seus estigmas exalavam um perfume misterioso de flores, sentido por muitas pessoas, mesmo à distância.
 2.  **O Diabo:** Travou batalhas físicas e espirituais constantes contra o demônio.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Padre Pio de Pietrelcina Original](imagens/original.jpg) | ![São Padre Pio de Pietrelcina Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

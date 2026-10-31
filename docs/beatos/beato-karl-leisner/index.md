@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Karl Leisner.
 
 # Beato Karl Leisner
 
-![Beato Karl Leisner](imagens/portrait.jpg)
+![Beato Karl Leisner](imagens/restaurada_4k.jpg)
 
 > "Abençoa também, Altíssimo, os meus inimigos!"
 
@@ -40,6 +40,13 @@ Em relação à sua causa de beatificação, a Igreja reconheceu-o oficialmente 
 
 1.  **A Sua Única Missa:** O Padre Leisner está registado no livro recorde e dramático do martírio de Dachau: ele celebrou com força incrível apenas a sua primeira Missa após a ordenação dentro das paredes enferrujadas e elétricas e mal pôde segurar o cálice das espécies consagradas da hóstia (feito com metal reciclado pelos companheiros que foram forçados no campo e polido no turno da noite), voltando para os catres doentios de madeira e mal conseguindo mais se levantar para os meses subsequentes de agonia.
 2.  **Amizades Religiosas e Ecumenismo:** Durante seu terrível tempo sob condições bárbaras, teve enorme amizade e relação direta com padres católicos de muitos lugares e de inúmeras correntes pastorais, assim como forte aliança com pastores protestantes oprimidos, tornando o bloco dos padres o maior e mais extraordinário concílio e exemplo de partilha cristã em tempos horríveis e sombrios da própria Europa que jamais existiu num sítio pequeno de ódio.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Karl Leisner Original](imagens/original.jpg) | ![Beato Karl Leisner Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

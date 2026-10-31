@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Sebastião.
 
 # São Sebastião
 
-![São Sebastião](imagens/portrait.jpg)
+![São Sebastião](imagens/restaurada_4k.jpg)
 
 > "Soldado de Cristo."
 
@@ -42,6 +42,13 @@ Sebastião é o santo do duplo martírio — sobreviveu ao primeiro e voltou vol
 2. **Padroeiro do Rio de Janeiro:** a cidade se chama oficialmente São Sebastião do Rio de Janeiro, e 20 de janeiro é feriado municipal, com procissão que reúne centenas de milhares de fiéis.
 3. **Padroeiro dos atletas:** por sua condição de soldado e pela imagem de resistência física, é patrono dos atletas, dos arqueiros e dos soldados.
 4. **Devoção popular:** no Brasil, é um dos santos mais populares, com festas e novenas em todas as regiões.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Sebastião Original](imagens/original.jpg) | ![São Sebastião Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

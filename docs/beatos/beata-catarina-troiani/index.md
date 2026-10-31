@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Catarina Troiani.
 
 # Beata Catarina Troiani
 
-![Beata Catarina Troiani](imagens/portrait.jpg)
+![Beata Catarina Troiani](imagens/restaurada_colorida_4k.jpg)
 
 > "Senhor, a ti confio as minhas meninas do Egito, e faço voto de nunca recusar acolher as mais desamparadas."
 
@@ -37,6 +37,13 @@ A beatificação de Maria Catarina Troiani foi impulsionada pela confirmação d
 - Durante a viagem inicial da Itália para o Egito, Catarina e suas co-irmãs sobreviveram a uma grave tempestade, um episódio no qual oraram o terço clamando à Nossa Senhora, atribuindo à sua intercessão a salvação do navio.
 - As meninas a chamavam carinhosamente pelo termo afetuoso "Umm" (que significa mãe em árabe), porque ela dominou o idioma com rapidez e fez questão de adotar as roupas locais de trabalho ao invés de hábitos monásticos ostentosos, adaptando-se à cultura egípcia.
 - Devido às leis, ela frequentemente "comprava" escravas de mercados locais unicamente com o intuito de alforriá-las e conceder-lhes uma vida digna dentro dos orfanatos fundados.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Catarina Troiani Original](imagens/original.jpg) | ![Beata Catarina Troiani Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

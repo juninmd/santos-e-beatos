@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Bernadete Soubiro
 
 # Santa Bernadete Soubirous
 
-![Santa Bernadete Soubirous](imagens/portrait.jpg)
+![Santa Bernadete Soubirous](imagens/restaurada_colorida_4k.jpg)
 
 > "Eu não te prometo a felicidade neste mundo, mas no outro."
 
@@ -39,6 +39,13 @@ Durante sua vida, a fonte de Lourdes já operava milagres, embora Bernadete semp
 1.  **O Círio:** Durante uma das aparições, a chama da vela que Bernadete segurava tocou sua mão por vários minutos sem queimá-la, fato testemunhado por um médico cético.
 2.  **Incorrupção:** Seu corpo foi exumado três vezes (1909, 1919 e 1925) e encontrado intacto.
 3.  **Cinema:** Sua história foi imortalizada no filme "A Canção de Bernadette" (1943), que ganhou vários Oscars.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Santa Bernadete Soubirous Original](imagens/original.jpg) | ![Santa Bernadete Soubirous Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

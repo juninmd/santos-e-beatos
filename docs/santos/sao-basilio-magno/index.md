@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Basílio Magno.
 
 # São Basílio Magno
 
-![São Basílio Magno](imagens/portrait.jpg)
+![São Basílio Magno](imagens/restaurada_4k.jpg)
 
 > "A árvore não é avaliada por suas folhas, mas por seus frutos. Assim também, a nossa piedade não será julgada pelas palavras, mas pelas obras."
 
@@ -37,6 +37,13 @@ Em 370 d.C., foi consagrado Bispo de Cesareia. Como bispo, foi um gigante na def
 * Ele é um dos Três Santos Hierarcas (junto com Gregório de Nazianzo e João Crisóstomo) e um dos Grandes Padres Capadócios.
 * A "Regra de São Basílio" ainda é hoje o texto fundamental da vida monástica para os cristãos ortodoxos orientais.
 * Na tradição grega, São Basílio tem um papel semelhante ao de São Nicolau (Papai Noel) no Ocidente, sendo o santo que traz presentes às crianças no dia 1º de janeiro.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Basílio Magno Original](imagens/original.jpg) | ![São Basílio Magno Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

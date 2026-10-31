@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Amaro.
 
 # Santo Amaro
 
-![Santo Amaro](imagens/portrait.jpg)
+![Santo Amaro](imagens/restaurada_4k.jpg)
 
 > "Fiel discípulo de São Bento e apóstolo na Gália"
 
@@ -34,6 +34,13 @@ A tradição posterior relata que, por volta de 543, Amaro foi enviado à Gália
 1. **Padroeiro:** Santo Amaro é o santo padroeiro dos carregadores, dos fabricantes de carvão e das doenças do aparelho respiratório e dos ossos (devido a antigas lendas populares que associavam seu nome à cura desses males).
 2. **Santo Amaro, SP:** A cidade (e atualmente bairro de São Paulo) de Santo Amaro, no Brasil, recebeu esse nome em homenagem ao santo, trazida por imigrantes portugueses.
 3. **De Roma à França:** Sua jornada de Roma para a Gália consolidou a expansão inicial da ordem beneditina, sendo visto como um patriarca do monasticismo na França.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Amaro Original](imagens/original.jpg) | ![Santo Amaro Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

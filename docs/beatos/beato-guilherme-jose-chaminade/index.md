@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Guilherme José C
 
 # Beato Guilherme José Chaminade
 
-![Beato Guilherme José Chaminade](imagens/portrait.jpg)
+![Beato Guilherme José Chaminade](imagens/restaurada_4k.jpg)
 
 > "Aquilo que Ele vos disser, fazei-o."
 
@@ -37,6 +37,13 @@ Após orações intensas de sua família, dos marianistas locais e da comunidade
 1.  **Visão Inovadora do Laicato:** Chaminade foi um visionário na Igreja ao reconhecer a importância vital do laicato. Muito antes do Concílio Vaticano II, ele formou comunidades de leigos de todas as classes sociais, incentivando-os a serem "missionários permanentes" no seu ambiente quotidiano.
 2.  **O "Sodalício":** O núcleo de sua obra em Bordéus foi o Sodalício (ou Congregação Mariana), que não era apenas um grupo de oração, mas um centro de formação integral onde leigos assumiam a responsabilidade pela evangelização da sociedade pós-revolucionária.
 3.  **A Marca de Saragoça:** O tempo de exílio e oração no Santuário de Nossa Senhora do Pilar em Saragoça é considerado o momento fundacional de sua inspiração espiritual. A devoção a Maria como modelo e educadora na fé tornou-se o centro do carisma marianista.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Guilherme José Chaminade Original](imagens/original.jpg) | ![Beato Guilherme José Chaminade Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

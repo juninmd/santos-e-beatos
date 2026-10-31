@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Bárbara Maix.
 
 # Beata Bárbara Maix
 
-![Beata Bárbara Maix](imagens/portrait.jpg)
+![Beata Bárbara Maix](imagens/restaurada_4k.jpg)
 
 > "A vontade de Deus é o meu Paraíso."
 
@@ -43,6 +43,13 @@ O milagre que levou à sua beatificação foi a cura do menino Onorino Ecker, em
 1.  **Coração Preservado:** O coração de Bárbara Maix foi extraído após sua morte e encontra-se preservado em uma relíquia na Capela São Rafael, em Porto Alegre.
 2.  **Imigração Acidental:** A vinda para o Brasil foi um "acidente" de percurso, pois o destino planejado era a América do Norte. Ela aceitou o Brasil como sua nova pátria por amor a Deus.
 3.  **Perdão:** Suas últimas palavras e gestos foram de perdão total àqueles que a perseguiram dentro e fora da Igreja.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Bárbara Maix Original](imagens/original.jpg) | ![Beata Bárbara Maix Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

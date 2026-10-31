@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Solanus Casey.
 
 # Beato Solanus Casey
 
-![Beato Solanus Casey](imagens/portrait.jpg)
+![Beato Solanus Casey](imagens/restaurada_4k.jpg)
 
 > "O Porteiro de Deus"
 
@@ -43,6 +43,13 @@ Para sua beatificação, o Vaticano reconheceu a cura milagrosa de Paula Medina 
 1.  **Sacerdote Simplex:** O fato de não poder confessar ou pregar acabou sendo uma bênção, pois o deixou livre para passar o dia todo atendendo o povo na portaria.
 2.  **Violino:** Ele costumava tocar violino diante do Santíssimo Sacramento nas noites de Natal, cantando canções irlandesas para o Menino Jesus.
 3.  **Detroit:** É uma figura icônica em Detroit. Seu funeral reuniu milhares de pessoas e o trânsito parou por quilômetros.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Solanus Casey Original](imagens/original.jpg) | ![Beato Solanus Casey Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

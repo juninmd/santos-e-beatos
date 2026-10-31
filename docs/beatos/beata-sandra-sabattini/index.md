@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Sandra Sabattini.
 
 # Beata Sandra Sabattini
 
-![Beata Sandra Sabattini](imagens/portrait.jpg)
+![Beata Sandra Sabattini](imagens/restaurada_4k.jpg)
 
 > "A santa noiva."
 
@@ -40,6 +40,13 @@ O milagre reconhecido para a beatificação foi a cura de Stefano Vitali, morado
 2. **Os diários:** escreveu do 12 aos 22 anos; os cadernos foram publicados na Itália e traduzidos para várias línguas.
 3. **Doação de órgãos:** a família autorizou a doação de suas córneas, gesto lembrado nas campanhas italianas sobre o tema.
 4. **Padroeira:** invocada pelos estudantes universitários, pelos jovens noivos e pelos voluntários em dependência química.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Sandra Sabattini Original](imagens/original.jpg) | ![Beata Sandra Sabattini Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

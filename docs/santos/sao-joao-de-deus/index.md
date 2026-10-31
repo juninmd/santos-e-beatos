@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João de Deus.
 
 # São João de Deus
 
-![São João de Deus](imagens/portrait.jpg)
+![São João de Deus](imagens/restaurada_4k.jpg)
 
 > "O Pai dos Pobres e Doentes."
 
@@ -33,6 +33,13 @@ Inúmeros relatos de graças e curas físicas e espirituais são atribuídos à 
 - **Morte e Nascimento no mesmo dia:** João de Deus faleceu exatamente no dia de seu aniversário de 55 anos.
 - **Encontro com o Menino Jesus:** Uma lenda conta que, certa vez, ele lavava os pés de um mendigo que se revelou ser o próprio Jesus.
 - **A Coroa de Espinhos:** Relatos afirmam que a Virgem Maria lhe apareceu e colocou-lhe uma coroa de espinhos na cabeça.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João de Deus Original](imagens/original.jpg) | ![São João de Deus Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

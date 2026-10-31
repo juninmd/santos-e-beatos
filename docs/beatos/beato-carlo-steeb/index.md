@@ -36,6 +36,13 @@ Exames médicos posteriores comprovaram o inexplicável desaparecimento completo
 2. **Capelão dos Infectados:** Durante o cerco de Verona, diversas epidemias varreram a cidade, particularmente tifo e cólera. Padre Steeb muitas vezes passava noites em claro na enfermaria militar e no lazareto, consolando não apenas os italianos e austríacos, mas também prisioneiros franceses, oferecendo o viático a soldados de todas as nações beligerantes.
 3. **Mestre Poliglota:** Graças à sua criação em Tübingen e à estadia em Paris, Steeb falava fluentemente alemão e francês, adquirindo com rapidez também o italiano e o latim em Verona. Esse multilinguismo foi essencial para que pudesse confessar e dar extrema unção aos milhares de soldados estrangeiros durante as Guerras Napoleônicas.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Retrato Original](imagens/original.jpg) | ![Retrato Restaurada](imagens/restaurada_4k.jpg) |
+
 ## Cidades por onde passou
 
 - Tübingen (Alemanha)
@@ -57,6 +64,6 @@ Carlo Steeb é frequentemente evocado como um patrono não oficial dos convertid
 
 ## Galeria
 
-| ![Retrato](imagens/portrait.jpg) | ![Carlo Steeb e a caridade](./imagens/cover.jpg) |
+| ![Retrato](imagens/restaurada_4k.jpg) | ![Carlo Steeb e a caridade](./imagens/cover.jpg) |
 | :---: | :---: |
 | *Retrato de Beato Carlo Steeb.* | *Beato Carlo Steeb.* |

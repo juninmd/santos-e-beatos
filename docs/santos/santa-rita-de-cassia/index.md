@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Rita de Cássia.
 
 # Santa Rita de Cássia
 
-![Santa Rita de Cássia](imagens/santa-rita.jpg)
+![Santa Rita de Cássia](imagens/restaurada_4k.jpg)
 
 > "A Santa dos Impossíveis"
 
@@ -45,6 +45,13 @@ Além do estigma do espinho, muitos milagres são atribuídos a ela:
 1.  **Causas Impossíveis:** É invocada como a "Santa das Causas Impossíveis" devido aos grandes obstáculos que superou em vida (marido violento, morte dos filhos, entrada "impossível" no convento) e pelos milagres extraordinários.
 2.  **Padroeira:** É padroeira das mulheres que sofrem com maridos violentos, das viúvas e das causas desesperadas.
 3.  **Figos:** Além da rosa, ela também pediu figos no inverno, que foram encontrados maduros na árvore coberta de neve.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Rita de Cássia Original](imagens/original.jpg) | ![Santa Rita de Cássia Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Romero Mene
 
 # Beata Maria Romero Meneses
 
-![Beata Maria Romero Meneses](imagens/portrait.jpg)
+![Beata Maria Romero Meneses](imagens/restaurada_4k.jpg)
 
 > "Ponha a mão, minha Mãe, ponha a antes da minha."
 
@@ -39,6 +39,13 @@ Era uma mística da ação: sua intensa vida de oração transbordava em obras c
 
 1.  **Misioneritas:** Criou um grupo de jovens voluntárias, as "misioneritas", para ajudá-la na catequese e nas obras sociais nas periferias.
 2.  **Cidadã Honorária:** Foi declarada "Cidadã Honorária" da Costa Rica por seu imenso trabalho social.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Romero Meneses Original](imagens/original.jpg) | ![Beata Maria Romero Meneses Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

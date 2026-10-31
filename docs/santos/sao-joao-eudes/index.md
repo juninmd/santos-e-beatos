@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Eudes.
 
 # São João Eudes
 
-![São João Eudes](imagens/portrait.jpg)
+![São João Eudes](imagens/restaurada_colorida_4k.jpg)
 
 > "Para pregar bem, é preciso muito rezar."
 
@@ -32,6 +32,13 @@ Os milagres que levaram à sua canonização envolveram curas inexplicáveis atr
 - João Eudes é considerado o "autor, apóstolo e doutor" da devoção aos Sagrados Corações de Jesus e de Maria, antecipando as revelações a Santa Margarida Maria Alacoque.
 - Chegou a contrair a peste enquanto cuidava dos enfermos, mas se curou miraculosamente para continuar sua missão.
 - É padroeiro de sua congregação (os Eudistas) e da Ordem de Nossa Senhora da Caridade.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São João Eudes Original](imagens/original.jpg) | ![São João Eudes Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 Sua missão foi desenvolvida primariamente na França, onde percorreu diversas regiões pregando e fundando obras.

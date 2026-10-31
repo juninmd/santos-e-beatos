@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Vicente de Paulo.
 
 # São Vicente de Paulo
 
-![São Vicente de Paulo](imagens/portrait.png)
+![São Vicente de Paulo](imagens/restaurada_4k.jpg)
 
 > "Não me basta amar a Deus se não o amo no meu próximo."
 
@@ -47,6 +47,13 @@ A vida de São Vicente foi um milagre contínuo de caridade, mas muitos milagres
 2.  **Organizador Genial:** Vicente não era apenas um santo místico, mas um organizador brilhante. Ele criou sistemas de assistência social que serviram de modelo para a assistência pública moderna.
 3.  **Influência no Clero:** Ele foi fundamental na reforma do clero francês no século XVII, criando seminários e retiros para padres, elevando o nível moral e intelectual da igreja na época.
 4.  **Nome de Cidade:** Sua vila natal, Pouy, foi renomeada para Saint-Vincent-de-Paul em sua homenagem em 1828.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Vicente de Paulo Original](imagens/original.jpg) | ![São Vicente de Paulo Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 A vida de São Vicente foi marcada por viagens e missões:

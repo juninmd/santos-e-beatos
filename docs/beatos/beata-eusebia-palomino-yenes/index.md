@@ -7,7 +7,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Eusébia Palomino
 
 > "A vontade de Deus é o meu Paraíso."
 
-![Beata Eusébia Palomino Yenes](imagens/portrait.jpg)
+![Beata Eusébia Palomino Yenes](imagens/restaurada_colorida_4k.jpg)
 
 - **Nascimento:** 15 de dezembro de 1899
 - **Morte:** 10 de fevereiro de 1935
@@ -36,6 +36,13 @@ A sua beatificação foi impulsionada por inúmeros relatos de graças alcançad
 2. **Profecias e Dons Místicos:** Muitas testemunhas relataram que Eusébia tinha o dom de ler os corações, a capacidade de prever acontecimentos futuros (incluindo eventos relacionados com a Guerra Civil Espanhola) e de dar conselhos precisos sobre vocações.
 3. **Devoção Mariana:** Ela propagou incansavelmente a devoção a Nossa Senhora e promovia o uso do escapulário e a recitação do Terço entre os jovens e adultos que frequentavam a casa salesiana.
 4. **Vítima de Expiação:** A sua oferta de vida pela Espanha é um traço marcante da sua espiritualidade, unindo o seu sofrimento físico extremo à Paixão de Cristo pela salvação dos outros.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Eusébia Palomino Yenes Original](imagens/original.jpg) | ![Beata Eusébia Palomino Yenes Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

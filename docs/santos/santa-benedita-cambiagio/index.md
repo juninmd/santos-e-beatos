@@ -4,7 +4,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Benedita Cambiagi
 ---
 # Santa Benedita Cambiagio Frassinello
 
-![Santa Benedita Cambiagio Frassinello](imagens/portrait.jpg)
+![Santa Benedita Cambiagio Frassinello](imagens/restaurada_colorida_4k.jpg)
 
 > "Entregar-se inteiramente a Deus é a maior liberdade."
 
@@ -36,6 +36,13 @@ A vida de Benedita foi marcada por sua imensa caridade e confiança na Divina Pr
 1. **Casamento Casto:** Benedita e seu marido Giovanni decidiram, de comum acordo e guiados pela fé, viver o seu matrimônio como irmão e irmã, a fim de se dedicarem inteiramente a Deus.
 2. **Apoio do Marido:** Um aspecto muito incomum e admirável de sua história é que o marido, Giovanni Battista, mais tarde desempenhou um papel prático ao apoiar a congregação fundada por Benedita, lidando com a administração após ser chamado pelo bispo local.
 3. **Pioneira na Educação Feminina:** A Congregação das Irmãs Beneditinas da Providência focava em uma educação integral para meninas, muito rara em sua época.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Santa Benedita Cambiagio Frassinello Original](imagens/original.jpg) | ![Santa Benedita Cambiagio Frassinello Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

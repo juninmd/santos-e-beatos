@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Clotilde, a rainh
 
 # Santa Clotilde
 
-![Santa Clotilde](imagens/santa-clotilde.jpg)
+![Santa Clotilde](imagens/restaurada_4k.jpg)
 
 > "A rainha que trouxe a luz de Cristo aos Francos."
 
@@ -37,6 +37,13 @@ Numerosos milagres foram atribuídos a ela após sua morte e até mesmo em vida:
 1. **A Rainha dos Francos:** Ela foi decisiva na história do catolicismo na Europa, por guiar os francos à religião católica.
 2. **Reconhecimento e Patrocínio:** Santa Clotilde é padroeira das noivas, mães e pais adotivos.
 3. **Morte:** Faleceu no túmulo de São Martinho em Tours, orando incessantemente, por volta de 545.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Clotilde Original](imagens/original.jpg) | ![Santa Clotilde Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

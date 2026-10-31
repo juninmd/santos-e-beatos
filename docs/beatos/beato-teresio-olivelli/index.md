@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Beato Teresio Olivelli.
 
 # Beato Teresio Olivelli
 
-![Beato Teresio Olivelli](imagens/portrait.jpg)
+![Beato Teresio Olivelli](imagens/restaurada_4k.jpg)
 
 > "Mártir da resistência pacífica."
 
@@ -41,6 +41,13 @@ Sendo aclamado como mártir (morto "in odium fidei" – por ódio à fé), Teres
 1. **A Oração do Rebelde:** Teresio compôs a famosa "Oração do Rebelde" (Preghiera del Ribelle), que clamava a Deus, "Senhor dos vivos e dos mortos", por coragem e paciência aos membros da resistência italiana.
 2. **Defensor dos fracos:** Ele abdicou literalmente da sua própria vida para se colocar na frente do prisioneiro que estava sendo espancado pelo capataz nazista. As pancadas agravaram a sua já precária condição de saúde, sendo o real causador da morte.
 3. **Beato e Aluno:** Para além das qualidades religiosas, possuía extraordinária inteligência e formou-se advogado muito jovem na prestigiada Universidade de Pavia.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Teresio Olivelli Original](imagens/original.jpg) | ![Beato Teresio Olivelli Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

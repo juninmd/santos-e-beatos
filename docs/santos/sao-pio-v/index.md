@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pio V.
 
 # São Pio V
 
-![São Pio V](imagens/portrait.jpg)
+![São Pio V](imagens/restaurada_4k.jpg)
 
 > "Sede como um navio de guerra que avança contra o mar furioso do pecado."
 
@@ -38,6 +38,13 @@ Após sua morte, fiéis relataram curas inexplicáveis após visitar seu túmulo
 - **Santo Rosário:** Foi um dos maiores propulsores da oração do Santo Rosário, sendo o responsável por estabelecer o formato que, em grande parte, é utilizado até os dias atuais.
 - **Tomás de Aquino:** Ele elevou São Tomás de Aquino ao título de Doutor da Igreja, em reconhecimento à imensa contribuição teológica do frade dominicano.
 - **Bula Exsurge Domine:** Pio V não hesitou em enfrentar os desafios de sua época, excomungando a rainha Elizabeth I da Inglaterra por meio da bula *Regnans in Excelsis*, em 1570.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Pio V Original](imagens/original.jpg) | ![São Pio V Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

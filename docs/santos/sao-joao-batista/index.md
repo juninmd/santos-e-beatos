@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Batista.
 
 # São João Batista
 
-![São João Batista](imagens/portrait.jpg)
+![São João Batista](imagens/restaurada_4k.jpg)
 
 > "A Voz que Clama no Deserto"
 
@@ -55,7 +55,14 @@ João Batista pregou na região da Judeia, nas proximidades do rio Jordão, e fa
 
 Hoje, a figura de São João Batista continua a inspirar milhões de pessoas a uma vida de conversão, coragem e compromisso com a verdade. Suas festas juninas são algumas das mais expressivas no Brasil, e inúmeras igrejas e comunidades levam o seu nome. Ele nos desafia continuamente a sermos vozes da verdade em meio a injustiças e a nos preparar para receber a mensagem do Evangelho no mundo contemporâneo.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Batista Original](imagens/original.jpg) | ![São João Batista Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

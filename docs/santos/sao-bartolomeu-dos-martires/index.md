@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bartolomeu dos Má
 
 # São Bartolomeu dos Mártires
 
-![São Bartolomeu dos Mártires](imagens/portrait.jpg)
+![São Bartolomeu dos Mártires](imagens/restaurada_4k.jpg)
 
 > "Arder e iluminar: esta deve ser a divisa do bispo."
 
@@ -37,6 +37,13 @@ Durante sua vida, no entanto, muitos o consideravam um "santo vivo" devido à su
 2.  **O "Arcebispo Santo":** Ele era reverenciado pelo povo não por milagres espetaculares, mas por sua vida austera, sua pregação fervorosa e, acima de tudo, seu amor tangível e incondicional pelos pobres e marginalizados.
 3.  **Renúncia Incomum:** Apesar de seu imenso poder e influência como Arcebispo Primaz das Espanhas (Braga), ele solicitou repetidamente a renúncia ao Papa, desejando retornar à vida simples do claustro dominicano. Seu pedido só foi concedido após anos de insistência.
 4.  **Amigo de São Carlos Borromeu:** D. Bartolomeu construiu uma forte amizade e correspondência com São Carlos Borromeu, Arcebispo de Milão, colaborando estreitamente com ele nas reformas do Concílio de Trento.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Bartolomeu dos Mártires Original](imagens/original.jpg) | ![São Bartolomeu dos Mártires Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

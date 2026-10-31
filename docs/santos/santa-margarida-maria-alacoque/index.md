@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Margarida Maria A
 
 # Santa Margarida Maria Alacoque
 
-![Santa Margarida Maria Alacoque](imagens/portrait.jpg)
+![Santa Margarida Maria Alacoque](imagens/restaurada_4k.jpg)
 
 > "A mensageira do Sagrado Coração de Jesus"
 
@@ -36,6 +36,13 @@ Os principais "milagres" associados a Santa Margarida Maria em vida envolvem sua
 2. **As Nove Primeiras Sextas-feiras:** Foi a partir das revelações recebidas por ela que a Igreja instituiu a prática e a devoção de comungar nas nove primeiras sextas-feiras do mês para obter a graça da penitência final.
 3. **Festa do Sagrado Coração:** O esforço de Santa Margarida resultou na instituição oficial da Festa Litúrgica do Sagrado Coração de Jesus para a Igreja Universal.
 4. **Acrescentou Maria:** Ao fazer os votos na Ordem da Visitação, ela adicionou o nome de "Maria" em gratidão pelas contínuas proteções e graças alcançadas por intermédio da Virgem Santíssima.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Margarida Maria Alacoque Original](imagens/original.jpg) | ![Santa Margarida Maria Alacoque Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

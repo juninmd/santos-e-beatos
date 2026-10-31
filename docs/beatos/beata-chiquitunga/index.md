@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Chiquitunga.
 
 # Beata Chiquitunga
 
-![Beata Chiquitunga](imagens/portrait.jpg)
+![Beata Chiquitunga](imagens/restaurada_4k.jpg)
 
 > "Jesus, eu te amo! Que doce encontro! Virgem Maria!"
 
@@ -42,6 +42,13 @@ O milagre que permitiu sua beatificação foi a cura de um recém-nascido paragu
 2.  **Cérebro Incorrupto:** Durante a exumação de seu corpo, seu cérebro foi encontrado incorrupto e petrificado, o que é considerado um sinal de sua genialidade espiritual e de sua vida de oração.
 3.  **Padroeira da Juventude:** Ela é considerada um modelo para a juventude paraguaia por sua alegria, seu compromisso social e sua entrega radical a Cristo.
 4.  **Obras de Caridade:** Antes de entrar para o convento, chegou a vender suas próprias roupas e joias para ajudar os pobres.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Chiquitunga Original](imagens/original.jpg) | ![Beata Chiquitunga Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

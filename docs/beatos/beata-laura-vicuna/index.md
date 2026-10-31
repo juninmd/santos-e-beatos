@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Laura Vicuña.
 
 # Beata Laura Vicuña
 
-![Beata Laura Vicuña](imagens/laura-vicuna.jpg)
+![Beata Laura Vicuña](imagens/restaurada_colorida_4k.jpg)
 
 > "A Flor dos Andes"
 
@@ -40,6 +40,13 @@ Mas o maior "milagre" foi a conversão de sua própria mãe. No leito de morte, 
 
 1.  **Patronato:** É considerada padroeira das vítimas de abuso, de incesto e daqueles que perderam os pais.
 2.  **Mártir da Pureza:** Embora não tenha morrido diretamente no ato de defesa da pureza como Santa Maria Goretti, sua morte foi consequência dos maus-tratos recebidos por defender sua castidade e pela oferta de sua vida, sendo considerada uma mártir do amor filial e da caridade.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Beata Laura Vicuña Original](imagens/original.jpg) | ![Beata Laura Vicuña Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

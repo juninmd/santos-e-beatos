@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Inácio de Loyola
 
 # Santo Inácio de Loyola
 
-![Santo Inácio de Loyola](imagens/portrait.jpg)
+![Santo Inácio de Loyola](imagens/restaurada_4k.jpg)
 
 > "Tudo para a maior glória de Deus"
 
@@ -51,6 +51,13 @@ Muitos milagres foram atribuídos à intercessão de Santo Inácio, tanto em vid
 2.  **Padroeiro:** É o padroeiro dos retiros espirituais e dos soldados.
 3.  **Lema:** O lema dos Jesuítas é "Ad Maiorem Dei Gloriam" (AMDG) — "Para a maior glória de Deus".
 4.  **Bala de Canhão:** A bala de canhão que o feriu mudou não só sua perna, mas a história da Igreja. Sem aquele ferimento, talvez nunca tivesse se convertido.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Inácio de Loyola Original](imagens/original.jpg) | ![Santo Inácio de Loyola Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

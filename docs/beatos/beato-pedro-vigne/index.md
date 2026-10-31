@@ -5,7 +5,7 @@ description: Biografia, milagres e obra do Beato Pedro Vigne.
 
 # Beato Pedro Vigne
 
-![Beato Pedro Vigne](imagens/portrait.jpg)
+![Beato Pedro Vigne](imagens/restaurada_4k.jpg)
 
 > "Eu não desejo nada senão Deus e fazer a Sua Vontade."
 
@@ -39,6 +39,13 @@ Inesgotável em seu zelo pastoral, Pedro continuou a pregar até os seus último
 - A Congregação das Irmãs do Santíssimo Sacramento sobreviveu à Revolução Francesa e expandiu-se pelo mundo (atualmente presente na Europa, América Latina - inclusive no Brasil - e África).
 - Em suas missões itinerantes, ele costumava carregar sempre um grande crucifixo que usava em suas pregações, focando sempre na Paixão de Jesus e na reparação eucarística.
 - Boucieu-le-Roi tornou-se a sede de sua obra e até hoje preserva a Via Sacra estabelecida por ele.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Pedro Vigne Original](imagens/original.jpg) | ![Beato Pedro Vigne Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

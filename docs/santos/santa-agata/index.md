@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Ágata (Águeda),
 
 # Santa Ágata
 
-![Santa Ágata](imagens/portrait.jpg)
+![Santa Ágata](imagens/restaurada_4k.jpg)
 
 > "A virgem mártir de Catânia, protetora contra o fogo e padroeira das doenças da mama."
 
@@ -38,6 +38,13 @@ No dia seguinte, ao ver que Ágata estava completamente curada, Quinciano ordeno
 * Santa Ágata é a padroeira das enfermeiras, das pessoas que sofrem de doenças da mama e daqueles que sofrem com incêndios.
 * É uma das sete mulheres (além de Maria) mencionadas no Cânon Romano da Missa.
 * Na Sicília, há um doce tradicional chamado "Minne di Sant'Agata" (Seios de Santa Ágata), feito em sua homenagem durante sua festa, lembrando seu martírio de forma curiosa e cultural.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Ágata Original](imagens/original.jpg) | ![Santa Ágata Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

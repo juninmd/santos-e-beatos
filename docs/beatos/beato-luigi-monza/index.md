@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luigi Monza.
 
 # Beato Luigi Monza
 
-![Beato Luigi Monza](imagens/portrait.jpg)
+![Beato Luigi Monza](imagens/restaurada_4k.jpg)
 
 > "Fundador do Instituto Secular das Pequenas Apóstolas da Caridade"
 
@@ -37,6 +37,13 @@ O milagre que levou à beatificação do Pe. Luigi Monza ocorreu em 1965 e envol
 1.  **Fundação e Medicina:** Para apoiar o trabalho do Instituto, ele fundou "La Nostra Famiglia" (A Nossa Família), uma rede de centros de reabilitação e cuidados de saúde especializados para crianças com deficiência, que cresceu exponencialmente e hoje é uma das mais importantes instituições da Itália neste setor.
 2.  **Oposição Política:** Sua firme postura moral e educacional o colocou em conflito direto com o regime fascista italiano, que tentava monopolizar a educação e o tempo livre da juventude, mostrando sua coragem cívica além da religiosa.
 3.  **Vida Diária como Missão:** O cerne da sua espiritualidade era que não era necessário fugir do mundo para ser santo. Ele acreditava firmemente que a santidade podia e devia ser alcançada no ambiente cotidiano, no trabalho, na família e na sociedade secular.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Luigi Monza Original](imagens/original.jpg) | ![Beato Luigi Monza Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

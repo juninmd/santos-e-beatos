@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Teresa de Ávila.
 
 # Santa Teresa de Ávila
 
-![Santa Teresa de Ávila](imagens/portrait.jpg)
+![Santa Teresa de Ávila](imagens/restaurada_4k.jpg)
 
 > "Nada te perturbe, nada te espante, tudo passa, Deus não muda, a paciência tudo alcança; quem a Deus tem, nada lhe falta: só Deus basta."
 
@@ -36,6 +36,13 @@ Teresa era conhecida por sua personalidade forte, inteligência viva e profundo 
 - **Levitações:** Testemunhas relataram vê-la levitar durante êxtases de oração, algo que a constrangia muito.
 - **Corpo Incorrupto:** Seu corpo permanece incorrupto na Basílica da Anunciação em Alba de Tormes.
 - **Calendário:** Teresa morreu na noite de 4 de outubro de 1582, exatamente quando o calendário juliano foi substituído pelo gregoriano. O dia seguinte foi contado como 15 de outubro, "apagando" 10 dias da história, mas fazendo com que sua festa litúrgica caísse no dia 15.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Teresa de Ávila Original](imagens/original.jpg) | ![Santa Teresa de Ávila Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

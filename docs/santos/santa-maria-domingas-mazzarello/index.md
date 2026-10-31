@@ -7,7 +7,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Maria Domingas Ma
 
 > "A alegria é o sinal de um coração que ama muito o Senhor."
 
-![Santa Maria Domingas Mazzarello](imagens/portrait.jpg)
+![Santa Maria Domingas Mazzarello](imagens/restaurada_colorida_4k.jpg)
 
 - **Nascimento:** 9 de maio de 1837
 - **Morte:** 14 de maio de 1881
@@ -37,6 +37,13 @@ Um dos milagres para a sua canonização ocorreu na década de 1940, quando uma 
 2. **Humildade:** Quando Dom Bosco a escolheu para ser a superiora do recém-fundado instituto, ela tentou recusar, sentindo-se incapaz e indigna, pois considerava-se apenas uma "pobre camponesa". Aceitou apenas por obediência e humildade.
 3. **Cartas:** Escreveu muitas cartas às suas irmãs em várias partes do mundo. O seu estilo era simples, direto e cheio de afeto materno e conselhos práticos de vida espiritual.
 4. **Espírito de Mornese:** A espiritualidade das Filhas de Maria Auxiliadora é frequentemente referida como o "Espírito de Mornese", caracterizado pela piedade autêntica, trabalho diligente, alegria constante e caridade fraterna.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Santa Maria Domingas Mazzarello Original](imagens/original.jpg) | ![Santa Maria Domingas Mazzarello Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

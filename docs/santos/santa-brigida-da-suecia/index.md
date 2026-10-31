@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Brígida da Suéc
 
 # Santa Brígida da Suécia
 
-![Santa Brígida da Suécia](imagens/portrait.png)
+![Santa Brígida da Suécia](imagens/restaurada_4k.jpg)
 
 > "Senhor, mostra-me o caminho e torna-me disposta a percorrê-lo."
 
@@ -36,6 +36,13 @@ Inúmeros milagres foram atribuídos a Santa Brígida tanto em vida quanto após
 - Ela teve 8 filhos, dedicando-se igualmente à maternidade e à sua profunda vida espiritual.
 - Exerceu influência direta sobre políticos e líderes religiosos, admoestando reis como Magnus Eriksson, da Suécia.
 - As "15 Orações de Santa Brígida" concentram-se na Paixão de Cristo e até hoje são recitadas por devotos no mundo inteiro.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Brígida da Suécia Original](imagens/original.jpg) | ![Santa Brígida da Suécia Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

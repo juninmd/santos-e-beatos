@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Luís IX (Rei da F
 
 # São Luís IX
 
-![São Luís IX](imagens/sao-luis-ix.jpg)
+![São Luís IX](imagens/restaurada_4k.jpg)
 
 > "Rei justo e piedoso"
 
@@ -37,6 +37,13 @@ Sua vida inteira foi marcada por milagres de justiça e compaixão. Após sua mo
 1. **Relíquias:** Adquiriu a Coroa de Espinhos de Cristo e construiu a belíssima Sainte-Chapelle em Paris especificamente para abrigá-la.
 2. **Serviço Direto:** Ele frequentemente convidava pessoas pobres para jantar em sua mesa e lavava pessoalmente os pés de leprosos.
 3. **Ordem Terceira:** Era membro da Ordem Terceira de São Francisco, vivendo uma vida de penitência e desapego, mesmo vestindo roupas reais.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Luís IX Original](imagens/original.jpg) | ![São Luís IX Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

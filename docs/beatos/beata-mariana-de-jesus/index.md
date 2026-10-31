@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Beata Mariana de Jesus 
 
 # Beata Mariana de Jesus
 
-![Beata Mariana de Jesus](imagens/beata-mariana-de-jesus.jpg)
+![Beata Mariana de Jesus](imagens/restaurada_4k.jpg)
 
 > "A caridade e a oração são as chaves que abrem as portas do céu."
 
@@ -43,6 +43,13 @@ Seu corpo incorrupto repousa na Igreja do Convento de Dom Juan de Alarcón em Ma
 ## Impacto Hoje
 
 A Beata Mariana de Jesus é lembrada como a "Padroeira de Madri" ao lado de Santo Isidro Labrador. A sua vida de renúncia, oração profunda e serviço desinteressado aos aflitos continua a inspirar cristãos a buscarem a santidade na vida oculta e na intercessão pelos outros, mostrando que a verdadeira influência espiritual não depende do status social.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Mariana de Jesus Original](imagens/original.jpg) | ![Beata Mariana de Jesus Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

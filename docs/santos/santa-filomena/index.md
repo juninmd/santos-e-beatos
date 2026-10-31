@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Filomena.
 
 # Santa Filomena
 
-![Santa Filomena](imagens/portrait.jpg)
+![Santa Filomena](imagens/restaurada_4k.jpg)
 
 > "Paz em Cristo, Filomena"
 
@@ -35,6 +35,13 @@ Em 1805, as relíquias de Santa Filomena foram transferidas para Mugnano del Car
 - O Santo Cura d'Ars era muito devoto de Santa Filomena e a chamava de "querida santinha".
 - É conhecida como a "Santa dos Milagres" e "Filha da Luz Divina".
 - O nome Filomena pode significar "amada" ou "amiga da luz" em grego.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Filomena Original](imagens/original.jpg) | ![Santa Filomena Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

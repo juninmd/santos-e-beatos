@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Adílio Daronch.
 
 # Beato Adílio Daronch
 
-![Beato Adílio Daronch](imagens/adilio-daronch.jpg)
+![Beato Adílio Daronch](imagens/restaurada_4k.jpg)
 
 > "Mártir da juventude."
 
@@ -40,6 +40,13 @@ Por serem mártires, a beatificação dispensou milagre. A comunidade registra d
 2. **Patrono da juventude:** foi apresentado como um dos padroeiros da Jornada Mundial da Juventude do Rio de Janeiro, em 2013, poucos meses depois da beatificação.
 3. **Escoteiro:** integrava o escotismo católico local, e grupos escoteiros gaúchos o adotaram como patrono.
 4. **Padroeiro:** invocado pelos coroinhas, acólitos e jovens do meio rural.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Adílio Daronch Original](imagens/original.jpg) | ![Beato Adílio Daronch Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

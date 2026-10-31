@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João da Cruz.
 
 # São João da Cruz
 
-![São João da Cruz](imagens/cover.jpg)
+![São João da Cruz](imagens/restaurada_4k.jpg)
 
 > "No entardecer da vida, seremos julgados pelo amor."
 
@@ -48,6 +48,13 @@ Também são atribuídos a ele milagres de conversão profunda de almas que, ao 
 2.  **Fuga Espetacular:** Para fugir da prisão em Toledo, ele desceu de uma janela alta usando uma corda feita de lençóis rasgados.
 3.  **Desenho de Cristo:** Um dia, teve uma visão de Cristo crucificado visto de cima e fez um pequeno desenho. Séculos depois, este desenho inspirou o famoso quadro "Cristo de São João da Cruz" do pintor surrealista Salvador Dalí.
 4.  **Doutor da Igreja:** Foi declarado Doutor da Igreja pelo Papa Pio XI em 1926, recebendo o título de "Doutor Místico".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João da Cruz Original](imagens/original.jpg) | ![São João da Cruz Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

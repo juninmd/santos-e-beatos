@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades, cidades e impacto de São Bernar
 
 # São Bernardino de Sena
 
-![São Bernardino de Sena](imagens/portrait.png)
+![São Bernardino de Sena](imagens/restaurada_4k.jpg)
 
 > "O Apóstolo da Itália e Propagador do Santíssimo Nome de Jesus"
 
@@ -40,6 +40,13 @@ Após sua morte, seus restos mortais no convento de São Francisco em Áquila to
 - **Padroeiro:** Devido ao seu modo enfático de pregar e às suas extensas viagens, ele é o padroeiro dos publicitários, das relações públicas e da comunicação.
 - **Acusações de Heresia:** Por promover a devoção ao nome de Jesus através da placa visual (o monograma "IHS"), ele foi denunciado três vezes por heresia perante diferentes papas, mas foi totalmente inocentado em todas as ocasiões, com os papas inclusive incentivando sua prática.
 - **Recusa de Bispados:** Para manter-se livre para viajar e pregar aos pobres e às massas, ele recusou o cargo de bispo nas cidades de Siena, Ferrara e Urbino.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Bernardino de Sena Original](imagens/original.jpg) | ![São Bernardino de Sena Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

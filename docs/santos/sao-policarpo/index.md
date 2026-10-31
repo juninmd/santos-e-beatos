@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Policarpo de Esmir
 
 # São Policarpo de Esmirna
 
-![São Policarpo de Esmirna](imagens/portrait.jpg)
+![São Policarpo de Esmirna](imagens/restaurada_4k.jpg)
 
 > "Discípulo dos Apóstolos, Bispo e Mártir"
 
@@ -42,6 +42,13 @@ São Policarpo é amplamente aclamado pelo milagre espetacular em seu martírio.
 
 - O documento "O Martírio de São Policarpo" é o primeiro relato pós-bíblico cristão que detalha um martírio de forma extensiva. Ele introduz explicitamente o conceito de reverenciar as relíquias de um mártir e o começo da prática de celebrar os dias santos e "aniversários" (data da morte, que representa o nascimento para o céu) dos mártires.
 - Na epístola de Santo Inácio de Antioquia a Policarpo (quando Inácio foi preso rumo ao martírio em Roma), vemos uma imensa afeição de Inácio por este homem "ancorado em rocha firme".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Policarpo de Esmirna Original](imagens/original.jpg) | ![São Policarpo de Esmirna Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Francisco Jordan.
 
 # Beato Francisco Jordan
 
-![Beato Francisco Jordan](imagens/portrait.jpg)
+![Beato Francisco Jordan](imagens/restaurada_4k.jpg)
 
 > "Enquanto houver um só homem na terra que não conheça a Deus e o ame sobre todas as coisas, não podes descansar."
 
@@ -35,6 +35,13 @@ Trabalhou com a Beata Maria dos Apóstolos (Therese von Wüllenweber) para funda
 - Tinha grande facilidade com idiomas e estudou sírio, aramaico, copta, árabe e hebraico.
 - Seu desejo original era unir todas as forças católicas – padres, religiosos e leigos – para proclamar, em todas as línguas e todos os meios possíveis, o amor incondicional de Deus revelado em Jesus Cristo, o Salvador.
 - Faleceu no mesmo dia em que os Salvatorianos celebram seu principal padroeiro (Nascimento de Maria).
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Francisco Jordan Original](imagens/original.jpg) | ![Beato Francisco Jordan Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

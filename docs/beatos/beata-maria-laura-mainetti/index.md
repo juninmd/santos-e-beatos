@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Laura Maine
 
 # Beata Maria Laura Mainetti
 
-![Beata Maria Laura Mainetti](imagens/portrait.jpg)
+![Beata Maria Laura Mainetti](imagens/restaurada_4k.jpg)
 
 > "Mártir do Perdão"
 
@@ -36,6 +36,13 @@ O reconhecimento de seu martírio pela Igreja, "in odium fidei" (por ódio à f�
 
 1.  **O Perdão:** Suas últimas palavras de perdão às suas algozes foram fundamentais para o reconhecimento de sua santidade e martírio.
 2.  **Jovens:** Ela sempre teve um carinho especial pelos jovens, e ironicamente, foi martirizada por jovens a quem tentava ajudar.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Laura Mainetti Original](imagens/original.jpg) | ![Beata Maria Laura Mainetti Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 
