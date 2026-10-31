@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Beata Mariana de Jesus 
 
 # Beata Mariana de Jesus
 
-![Beata Mariana de Jesus](imagens/retrato.svg)
+![Beata Mariana de Jesus](imagens/beata-mariana-de-jesus.jpg)
 
 > "A caridade e a oração são as chaves que abrem as portas do céu."
 

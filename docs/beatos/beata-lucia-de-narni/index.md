@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Lúcia de Narni.
 
 # Beata Lúcia de Narni
 
-![Beata Lúcia de Narni](imagens/retrato.svg)
+![Beata Lúcia de Narni](imagens/beata-lucia-de-narni.jpg)
 
 > "Consoladora dos aflitos."
 
