@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 194 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 190 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -31,7 +31,6 @@ Esta seção reúne 194 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Assunta Marchetti](beata-assunta-marchetti/index.md)
 - [Beato Augusto Czartoryski](beato-augusto-czartoryski/index.md)
 - [Beata Bárbara Maix](beata-barbara-maix/index.md)
-- [Beato Bartolo Longo](beato-bartolo-longo/index.md)
 - [Beato Bartolomeu dos Mártires](beato-bartolomeu-dos-martires/index.md)
 - [Beato Basílio Moreau](beato-basilio-moreau/index.md)
 - [Beata Benedetta Bianchi Porro](beata-benedetta-bianchi-porro/index.md)
@@ -39,7 +38,6 @@ Esta seção reúne 194 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Benigna](beata-benigna/index.md)
 - [Beato Bernardo de Hoyos](beato-bernardo-de-hoyos/index.md)
 - [Beato Bronislaw Markiewicz](beato-bronislaw-markiewicz/index.md)
-- [Beato Carlo Acutis](beato-carlo-acutis/index.md)
 - [Beato Carlo Gnocchi](beato-carlo-gnocchi/index.md)
 - [Beato Carlo Steeb](beato-carlo-steeb/index.md)
 - [Beato Carlos da Áustria](beato-carlos-da-austria/index.md)
@@ -106,7 +104,6 @@ Esta seção reúne 194 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato João Paulo I](beato-joao-paulo-i/index.md)
 - [Beato João Schiavo](beato-joao-schiavo/index.md)
 - [Beato Jordão da Saxônia](beato-jordao-da-saxonia/index.md)
-- [Beato José Gregório Hernández](beato-jose-gregorio-hernandez/index.md)
 - [Beato Justo Takayama Ukon](beato-justo-takayama-ukon/index.md)
 - [Beato Karl Leisner](beato-karl-leisner/index.md)
 - [Beata Karolina Kózka](beata-karolina-kozka/index.md)
@@ -170,7 +167,6 @@ Esta seção reúne 194 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Paulina Jaricot](beata-paulina-jaricot/index.md)
 - [Beato Pedro Donders](beato-pedro-donders/index.md)
 - [Beato Pedro Vigne](beato-pedro-vigne/index.md)
-- [Beato Pier Giorgio Frassati](beato-pier-giorgio-frassati/index.md)
 - [Beata Pierina Morosini](beata-pierina-morosini/index.md)
 - [Beata Pina Suriano](beata-pina-suriano/index.md)
 - [Beato Pino Puglisi](beato-pino-puglisi/index.md)
