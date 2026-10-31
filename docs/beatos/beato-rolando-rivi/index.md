@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Rolando Rivi.
 
 # Beato Rolando Rivi
 
-![Beato Rolando Rivi](imagens/retrato.svg)
+![Beato Rolando Rivi](imagens/beato-rolando-rivi.jpg)
 
 > "Eu sou de Jesus."
 

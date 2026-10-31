@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Isidro Lavrador.
 
 # Santo Isidro Lavrador
 
-![Santo Isidro Lavrador](imagens/retrato.svg)
+![Santo Isidro Lavrador](imagens/santo-isidro.jpg)
 
 > "Padroeiro dos agricultores e modelo de santidade na vida cotidiana e no trabalho do campo."
 

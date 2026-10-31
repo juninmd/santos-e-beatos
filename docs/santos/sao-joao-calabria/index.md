@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Calábria.
 
 # São João Calábria
 
-![São João Calábria](imagens/retrato.svg)
+![São João Calábria](imagens/sao-joao-calabria.jpg)
 
 > "Deus Pai nos ama de um amor infinito."
 

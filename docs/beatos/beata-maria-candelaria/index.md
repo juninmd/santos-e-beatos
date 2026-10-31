@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Beata Maria Candelária
 
 # Beata Maria Candelária de São José
 
-![Beata Maria Candelária de São José](imagens/retrato.svg)
+![Beata Maria Candelária de São José](imagens/beata-maria-candelaria.jpg)
 
 > "Consoladora dos Abandonados"
 

@@ -32,6 +32,7 @@ Foi uma alma vítima, e a sua união mística com Jesus culminou na sua vivênci
 
 ## Curiosidades
 
+* Ficou popularmente conhecida em Portugal como a "Quarta Vidente de Fátima" pelo apelo à consagração mariana.
 * O seu quarto em Balasar tornou-se um local de peregrinação contínua. Mesmo acamada e em sofrimento, ela aconselhava e consolava as multidões que a iam visitar, vindas de todo o país.
 * Foi cooperadora Salesiana, inspirada pelo seu diretor espiritual, que era da congregação de Dom Bosco.
 * A sua beatificação foi celebrada no mesmo dia em que João Paulo II beatificou outros grandes intercessores, o que marcou um período intenso na sua atenção à espiritualidade mariana e eucarística.
