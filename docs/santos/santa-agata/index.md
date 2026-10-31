@@ -1,6 +1,6 @@
 ---
-title: Santa Ágata (Águeda)
-description: Biografia, milagres, curiosidades e mapa de Santa Ágata (Águeda), virgem e mártir.
+title: Santa Ágata
+description: Biografia, milagres, curiosidades e mapa de Santa Ágata.
 ---
 
 # Santa Ágata
