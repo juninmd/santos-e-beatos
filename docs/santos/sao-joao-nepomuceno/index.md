@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Nepomuceno.
 
 # São João Nepomuceno
 
-![São João Nepomuceno](imagens/sao-joao-nepomuceno.jpg)
+![São João Nepomuceno](imagens/retrato.svg)
 
 > "Mártir do Segredo da Confissão"
 

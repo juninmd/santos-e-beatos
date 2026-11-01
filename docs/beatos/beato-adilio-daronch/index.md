@@ -5,13 +5,13 @@ description: Biografia, milagres, curiosidades e mapa do Beato Adílio Daronch.
 
 # Beato Adílio Daronch
 
-![Beato Adílio Daronch](imagens/adilio-daronch.jpg)
+![Beato Adílio Daronch](imagens/retrato.svg)
 
 > "Mártir da juventude."
 
 - **Nascimento:** 25 de outubro de 1908, Dona Francisca, Brasil
 - **Morte:** 21 de maio de 1924, Três Passos, Brasil
-- **Beatificação:** 21 de outubro de 2007, pelo Papa Bento XVI
+- **Beatificação:** 2007, pelo Papa Bento XVI
 - **Festa Litúrgica:** 21 de maio
 
 <TextToSpeech />
@@ -28,7 +28,7 @@ Em maio de 1924, o Rio Grande do Sul vivia uma revolta armada, e grupos de revol
 
 ## Vida Pessoal e Espiritualidade
 
-Adílio é lembrado como o adolescente comum de uma colônia do interior — ajudava na roça, gostava de cavalos, servia no altar. A Igreja reconheceu seu martírio *in odium fidei* junto com o do padre Manuel Gómez González, e ambos foram beatificados em Frederico Westphalen (RS), em 21 de outubro de 2007, pelo Papa Bento XVI.
+Adílio é lembrado como o adolescente comum de uma colônia do interior — ajudava na roça, gostava de cavalos, servia no altar. A Igreja reconheceu seu martírio *in odium fidei* junto com o do padre Manuel Gómez González, e ambos foram beatificados em Frederico Westphalen (RS), em 21 de maio de 2013, no aniversário exato da morte.
 
 ## Milagres
 
