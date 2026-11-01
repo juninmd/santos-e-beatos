@@ -3,9 +3,9 @@
   publish = "docs/.vitepress/dist"
 
 [build.environment]
+  NODE_VERSION = "20"
 
 [[headers]]
   for = "/*"
   [headers.values]
     X-Content-Type-Options = "nosniff"
-  NODE_VERSION = "20"

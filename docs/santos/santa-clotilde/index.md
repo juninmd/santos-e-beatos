@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Clotilde, a rainh
 
 # Santa Clotilde
 
-![Santa Clotilde](imagens/santa-clotilde.jpg)
+![Santa Clotilde](imagens/retrato.svg)
 
 > "A rainha que trouxe a luz de Cristo aos Francos."
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Maria Troncatti, 
 
 # Santa Maria Troncatti
 
-![Santa Maria Troncatti](imagens/maria-troncatti.jpg)
+![Santa Maria Troncatti](imagens/retrato.svg)
 
 > "A médica da selva."
 
