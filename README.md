@@ -56,7 +56,7 @@ Para adicionar ou corrigir uma entrada, crie/edite a página em `docs/santos/` o
 
 ## Lista de Santos e Beatos
 
-São 183 beatos e 211 santos catalogados.
+São 184 beatos e 212 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -155,6 +155,7 @@ São 183 beatos e 211 santos catalogados.
 | [Beato João Paulo I](docs/beatos/beato-joao-paulo-i/index.md) | ![Beato João Paulo I](docs/beatos/beato-joao-paulo-i/imagens/portrait.png) |
 | [Beato João Schiavo](docs/beatos/beato-joao-schiavo/index.md) | ![Beato João Schiavo](docs/beatos/beato-joao-schiavo/imagens/portrait.jpg) |
 | [Beato Jordão da Saxônia](docs/beatos/beato-jordao-da-saxonia/index.md) | ![Beato Jordão da Saxônia](docs/beatos/beato-jordao-da-saxonia/imagens/portrait.png) |
+| [Beato Josef Mayr-Nusser](docs/beatos/beato-josef-mayr-nusser/index.md) | ![Beato Josef Mayr-Nusser](docs/beatos/beato-josef-mayr-nusser/imagens/retrato.svg) |
 | [Beato Justo Takayama Ukon](docs/beatos/beato-justo-takayama-ukon/index.md) | ![Beato Justo Takayama Ukon](docs/beatos/beato-justo-takayama-ukon/imagens/portrait.jpg) |
 | [Beato Karl Leisner](docs/beatos/beato-karl-leisner/index.md) | ![Beato Karl Leisner](docs/beatos/beato-karl-leisner/imagens/portrait.jpg) |
 | [Beata Karolina Kózka](docs/beatos/beata-karolina-kozka/index.md) | ![Beata Karolina Kózka](docs/beatos/beata-karolina-kozka/imagens/portrait.jpg) |
@@ -313,6 +314,7 @@ São 183 beatos e 211 santos catalogados.
 | [São Filipe](docs/santos/sao-filipe/index.md) | ![São Filipe](docs/santos/sao-filipe/imagens/portrait.jpg) |
 | [São Filipe Neri](docs/santos/sao-filipe-neri/index.md) | ![São Filipe Neri](docs/santos/sao-filipe-neri/imagens/portrait.jpg) |
 | [Santa Filomena](docs/santos/santa-filomena/index.md) | ![Santa Filomena](docs/santos/santa-filomena/imagens/portrait.jpg) |
+| [Santa Francisca Xavier Cabrini](docs/santos/santa-francisca-xavier-cabrini/index.md) | ![Santa Francisca Xavier Cabrini](docs/santos/santa-francisca-xavier-cabrini/imagens/retrato.svg) |
 | [São Francisco de Assis](docs/santos/sao-francisco-de-assis/index.md) | ![São Francisco de Assis](docs/santos/sao-francisco-de-assis/imagens/sao-francisco.jpg) |
 | [São Francisco de Paula](docs/santos/sao-francisco-de-paula/index.md) | ![São Francisco de Paula](docs/santos/sao-francisco-de-paula/imagens/portrait.jpg) |
 | [São Francisco de Sales](docs/santos/sao-francisco-de-sales/index.md) | ![São Francisco de Sales](docs/santos/sao-francisco-de-sales/imagens/portrait.jpg) |
