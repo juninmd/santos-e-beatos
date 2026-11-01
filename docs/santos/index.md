@@ -1,6 +1,7 @@
 # Santos
 
 Esta seção reúne 212 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
 - [Santo Agostinho](santo-agostinho/index.md)
@@ -149,6 +150,7 @@ Esta seção reúne 212 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Mama Antula (María Antonia de Paz y Figueroa)](santa-mama-antula/index.md)
 - [São Marcelino Champagnat](sao-marcelino-champagnat/index.md)
 - [São Marcos](sao-marcos/index.md)
+- [Santa Margarida da Escócia](santa-margarida-da-escocia/index.md)
 - [Santa Margarida Maria Alacoque](santa-margarida-maria-alacoque/index.md)
 - [Santa Maria Domingas Mazzarello](santa-maria-domingas-mazzarello/index.md)
 - [Santa Maria Goretti](santa-maria-goretti/index.md)
