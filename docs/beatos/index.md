@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 183 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 184 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -30,6 +30,7 @@ Esta seção reúne 183 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Assunta Marchetti](beata-assunta-marchetti/index.md)
 - [Beato Augusto Czartoryski](beato-augusto-czartoryski/index.md)
 - [Beata Bárbara Maix](beata-barbara-maix/index.md)
+- [Beato Bartolomeu dos Mártires](beato-bartolomeu-dos-martires/index.md)
 - [Beato Basílio Moreau](beato-basilio-moreau/index.md)
 - [Beata Benedetta Bianchi Porro](beata-benedetta-bianchi-porro/index.md)
 - [Beata Benigna](beata-benigna/index.md)
@@ -85,6 +86,7 @@ Esta seção reúne 183 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Inácio Maloyan](beato-inacio-maloyan/index.md)
 - [Beato Inocêncio V](beato-inocencio-v/index.md)
 - [Beato Inocêncio XI](beato-inocencio-xi/index.md)
+- [Beata Irene Stefani](beata-irene-stefani/index.md)
 - [Beata Isabel Cristina](beata-isabel-cristina/index.md)
 - [Beato Isidoro Bakanja](beato-isidoro-bakanja/index.md)
 - [Beato Ivan Merz](beato-ivan-merz/index.md)
@@ -97,6 +99,7 @@ Esta seção reúne 183 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato João Paulo I](beato-joao-paulo-i/index.md)
 - [Beato João Schiavo](beato-joao-schiavo/index.md)
 - [Beato Jordão da Saxônia](beato-jordao-da-saxonia/index.md)
+- [Beato Josef Mayr-Nusser](beato-josef-mayr-nusser/index.md)
 - [Beato Justo Takayama Ukon](beato-justo-takayama-ukon/index.md)
 - [Beato Karl Leisner](beato-karl-leisner/index.md)
 - [Beata Karolina Kózka](beata-karolina-kozka/index.md)
