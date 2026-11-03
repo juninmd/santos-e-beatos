@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 197 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 198 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -193,4 +193,5 @@ Esta seção reúne 197 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Tiago de Voragine](beato-tiago-de-voragine/index.md)
 - [Beato Tito Zeman](beato-tito-zeman/index.md)
 - [Beato Urbano V](beato-urbano-v/index.md)
+- [Beato Vicente Romano](beato-vicente-romano/index.md)
 - [Beato Zeferino Namuncurá](beato-zeferino-namuncura/index.md)

@@ -1,6 +1,6 @@
 # Santos
 
-Esta seção reúne 212 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 213 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
@@ -28,6 +28,7 @@ Esta seção reúne 212 santos canonizados pela Igreja Católica, com biografia,
 - [São Beda](sao-beda/index.md)
 - [Santa Benedita Cambiagio Frassinello](santa-benedita-cambiagio/index.md)
 - [São Benedito](sao-benedito/index.md)
+- [São Benedito José Labre](sao-benedito-jose-labre/index.md)
 - [São Bento](sao-bento/index.md)
 - [São Bento Menni](sao-bento-menni/index.md)
 - [Santa Bernadete Soubirous](santa-bernadete-soubirous/index.md)
