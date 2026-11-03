@@ -218,6 +218,7 @@ export default {
             { text: 'Beato Tiago de Voragine', link: '/beatos/beato-tiago-de-voragine/' },
             { text: 'Beato Tito Zeman', link: '/beatos/beato-tito-zeman/' },
             { text: 'Beato Urbano V', link: '/beatos/beato-urbano-v/' },
+            { text: 'Beato Vicente Romano', link: '/beatos/beato-vicente-romano/' },
             { text: 'Beato Zeferino Namuncurá', link: '/beatos/beato-zeferino-namuncura/' }
           ]
         }
@@ -251,6 +252,7 @@ export default {
             { text: 'Santa Beatriz da Silva', link: '/santos/santa-beatriz-da-silva/' },
             { text: 'São Beda', link: '/santos/sao-beda/' },
             { text: 'São Benedito', link: '/santos/sao-benedito/' },
+            { text: 'São Benedito José Labre', link: '/santos/sao-benedito-jose-labre/' },
             { text: 'São Bento', link: '/santos/sao-bento/' },
             { text: 'São Bento Menni', link: '/santos/sao-bento-menni/' },
             { text: 'Santa Bernadete Soubirous', link: '/santos/santa-bernadete-soubirous/' },

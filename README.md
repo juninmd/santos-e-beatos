@@ -6,7 +6,7 @@ Este sistema reúne biografias, mapas, milagres e curiosidades sobre santos e be
 
 ## Lista de Santos e Beatos
 
-São 197 beatos e 212 santos catalogados.
+São 198 beatos e 213 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -206,6 +206,7 @@ São 197 beatos e 212 santos catalogados.
 | [Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/index.md) | ![Beato Tiago de Voragine](docs/beatos/beato-tiago-de-voragine/imagens/portrait.jpg) |
 | [Beato Tito Zeman](docs/beatos/beato-tito-zeman/index.md) | ![Beato Tito Zeman](docs/beatos/beato-tito-zeman/imagens/portrait.jpg) |
 | [Beato Urbano V](docs/beatos/beato-urbano-v/index.md) | ![Beato Urbano V](docs/beatos/beato-urbano-v/imagens/portrait.jpg) |
+| [Beato Vicente Romano](docs/beatos/beato-vicente-romano/index.md) | ![Beato Vicente Romano](docs/beatos/beato-vicente-romano/imagens/retrato.svg) |
 | [Beato Zeferino Namuncurá](docs/beatos/beato-zeferino-namuncura/index.md) | ![Beato Zeferino Namuncurá](docs/beatos/beato-zeferino-namuncura/imagens/portrait.jpg) |
 | [Santo Afonso Maria de Ligório](docs/santos/santo-afonso-maria-de-ligorio/index.md) | ![Santo Afonso Maria de Ligório](docs/santos/santo-afonso-maria-de-ligorio/imagens/portrait.jpg) |
 | [Santa Ágata](docs/santos/santa-agata/index.md) | ![Santa Ágata](docs/santos/santa-agata/imagens/portrait.jpg) |
@@ -232,6 +233,7 @@ São 197 beatos e 212 santos catalogados.
 | [Santa Beatriz da Silva](docs/santos/santa-beatriz-da-silva/index.md) | ![Santa Beatriz da Silva](docs/santos/santa-beatriz-da-silva/imagens/portrait.jpg) |
 | [São Beda](docs/santos/sao-beda/index.md) | ![São Beda](docs/santos/sao-beda/imagens/portrait.jpg) |
 | [São Benedito](docs/santos/sao-benedito/index.md) | ![São Benedito](docs/santos/sao-benedito/imagens/portrait.jpg) |
+| [São Benedito José Labre](docs/santos/sao-benedito-jose-labre/index.md) | ![São Benedito José Labre](docs/santos/sao-benedito-jose-labre/imagens/retrato.svg) |
 | [São Bento](docs/santos/sao-bento/index.md) | ![São Bento](docs/santos/sao-bento/imagens/portrait.jpg) |
 | [São Bento Menni](docs/santos/sao-bento-menni/index.md) | ![São Bento Menni](docs/santos/sao-bento-menni/imagens/portrait.jpg) |
 | [Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/index.md) | ![Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/imagens/portrait.jpg) |
