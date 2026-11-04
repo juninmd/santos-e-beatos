@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 198 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 199 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -192,6 +192,7 @@ Esta seção reúne 198 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beato Solanus Casey](beato-solanus-casey/index.md)
 - [Beato Stanley Rother](beato-stanley-rother/index.md)
 - [Beato Stefan Wyszyński](beato-stefan-wyszynski/index.md)
+- [Beata Teresa Bracco](beata-teresa-bracco/index.md)
 - [Beata Teresa de Portugal](beata-teresa-de-portugal/index.md)
 - [Beato Teresio Olivelli](beato-teresio-olivelli/index.md)
 - [Beato Tiago Alberione](beato-tiago-alberione/index.md)
