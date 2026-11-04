@@ -1,4 +1,5 @@
 npm run docs:dev
+
 # Santos e Beatos Intelligence System
 
 Bem-vindo ao repositório do **Santos e Beatos Intelligence System**.
@@ -7,7 +8,7 @@ Este sistema reúne biografias, mapas, milagres e curiosidades sobre santos e be
 
 ## Lista de Santos e Beatos
 
-São 198 beatos e 213 santos catalogados.
+São 199 beatos e 214 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -40,7 +41,7 @@ São 198 beatos e 213 santos catalogados.
 | [Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/index.md) | ![Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/imagens/portrait.png) |
 | [Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/index.md) | ![Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/imagens/portrait.jpg) |
 | [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/portrait.jpg) |
-| [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/imagens/retrato.svg) |
+| [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/imagens/portrait.jpg) |
 | [Beato Bartolomeu dos Mártires](docs/beatos/beato-bartolomeu-dos-martires/index.md) | ![Beato Bartolomeu dos Mártires](docs/beatos/beato-bartolomeu-dos-martires/imagens/portrait.jpg) |
 | [Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/index.md) | ![Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/imagens/portrait.jpg) |
 | [Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/index.md) | ![Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/imagens/portrait.jpg) |
@@ -201,6 +202,7 @@ São 198 beatos e 213 santos catalogados.
 | [Beato Solanus Casey](docs/beatos/beato-solanus-casey/index.md) | ![Beato Solanus Casey](docs/beatos/beato-solanus-casey/imagens/portrait.jpg) |
 | [Beato Stanley Rother](docs/beatos/beato-stanley-rother/index.md) | ![Beato Stanley Rother](docs/beatos/beato-stanley-rother/imagens/portrait.jpg) |
 | [Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/index.md) | ![Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/imagens/portrait.jpg) |
+| [Beata Teresa Bracco](docs/beatos/beata-teresa-bracco/index.md) | ![Beata Teresa Bracco](docs/beatos/beata-teresa-bracco/imagens/retrato.svg) |
 | [Beata Teresa de Portugal](docs/beatos/beata-teresa-de-portugal/index.md) | ![Beata Teresa de Portugal](docs/beatos/beata-teresa-de-portugal/imagens/portrait.png) |
 | [Beato Teresio Olivelli](docs/beatos/beato-teresio-olivelli/index.md) | ![Beato Teresio Olivelli](docs/beatos/beato-teresio-olivelli/imagens/portrait.jpg) |
 | [Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/index.md) | ![Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/imagens/portrait.jpg) |
@@ -225,4 +227,201 @@ São 198 beatos e 213 santos catalogados.
 | [Santo Antônio de Sant'Ana Galvão](docs/santos/santo-antonio-de-santana-galvao/index.md) | ![Santo Antônio de Sant'Ana Galvão](docs/santos/santo-antonio-de-santana-galvao/imagens/portrait.jpg) |
 | [Santo Antônio Maria Claret](docs/santos/santo-antonio-maria-claret/index.md) | ![Santo Antônio Maria Claret](docs/santos/santo-antonio-maria-claret/imagens/portrait.jpg) |
 | [Santa Apolônia](docs/santos/santa-apolonia/index.md) | ![Santa Apolônia](docs/santos/santa-apolonia/imagens/portrait.jpg) |
-| [São Artém
+| [São Artêmides Zatti](docs/santos/sao-artemides-zatti/index.md) | ![São Artêmides Zatti](docs/santos/sao-artemides-zatti/imagens/portrait.jpg) |
+| [Santo Atanásio](docs/santos/santo-atanasio/index.md) | ![Santo Atanásio](docs/santos/santo-atanasio/imagens/portrait.jpg) |
+| [Santa Bárbara](docs/santos/santa-barbara/index.md) | ![Santa Bárbara](docs/santos/santa-barbara/imagens/portrait.jpg) |
+| [São Bartolo Longo](docs/santos/sao-bartolo-longo/index.md) | ![São Bartolo Longo](docs/santos/sao-bartolo-longo/imagens/portrait.jpg) |
+| [São Bartolomeu](docs/santos/sao-bartolomeu/index.md) | ![São Bartolomeu](docs/santos/sao-bartolomeu/imagens/portrait.jpg) |
+| [São Basílio Magno](docs/santos/sao-basilio-magno/index.md) | ![São Basílio Magno](docs/santos/sao-basilio-magno/imagens/portrait.jpg) |
+| [Santa Beatriz da Silva](docs/santos/santa-beatriz-da-silva/index.md) | ![Santa Beatriz da Silva](docs/santos/santa-beatriz-da-silva/imagens/portrait.jpg) |
+| [São Beda](docs/santos/sao-beda/index.md) | ![São Beda](docs/santos/sao-beda/imagens/portrait.jpg) |
+| [São Benedito](docs/santos/sao-benedito/index.md) | ![São Benedito](docs/santos/sao-benedito/imagens/portrait.jpg) |
+| [São Benedito José Labre](docs/santos/sao-benedito-jose-labre/index.md) | ![São Benedito José Labre](docs/santos/sao-benedito-jose-labre/imagens/retrato.svg) |
+| [São Bento](docs/santos/sao-bento/index.md) | ![São Bento](docs/santos/sao-bento/imagens/portrait.jpg) |
+| [São Bento Menni](docs/santos/sao-bento-menni/index.md) | ![São Bento Menni](docs/santos/sao-bento-menni/imagens/portrait.jpg) |
+| [Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/index.md) | ![Santa Bernadete Soubirous](docs/santos/santa-bernadete-soubirous/imagens/portrait.jpg) |
+| [São Bernardino de Sena](docs/santos/sao-bernardino-de-sena/index.md) | ![São Bernardino de Sena](docs/santos/sao-bernardino-de-sena/imagens/portrait.png) |
+| [São Bernardo de Claraval](docs/santos/sao-bernardo/index.md) | ![São Bernardo de Claraval](docs/santos/sao-bernardo/imagens/portrait.jpg) |
+| [São Boaventura](docs/santos/sao-boaventura/index.md) | ![São Boaventura](docs/santos/sao-boaventura/imagens/portrait.jpg) |
+| [São Bonifácio](docs/santos/sao-bonifacio/index.md) | ![São Bonifácio](docs/santos/sao-bonifacio/imagens/portrait.jpg) |
+| [São Brás](docs/santos/sao-bras/index.md) | ![São Brás](docs/santos/sao-bras/imagens/portrait.jpg) |
+| [Santa Brígida da Suécia](docs/santos/santa-brigida-da-suecia/index.md) | ![Santa Brígida da Suécia](docs/santos/santa-brigida-da-suecia/imagens/portrait.png) |
+| [São Bruno](docs/santos/sao-bruno/index.md) | ![São Bruno](docs/santos/sao-bruno/imagens/portrait.jpg) |
+| [São Caetano de Thiene](docs/santos/sao-caetano-de-thiene/index.md) | ![São Caetano de Thiene](docs/santos/sao-caetano-de-thiene/imagens/cover.jpg) |
+| [São Camilo de Lellis](docs/santos/sao-camilo-de-lellis/index.md) | ![São Camilo de Lellis](docs/santos/sao-camilo-de-lellis/imagens/portrait.jpg) |
+| [São Carlo Acutis](docs/santos/carlo-acutis/index.md) | ![São Carlo Acutis](docs/santos/carlo-acutis/imagens/carlo-acutis.jpg) |
+| [São Carlos Borromeu](docs/santos/sao-carlos-borromeu/index.md) | ![São Carlos Borromeu](docs/santos/sao-carlos-borromeu/imagens/portrait.jpg) |
+| [São Carlos Lwanga](docs/santos/sao-carlos-lwanga/index.md) | ![São Carlos Lwanga](docs/santos/sao-carlos-lwanga/imagens/cover.jpg) |
+| [Santa Catarina de Alexandria](docs/santos/santa-catarina-de-alexandria/index.md) | ![Santa Catarina de Alexandria](docs/santos/santa-catarina-de-alexandria/imagens/portrait.jpg) |
+| [Santa Catarina de Sena](docs/santos/santa-catarina-de-sena/index.md) | ![Santa Catarina de Sena](docs/santos/santa-catarina-de-sena/imagens/portrait.jpg) |
+| [Santa Catarina Labouré](docs/santos/santa-catarina-laboure/index.md) | ![Santa Catarina Labouré](docs/santos/santa-catarina-laboure/imagens/portrait.jpg) |
+| [Santa Cecília](docs/santos/santa-cecilia/index.md) | ![Santa Cecília](docs/santos/santa-cecilia/imagens/portrait.jpg) |
+| [São Charbel Makhlouf](docs/santos/sao-charbel/index.md) | ![São Charbel Makhlouf](docs/santos/sao-charbel/imagens/portrait.jpg) |
+| [São Charles de Foucauld](docs/santos/sao-charles-de-foucauld/index.md) | ![São Charles de Foucauld](docs/santos/sao-charles-de-foucauld/imagens/portrait.jpg) |
+| [Santo Cirilo de Jerusalém](docs/santos/santo-cirilo-de-jerusalem/index.md) | ![Santo Cirilo de Jerusalém](docs/santos/santo-cirilo-de-jerusalem/imagens/retrato.svg) |
+| [Santa Clara de Assis](docs/santos/santa-clara-de-assis/index.md) | ![Santa Clara de Assis](docs/santos/santa-clara-de-assis/imagens/portrait.jpg) |
+| [Santa Clotilde](docs/santos/santa-clotilde/index.md) | ![Santa Clotilde](docs/santos/santa-clotilde/imagens/retrato.svg) |
+| [São Columbano](docs/santos/sao-columbano/index.md) | ![São Columbano](docs/santos/sao-columbano/imagens/portrait.jpg) |
+| [São Cristóvão](docs/santos/sao-cristovao/index.md) | ![São Cristóvão](docs/santos/sao-cristovao/imagens/portrait.jpg) |
+| [São Damião de Molokai](docs/santos/sao-damiao-de-molokai/index.md) | ![São Damião de Molokai](docs/santos/sao-damiao-de-molokai/imagens/portrait.jpg) |
+| [São Dimas](docs/santos/sao-dimas/index.md) | ![São Dimas](docs/santos/sao-dimas/imagens/portrait.jpg) |
+| [Santa Dinfna](docs/santos/santa-dinfna/index.md) | ![Santa Dinfna](docs/santos/santa-dinfna/imagens/portrait.jpg) |
+| [São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/index.md) | ![São Domingos de Gusmão](docs/santos/sao-domingos-de-gusmao/imagens/portrait.jpg) |
+| [São Domingos Sávio](docs/santos/sao-domingos-savio/index.md) | ![São Domingos Sávio](docs/santos/sao-domingos-savio/imagens/portrait.jpg) |
+| [Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/index.md) | ![Santa Dulce dos Pobres](docs/santos/santa-dulce-dos-pobres/imagens/portrait.jpg) |
+| [Santo Eduardo, o Confessor](docs/santos/santo-eduardo-o-confessor/index.md) | ![Santo Eduardo, o Confessor](docs/santos/santo-eduardo-o-confessor/imagens/cover.jpg) |
+| [Santa Edwiges](docs/santos/santa-edwiges/index.md) | ![Santa Edwiges](docs/santos/santa-edwiges/imagens/portrait.jpg) |
+| [Beata Elena Guerra](docs/santos/santa-elena-guerra/index.md) | ![Beata Elena Guerra](docs/santos/santa-elena-guerra/imagens/portrait.png) |
+| [Santa Engrácia](docs/santos/santa-engracia/index.md) | ![Santa Engrácia](docs/santos/santa-engracia/imagens/retrato.svg) |
+| [Santa Escolástica](docs/santos/santa-escolastica/index.md) | ![Santa Escolástica](docs/santos/santa-escolastica/imagens/portrait.jpg) |
+| [São Estevão](docs/santos/sao-estevao/index.md) | ![São Estevão](docs/santos/sao-estevao/imagens/portrait.jpg) |
+| [Santo Estêvão da Hungria](docs/santos/santo-estevao-da-hungria/index.md) | ![Santo Estêvão da Hungria](docs/santos/santo-estevao-da-hungria/imagens/portrait.jpg) |
+| [Santa Eulália de Mérida](docs/santos/santa-eulalia-de-merida/index.md) | ![Santa Eulália de Mérida](docs/santos/santa-eulalia-de-merida/imagens/portrait.jpg) |
+| [Santo Expedito](docs/santos/santo-expedito/index.md) | ![Santo Expedito](docs/santos/santo-expedito/imagens/portrait.jpg) |
+| [Santa Faustina Kowalska](docs/santos/santa-faustina-kowalska/index.md) | ![Santa Faustina Kowalska](docs/santos/santa-faustina-kowalska/imagens/santa-faustina.jpg) |
+| [São Filipe](docs/santos/sao-filipe/index.md) | ![São Filipe](docs/santos/sao-filipe/imagens/portrait.jpg) |
+| [São Filipe Neri](docs/santos/sao-filipe-neri/index.md) | ![São Filipe Neri](docs/santos/sao-filipe-neri/imagens/portrait.jpg) |
+| [Santa Filomena](docs/santos/santa-filomena/index.md) | ![Santa Filomena](docs/santos/santa-filomena/imagens/portrait.jpg) |
+| [Santa Francisca Xavier Cabrini](docs/santos/santa-francisca-xavier-cabrini/index.md) | ![Santa Francisca Xavier Cabrini](docs/santos/santa-francisca-xavier-cabrini/imagens/retrato.svg) |
+| [São Francisco de Assis](docs/santos/sao-francisco-de-assis/index.md) | ![São Francisco de Assis](docs/santos/sao-francisco-de-assis/imagens/sao-francisco.jpg) |
+| [São Francisco de Paula](docs/santos/sao-francisco-de-paula/index.md) | ![São Francisco de Paula](docs/santos/sao-francisco-de-paula/imagens/portrait.jpg) |
+| [São Francisco de Sales](docs/santos/sao-francisco-de-sales/index.md) | ![São Francisco de Sales](docs/santos/sao-francisco-de-sales/imagens/portrait.jpg) |
+| [São Francisco Marto](docs/santos/sao-francisco-marto/index.md) | ![São Francisco Marto](docs/santos/sao-francisco-marto/imagens/portrait.jpg) |
+| [São Francisco Xavier](docs/santos/sao-francisco-xavier/index.md) | ![São Francisco Xavier](docs/santos/sao-francisco-xavier/imagens/portrait.jpg) |
+| [São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/index.md) | ![São Gabriel de Nossa Senhora das Dores](docs/santos/sao-gabriel-de-nossa-senhora-das-dores/imagens/portrait.jpg) |
+| [São Gaspar del Búfalo](docs/santos/sao-gaspar-del-bufalo/index.md) | ![São Gaspar del Búfalo](docs/santos/sao-gaspar-del-bufalo/imagens/portrait.jpg) |
+| [Santa Gemma Galgani](docs/santos/santa-gemma-galgani/index.md) | ![Santa Gemma Galgani](docs/santos/santa-gemma-galgani/imagens/portrait.jpg) |
+| [Santa Genoveva](docs/santos/santa-genoveva/index.md) | ![Santa Genoveva](docs/santos/santa-genoveva/imagens/portrait.jpg) |
+| [São Geraldo Majella](docs/santos/sao-geraldo-majella/index.md) | ![São Geraldo Majella](docs/santos/sao-geraldo-majella/imagens/portrait.jpg) |
+| [Santa Gertrudes, a Grande](docs/santos/santa-gertrudes/index.md) | ![Santa Gertrudes, a Grande](docs/santos/santa-gertrudes/imagens/portrait.jpg) |
+| [Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/index.md) | ![Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/imagens/portrait.jpg) |
+| [São Gregório Magno](docs/santos/sao-gregorio-magno/index.md) | ![São Gregório Magno](docs/santos/sao-gregorio-magno/imagens/portrait.jpg) |
+| [Santa Helena](docs/santos/santa-helena/index.md) | ![Santa Helena](docs/santos/santa-helena/imagens/portrait.jpg) |
+| [Santa Hildegarda de Bingen](docs/santos/santa-hildegarda-de-bingen/index.md) | ![Santa Hildegarda de Bingen](docs/santos/santa-hildegarda-de-bingen/imagens/portrait.jpg) |
+| [Santo Inácio de Antioquia](docs/santos/santo-inacio-de-antioquia/index.md) | ![Santo Inácio de Antioquia](docs/santos/santo-inacio-de-antioquia/imagens/portrait.jpg) |
+| [Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/index.md) | ![Santo Inácio de Loyola](docs/santos/santo-inacio-de-loyola/imagens/portrait.jpg) |
+| [Santa Inês](docs/santos/santa-ines/index.md) | ![Santa Inês](docs/santos/santa-ines/imagens/portrait.jpg) |
+| [Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/index.md) | ![Santo Ireneu de Lyon](docs/santos/santo-ireneu-de-lyon/imagens/portrait.jpg) |
+| [Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/index.md) | ![Santa Isabel da Hungria](docs/santos/santa-isabel-da-hungria/imagens/portrait.jpg) |
+| [Santa Isabel de Portugal](docs/santos/santa-isabel-de-portugal/index.md) | ![Santa Isabel de Portugal](docs/santos/santa-isabel-de-portugal/imagens/portrait.jpg) |
+| [Santo Isidoro de Sevilha](docs/santos/santo-isidoro-de-sevilha/index.md) | ![Santo Isidoro de Sevilha](docs/santos/santo-isidoro-de-sevilha/imagens/portrait.jpg) |
+| [Santo Isidro Lavrador](docs/santos/santo-isidro-lavrador/index.md) | ![Santo Isidro Lavrador](docs/santos/santo-isidro-lavrador/imagens/retrato.svg) |
+| [Santo Ivo de Kermartin](docs/santos/santo-ivo/index.md) | ![Santo Ivo de Kermartin](docs/santos/santo-ivo/imagens/portrait.jpg) |
+| [Santa Jacinta Marto](docs/santos/santa-jacinta-marto/index.md) | ![Santa Jacinta Marto](docs/santos/santa-jacinta-marto/imagens/portrait.jpg) |
+| [São Jerônimo](docs/santos/sao-jeronimo/index.md) | ![São Jerônimo](docs/santos/sao-jeronimo/imagens/portrait.jpg) |
+| [Santa Joana d'Arc](docs/santos/santa-joana-d-arc/index.md) | ![Santa Joana d'Arc](docs/santos/santa-joana-d-arc/imagens/portrait.jpg) |
+| [Santa Joana de Chantal](docs/santos/santa-joana-de-chantal/index.md) | ![Santa Joana de Chantal](docs/santos/santa-joana-de-chantal/imagens/portrait.jpg) |
+| [São João Batista](docs/santos/sao-joao-batista/index.md) | ![São João Batista](docs/santos/sao-joao-batista/imagens/portrait.jpg) |
+| [São João Batista de La Salle](docs/santos/sao-joao-batista-de-la-salle/index.md) | ![São João Batista de La Salle](docs/santos/sao-joao-batista-de-la-salle/imagens/portrait.jpg) |
+| [São João Bosco](docs/santos/sao-joao-bosco/index.md) | ![São João Bosco](docs/santos/sao-joao-bosco/imagens/dom-bosco.jpg) |
+| [São João Calábria](docs/santos/sao-joao-calabria/index.md) | ![São João Calábria](docs/santos/sao-joao-calabria/imagens/retrato.svg) |
+| [São João Crisóstomo](docs/santos/sao-joao-crisostomo/index.md) | ![São João Crisóstomo](docs/santos/sao-joao-crisostomo/imagens/portrait.jpg) |
+| [São João da Cruz](docs/santos/sao-joao-da-cruz/index.md) | ![São João da Cruz](docs/santos/sao-joao-da-cruz/imagens/cover.jpg) |
+| [São João Damasceno](docs/santos/sao-joao-damasceno/index.md) | ![São João Damasceno](docs/santos/sao-joao-damasceno/imagens/portrait.jpg) |
+| [São João de Ávila](docs/santos/sao-joao-de-avila/index.md) | ![São João de Ávila](docs/santos/sao-joao-de-avila/imagens/portrait.jpg) |
+| [São João de Brito](docs/santos/sao-joao-de-brito/index.md) | ![São João de Brito](docs/santos/sao-joao-de-brito/imagens/portrait.jpg) |
+| [São João de Capistrano](docs/santos/sao-joao-de-capistrano/index.md) | ![São João de Capistrano](docs/santos/sao-joao-de-capistrano/imagens/portrait.jpg) |
+| [São João de Deus](docs/santos/sao-joao-de-deus/index.md) | ![São João de Deus](docs/santos/sao-joao-de-deus/imagens/portrait.jpg) |
+| [São João Diego Cuauhtlatoatzin](docs/santos/sao-joao-diego/index.md) | ![São João Diego Cuauhtlatoatzin](docs/santos/sao-joao-diego/imagens/portrait.jpg) |
+| [São João Eudes](docs/santos/sao-joao-eudes/index.md) | ![São João Eudes](docs/santos/sao-joao-eudes/imagens/portrait.jpg) |
+| [São João Evangelista](docs/santos/sao-joao-evangelista/index.md) | ![São João Evangelista](docs/santos/sao-joao-evangelista/imagens/portrait.jpg) |
+| [São João Macías](docs/santos/sao-joao-macias/index.md) | ![São João Macías](docs/santos/sao-joao-macias/imagens/portrait.jpg) |
+| [São João Maria Vianney](docs/santos/sao-joao-maria-vianney/index.md) | ![São João Maria Vianney](docs/santos/sao-joao-maria-vianney/imagens/portrait.png) |
+| [São João Nepomuceno](docs/santos/sao-joao-nepomuceno/index.md) | ![São João Nepomuceno](docs/santos/sao-joao-nepomuceno/imagens/retrato.svg) |
+| [São João Neumann](docs/santos/sao-joao-neumann/index.md) | ![São João Neumann](docs/santos/sao-joao-neumann/imagens/portrait.jpg) |
+| [São João Paulo II](docs/santos/sao-joao-paulo-ii/index.md) | ![São João Paulo II](docs/santos/sao-joao-paulo-ii/imagens/portrait.jpg) |
+| [São João XXIII](docs/santos/sao-joao-xxiii/index.md) | ![São João XXIII](docs/santos/sao-joao-xxiii/imagens/portrait.jpg) |
+| [São Jorge](docs/santos/sao-jorge/index.md) | ![São Jorge](docs/santos/sao-jorge/imagens/sao-jorge.jpg) |
+| [São José](docs/santos/sao-jose/index.md) | ![São José](docs/santos/sao-jose/imagens/portrait.jpg) |
+| [São José de Anchieta](docs/santos/sao-jose-de-anchieta/index.md) | ![São José de Anchieta](docs/santos/sao-jose-de-anchieta/imagens/portrait.jpg) |
+| [São José de Cupertino](docs/santos/sao-jose-de-cupertino/index.md) | ![São José de Cupertino](docs/santos/sao-jose-de-cupertino/imagens/portrait.jpg) |
+| [São José Gregório Hernández](docs/santos/sao-jose-gregorio-hernandez/index.md) | ![São José Gregório Hernández](docs/santos/sao-jose-gregorio-hernandez/imagens/portrait.jpg) |
+| [São José Marello](docs/santos/sao-jose-marello/index.md) | ![São José Marello](docs/santos/sao-jose-marello/imagens/portrait.jpg) |
+| [São José Moscati](docs/santos/sao-jose-moscati/index.md) | ![São José Moscati](docs/santos/sao-jose-moscati/imagens/portrait.jpg) |
+| [São José Sánchez del Río](docs/santos/sao-jose-sanchez-del-rio/index.md) | ![São José Sánchez del Río](docs/santos/sao-jose-sanchez-del-rio/imagens/portrait.jpg) |
+| [Santa Josefina Bakhita](docs/santos/santa-josefina-bakhita/index.md) | ![Santa Josefina Bakhita](docs/santos/santa-josefina-bakhita/imagens/portrait.jpg) |
+| [São Josemaria Escrivá](docs/santos/sao-josemaria-escriva/index.md) | ![São Josemaria Escrivá](docs/santos/sao-josemaria-escriva/imagens/portrait.jpg) |
+| [São Judas Tadeu](docs/santos/sao-judas-tadeu/index.md) | ![São Judas Tadeu](docs/santos/sao-judas-tadeu/imagens/sao-judas.jpg) |
+| [São Junípero Serra](docs/santos/sao-junipero-serra/index.md) | ![São Junípero Serra](docs/santos/sao-junipero-serra/imagens/portrait.jpg) |
+| [São Justino Mártir](docs/santos/sao-justino-martir/index.md) | ![São Justino Mártir](docs/santos/sao-justino-martir/imagens/portrait.jpg) |
+| [Santa Kateri Tekakwitha](docs/santos/santa-kateri-tekakwitha/index.md) | ![Santa Kateri Tekakwitha](docs/santos/santa-kateri-tekakwitha/imagens/portrait.jpg) |
+| [São Lázaro de Betânia](docs/santos/sao-lazaro-de-betania/index.md) | ![São Lázaro de Betânia](docs/santos/sao-lazaro-de-betania/imagens/portrait.jpg) |
+| [São Leão Magno](docs/santos/sao-leao-magno/index.md) | ![São Leão Magno](docs/santos/sao-leao-magno/imagens/portrait.png) |
+| [São Longuinho](docs/santos/sao-longuinho/index.md) | ![São Longuinho](docs/santos/sao-longuinho/imagens/portrait.jpg) |
+| [São Lourenço](docs/santos/sao-lourenco/index.md) | ![São Lourenço](docs/santos/sao-lourenco/imagens/portrait.jpg) |
+| [São Lourenço Ruiz](docs/santos/sao-lourenco-ruiz/index.md) | ![São Lourenço Ruiz](docs/santos/sao-lourenco-ruiz/imagens/portrait.jpg) |
+| [São Lucas](docs/santos/sao-lucas/index.md) | ![São Lucas](docs/santos/sao-lucas/imagens/portrait.jpg) |
+| [São Ludovico Pavoni](docs/santos/sao-ludovico-pavoni/index.md) | ![São Ludovico Pavoni](docs/santos/sao-ludovico-pavoni/imagens/portrait.jpg) |
+| [São Luís Gonzaga](docs/santos/sao-luis-gonzaga/index.md) | ![São Luís Gonzaga](docs/santos/sao-luis-gonzaga/imagens/portrait.png) |
+| [São Luís IX](docs/santos/sao-luis-ix/index.md) | ![São Luís IX](docs/santos/sao-luis-ix/imagens/retrato.svg) |
+| [São Luís Maria Grignion de Montfort](docs/santos/sao-luis-maria-grignion-de-montfort/index.md) | ![São Luís Maria Grignion de Montfort](docs/santos/sao-luis-maria-grignion-de-montfort/imagens/portrait.jpg) |
+| [São Luís Orione](docs/santos/sao-luis-orione/index.md) | ![São Luís Orione](docs/santos/sao-luis-orione/imagens/portrait.jpg) |
+| [Santa Luísa de Marillac](docs/santos/santa-luisa-de-marillac/index.md) | ![Santa Luísa de Marillac](docs/santos/santa-luisa-de-marillac/imagens/portrait.jpg) |
+| [Santa Luzia](docs/santos/santa-luzia/index.md) | ![Santa Luzia](docs/santos/santa-luzia/imagens/portrait.jpg) |
+| [Santa Mama Antula (María Antonia de Paz y Figueroa)](docs/santos/santa-mama-antula/index.md) | ![Santa Mama Antula (María Antonia de Paz y Figueroa)](docs/santos/santa-mama-antula/imagens/portrait.png) |
+| [São Marcelino Champagnat](docs/santos/sao-marcelino-champagnat/index.md) | ![São Marcelino Champagnat](docs/santos/sao-marcelino-champagnat/imagens/portrait.jpg) |
+| [São Marcos](docs/santos/sao-marcos/index.md) | ![São Marcos](docs/santos/sao-marcos/imagens/portrait.jpg) |
+| [Santa Margarida da Escócia](docs/santos/santa-margarida-da-escocia/index.md) | ![Santa Margarida da Escócia](docs/santos/santa-margarida-da-escocia/imagens/retrato.svg) |
+| [Santa Margarida de Antioquia](docs/santos/santa-margarida-de-antioquia/index.md) | ![Santa Margarida de Antioquia](docs/santos/santa-margarida-de-antioquia/imagens/retrato.svg) |
+| [Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/index.md) | ![Santa Margarida Maria Alacoque](docs/santos/santa-margarida-maria-alacoque/imagens/portrait.jpg) |
+| [Santa Maria Domingas Mazzarello](docs/santos/santa-maria-domingas-mazzarello/index.md) | ![Santa Maria Domingas Mazzarello](docs/santos/santa-maria-domingas-mazzarello/imagens/portrait.jpg) |
+| [Santa Maria Goretti](docs/santos/santa-maria-goretti/index.md) | ![Santa Maria Goretti](docs/santos/santa-maria-goretti/imagens/portrait.jpg) |
+| [Santa Maria Madalena](docs/santos/santa-maria-madalena/index.md) | ![Santa Maria Madalena](docs/santos/santa-maria-madalena/imagens/portrait.jpg) |
+| [Santa Maria Troncatti](docs/santos/santa-maria-troncatti/index.md) | ![Santa Maria Troncatti](docs/santos/santa-maria-troncatti/imagens/retrato.svg) |
+| [Santa Marta](docs/santos/santa-marta/index.md) | ![Santa Marta](docs/santos/santa-marta/imagens/portrait.jpg) |
+| [São Martinho de Lima](docs/santos/sao-martinho-de-lima/index.md) | ![São Martinho de Lima](docs/santos/sao-martinho-de-lima/imagens/portrait.jpg) |
+| [São Martinho de Tours](docs/santos/sao-martinho-de-tours/index.md) | ![São Martinho de Tours](docs/santos/sao-martinho-de-tours/imagens/portrait.jpg) |
+| [São Mateus](docs/santos/sao-mateus/index.md) | ![São Mateus](docs/santos/sao-mateus/imagens/portrait.jpg) |
+| [São Matias](docs/santos/sao-matias/index.md) | ![São Matias](docs/santos/sao-matias/imagens/portrait.jpg) |
+| [São Maximiliano Kolbe](docs/santos/sao-maximiliano-kolbe/index.md) | ![São Maximiliano Kolbe](docs/santos/sao-maximiliano-kolbe/imagens/maximiliano.jpg) |
+| [Santa Mônica](docs/santos/santa-monica/index.md) | ![Santa Mônica](docs/santos/santa-monica/imagens/portrait.jpg) |
+| [São Nicolau](docs/santos/sao-nicolau/index.md) | ![São Nicolau](docs/santos/sao-nicolau/img/portrait.jpg) |
+| [São Norberto](docs/santos/sao-norberto/index.md) | ![São Norberto](docs/santos/sao-norberto/imagens/portrait.jpg) |
+| [São Nuno de Santa Maria](docs/santos/sao-nuno-de-santa-maria/index.md) | ![São Nuno de Santa Maria](docs/santos/sao-nuno-de-santa-maria/imagens/portrait.jpg) |
+| [São Oscar Romero](docs/santos/sao-oscar-romero/index.md) | ![São Oscar Romero](docs/santos/sao-oscar-romero/imagens/portrait.jpg) |
+| [São Padre Pio de Pietrelcina](docs/santos/sao-padre-pio/index.md) | ![São Padre Pio de Pietrelcina](docs/santos/sao-padre-pio/imagens/padre-pio.jpg) |
+| [São Pantaleão](docs/santos/sao-pantaleao/index.md) | ![São Pantaleão](docs/santos/sao-pantaleao/imagens/portrait.jpg) |
+| [São Patrício](docs/santos/sao-patricio/index.md) | ![São Patrício](docs/santos/sao-patricio/imagens/portrait.jpg) |
+| [Santa Paulina do Coração Agonizante de Jesus](docs/santos/santa-paulina/index.md) | ![Santa Paulina do Coração Agonizante de Jesus](docs/santos/santa-paulina/imagens/portrait.jpg) |
+| [São Paulo](docs/santos/sao-paulo/index.md) | ![São Paulo](docs/santos/sao-paulo/imagens/portrait.jpg) |
+| [São Paulo da Cruz](docs/santos/sao-paulo-da-cruz/index.md) | ![São Paulo da Cruz](docs/santos/sao-paulo-da-cruz/imagens/cover.jpg) |
+| [São Paulo VI](docs/santos/sao-paulo-vi/index.md) | ![São Paulo VI](docs/santos/sao-paulo-vi/imagens/portrait.jpg) |
+| [São Pedro](docs/santos/sao-pedro/index.md) | ![São Pedro](docs/santos/sao-pedro/imagens/portrait.jpg) |
+| [São Pedro Canísio](docs/santos/sao-pedro-canisio/index.md) | ![São Pedro Canísio](docs/santos/sao-pedro-canisio/imagens/portrait.jpg) |
+| [São Pedro Claver](docs/santos/sao-pedro-claver/index.md) | ![São Pedro Claver](docs/santos/sao-pedro-claver/imagens/portrait.jpg) |
+| [São Pedro Damião](docs/santos/sao-pedro-damiao/index.md) | ![São Pedro Damião](docs/santos/sao-pedro-damiao/imagens/portrait.jpg) |
+| [São Pedro de Alcântara](docs/santos/sao-pedro-de-alcantara/index.md) | ![São Pedro de Alcântara](docs/santos/sao-pedro-de-alcantara/imagens/portrait.jpg) |
+| [São Pedro Julião Eymard](docs/santos/sao-pedro-juliao-eymard/index.md) | ![São Pedro Julião Eymard](docs/santos/sao-pedro-juliao-eymard/imagens/portrait.jpg) |
+| [São Pedro Nolasco](docs/santos/sao-pedro-nolasco/index.md) | ![São Pedro Nolasco](docs/santos/sao-pedro-nolasco/imagens/portrait.jpg) |
+| [São Peregrino](docs/santos/sao-peregrino/index.md) | ![São Peregrino](docs/santos/sao-peregrino/imagens/portrait.jpg) |
+| [São Pier Giorgio Frassati](docs/santos/pier-giorgio-frassati/index.md) | ![São Pier Giorgio Frassati](docs/santos/pier-giorgio-frassati/imagens/pier-giorgio.jpg) |
+| [São Pio V](docs/santos/sao-pio-v/index.md) | ![São Pio V](docs/santos/sao-pio-v/imagens/portrait.jpg) |
+| [São Pio X](docs/santos/sao-pio-x/index.md) | ![São Pio X](docs/santos/sao-pio-x/imagens/portrait.jpg) |
+| [São Policarpo de Esmirna](docs/santos/sao-policarpo/index.md) | ![São Policarpo de Esmirna](docs/santos/sao-policarpo/imagens/portrait.jpg) |
+| [Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/index.md) | ![Santa Rita de Cássia](docs/santos/santa-rita-de-cassia/imagens/santa-rita.jpg) |
+| [São Roberto Belarmino](docs/santos/sao-roberto-belarmino/index.md) | ![São Roberto Belarmino](docs/santos/sao-roberto-belarmino/imagens/portrait.jpg) |
+| [São Roque](docs/santos/sao-roque/index.md) | ![São Roque](docs/santos/sao-roque/imagens/portrait.jpg) |
+| [Santa Rosa de Lima](docs/santos/santa-rosa-de-lima/index.md) | ![Santa Rosa de Lima](docs/santos/santa-rosa-de-lima/imagens/portrait.jpg) |
+| [São Sebastião](docs/santos/sao-sebastiao/index.md) | ![São Sebastião](docs/santos/sao-sebastiao/imagens/portrait.jpg) |
+| [São Simão](docs/santos/sao-simao/index.md) | ![São Simão](docs/santos/sao-simao/imagens/portrait.jpg) |
+| [São Tarcísio](docs/santos/sao-tarcisio/index.md) | ![São Tarcísio](docs/santos/sao-tarcisio/imagens/portrait.jpg) |
+| [Santa Teresa Benedita da Cruz](docs/santos/santa-teresa-benedita-da-cruz/index.md) | ![Santa Teresa Benedita da Cruz](docs/santos/santa-teresa-benedita-da-cruz/imagens/portrait.jpg) |
+| [Santa Teresa de Ávila](docs/santos/santa-teresa-de-avila/index.md) | ![Santa Teresa de Ávila](docs/santos/santa-teresa-de-avila/imagens/portrait.jpg) |
+| [Santa Teresa de Calcutá](docs/santos/santa-teresa-de-calcuta/index.md) | ![Santa Teresa de Calcutá](docs/santos/santa-teresa-de-calcuta/imagens/portrait.jpg) |
+| [Santa Teresa dos Andes](docs/santos/santa-teresa-dos-andes/index.md) | ![Santa Teresa dos Andes](docs/santos/santa-teresa-dos-andes/imagens/portrait.jpg) |
+| [Santa Teresinha do Menino Jesus](docs/santos/santa-teresinha-do-menino-jesus/index.md) | ![Santa Teresinha do Menino Jesus](docs/santos/santa-teresinha-do-menino-jesus/imagens/santa-teresinha.jpg) |
+| [São Tiago Maior](docs/santos/sao-tiago-maior/index.md) | ![São Tiago Maior](docs/santos/sao-tiago-maior/imagens/portrait.jpg) |
+| [São Tiago Menor](docs/santos/sao-tiago-menor/index.md) | ![São Tiago Menor](docs/santos/sao-tiago-menor/imagens/portrait.jpg) |
+| [São Tito Brandsma](docs/santos/sao-tito-brandsma/index.md) | ![São Tito Brandsma](docs/santos/sao-tito-brandsma/imagens/portrait.jpg) |
+| [São Tomás Becket](docs/santos/sao-tomas-becket/index.md) | ![São Tomás Becket](docs/santos/sao-tomas-becket/imagens/portrait.jpg) |
+| [São Tomás de Aquino](docs/santos/sao-tomas-de-aquino/index.md) | ![São Tomás de Aquino](docs/santos/sao-tomas-de-aquino/imagens/portrait.jpg) |
+| [São Tomás de Vilanova](docs/santos/sao-tomas-de-vilanova/index.md) | ![São Tomás de Vilanova](docs/santos/sao-tomas-de-vilanova/imagens/portrait.jpg) |
+| [São Tomás More](docs/santos/sao-tomas-more/index.md) | ![São Tomás More](docs/santos/sao-tomas-more/imagens/portrait.jpg) |
+| [São Tomé](docs/santos/sao-tome/index.md) | ![São Tomé](docs/santos/sao-tome/imagens/portrait.jpg) |
+| [São Valentim](docs/santos/sao-valentim/index.md) | ![São Valentim](docs/santos/sao-valentim/imagens/portrait.jpg) |
+| [São Venceslau](docs/santos/sao-venceslau/index.md) | ![São Venceslau](docs/santos/sao-venceslau/imagens/portrait.jpg) |
+| [Santa Verônica](docs/santos/santa-veronica/index.md) | ![Santa Verônica](docs/santos/santa-veronica/imagens/portrait.jpg) |
+| [São Vicente de Paulo](docs/santos/sao-vicente-de-paulo/index.md) | ![São Vicente de Paulo](docs/santos/sao-vicente-de-paulo/imagens/portrait.png) |
+| [São Vicente Ferrer](docs/santos/sao-vicente-ferrer/index.md) | ![São Vicente Ferrer](docs/santos/sao-vicente-ferrer/imagens/portrait.png) |
+| [São Vicente Pallotti](docs/santos/sao-vicente-pallotti/index.md) | ![São Vicente Pallotti](docs/santos/sao-vicente-pallotti/imagens/portrait.jpg) |
+| [Santa Zita](docs/santos/santa-zita/index.md) | ![Santa Zita](docs/santos/santa-zita/imagens/portrait.jpg) |
