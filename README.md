@@ -6,7 +6,7 @@ Este sistema reúne biografias, mapas, milagres e curiosidades sobre santos e be
 
 ## Lista de Santos e Beatos
 
-São 198 beatos e 213 santos catalogados.
+São 199 beatos e 214 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -200,6 +200,7 @@ São 198 beatos e 213 santos catalogados.
 | [Beato Solanus Casey](docs/beatos/beato-solanus-casey/index.md) | ![Beato Solanus Casey](docs/beatos/beato-solanus-casey/imagens/portrait.jpg) |
 | [Beato Stanley Rother](docs/beatos/beato-stanley-rother/index.md) | ![Beato Stanley Rother](docs/beatos/beato-stanley-rother/imagens/portrait.jpg) |
 | [Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/index.md) | ![Beato Stefan Wyszyński](docs/beatos/beato-stefan-wyszynski/imagens/portrait.jpg) |
+| [Beata Teresa Bracco](docs/beatos/beata-teresa-bracco/index.md) | ![Beata Teresa Bracco](docs/beatos/beata-teresa-bracco/imagens/retrato.svg) |
 | [Beata Teresa de Portugal](docs/beatos/beata-teresa-de-portugal/index.md) | ![Beata Teresa de Portugal](docs/beatos/beata-teresa-de-portugal/imagens/portrait.png) |
 | [Beato Teresio Olivelli](docs/beatos/beato-teresio-olivelli/index.md) | ![Beato Teresio Olivelli](docs/beatos/beato-teresio-olivelli/imagens/portrait.jpg) |
 | [Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/index.md) | ![Beato Tiago Alberione](docs/beatos/beato-tiago-alberione/imagens/portrait.jpg) |
@@ -255,6 +256,7 @@ São 198 beatos e 213 santos catalogados.
 | [Santa Cecília](docs/santos/santa-cecilia/index.md) | ![Santa Cecília](docs/santos/santa-cecilia/imagens/portrait.jpg) |
 | [São Charbel Makhlouf](docs/santos/sao-charbel/index.md) | ![São Charbel Makhlouf](docs/santos/sao-charbel/imagens/portrait.jpg) |
 | [São Charles de Foucauld](docs/santos/sao-charles-de-foucauld/index.md) | ![São Charles de Foucauld](docs/santos/sao-charles-de-foucauld/imagens/portrait.jpg) |
+| [Santo Cirilo de Jerusalém](docs/santos/santo-cirilo-de-jerusalem/index.md) | ![Santo Cirilo de Jerusalém](docs/santos/santo-cirilo-de-jerusalem/imagens/retrato.svg) |
 | [Santa Clara de Assis](docs/santos/santa-clara-de-assis/index.md) | ![Santa Clara de Assis](docs/santos/santa-clara-de-assis/imagens/portrait.jpg) |
 | [Santa Clotilde](docs/santos/santa-clotilde/index.md) | ![Santa Clotilde](docs/santos/santa-clotilde/imagens/retrato.svg) |
 | [São Columbano](docs/santos/sao-columbano/index.md) | ![São Columbano](docs/santos/sao-columbano/imagens/portrait.jpg) |

@@ -1,6 +1,6 @@
 # Santos
 
-Esta seção reúne 213 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 214 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
@@ -49,6 +49,7 @@ Esta seção reúne 213 santos canonizados pela Igreja Católica, com biografia,
 - [Santa Cecília](santa-cecilia/index.md)
 - [São Charbel Makhlouf](sao-charbel/index.md)
 - [São Charles de Foucauld](sao-charles-de-foucauld/index.md)
+- [Santo Cirilo de Jerusalém](santo-cirilo-de-jerusalem/index.md)
 - [Santa Clara de Assis](santa-clara-de-assis/index.md)
 - [Santa Clotilde](santa-clotilde/index.md)
 - [São Columbano](sao-columbano/index.md)
