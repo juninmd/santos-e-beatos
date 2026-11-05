@@ -6,7 +6,7 @@ Este sistema reúne biografias, mapas, milagres e curiosidades sobre santos e be
 
 ## Lista de Santos e Beatos
 
-São 199 beatos e 214 santos catalogados.
+São 200 beatos e 215 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -104,6 +104,7 @@ São 199 beatos e 214 santos catalogados.
 | [Beato Inocêncio XI](docs/beatos/beato-inocencio-xi/index.md) | ![Beato Inocêncio XI](docs/beatos/beato-inocencio-xi/imagens/portrait.jpg) |
 | [Beata Irene Stefani](docs/beatos/beata-irene-stefani/index.md) | ![Beata Irene Stefani](docs/beatos/beata-irene-stefani/imagens/retrato.svg) |
 | [Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/index.md) | ![Beata Isabel Cristina](docs/beatos/beata-isabel-cristina/imagens/isabel-cristina.jpg) |
+| [Beato Isaías, o Profeta](docs/beatos/beato-isaias-profeta/index.md) | ![Beato Isaías, o Profeta](docs/beatos/beato-isaias-profeta/imagens/retrato.svg) |
 | [Beato Isidoro Bakanja](docs/beatos/beato-isidoro-bakanja/index.md) | ![Beato Isidoro Bakanja](docs/beatos/beato-isidoro-bakanja/imagens/portrait.jpg) |
 | [Beato Ivan Merz](docs/beatos/beato-ivan-merz/index.md) | ![Beato Ivan Merz](docs/beatos/beato-ivan-merz/imagens/portrait.jpg) |
 | [Beato Jacinto Vera](docs/beatos/beato-jacinto-vera/index.md) | ![Beato Jacinto Vera](docs/beatos/beato-jacinto-vera/imagens/portrait.jpg) |
@@ -270,6 +271,7 @@ São 199 beatos e 214 santos catalogados.
 | [Santo Eduardo, o Confessor](docs/santos/santo-eduardo-o-confessor/index.md) | ![Santo Eduardo, o Confessor](docs/santos/santo-eduardo-o-confessor/imagens/cover.jpg) |
 | [Santa Edwiges](docs/santos/santa-edwiges/index.md) | ![Santa Edwiges](docs/santos/santa-edwiges/imagens/portrait.jpg) |
 | [Beata Elena Guerra](docs/santos/santa-elena-guerra/index.md) | ![Beata Elena Guerra](docs/santos/santa-elena-guerra/imagens/portrait.png) |
+| [Santo Elias, o Profeta](docs/santos/santo-elias-profeta/index.md) | ![Santo Elias, o Profeta](docs/santos/santo-elias-profeta/imagens/retrato.svg) |
 | [Santa Engrácia](docs/santos/santa-engracia/index.md) | ![Santa Engrácia](docs/santos/santa-engracia/imagens/retrato.svg) |
 | [Santa Escolástica](docs/santos/santa-escolastica/index.md) | ![Santa Escolástica](docs/santos/santa-escolastica/imagens/portrait.jpg) |
 | [São Estevão](docs/santos/sao-estevao/index.md) | ![São Estevão](docs/santos/sao-estevao/imagens/portrait.jpg) |
