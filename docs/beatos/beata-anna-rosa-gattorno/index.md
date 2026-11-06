@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Anna Rosa Gattorn
 
 # Beata Anna Rosa Gattorno
 
-![Beata Anna Rosa Gattorno](./imagens/portrait.jpg)
+![Beata Anna Rosa Gattorno](imagens/restaurada_4k.jpg)
 
 > "Meu amor é o Cristo pobre e sofredor."
 
@@ -34,6 +34,12 @@ Em 2000, a Santa Sé reconheceu como milagrosa a cura de uma freira da sua congr
 2. **Crescimento Expresso:** Ainda durante a sua vida fundou incrivelmente 368 casas para sua Congregação ao redor de toda a Itália e no exterior, expandindo os serviços para o que a época mais precisava (colégios, orfanatos e hospitais).
 3. **Mística e Obras Práticas:** Conciliava um intenso grau de contemplação, misticismo e dons sobrenaturais, com uma tremenda capacidade administrativa e habilidade de gestão e diplomacia.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Anna Rosa Gattorno Original](imagens/original.jpg) | ![Beata Anna Rosa Gattorno Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Natural da Gênova e tendo servido com intensidade a sociedade liguriana, instalou a sede do seu instituto em Roma e realizou viagens expansivas organizando a ordem.

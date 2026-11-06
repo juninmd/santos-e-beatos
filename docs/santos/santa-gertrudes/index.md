@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Gertrudes, a Gran
 
 # Santa Gertrudes, a Grande
 
-![Santa Gertrudes, a Grande](imagens/portrait.jpg)
+![Santa Gertrudes, a Grande](imagens/restaurada_4k.jpg)
 
 > "O amor superabundante de Deus não pode ser contido, ele se derrama sobre aqueles que o buscam."
 
@@ -36,6 +36,13 @@ O maior "milagre" associado a Santa Gertrudes é o impacto duradouro de seus esc
 2.  **Devoção às Almas do Purgatório:** Ela tinha uma profunda devoção às almas do Purgatório. Jesus supostamente lhe ensinou uma oração curta (a Oração de Santa Gertrudes) que, segundo a tradição, libertaria mil almas do Purgatório cada vez que fosse rezada com devoção.
 3.  **Pioneira do Sagrado Coração:** Séculos antes da devoção moderna ao Sagrado Coração se popularizar, Gertrudes teve visões onde repousava a cabeça no peito de Jesus, ouvindo os batimentos de Seu coração, simbolizando Seu amor inesgotável pela humanidade.
 4.  **Intelecto Brilhante:** Além de sua profunda mística, ela era uma acadêmica notável. Suas obras em latim são elogiadas por sua elegância e clareza, refletindo sua educação clássica.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Gertrudes, a Grande Original](imagens/original.jpg) | ![Santa Gertrudes, a Grande Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

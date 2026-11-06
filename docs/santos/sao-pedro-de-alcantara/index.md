@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pedro de Alcântar
 
 # São Pedro de Alcântara
 
-![São Pedro de Alcântara](imagens/portrait.jpg)
+![São Pedro de Alcântara](imagens/restaurada_4k.jpg)
 
 > "A oração é a porta de todos os bens; é o canal da graça e a fonte de toda a perfeição."
 
@@ -38,6 +38,13 @@ Inúmeros milagres foram atribuídos a São Pedro de Alcântara tanto em vida qu
 ## Curiosidades
 
 - O Brasil tem em São Pedro de Alcântara um de seus padroeiros. D. Pedro I escolheu este nome de batismo (Pedro de Alcântara Francisco Antônio João Carlos Xavier de Paula Miguel Rafael Joaquim José Gonzaga Pascoal Cipriano Serafim de Bragança e Bourbon) em homenagem ao santo, estabelecendo uma forte ligação do santo com o país. A cidade imperial de Petrópolis (cidade de Pedro) homenageia tanto o imperador quanto o santo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Pedro de Alcântara Original](imagens/original.jpg) | ![São Pedro de Alcântara Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

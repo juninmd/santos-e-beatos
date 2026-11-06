@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Charles de Foucaul
 
 # São Charles de Foucauld
 
-![São Charles de Foucauld](imagens/portrait.jpg)
+![São Charles de Foucauld](imagens/restaurada_colorida_4k.jpg)
 
 > "Pai, em Tuas mãos me entrego"
 
@@ -39,6 +39,13 @@ A canonização de Charles de Foucauld foi impulsionada pela aprovação de dois
 - **Irmão Universal:** Ele queria fundar uma nova ordem religiosa focada no acolhimento de todas as pessoas, mas não conseguiu atrair seguidores durante sua vida. Sua família espiritual só foi fundada após sua morte.
 - **Estudos Tuaregues:** Ele dedicou muitos anos a estudar e documentar a língua e a poesia tuaregues. Suas contribuições linguísticas ainda são valiosas até os dias de hoje.
 - **A Oração de Abandono:** Ele escreveu uma famosa oração de entrega total a Deus, que começa com "Meu Pai, eu me abandono a Vós, fazei de mim o que quiserdes".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Charles de Foucauld Original](imagens/original.jpg) | ![São Charles de Foucauld Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Edviges Carboni.
 
 # Beata Edviges Carboni
 
-![Beata Edviges Carboni](imagens/portrait.jpg)
+![Beata Edviges Carboni](imagens/restaurada_colorida_4k.jpg)
 
 > "A Mística Estigmatizada da Sardenha"
 
@@ -42,6 +42,12 @@ Faleceu pacificamente em 1952 em Roma. Sua vida de humildade heroica e abnegaç�
 2. **Humildade Escondida:** Apesar dos dons extraordinários que chamavam a atenção de muitos, Edviges sempre buscou ocultar-se, considerando-se "nada", e continuou realizando tarefas domésticas e humildes até o fim de seus dias.
 3. **Diário Espiritual:** Por ordem de seus diretores espirituais (algo típico para místicos da época), ela escreveu os eventos extraordinários em um diário espiritual que hoje fornece os principais detalhes de sua profunda comunhão com Cristo.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beata Edviges Carboni Original](imagens/original.jpg) | ![Beata Edviges Carboni Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 * **Pozzomaggiore, Sardenha:** Sua terra natal, onde viveu por décadas servindo a família, os pobres e onde primeiramente recebeu os estigmas.

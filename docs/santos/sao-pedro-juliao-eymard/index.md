@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pedro Julião Eyma
 
 # São Pedro Julião Eymard
 
-![São Pedro Julião Eymard](imagens/portrait.jpg)
+![São Pedro Julião Eymard](imagens/restaurada_4k.jpg)
 
 > "O Apóstolo da Eucaristia"
 
@@ -41,6 +41,13 @@ Eymard enfrentou extremas dificuldades, pobreza, e a incompreensão de muitos no
 1. **Título de Apóstolo da Eucaristia:** Embora a Igreja reconheça vários santos por sua devoção eucarística, o título específico de "O Apóstolo da Eucaristia" é frequentemente a ele atribuído.
 2. **Influência em outros Movimentos:** Sua espiritualidade eucarística influenciou marcadamente não apenas sua ordem religiosa, mas também estimulou fortemente a realização dos Congressos Eucarísticos Internacionais, de grande magnitude na Igreja.
 3. **Amigo de São João Maria Vianney:** Durante sua vida, foi grande amigo e confidente de São João Maria Vianney, o Cura d'Ars, outro modelo de santidade sacerdotal.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Pedro Julião Eymard Original](imagens/original.jpg) | ![São Pedro Julião Eymard Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

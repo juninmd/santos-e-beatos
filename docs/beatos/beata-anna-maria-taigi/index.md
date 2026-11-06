@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Anna Maria Taigi.
 
 # Beata Anna Maria Taigi
 
-![Beata Anna Maria Taigi](imagens/portrait.jpg)
+![Beata Anna Maria Taigi](imagens/restaurada_colorida_4k.jpg)
 
 > "Esposa e mãe exemplar, mística da luz divina."
 
@@ -40,6 +40,12 @@ Ela também realizou muitas curas durante sua vida, apenas com o sinal da cruz o
 2.  **Corpo Incorrupto:** Seu corpo foi encontrado incorrupto anos após sua morte e repousa na Basílica de São Crisógono, em Roma.
 3.  **Profecias:** Previu a abdicação de Napoleão, a morte de papas e diversos eventos políticos da Europa.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beata Anna Maria Taigi Original](imagens/original.jpg) | ![Beata Anna Maria Taigi Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Sua vida transcorreu quase inteiramente na Itália, entre Siena e Roma.

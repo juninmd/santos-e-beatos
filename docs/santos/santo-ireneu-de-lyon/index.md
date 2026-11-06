@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Ireneu de Lyon.
 
 # Santo Ireneu de Lyon
 
-![Santo Ireneu de Lyon](imagens/portrait.jpg)
+![Santo Ireneu de Lyon](imagens/restaurada_4k.jpg)
 
 > "A glória de Deus é o homem vivo; e a vida do homem é a visão de Deus."
 
@@ -41,6 +41,13 @@ Os "milagres" de Santo Ireneu estão mais intrinsecamente ligados à sua poderos
 2.  **Ponte entre Oriente e Ocidente:** Ireneu é uma figura única que liga o cristianismo oriental (sendo nativo da Ásia Menor) com o cristianismo ocidental (servindo como bispo na Gália), simbolizando a universalidade da Igreja primitiva.
 3.  **Teologia da Recapitulação:** Ele é famoso por desenvolver a teologia da "recapitulação" (*anakephalaiosis*), que vê Cristo como o novo Adão que reverte a queda e resume em si toda a criação para redimi-la.
 4.  **Menção ao Novo Testamento:** *Adversus Haereses* é um dos primeiros documentos cristãos sobreviventes a citar extensivamente de quase todos os livros do que se tornaria o Novo Testamento, sendo crucial na história da formação do cânon bíblico.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Ireneu de Lyon Original](imagens/original.jpg) | ![Santo Ireneu de Lyon Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

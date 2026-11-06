@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Marta Le Bouteill
 
 # Beata Marta Le Bouteiller
 
-![Beata Marta Le Bouteiller](imagens/portrait.jpg)
+![Beata Marta Le Bouteiller](imagens/restaurada_4k.jpg)
 
 > "A Irmã da Cidra"
 
@@ -38,6 +38,12 @@ Inúmeros relatos de graças e favores, desde curas até a resolução de proble
 2. **Confiança de Santa Maria Madalena Postel:** A fundadora da congregação tinha um grande apreço por ela. Ela frequentemente dizia: "Marta fará tudo o que eu quiser, porque ela faz tudo o que Deus quer."
 3. **Sorriso Inabalável:** Suas coirmãs testemunharam durante seu processo de beatificação que nunca a viram irritada ou reclamando. Seu rosto estava sempre iluminado por um sorriso sereno, independentemente do quão dura fosse a tarefa.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Marta Le Bouteiller Original](imagens/original.jpg) | ![Beata Marta Le Bouteiller Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Ela passou toda a sua vida na região da Normandia, na França.

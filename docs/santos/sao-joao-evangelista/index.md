@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Evangelista.
 
 # São João Evangelista
 
-![São João Evangelista](imagens/portrait.jpg)
+![São João Evangelista](imagens/restaurada_4k.jpg)
 
 > "Deus é amor."
 
@@ -43,6 +43,13 @@ A tradição atribui a João cinco livros do Novo Testamento: o quarto Evangelho
 2. **A casa de Maria:** perto de Éfeso, a Casa da Virgem Maria (Meryem Ana Evi) é visitada por cristãos e muçulmanos, ligada à tradição de que João levou Maria para lá.
 3. **Vinho de São João:** em muitas regiões da Europa, a festa de 27 de dezembro guarda o costume da bênção do vinho, em memória do cálice envenenado.
 4. **Padroeiro:** dos teólogos, escritores, editores e livreiros.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Evangelista Original](imagens/original.jpg) | ![São João Evangelista Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

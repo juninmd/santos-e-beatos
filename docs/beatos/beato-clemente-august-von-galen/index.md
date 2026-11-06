@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Clemente August v
 
 # Beato Clemente August von Galen
 
-![Beato Clemente August von Galen](imagens/portrait.jpg)
+![Beato Clemente August von Galen](imagens/restaurada_colorida_4k.jpg)
 
 > "O Leão de Münster, defensor da vida."
 
@@ -36,6 +36,12 @@ O milagre que levou à sua beatificação envolveu a cura inexplicável e comple
 - Ele provinha de uma antiga família aristocrática alemã que tinha um longo histórico de serviço à Igreja; seu tio também foi um influente bispo.
 - Em Roma, ao ser nomeado Cardeal, as multidões o aplaudiram entusiasticamente não apenas como um príncipe da Igreja, mas como um herói da resistência.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Clemente August von Galen Original](imagens/original.jpg) | ![Beato Clemente August von Galen Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - **Dinklage, Alemanha:** Cidade onde nasceu na Baixa Saxônia.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Jacinto Vera.
 
 # Beato Jacinto Vera
 
-![Beato Jacinto Vera](imagens/portrait.jpg)
+![Beato Jacinto Vera](imagens/restaurada_4k.jpg)
 
 > "O Pai da Igreja Uruguaia"
 
@@ -36,6 +36,12 @@ A sua beatificação foi impulsionada pela cura milagrosa de Maria del Carmen G�
 2. **Bispo Missionário:** Era conhecido por viajar constantemente pelo interior do Uruguai, muitas vezes a cavalo, dormindo no chão e comendo o que os camponeses lhe ofereciam.
 3. **Exílio e Retorno Triunfal:** Enfrentou conflitos com o governo uruguaio por defender a independência da Igreja, o que o levou ao exílio na Argentina em 1862. O seu retorno, pouco mais de um ano depois, foi marcado por grandes aclamações populares.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Jacinto Vera Original](imagens/original.jpg) | ![Beato Jacinto Vera Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Oceano Atlântico:** Onde nasceu a bordo do navio.

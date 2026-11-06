@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João de Brito.
 
 # São João de Brito
 
-![São João de Brito](imagens/portrait.jpg)
+![São João de Brito](imagens/restaurada_4k.jpg)
 
 > "O Mártir de Madura"
 
@@ -41,6 +41,13 @@ Em vida, relatam-se casos em que ele sobreviveu a venenos e a ataques de animais
 1.  **Rejeição de Bispado:** Quando regressou a Portugal em 1687, o rei D. Pedro II tentou mantê-lo no país e ofereceu-lhe o arcebispado de Cranganore (Índia), mas ele recusou firmemente, desejando apenas regressar como missionário raso a Madura.
 2.  **O Casamento de um Príncipe:** O evento que precipitou o seu martírio final foi a conversão de um príncipe indiano (Tadiyathevan). Como o cristianismo proíbe a poligamia, o príncipe teve de repudiar todas as suas esposas menos uma. Uma das esposas repudiadas era sobrinha de um rajá poderoso, o que desencadeou uma perseguição violenta.
 3.  **Traje Amarelo:** Ele vestia-se sempre com um manto de algodão amarelo (o açafrão, cor dos ascetas), sandálias de madeira e carregava um bastão.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João de Brito Original](imagens/original.jpg) | ![São João de Brito Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

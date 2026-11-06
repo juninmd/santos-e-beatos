@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa de São Venceslau, padroe
 
 # São Venceslau
 
-![São Venceslau](imagens/portrait.jpg)
+![São Venceslau](imagens/restaurada_4k.jpg)
 
 > "O Bom Rei Wenceslau"
 
@@ -39,6 +39,13 @@ Um dos milagres tradicionais relata que Venceslau, durante os duros invernos eur
 1.  **Canção de Natal:** São Venceslau é amplamente conhecido no mundo anglófono (embora nem sempre os cantores saibam quem ele é) por causa da canção natalina de 1853, *"Good King Wenceslas"*, que relata a história de sua caridade na neve durante o inverno.
 2.  **O "Bom Rei":** Embora seja chamado de "Bom Rei Venceslau", durante a sua vida ele teve apenas o título de Duque da Boêmia. Apenas postumamente lhe foi concedida a dignidade de "rei" pelo imperador Otão I.
 3.  **Coroa de São Venceslau:** É o nome dado à coroa dos reis da Boêmia (criada por Carlos IV no século XIV e dedicada ao santo). Ela repousa sobre o crânio de Venceslau na Catedral de Praga. Há uma lenda de que se um usurpador a colocar na cabeça, ele morrerá em menos de um ano. (Um nazista notório desafiou a lenda na Segunda Guerra e foi morto logo depois).
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Venceslau Original](imagens/original.jpg) | ![São Venceslau Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

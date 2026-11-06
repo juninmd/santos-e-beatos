@@ -5,7 +5,7 @@ description: Biografia, vida pessoal, milagres, curiosidades, cidades e impacto 
 
 # Santo Anselmo de Cantuária
 
-![Santo Anselmo de Cantuária](imagens/portrait.jpg)
+![Santo Anselmo de Cantuária](imagens/restaurada_4k.jpg)
 
 > "Fides quaerens intellectum" (A fé em busca de entendimento)
 
@@ -40,6 +40,13 @@ Após sua morte, sua intercessão foi creditada com a ocorrência de vários mil
 - **O Argumento Ontológico:** Ele propôs uma das provas mais famosas da existência de Deus, argumentando que se podemos conceber "aquele do qual nada maior pode ser pensado", então esse ser deve existir não apenas na mente, mas também na realidade, senão não seria o maior possível.
 - **Relação com os papas:** Ele teve um forte vínculo com os Papas Urbano II e Pascoal II, ajudando-os a mediar relações tensas com o poder secular.
 - **Defensor contra a Escravidão:** Anselmo foi fundamental no Sínodo de Westminster em 1102, que tomou fortes medidas morais, incluindo proibir a venda de homens como escravos, sendo ele um dos primeiros clérigos proeminentes a se opor sistematicamente ao comércio humano.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Anselmo de Cantuária Original](imagens/original.jpg) | ![Santo Anselmo de Cantuária Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

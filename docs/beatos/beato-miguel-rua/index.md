@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Miguel Rua.
 
 # Beato Miguel Rua
 
-![Beato Miguel Rua](imagens/portrait.jpg)
+![Beato Miguel Rua](imagens/restaurada_colorida_4k.jpg)
 
 > "O primeiro sucessor de Dom Bosco"
 
@@ -39,6 +39,12 @@ Com a morte de São João Bosco em 1888, o Papa Leão XIII nomeou Miguel Rua com
 3.  **Expansão Mundial:** Miguel Rua realizou inúmeras viagens ao longo de seu reitorado, indo à França, Espanha, Holanda, Inglaterra, Palestina, Egito, Portugal, para encorajar os missionários e consolidar novas obras.
 4.  **Devoção Eucarística e Mariana:** Tinha uma intensa devoção a Nossa Senhora Auxiliadora e à Eucaristia, recomendando constantemente a comunhão frequente aos jovens.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Miguel Rua Original](imagens/original.jpg) | ![Beato Miguel Rua Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 *   **Turim (Itália):** Cidade natal e centro de toda a sua vida, onde conheceu Dom Bosco, foi ordenado sacerdote e de onde governou a Congregação Salesiana.

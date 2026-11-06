@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria da Paixão.
 
 # Beata Maria da Paixão
 
-![Beata Maria da Paixão](imagens/portrait.jpg)
+![Beata Maria da Paixão](imagens/restaurada_4k.jpg)
 
 > "Irmãos amados por Deus, fostes escolhidos por Ele"
 
@@ -44,6 +44,12 @@ A cura atribuída para sua beatificação validou o seu grau de intercessão jun
 2.  **Mártires na China:** As sete irmãs Franciscanas Missionárias de Maria que deram o sangue no martírio da rebelião dos Boxers, na China em 1900, eram suas irmãs espirituais. A Beata Maria guiou e enviou essas irmãs como fundadoras de missão naquele país.
 3.  **Origem e Simplicidade:** Originária de uma pequena aristocracia francesa, Maria poderia ter vivido no conforto, mas abandonou tudo buscando o ideal de "ser vítima pela Igreja e pelo Papa" com o coração missionário voltado para as classes marginalizadas de todo o mundo.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria da Paixão Original](imagens/original.jpg) | ![Beata Maria da Paixão Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Da França, para a distante Índia e finalmente, pela consolidação em Roma e sua morte na Itália, a Beata desbravou o mundo do século XIX.

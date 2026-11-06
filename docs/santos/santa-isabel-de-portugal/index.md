@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades, cidades por onde passou e mapa d
 
 # Santa Isabel de Portugal
 
-![Santa Isabel de Portugal](imagens/portrait.jpg)
+![Santa Isabel de Portugal](imagens/restaurada_4k.jpg)
 
 > "Rainha Santa e Pacificadora"
 
@@ -40,6 +40,13 @@ Após a morte de D. Dinis em 1325, Isabel retirou-se para o Mosteiro de Santa Cl
 2.  **Rainha Peregrina:** Realizou a pé o Caminho de Santiago até Santiago de Compostela para agradecer o fim de conflitos.
 3.  **Mecenas:** É tradicionalmente considerada a financiadora e a grande difusora das Festas do Divino Espírito Santo em Portugal e nos Açores.
 4.  **Tia-avó e Sobrinha:** Tinha o nome e seguia muitas das mesmas tradições de caridade da sua tia-avó paterna, Santa Isabel da Hungria, que partilha um Milagre das Rosas idêntico nas histórias populares.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Isabel de Portugal Original](imagens/original.jpg) | ![Santa Isabel de Portugal Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

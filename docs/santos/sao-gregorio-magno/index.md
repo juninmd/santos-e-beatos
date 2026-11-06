@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Gregório Magno.
 
 # São Gregório Magno
 
-![São Gregório Magno](imagens/portrait.jpg)
+![São Gregório Magno](imagens/restaurada_4k.jpg)
 
 > "A Sagrada Escritura é como um rio no qual o cordeiro pode caminhar e o elefante nadar."
 
@@ -44,6 +44,13 @@ A vida de São Gregório é adornada com relatos de santidade extraordinária:
 - Ele frequentemente se referia a si mesmo como *Servus servorum Dei* (Servo dos servos de Deus), um título que muitos Papas continuam a usar até hoje.
 - Sua vasta produção literária inclui a "Regra Pastoral", um manual para bispos e padres que teve profunda influência por séculos, e os "Diálogos", que relatam as vidas e milagres de santos italianos, incluindo a vida de São Bento de Núrsia.
 - O Canto Gregoriano, a música tradicional da Igreja Católica, leva seu nome. Embora ele não tenha composto as melodias pessoalmente, ele teve um papel crucial na sistematização e preservação do repertório litúrgico musical.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Gregório Magno Original](imagens/original.jpg) | ![São Gregório Magno Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

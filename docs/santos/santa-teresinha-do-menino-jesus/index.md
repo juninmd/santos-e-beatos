@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Teresinha do Meni
 
 # Santa Teresinha do Menino Jesus
 
-![Santa Teresinha do Menino Jesus](imagens/santa-teresinha.jpg)
+![Santa Teresinha do Menino Jesus](imagens/restaurada_4k.jpg)
 
 > "Quero passar o meu céu fazendo o bem na terra."
 
@@ -41,6 +41,13 @@ Foi declarada Padroeira das Missões (sem nunca ter saído do convento) e Doutor
 
 1.  **Doutora da Igreja:** É a terceira mulher a receber este título e a mais jovem.
 2.  **Rosas:** Muitas vezes, a resposta às novenas feitas a ela vem acompanhada do recebimento de uma rosa.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Teresinha do Menino Jesus Original](imagens/original.jpg) | ![Santa Teresinha do Menino Jesus Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

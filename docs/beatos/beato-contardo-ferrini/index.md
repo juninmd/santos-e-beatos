@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Contardo Ferrini.
 
 # Beato Contardo Ferrini
 
-![Beato Contardo Ferrini](imagens/portrait.jpg)
+![Beato Contardo Ferrini](imagens/restaurada_colorida_4k.jpg)
 
 > "O Professor da Santidade"
 
@@ -40,6 +40,12 @@ A sua fama de santidade espalhou-se rapidamente, especialmente entre os estudant
 2. **Poliglota:** O seu intelecto era formidável. Para além do latim e grego necessários para os seus estudos, Ferrini aprendeu sânscrito, hebraico, sírio, copta, além das principais línguas modernas europeias, permitindo-lhe ler textos fundamentais do direito e da teologia nas suas línguas originais.
 3. **Morte no Lago:** Os seus últimos dias foram passados na pitoresca localidade de Suna, de onde podia contemplar as montanhas que tanto amava. As suas últimas palavras foram um testemunho sereno da sua fé e abandono à vontade divina.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Contardo Ferrini Original](imagens/original.jpg) | ![Beato Contardo Ferrini Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - **Milão, Itália:** A sua cidade natal, onde cresceu e absorveu os valores cristãos na sua família.

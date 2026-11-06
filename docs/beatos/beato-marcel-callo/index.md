@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Marcel Callo.
 
 # Beato Marcel Callo
 
-![Beato Marcel Callo](imagens/portrait.jpg)
+![Beato Marcel Callo](imagens/restaurada_colorida_4k.jpg)
 
 > "Missionário no campo de concentração."
 
@@ -43,6 +43,12 @@ Reconhecido mártir *in odium fidei*, sua beatificação não exigiu milagre —
 3. **Companheiros de causa:** foi beatificado no mesmo período em que a Igreja reconheceu outros jovens da JOC mortos em campos nazistas, entre eles o austríaco Karl Leisner.
 4. **Padroeiro:** dos jovens trabalhadores, dos escoteiros, dos tipógrafos e dos deportados.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Marcel Callo Original](imagens/original.jpg) | ![Beato Marcel Callo Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Nasceu e cresceu em Rennes, na França; foi deportado para Zella-Mehlis, na Turíngia, passou pelas prisões de Gotha e Flossenbürg e morreu no campo de Mauthausen, na Áustria.

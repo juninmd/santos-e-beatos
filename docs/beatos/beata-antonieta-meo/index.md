@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Venerável Antonietta M
 
 # Venerável Antonietta Meo (Nennolina)
 
-![Venerável Antonietta Meo (Nennolina)](imagens/portrait.jpg)
+![Venerável Antonietta Meo (Nennolina)](imagens/restaurada_colorida_4k.jpg)
 
 > "A Pequena Nennolina"
 
@@ -44,6 +44,12 @@ Sua breve vida já foi reconhecida oficialmente pela Igreja por suas "virtudes h
 2.  **Repouso:** Seu corpo repousa na Basílica da Santa Cruz em Jerusalém, em Roma, local que abriga relíquias da Paixão de Cristo.
 3.  **Cartas:** Suas cartas, inicialmente ditadas e depois escritas por ela mesma com letras grandes de criança, são um tesouro espiritual que mostra uma união mística incomum para sua idade.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Venerável Antonietta Meo (Nennolina) Original](imagens/original.jpg) | ![Venerável Antonietta Meo (Nennolina) Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Nennolina passou sua breve e intensa vida em Roma.

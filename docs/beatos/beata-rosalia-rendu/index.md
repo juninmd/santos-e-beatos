@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Rosália Rendu.
 
 # Beata Rosália Rendu
 
-![Beata Rosália Rendu](imagens/portrait.jpg)
+![Beata Rosália Rendu](imagens/restaurada_4k.jpg)
 
 > "A Mãe do Bairro Mouffetard"
 
@@ -39,6 +39,12 @@ O milagre que levou à sua beatificação não foi de grandiosidade pública, ma
 - **Mentora de Beatos:** Além de seu imenso trabalho prático, sua orientação espiritual foi fundamental para o Beato Antônio Frederico Ozanam, tornando-a uma co-fundadora espiritual da SSVP.
 - **Condecoração Recusada:** O governo francês quis lhe conceder a Legião de Honra por seus serviços sociais. Ela recusou por humildade, e a medalha teve que ser entregue a uma superiora em seu nome.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Rosália Rendu Original](imagens/original.jpg) | ![Beata Rosália Rendu Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Confort, França:** Cidade natal onde cresceu sob a influência de padres refratários abrigados em sua casa.

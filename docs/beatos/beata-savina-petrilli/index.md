@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Savina Petrilli.
 
 # Beata Savina Petrilli
 
-![Beata Savina Petrilli](imagens/portrait.jpg)
+![Beata Savina Petrilli](imagens/restaurada_4k.jpg)
 
 > "Onde há caridade, aí está Deus."
 
@@ -36,6 +36,12 @@ Sua beatificação por João Paulo II em 1988 foi possível após o reconhecimen
 2.  **Expansão Internacional:** A primeira missão fora da Itália foi estabelecida em Belém do Pará, no Brasil, demonstrando o forte vínculo da congregação com o país.
 3.  **Votos Especiais:** Além dos votos tradicionais de pobreza, castidade e obediência, Savina fez votos particulares de total abandono à vontade de Deus e de não negar nada ao Senhor voluntariamente.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Savina Petrilli Original](imagens/original.jpg) | ![Beata Savina Petrilli Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 *   **Siena (Itália):** Cidade onde nasceu, fundou a congregação e faleceu.

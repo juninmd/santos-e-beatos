@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Francisco Marto, u
 
 # São Francisco Marto
 
-![São Francisco Marto](imagens/portrait.jpg)
+![São Francisco Marto](imagens/restaurada_4k.jpg)
 
 > "Para consolar Jesus pelos pecados do mundo."
 
@@ -34,6 +34,13 @@ Para a canonização, o milagre aceito pelo Vaticano foi a cura do menino brasil
 1. **Visão sem som:** Durante as aparições, Francisco via Nossa Senhora e sentia a sua presença, mas não ouvia o que ela dizia; dependia da sua prima Lúcia e irmã Jacinta para lhe transmitirem as mensagens.
 2. **Amor pela natureza:** Francisco tinha uma grande conexão com a natureza e animais, a quem demonstrava caridade, chegando a comprar passarinhos para depois os soltar.
 3. **Morte prematura:** Ele e sua irmã Jacinta foram as duas primeiras crianças não mártires a serem canonizadas pela Igreja Católica.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Francisco Marto Original](imagens/original.jpg) | ![São Francisco Marto Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

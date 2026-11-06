@@ -1,17 +1,18 @@
 ---
-title: Beata Elena Guerra
-description: Biografia, milagres, curiosidades e mapa da Beata Elena Guerra.
+title: Santa Elena Guerra
+description: Biografia, milagres, curiosidades e mapa de Santa Elena Guerra.
 ---
 
-# Beata Elena Guerra
+# Santa Elena Guerra
 
-![Beata Elena Guerra](imagens/portrait.png)
+![Santa Elena Guerra](imagens/restaurada_4k.jpg)
 
 > "Apóstola do Espírito Santo."
 
 - **Nascimento:** 23 de junho de 1835, Lucca, Itália
 - **Morte:** 11 de abril de 1914, Lucca, Itália
-- **Beatificação:** 1959, pelo Papa João XXIII
+- **Beatificação:** 26 de abril de 1959, pelo Papa João XXIII
+- **Canonização:** 20 de outubro de 2024, pelo Papa Francisco
 - **Festa Litúrgica:** 11 de abril
 
 <TextToSpeech />
@@ -42,6 +43,13 @@ O milagre reconhecido para a canonização ocorreu no Brasil, em Uberlândia (MG
 2. **Professora de Santa Gemma:** ensinou catecismo a Gemma Galgani, canonizada em 1940 — muito antes dela, portanto.
 3. **Precursora da Renovação Carismática:** movimentos de renovação no Espírito a reconhecem como precursora, embora tenha morrido meio século antes do surgimento deles.
 4. **Afastada da própria obra:** viveu os últimos oito anos removida do governo da congregação que fundara, sem jamais protestar publicamente.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Elena Guerra Original](imagens/original.jpg) | ![Santa Elena Guerra Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

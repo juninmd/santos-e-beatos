@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Batista de L
 
 # São João Batista de La Salle
 
-![São João Batista de La Salle](imagens/portrait.jpg)
+![São João Batista de La Salle](imagens/restaurada_4k.jpg)
 
 > "O milagre maior é que vós tocais os corações."
 
@@ -40,6 +40,13 @@ Estes, junto com as curas do irmão Adelminiano e de uma senhora atingida por mi
 1.  **Ensino em grupo:** Antes de La Salle, a maioria dos professores ensinava alunos individualmente, enquanto o resto da sala esperava. Ele introduziu a ideia de ensinar todos os alunos simultaneamente.
 2.  **O Patrono dos Educadores:** Em 1950, o Papa Pio XII o declarou Santo Patrono Universal dos Professores devido às suas contribuições revolucionárias.
 3.  **Renúncia Inédita:** É raro na história eclesiástica alguém abdicar voluntariamente de grandes privilégios (ser cônego na diocese e abandonar uma vasta herança) pela caridade educacional de base.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Batista de La Salle Original](imagens/original.jpg) | ![São João Batista de La Salle Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

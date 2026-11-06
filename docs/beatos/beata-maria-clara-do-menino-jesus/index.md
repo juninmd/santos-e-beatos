@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Clara do Me
 
 # Beata Maria Clara do Menino Jesus
 
-![Beata Maria Clara do Menino Jesus](imagens/portrait.png)
+![Beata Maria Clara do Menino Jesus](imagens/restaurada_4k.jpg)
 
 > "Onde há o bem a fazer, que se faça."
 
@@ -36,6 +36,12 @@ Acolhida nas pensionistas das Irmãs Capuchinhas e, posteriormente, mudando-se p
 - A sua máxima de vida era simples, mas revolucionária na prática: *“Onde há o bem a fazer, que se faça.”*
 - Seu processo de beatificação durou quase um século, tendo sido iniciado em 1914 e concluído em 2011 em Lisboa, tornando-se uma grande festa nacional.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Clara do Menino Jesus Original](imagens/original.jpg) | ![Beata Maria Clara do Menino Jesus Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - Amadora, Portugal (Nascimento e infância)

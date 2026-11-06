@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Peregrino.
 
 # São Peregrino
 
-![São Peregrino](imagens/portrait.jpg)
+![São Peregrino](imagens/restaurada_4k.jpg)
 
 > "Aquele que confia no Senhor verá os milagres em sua vida."
 
@@ -37,6 +37,13 @@ Após sua morte, inumeráveis graças e curas foram relatadas por aqueles que pe
 - O corpo de São Peregrino repousa em um santuário na Basílica de São Peregrino, em Forlì, onde permanece incorrupto.
 - Apesar de ser conhecido como o padroeiro dos doentes com câncer, ele também é invocado por aqueles que sofrem com feridas abertas e infecções nas pernas.
 - A Ordem dos Servos de Maria, da qual fez parte, é dedicada à contemplação das dores de Nossa Senhora.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Peregrino Original](imagens/original.jpg) | ![São Peregrino Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

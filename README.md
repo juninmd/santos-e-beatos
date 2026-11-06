@@ -1,3 +1,5 @@
+npm run docs:dev
+
 # Santos e Beatos Intelligence System
 
 Bem-vindo ao repositório do **Santos e Beatos Intelligence System**.
@@ -13,7 +15,7 @@ São 200 beatos e 215 santos catalogados.
 | [Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/index.md) | ![Beato Adílio Daronch](docs/beatos/beato-adilio-daronch/imagens/retrato.svg) |
 | [Beato Agostinho Kazotić](docs/beatos/beato-agostinho-kazotic/index.md) | ![Beato Agostinho Kazotić](docs/beatos/beato-agostinho-kazotic/imagens/portrait.jpg) |
 | [Beato Alano de la Roche](docs/beatos/beato-alano-de-la-roche/index.md) | ![Beato Alano de la Roche](docs/beatos/beato-alano-de-la-roche/imagens/portrait.jpg) |
-| [Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/index.md) | ![Beata Albertina Berkenbrock](docs/beatos/beata-albertina-berkenbrock/imagens/retrato.svg) |
+| [Beata Albertina Kenenbrock](docs/beatos/beata-albertina-kenenbrock/index.md) | ![Beata Albertina Kenenbrock](docs/beatos/beata-albertina-kenenbrock/imagens/retrato.svg) |
 | [Beato Alberto Marvelli](docs/beatos/beato-alberto-marvelli/index.md) | ![Beato Alberto Marvelli](docs/beatos/beato-alberto-marvelli/imagens/portrait.jpg) |
 | [Beata Alexandrina de Balasar](docs/beatos/alexandrina-de-balasar/index.md) | ![Beata Alexandrina de Balasar](docs/beatos/alexandrina-de-balasar/imagens/alexandrina.jpg) |
 | [Beata Alexandrina Maria da Costa](docs/beatos/beata-alexandrina-maria-da-costa/index.md) | ![Beata Alexandrina Maria da Costa](docs/beatos/beata-alexandrina-maria-da-costa/imagens/portrait.jpg) |
@@ -39,7 +41,7 @@ São 200 beatos e 215 santos catalogados.
 | [Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/index.md) | ![Beata Assunta Marchetti](docs/beatos/beata-assunta-marchetti/imagens/portrait.png) |
 | [Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/index.md) | ![Beato Augusto Czartoryski](docs/beatos/beato-augusto-czartoryski/imagens/portrait.jpg) |
 | [Beata Bárbara Maix](docs/beatos/beata-barbara-maix/index.md) | ![Beata Bárbara Maix](docs/beatos/beata-barbara-maix/imagens/portrait.jpg) |
-| [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/imagens/retrato.svg) |
+| [Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/index.md) | ![Beato Bartolo Longo](docs/beatos/beato-bartolo-longo/imagens/portrait.jpg) |
 | [Beato Bartolomeu dos Mártires](docs/beatos/beato-bartolomeu-dos-martires/index.md) | ![Beato Bartolomeu dos Mártires](docs/beatos/beato-bartolomeu-dos-martires/imagens/portrait.jpg) |
 | [Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/index.md) | ![Beato Basílio Moreau](docs/beatos/beato-basilio-moreau/imagens/portrait.jpg) |
 | [Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/index.md) | ![Beata Benedetta Bianchi Porro](docs/beatos/beata-benedetta-bianchi-porro/imagens/portrait.jpg) |

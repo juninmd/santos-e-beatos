@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Cristóvão.
 
 # São Cristóvão
 
-![São Cristóvão](imagens/portrait.jpg)
+![São Cristóvão](imagens/restaurada_4k.jpg)
 
 > "Carregador de Cristo"
 
@@ -44,6 +44,13 @@ Outro milagre associado a ele é o florescimento de seu cajado. Para provar a ve
 2.  **Calendário Litúrgico:** Em 1969, o Papa Paulo VI removeu sua festa do calendário universal romano devido à escassez de dados históricos comprovados, mas sua devoção continua permitida e muito forte localmente e em diversas ordens.
 3.  **Nome:** "Cristóvão" vem do grego *Christophoros* (Χριστόφορος), que significa "aquele que carrega Cristo".
 4.  **Representação:** É quase sempre representado como um gigante atravessando um rio com o Menino Jesus nos ombros e um bastão na mão.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Cristóvão Original](imagens/original.jpg) | ![São Cristóvão Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

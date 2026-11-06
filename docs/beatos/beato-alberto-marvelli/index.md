@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Alberto Marvelli,
 
 # Beato Alberto Marvelli
 
-![Beato Alberto Marvelli](imagens/portrait.jpg)
+![Beato Alberto Marvelli](imagens/restaurada_4k.jpg)
 
 > "A vida é uma missão."
 
@@ -40,6 +40,12 @@ Sua vida inteira, dedicada intensamente ao próximo em tempos de crise, é frequ
 2.  **Santuário:** Seus restos mortais repousam na Igreja de Santo Agostinho, em Rimini, que se tornou um ponto de peregrinação para os jovens locais.
 3.  **Diário Espiritual:** Ele manteve um diário íntimo que revela sua profunda espiritualidade, sua devoção à Eucaristia e a Nossa Senhora.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Alberto Marvelli Original](imagens/original.jpg) | ![Beato Alberto Marvelli Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 A vida de Alberto foi marcada por seu nascimento em Ferrara e, de forma mais significativa, por sua ação heroica e política na cidade de Rimini.

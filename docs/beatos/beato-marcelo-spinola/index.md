@@ -5,7 +5,7 @@ description: O "Bispo Mendigo", um incansável servidor dos pobres e pastor de a
 
 # Beato Marcelo Spínola e Maestre
 
-![Cover](imagens/cover.jpg)
+![Cover](imagens/restaurada_colorida_4k.jpg)
 
 > "Servir os pobres é servir ao próprio Cristo."
 
@@ -37,6 +37,12 @@ Os milagres que levaram à sua beatificação incluem curas inexplicáveis. O ma
 - Era também advogado. Esta formação jurídica foi essencial para o desenvolvimento de seu caráter voltado à defesa da verdade e da justiça social antes e durante seu sacerdócio.
 - Em Sevilha, o Beato Marcelo enfrentou grandes secas e escassez, criando a "Cozinha Econômica" (Comedor) para alimentar centenas de pessoas famintas diariamente.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Marcelo Spínola e Maestre Original](imagens/original.jpg) | ![Beato Marcelo Spínola e Maestre Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - **San Fernando, Espanha:** Local de seu nascimento, uma cidade na província de Cádiz.

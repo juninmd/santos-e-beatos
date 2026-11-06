@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Tiago Alberione.
 
 # Beato Tiago Alberione
 
-![Beato Tiago Alberione](imagens/portrait.jpg)
+![Beato Tiago Alberione](imagens/restaurada_4k.jpg)
 
 > "O apóstolo da comunicação."
 
@@ -41,6 +41,12 @@ O milagre reconhecido para a beatificação foi a cura de Josephine Anne Cheah, 
 3. **Paulo VI sobre ele:** ao visitá-lo em 1969, o Papa disse que Alberione havia dado à Igreja "novos instrumentos para se exprimir, novos meios para dar vigor e amplitude ao seu apostolado".
 4. **Padroeiro:** invocado pelos comunicadores, editores, livreiros e profissionais dos meios digitais.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Tiago Alberione Original](imagens/original.jpg) | ![Beato Tiago Alberione Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Nasceu em San Lorenzo di Fossano, formou-se e fundou sua obra em Alba, no Piemonte, e viveu os últimos anos em Roma, onde morreu e está sepultado na cripta do Santuário Rainha dos Apóstolos.

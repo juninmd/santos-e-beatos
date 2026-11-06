@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Karolina Kózka.
 
 # Beata Karolina Kózka
 
-![Beata Karolina Kózka](imagens/portrait.jpg)
+![Beata Karolina Kózka](imagens/restaurada_colorida_4k.jpg)
 
 > "A pureza e o amor a Deus valem mais do que a própria vida."
 
@@ -38,6 +38,12 @@ Após sua beatificação, diversos relatos de favores espirituais e curas físic
 2.  **Santuário na Floresta:** O local exato onde seu corpo foi encontrado, na floresta próxima à sua casa, tornou-se um local de peregrinação. Uma cruz e um santuário foram erguidos ali para marcar o local do seu martírio.
 3.  **Peregrinações Jovem:** O Santuário de Zabawa, onde repousam suas relíquias, atrai milhares de jovens poloneses todos os anos. Ela é venerada como um grande exemplo para a juventude contemporânea.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beata Karolina Kózka Original](imagens/original.jpg) | ![Beata Karolina Kózka Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

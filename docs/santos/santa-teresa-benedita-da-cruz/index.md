@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Teresa Benedita d
 
 # Santa Teresa Benedita da Cruz
 
-![Santa Teresa Benedita da Cruz](imagens/portrait.jpg)
+![Santa Teresa Benedita da Cruz](imagens/restaurada_4k.jpg)
 
 > "Aquele que procura a verdade, quer o saiba ou não, está a procurar a Deus."
 
@@ -37,6 +37,13 @@ Em 1987, a cura miraculosa de Teresa Benedicta McCarthy, uma menina americana de
 1.  **Filósofa Ilustre:** Edith Stein foi uma das poucas mulheres de sua época a obter um doutorado em filosofia e trabalhar sob a orientação de filósofos famosos como Husserl, antes mesmo da sua conversão ao catolicismo, e influenciou nomes da Igreja como o Papa João Paulo II, que apreciava grandemente o seu trabalho fenomenológico.
 2.  **Copadroeira da Europa:** O Papa João Paulo II proclamou-a copadroeira da Europa, ao lado de Santa Brígida da Suécia e Santa Catarina de Sena, declarando que o seu testemunho representava o drama e o sofrimento da Europa do século XX.
 3.  **Ciência da Cruz:** A sua última e mais importante obra teológica-espiritual, chamada "A Ciência da Cruz", foi escrita enquanto vivia no Carmelo de Echt e estava debruçada sobre o pensamento de São João da Cruz, sendo completada pouco antes da sua prisão pela Gestapo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Teresa Benedita da Cruz Original](imagens/original.jpg) | ![Santa Teresa Benedita da Cruz Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

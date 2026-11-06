@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Inês.
 
 # Santa Inês
 
-![Santa Inês](imagens/portrait.jpg)
+![Santa Inês](imagens/restaurada_4k.jpg)
 
 > "Cristo é meu único esposo."
 
@@ -43,6 +43,13 @@ O nome Inês (*Agnes*) evoca ao mesmo tempo o grego *hagné*, "pura", e o latim 
 2. **Duas igrejas em Roma:** Sant'Agnese fuori le Mura guarda seu túmulo; Sant'Agnese in Agone, na Piazza Navona, marca o local tradicional do martírio, sobre as ruínas do estádio de Domiciano.
 3. **Um crânio de criança:** o crânio venerado como sua relíquia, conservado na Piazza Navona, foi examinado no século XX e é compatível com o de uma menina de cerca de treze anos.
 4. **Padroeira:** das jovens, dos noivos, dos jardineiros e das vítimas de abuso.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Inês Original](imagens/original.jpg) | ![Santa Inês Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

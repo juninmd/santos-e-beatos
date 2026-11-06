@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Marcelino Champagn
 
 # São Marcelino Champagnat
 
-![São Marcelino Champagnat](imagens/portrait.jpg)
+![São Marcelino Champagnat](imagens/restaurada_4k.jpg)
 
 > "Todas as dioceses do mundo entram em nossos planos." — São Marcelino Champagnat
 
@@ -41,6 +41,13 @@ O milagre aceito para a sua canonização ocorreu em Montevidéu, Uruguai, em 19
 1. **Amizade com o Cura d'Ars:** Marcelino estudou no mesmo seminário de Lyon onde também estudou São João Maria Vianney. Eles partilhavam amizade e eram unidos em ideais missionários e na vocação sacerdotal.
 2. **Construtor:** Champagnat frequentemente pegava ferramentas, moldava pedras e participava da construção física da casa de formação em l'Hermitage para ensinar a importância do trabalho aos seus irmãos e economizar custos.
 3. **Paciência e resiliência:** O lema da Sociedade de Maria, inspiradora de sua congregação era "*Tudo a Jesus por Maria, e tudo a Maria para Jesus*".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Marcelino Champagnat Original](imagens/original.jpg) | ![São Marcelino Champagnat Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

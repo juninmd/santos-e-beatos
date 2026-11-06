@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Carlo Gnocchi.
 
 # Beato Carlo Gnocchi
 
-![Beato Carlo Gnocchi](imagens/portrait.jpg)
+![Beato Carlo Gnocchi](imagens/restaurada_colorida_4k.jpg)
 
 > "O Pai dos Mutiladinhos."
 
@@ -40,6 +40,12 @@ O milagre aprovado para sua beatificação envolveu Sperandio Aldeni, um eletric
 2.  **Capelão Alpino:** É venerado pelos "Alpini" (tropas de montanha italianas) como um herói e santo protetor, lembrando sua coragem ao acompanhar os soldados na neve e no gelo da Rússia.
 3.  **Processo Rápido:** Sua fama de santidade era tão grande que o processo de canonização começou pouco tempo após sua morte, impulsionado pela gratidão de milhares de pessoas que ele ajudou.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Carlo Gnocchi Original](imagens/original.jpg) | ![Beato Carlo Gnocchi Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Don Gnocchi atuou principalmente no norte da Itália e também esteve nas frentes de batalha.

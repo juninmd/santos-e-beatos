@@ -44,6 +44,13 @@ Diz-se também que ele, através de suas preces fervorosas e de seu estilo de vi
 - Foi exilado cinco vezes por quatro imperadores diferentes (Constantino, Constâncio II, Juliano o Apóstata e Valente), tornando sua vida uma constante jornada de fuga e retorno a Alexandria.
 - A expressão *Athanasius contra mundum* ("Atanásio contra o mundo") foi cunhada para descrever sua firmeza e isolamento em sua oposição à heresia ariana quando parecia que toda a Igreja cederia.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Atanásio Original](imagens/original.jpg) | ![Santo Atanásio Restaurada](imagens/restaurada_4k.jpg) |
+
 ## Cidades por onde passou
 
 - Alexandria (Egito): Cidade natal e sede de seu episcopado, onde passou a maior parte de sua vida (quando não estava no exílio).
@@ -62,4 +69,4 @@ Hoje, Santo Atanásio é venerado não apenas como um santo, mas como um dos qua
   { lat: 49.7499, lng: 6.6371, title: "Tréveris, Alemanha", description: "Local do seu primeiro exílio (335-337).", type: "vida" }
 ]' />
 
-![Santo Atanásio](imagens/portrait.jpg)
+![Santo Atanásio](imagens/restaurada_4k.jpg)

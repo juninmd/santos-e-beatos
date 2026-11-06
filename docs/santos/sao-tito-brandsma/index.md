@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e impacto de São Tito Brandsma,
 
 # São Tito Brandsma
 
-![São Tito Brandsma](imagens/portrait.jpg)
+![São Tito Brandsma](imagens/restaurada_colorida_4k.jpg)
 
 > "Quem quer ganhar o mundo para Cristo deve ter coragem de entrar em conflito com o mundo."
 
@@ -38,6 +38,13 @@ Mesmo nos momentos finais, Tito orou e perdoou sua algoz, até mesmo lhe entrega
 
 1.  **Rosário improvisado:** O rosário que Tito deixou como último presente à sua algoz tinha sido feito por outro prisioneiro a partir de resíduos de cobre.
 2.  **Jornalista Mártir:** Ele é amplamente reconhecido como o patrono oficioso dos jornalistas católicos modernos por seu compromisso inabalável com a verdade em tempos de repressão ditatorial e ideologia da mentira.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Tito Brandsma Original](imagens/original.jpg) | ![São Tito Brandsma Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

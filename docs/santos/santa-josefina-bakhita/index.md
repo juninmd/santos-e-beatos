@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Josefina Bakhita.
 
 # Santa Josefina Bakhita
 
-![Santa Josefina Bakhita](imagens/portrait.jpg)
+![Santa Josefina Bakhita](imagens/restaurada_4k.jpg)
 
 > "A Virgem me protegeu, mesmo quando eu não a conhecia."
 
@@ -53,6 +53,13 @@ Após sua morte, começaram a ser relatados inúmeros milagres. Entre os que lev
 2.  **Perdão Radical:** Sua atitude de desejar beijar as mãos dos seus algozes é um dos mais impressionantes testemunhos de perdão da história da Igreja.
 3.  **Primeira Santa Sudanesa:** Bakhita é a primeira santa canonizada do Sudão e é considerada a padroeira deste país, que ainda hoje sofre por conflitos e pobreza.
 4.  **Contra a Escravidão Moderna:** Em 2015, o Papa Francisco instituiu o Dia Mundial de Oração e Reflexão contra o Tráfico de Pessoas na data de sua festa litúrgica, 8 de fevereiro, em homenagem a ela.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Josefina Bakhita Original](imagens/original.jpg) | ![Santa Josefina Bakhita Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

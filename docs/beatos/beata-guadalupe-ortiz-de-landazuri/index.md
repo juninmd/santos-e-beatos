@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Guadalupe Ortiz d
 
 # Beata Guadalupe Ortiz de Landázuri
 
-![Beata Guadalupe Ortiz de Landázuri](imagens/portrait.jpg)
+![Beata Guadalupe Ortiz de Landázuri](imagens/restaurada_colorida_4k.jpg)
 
 > "Cientista e Primeira Leiga Numerária do Opus Dei a ser Beatificada"
 
@@ -40,6 +40,12 @@ O milagre que permitiu a sua beatificação envolveu a cura instantânea e inexp
 2.  **Viagem de Barco para o México:** Quando foi para o México em 1950 para iniciar o trabalho do Opus Dei, as finanças eram tão escassas que viajou num cargueiro.
 3.  **Doença de Coração:** Sofreu de uma cardiopatia severa durante muitos anos, que suportou sem perder a alegria ou o ritmo de trabalho. A sua morte ocorreu aos 58 anos, coincidentemente no dia de Nossa Senhora do Carmo (16 de julho), após uma longa batalha com essa condição.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beata Guadalupe Ortiz de Landázuri Original](imagens/original.jpg) | ![Beata Guadalupe Ortiz de Landázuri Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 *   Madri, Espanha (Nascimento e vida universitária)

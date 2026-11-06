@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Dulce dos Pobres.
 
 # Santa Dulce dos Pobres
 
-![Santa Dulce dos Pobres](imagens/portrait.jpg)
+![Santa Dulce dos Pobres](imagens/restaurada_4k.jpg)
 
 > "O Anjo Bom da Bahia"
 
@@ -41,6 +41,13 @@ Para a canonização, o Vaticano reconheceu a cura milagrosa de um homem cego h�
 1.  **Indicação ao Nobel:** Em 1988, foi indicada ao Prêmio Nobel da Paz pelo então presidente José Sarney, com o apoio da Rainha Sílvia da Suécia.
 2.  **Encontro com João Paulo II:** Em suas visitas ao Brasil, o Papa João Paulo II fez questão de encontrar-se com Irmã Dulce. Em 1991, já muito doente, ela recebeu a visita do Papa no hospital.
 3.  **Futebol:** Era torcedora apaixonada do Esporte Clube Ypiranga, time de futebol baiano.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Dulce dos Pobres Original](imagens/original.jpg) | ![Santa Dulce dos Pobres Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

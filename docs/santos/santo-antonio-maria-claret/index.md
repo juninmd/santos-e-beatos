@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Antônio Maria Cl
 
 # Santo Antônio Maria Claret
 
-![Santo Antônio Maria Claret](imagens/portrait.jpg)
+![Santo Antônio Maria Claret](imagens/restaurada_4k.jpg)
 
 > "Um filho do Imaculado Coração de Maria é um homem que arde em caridade e onde quer que passe queima."
 
@@ -39,6 +39,13 @@ Destaca-se sua capacidade de multiplicar pães para os pobres e a cura instantâ
 2. **Defensor dos Escravos:** Em Cuba, sua atuação em defesa dos negros e escravizados rendeu-lhe o ódio dos latifundiários e traficantes de escravos, o que levou a múltiplos atentados contra sua vida. No mais famoso deles, em Holguín (1856), um assassino cortou o rosto e o braço do arcebispo, mas ele sobreviveu e perdoou o agressor.
 3. **Visão Profética:** Muitas das suas pregações e advertências proféticas foram documentadas, demonstrando uma visão aguçada das crises sociais e religiosas iminentes no mundo moderno.
 4. **Padroeiro:** Santo Antônio Maria Claret é invocado como padroeiro dos tecelões, dos editores, dos católicos no setor editorial e dos catequistas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Antônio Maria Claret Original](imagens/original.jpg) | ![Santo Antônio Maria Claret Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

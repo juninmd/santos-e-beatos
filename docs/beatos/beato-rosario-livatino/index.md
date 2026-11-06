@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Rosário Livatino
 
 # Beato Rosário Livatino
 
-![Beato Rosário Livatino](imagens/portrait.jpg)
+![Beato Rosário Livatino](imagens/restaurada_4k.jpg)
 
 > "Sub Tutela Dei" (Sob a proteção de Deus)"
 
@@ -47,6 +47,12 @@ Ele dizia: *"Quando morrermos, ninguém nos perguntará o quanto fomos crentes, 
 3.  **Conversão do Assassino:** Gaetano Puzzangaro, um dos assassinos, arrependeu-se na prisão e testemunhou no processo de beatificação de Livatino.
 4.  **Relíquia:** A camisa ensanguentada que ele usava no dia de sua morte é venerada como relíquia.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Rosário Livatino Original](imagens/original.jpg) | ![Beato Rosário Livatino Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

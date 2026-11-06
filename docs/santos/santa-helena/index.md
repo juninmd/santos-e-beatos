@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Helena, a imperat
 
 # Santa Helena
 
-![Santa Helena](imagens/portrait.jpg)
+![Santa Helena](imagens/restaurada_4k.jpg)
 
 > "A imperatriz e primeira peregrina, descobridora da Verdadeira Cruz."
 
@@ -42,6 +42,13 @@ A história de Santa Helena é profundamente marcada pelos fatos miraculosos env
 - **Edificação de Basílicas:** Foi por ordem e financiamento seu e de Constantino que as primeiras grandes basílicas da Terra Santa foram erguidas, com destaque para a Basílica da Natividade em Belém, e a Basílica do Santo Sepulcro, no Gólgota, em Jerusalém.
 - **A Escada Santa:** Além da Cruz, a tradição diz que ela também levou para Roma a chamada "Escada Santa" (Scala Sancta), os degraus do Pretório de Pôncio Pilatos, pelos quais Jesus subiu antes de ser julgado.
 - **Iconografia:** Nas artes e pinturas, ela é quase sempre representada vestida de imperatriz (com manto e coroa) enquanto segura a Santa Cruz e, frequentemente, acompanhada dos cravos da Paixão.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Helena Original](imagens/original.jpg) | ![Santa Helena Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

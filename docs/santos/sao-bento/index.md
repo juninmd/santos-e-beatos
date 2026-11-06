@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bento.
 
 # São Bento
 
-![São Bento](imagens/portrait.jpg)
+![São Bento](imagens/restaurada_4k.jpg)
 
 > "Ora et Labora (Reza e Trabalha)."
 
@@ -48,6 +48,13 @@ A vida de São Bento, narrada pelo Papa São Gregório Magno em seus "Diálogos"
 *   **Padroeiro da Europa:** Foi declarado Padroeiro de toda a Europa pelo Papa Paulo VI em 1964, reconhecendo o papel dos beneditinos na preservação da cultura e civilização ocidentais durante a Idade Média.
 *   **Visão do Mundo:** Diz-se que, pouco antes de morrer, Bento teve uma visão em que viu o mundo inteiro reunido em um único raio de sol, simbolizando que a alma elevada a Deus vê a criação em sua verdadeira perspectiva (pequena diante do Criador).
 *   **O Corvo:** O corvo é frequentemente representado na iconografia de São Bento, lembrando o episódio do pão envenenado.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Bento Original](imagens/original.jpg) | ![São Bento Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

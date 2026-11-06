@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Josemaria Escrivá
 
 # São Josemaria Escrivá
 
-![São Josemaria Escrivá](imagens/portrait.jpg)
+![São Josemaria Escrivá](imagens/restaurada_colorida_4k.jpg)
 
 > "A santidade não é coisa para privilegiados: o Senhor chama-nos a todos, de todos espera Amor."
 
@@ -35,6 +35,13 @@ O milagre da beatificação consistiu na cura da irmã carmelita da caridade Con
 1. **O "Caminho":** É autor do livro "Caminho", um clássico da espiritualidade moderna publicado pela primeira vez em 1939, que contém 999 pontos de meditação e já vendeu milhões de exemplares em dezenas de idiomas.
 2. **Sorriso e Bom Humor:** Era conhecido por afirmar repetidamente que o autêntico cristão deve estar "sempre alegre, sorridente", vivendo a alegria como consequência natural da sua filiação divina.
 3. **O Apóstolo do Ordinário:** O Papa João Paulo II, que o canonizou, chamou-o de "o santo do ordinário", enfatizando a sua mensagem de que as coisas pequenas e cotidianas são o caminho para a união com Deus.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Josemaria Escrivá Original](imagens/original.jpg) | ![São Josemaria Escrivá Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

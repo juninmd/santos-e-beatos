@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa do Beato Maurício Tornay
 
 # Beato Maurício Tornay
 
-![Beato Maurício Tornay](imagens/portrait.jpg)
+![Beato Maurício Tornay](imagens/restaurada_colorida_4k.jpg)
 
 > "Para a minha vocação, eu deixaria tudo, faria todos os sacrifícios."
 
@@ -40,6 +40,12 @@ Determinados a impedir que o Padre Maurício levasse sua causa às autoridades e
 - A missão de São Bernardo no Tibete era tão isolada que a correspondência podia levar meses ou até anos para chegar à Europa.
 - Ele foi beatificado pelo Papa João Paulo II ao lado de outros mártires missionários.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Maurício Tornay Original](imagens/original.jpg) | ![Beato Maurício Tornay Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - La Rosière, Orsières, Suíça (Nascimento e juventude)

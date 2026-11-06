@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Stanley Rother.
 
 # Beato Stanley Rother
 
-![Beato Stanley Rother](imagens/portrait.jpg)
+![Beato Stanley Rother](imagens/restaurada_4k.jpg)
 
 > "O Pastor que não abandona o rebanho"
 
@@ -47,6 +47,12 @@ Seu coração e seu sangue, recolhidos após o assassinato, permanecem incorrupt
 3.  **Amor à Terra:** Nunca esqueceu suas raízes de fazendeiro e muitas vezes era visto dirigindo o trator da paróquia ou consertando equipamentos.
 4.  **Relíquia:** Seu quarto em Santiago Atitlán foi transformado em capela, e o local onde seu sangue foi derramado é um lugar de peregrinação.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Stanley Rother Original](imagens/original.jpg) | ![Beato Stanley Rother Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 *   **Okarche, Oklahoma (EUA):** Cidade natal, onde cresceu e está sepultado.

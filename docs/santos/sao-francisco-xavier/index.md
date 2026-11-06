@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Francisco Xavier.
 
 # São Francisco Xavier
 
-![São Francisco Xavier](imagens/portrait.jpg)
+![São Francisco Xavier](imagens/restaurada_4k.jpg)
 
 > "Senhor, eis-me aqui! Que queres que eu faça?"
 
@@ -42,6 +42,13 @@ São atribuídos a São Francisco Xavier inúmeros milagres, tanto em vida quant
 1.  **Corpo Incorrupto:** Seu corpo, que permanece incorrupto, repousa na Basílica do Bom Jesus em Goa, na Índia, e é exposto para veneração pública a cada dez anos.
 2.  **Padroeiro das Missões:** Em 1927, o Papa Pio XI o proclamou Padroeiro Universal das Missões, juntamente com Santa Teresinha do Menino Jesus.
 3.  **Viagens:** Estima-se que ele tenha percorrido cerca de 100.000 km em suas viagens missionárias, o equivalente a mais de duas voltas ao redor da Terra, em condições precárias do século XVI.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Francisco Xavier Original](imagens/original.jpg) | ![São Francisco Xavier Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa de Santa Eulália de Mér
 
 # Santa Eulália de Mérida
 
-![Santa Eulália de Mérida](imagens/portrait.jpg)
+![Santa Eulália de Mérida](imagens/restaurada_4k.jpg)
 
 > "Podeis queimar-me, ferir-me, mas nunca podereis arrancar o meu Deus do coração."
 
@@ -35,6 +35,13 @@ Finalmente, foi condenada a morrer na fogueira (ou sufocada pelo fumo, segundo a
 * O martírio de Santa Eulália teve um impacto gigantesco, tornando-se uma das santas mais veneradas de Espanha e da Europa cristã medieval. O poeta cristão Prudêncio escreveu um famoso hino em sua honra, que muito contribuiu para a divulgação da sua história.
 * Uma basílica foi erigida sobre o seu túmulo em Mérida, que se tornou um dos mais importantes centros de peregrinação na Península Ibérica durante a Antiguidade Tardia e a Idade Média.
 * Frequentemente é confundida ou identificada com Santa Eulália de Barcelona, embora muitos historiadores acreditem tratar-se da mesma santa com a história adaptada a diferentes regiões.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Eulália de Mérida Original](imagens/original.jpg) | ![Santa Eulália de Mérida Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

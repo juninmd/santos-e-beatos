@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Faustina Kowalska
 
 # Santa Faustina Kowalska
 
-![Santa Faustina Kowalska](imagens/santa-faustina.jpg)
+![Santa Faustina Kowalska](imagens/restaurada_4k.jpg)
 
 > "Apóstola da Divina Misericórdia"
 
@@ -43,6 +43,13 @@ Outro milagre reconhecido para a canonização foi a cura de um padre polonês q
 1.  **O Pintor:** A primeira imagem de Jesus Misericordioso foi pintada por Eugeniusz Kazimirowski em Vilnius, sob a supervisão direta da Irmã Faustina, que chorava porque a pintura não conseguia retratar a beleza de Jesus que ela via. Jesus consolou-a dizendo: "Não é na beleza da tinta nem na habilidade do pintor que está a grandeza desta imagem, mas na Minha graça".
 2.  **Profecias:** Ela previu a Segunda Guerra Mundial e que a sua mensagem seria temporariamente suprimida pela Igreja (o que aconteceu entre 1959 e 1978 devido a traduções incorretas do Diário), antes de ser aceita e espalhada pelo mundo.
 3.  **João Paulo II:** O Papa João Paulo II, também polonês, tinha uma profunda devoção por ela e pela mensagem da Divina Misericórdia, considerando sua canonização como o dia mais feliz de sua vida.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Faustina Kowalska Original](imagens/original.jpg) | ![Santa Faustina Kowalska Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Catarina Labouré
 
 # Santa Catarina Labouré
 
-![Santa Catarina Labouré](imagens/portrait.jpg)
+![Santa Catarina Labouré](imagens/restaurada_4k.jpg)
 
 > "A Santíssima Virgem quer encarregar-vos de uma missão."
 
@@ -41,6 +41,13 @@ Apesar das visões extraordinárias, Catarina viveu o resto de sua vida no anoni
 A Medalha Milagrosa rapidamente se espalhou pela França e pelo mundo, sendo associada a inúmeros milagres de conversão e cura, inclusive durante uma epidemia de cólera em Paris em 1832.
 
 Um dos fatos mais notáveis sobre Santa Catarina é que, quando seu corpo foi exumado em 1933, 57 anos após sua morte, foi encontrado incorrupto. Seus olhos ainda estavam azuis e seus membros flexíveis. Atualmente, seu corpo repousa na Capela de Nossa Senhora da Medalha Milagrosa, na Rue du Bac, em Paris.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Catarina Labouré Original](imagens/original.jpg) | ![Santa Catarina Labouré Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

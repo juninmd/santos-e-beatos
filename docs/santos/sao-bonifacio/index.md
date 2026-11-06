@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Bonifácio.
 
 # São Bonifácio
 
-![São Bonifácio](imagens/portrait.jpg)
+![São Bonifácio](imagens/restaurada_4k.jpg)
 
 > "Aquele que tiver a mente fortalecida pela paciência não se deixará perturbar pelas aflições, mas se tornará mais forte."
 
@@ -57,7 +57,14 @@ Aos 79 anos, decidiu retornar à Frísia para continuar sua missão original. No
 
 São Bonifácio é reverenciado não apenas como padroeiro da Alemanha (e da Inglaterra em alguns contextos), mas como um herói civilizacional. Sua obra de fundar igrejas, dioceses e mosteiros ajudou a moldar a Europa cristã medieval. O mosteiro de Fulda, fundado por ele e seu discípulo Santo Estêvão, tornou-se o centro religioso mais proeminente da Alemanha durante séculos e um importante bastião da erudição ocidental. Além disso, a tradição popular da árvore de Natal também ecoa seu legado pastoral na transformação de costumes pagãos em símbolos cristãos.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Bonifácio Original](imagens/original.jpg) | ![São Bonifácio Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Maria Madalena.
 
 # Santa Maria Madalena
 
-![Santa Maria Madalena](imagens/portrait.jpg)
+![Santa Maria Madalena](imagens/restaurada_4k.jpg)
 
 > "Vi o Senhor!"
 
@@ -42,6 +42,13 @@ Os relatos medievais da Provença atribuem-lhe a conversão do governador de Mar
 2. **Sainte-Baume:** a gruta da Provença é local de peregrinação contínua desde o século XIII e é cuidada pelos dominicanos.
 3. **Não era prostituta:** nenhum texto bíblico faz essa associação; ela nasce da homilia de Gregório Magno e foi corrigida pela liturgia contemporânea.
 4. **Padroeira:** dos penitentes, dos perfumistas, cabeleireiros, jardineiros e das mulheres em situação de violência.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Maria Madalena Original](imagens/original.jpg) | ![Santa Maria Madalena Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

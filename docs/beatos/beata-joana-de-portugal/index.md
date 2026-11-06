@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Joana de Portugal
 
 # Beata Joana de Portugal
 
-![Beata Joana de Portugal](imagens/portrait.jpg)
+![Beata Joana de Portugal](imagens/restaurada_4k.jpg)
 
 > "A Princesa Santa"
 
@@ -38,6 +38,12 @@ Um dos relatos mais conhecidos descreve que as flores sobre o seu túmulo não m
 2. **Arte Mestra:** O túmulo da Beata Joana, localizado no Museu de Aveiro (antigo Mosteiro de Jesus), é considerado uma obra-prima da talha barroca e da arte em mosaico de mármore, sendo um dos monumentos mais visitados de Portugal.
 3. **Festa dos Ovos Moles:** A sua vida está intrinsecamente ligada à cidade de Aveiro, e o doce regional mais famoso da cidade, os "Ovos Moles", tem origem nos conventos da região, herança da época em que a princesa viveu.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Joana de Portugal Original](imagens/original.jpg) | ![Beata Joana de Portugal Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Lisboa:** Cidade onde nasceu, cresceu na corte e exerceu temporariamente o cargo de regente do reino.

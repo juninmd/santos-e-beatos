@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Gabriel de Nossa S
 
 # São Gabriel de Nossa Senhora das Dores
 
-![São Gabriel de Nossa Senhora das Dores](imagens/portrait.jpg)
+![São Gabriel de Nossa Senhora das Dores](imagens/restaurada_4k.jpg)
 
 > "Francisco, o que fazes no mundo? Tu não foste feito para ele. Segue a tua vocação!"
 
@@ -39,6 +39,13 @@ Após sua morte, sua fama de santidade espalhou-se rapidamente. Muitos milagres 
 1.  **O Santo do Sorriso:** É frequentemente chamado de "Santo do Sorriso" pela alegria que irradiava, mesmo na doença e no sofrimento.
 2.  **Santuário Popular:** Seu santuário em Isola del Gran Sasso, na região de Abruzzo, é um dos mais visitados da Europa, atraindo milhões de peregrinos anualmente, especialmente jovens.
 3.  **Padroeiro de Abruzzo:** É o santo padroeiro da região de Abruzzo, na Itália.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Gabriel de Nossa Senhora das Dores Original](imagens/original.jpg) | ![São Gabriel de Nossa Senhora das Dores Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Martinho de Tours.
 
 # São Martinho de Tours
 
-![São Martinho de Tours](imagens/portrait.jpg)
+![São Martinho de Tours](imagens/restaurada_4k.jpg)
 
 > "O Santo do Manto Dividido"
 
@@ -40,6 +40,13 @@ A São Martinho são atribuídos diversos milagres, tanto em vida quanto após a
 1. **A Palavra "Capela":** A metade do manto que Martinho guardou tornou-se uma relíquia muito venerada pelos reis francos. O manto era chamado de "cappa" em latim tardio, e o pequeno santuário construído para guardá-lo foi chamado de "capella". Os sacerdotes responsáveis eram os "cappellani". Daí surgiram as palavras "capela" e "capelão".
 2. **Verão de São Martinho:** A sua festa litúrgica, em 11 de novembro, muitas vezes coincide com um breve período de clima ameno e ensolarado no outono europeu, conhecido em Portugal e outros lugares como o "Verão de São Martinho".
 3. **Padroeiro:** Ele é padroeiro da França (junto com outros santos, como Santa Joana d'Arc), de Tours, dos soldados, dos cavaleiros, dos fabricantes de vinho e dos mendigos.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Martinho de Tours Original](imagens/original.jpg) | ![São Martinho de Tours Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

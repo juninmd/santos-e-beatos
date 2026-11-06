@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Vicente Ferrer.
 
 # São Vicente Ferrer
 
-![São Vicente Ferrer](imagens/portrait.png)
+![São Vicente Ferrer](imagens/restaurada_4k.jpg)
 
 > "O Anjo do Apocalipse"
 
@@ -38,6 +38,13 @@ Sua vida e processo de canonização estão repletos de relatos de eventos extra
 1. **Patrocínio:** Ele é reverenciado como o padroeiro dos construtores, dos pescadores, de órfãos e orfanatos.
 2. **Símbolo:** Nas representações artísticas, São Vicente Ferrer é frequentemente mostrado vestido com o hábito dominicano, segurando um livro ou um crucifixo e, quase sempre, apontando o dedo indicador para cima (simbolizando sua pregação sobre o juízo final e o céu) e com asas (uma referência ao título de "Anjo do Apocalipse").
 3. **Púlpitos nas Ruas:** Como as igrejas muitas vezes não comportavam o grande número de pessoas que queriam ouvi-lo, era comum construírem-se púlpitos temporários nas praças públicas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Vicente Ferrer Original](imagens/original.jpg) | ![São Vicente Ferrer Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

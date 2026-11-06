@@ -38,6 +38,12 @@ A esposa e as filhas de Giovanni começaram a rezar intensamente, pedindo a inte
 2. **Flebotomista Papal:** Em Roma, Luigi Monti destacou-se tanto nas suas habilidades médicas e dedicação que o Papa Pio IX, que o estimava muito, referia-se a ele como o "Belo Enfermeiro". Ele obteve o diploma de flebotomista da prestigiada universidade romana "La Sapienza", trabalhando não apenas com a caridade espiritual, mas com conhecimento médico de ponta para a sua época.
 3. **Pai dos Órfãos:** Durante as epidemias de varíola e cólera do final do século XIX, vendo a quantidade imensa de crianças vagando pelas ruas após a morte dos pais, o Irmão Luigi comprou terras e fundou aldeias inteiras para eles. Tornou-se pai de centenas de órfãos que o tratavam afetuosamente por "Papà Luigi".
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Luigi Maria Monti Original](imagens/original.jpg) | ![Beato Luigi Maria Monti Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - Bovisio Masciago (Itália)
@@ -60,6 +66,6 @@ A figura de Luigi Monti representa um ideal poderoso para os profissionais de sa
 
 ## Galeria
 
-| ![Retrato](imagens/portrait.png) | ![Capa](./imagens/cover.jpg) |
+| ![Retrato](imagens/restaurada_colorida_4k.jpg) | ![Capa](./imagens/cover.jpg) |
 | :---: | :---: |
 | *Retrato de Beato Luigi Maria Monti.* | *Beato Luigi Maria Monti.* |

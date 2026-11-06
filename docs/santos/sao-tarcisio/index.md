@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Tarcísio.
 
 # São Tarcísio
 
-![São Tarcísio](imagens/portrait.jpg)
+![São Tarcísio](imagens/restaurada_4k.jpg)
 
 > "Mártir da Eucaristia"
 
@@ -43,6 +43,13 @@ São Tarcísio é frequentemente invocado por ministros extraordinários e acól
 - **Padroeiro:** São Tarcísio é o santo padroeiro dos coroinhas, acólitos e ministros extraordinários da sagrada comunhão.
 - **Iconografia:** É frequentemente representado com as mãos unidas sobre o peito protegendo algo, vestido com a túnica típica do período romano (frequentemente com uma cruz no peito) ou com roupas litúrgicas de coroinha.
 - **Literatura:** Ele aparece em destaque no famoso romance católico de 1854, *Fabiola*, do Cardeal Nicholas Wiseman.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Tarcísio Original](imagens/original.jpg) | ![São Tarcísio Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

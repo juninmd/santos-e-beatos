@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pier Giorgio Frass
 
 # São Pier Giorgio Frassati
 
-![São Pier Giorgio Frassati](imagens/pier-giorgio.jpg)
+![São Pier Giorgio Frassati](imagens/restaurada_colorida_4k.jpg)
 
 > "O Homem das Oito Bem-Aventuranças"
 
@@ -41,7 +41,7 @@ Embora sua vida tenha sido curta, sua fama de santidade explodiu em seu funeral,
 
 Sua beatificação por João Paulo II confirmou suas virtudes heroicas. Ele é frequentemente citado como patrono informal dos jovens e dos esportistas. Milagres de cura foram atribuídos à sua intercessão para o processo de beatificação.
 
-(Nota: Sua canonização é aguardada com grande expectativa pela Igreja, especialmente no contexto dos Jubileus e Jornadas Mundiais da Juventude).
+Foi solenemente canonizado em 7 de setembro de 2025, na Praça de São Pedro, pelo Papa Leão XIV, na mesma celebração de Carlo Acutis, como modelo perpétuo da juventude católica.
 
 ## Curiosidades
 
@@ -49,6 +49,13 @@ Sua beatificação por João Paulo II confirmou suas virtudes heroicas. Ele é f
 2.  **Engenheiro de Minas:** Escolheu essa profissão para estar perto dos operários mais explorados da época.
 3.  **Corpo Incorrupto:** Quando seu corpo foi transladado em 1981, foi encontrado incorrupto.
 4.  **Cachimbo:** É frequentemente retratado fumando cachimbo, mostrando que a santidade é compatível com hábitos cotidianos saudáveis e a alegria.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Pier Giorgio Frassati Original](imagens/original.jpg) | ![São Pier Giorgio Frassati Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

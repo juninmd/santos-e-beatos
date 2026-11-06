@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pedro.
 
 # São Pedro
 
-![São Pedro](imagens/portrait.jpg)
+![São Pedro](imagens/restaurada_4k.jpg)
 
 > "Tu és Pedro, e sobre esta pedra edificarei a minha Igreja."
 
@@ -45,6 +45,13 @@ Como primeiro Bispo de Roma, é reconhecido pela Igreja Católica como o primeir
 2. **O túmulo sob a Basílica:** escavações realizadas no século XX sob o altar da Basílica de São Pedro encontraram uma necrópole romana e um conjunto de ossos venerado desde a Antiguidade como o sepulcro do apóstolo.
 3. **As chaves:** é quase sempre representado com duas chaves, símbolo do poder de "atar e desatar" recebido de Cristo, e com um galo, lembrança da negação.
 4. **Padroeiro:** dos pescadores, dos serralheiros e chaveiros, dos papas e da própria cidade de Roma, junto com São Paulo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Pedro Original](imagens/original.jpg) | ![São Pedro Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

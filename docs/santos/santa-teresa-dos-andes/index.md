@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Teresa dos Andes.
 
 # Santa Teresa dos Andes
 
-![Santa Teresa dos Andes](imagens/portrait.jpg)
+![Santa Teresa dos Andes](imagens/restaurada_4k.jpg)
 
 > "A primeira santa chilena"
 
@@ -35,6 +35,13 @@ Os milagres atribuídos a Santa Teresa dos Andes são muitos, sendo a maioria cu
 1. **Jovem Padroeira:** Ela é considerada a padroeira dos jovens no Chile devido à sua morte prematura e intensa dedicação espiritual.
 2. **Diário Pessoal:** Os seus pensamentos e experiências espirituais foram preservados no seu diário e nas muitas cartas que escreveu, que mais tarde foram publicadas e inspiraram muitos a buscar uma vida de santidade.
 3. **Primeira do Chile:** Foi a primeira pessoa chilena a ser elevada aos altares da Igreja Católica.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Teresa dos Andes Original](imagens/original.jpg) | ![Santa Teresa dos Andes Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

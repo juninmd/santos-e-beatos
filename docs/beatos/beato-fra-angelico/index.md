@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Fra Angelico (Jo�
 
 # Beato Fra Angelico (João de Fiesole)
 
-![Beato Fra Angelico (João de Fiesole)](imagens/fra-angelico.jpg)
+![Beato Fra Angelico (João de Fiesole)](imagens/restaurada_4k.jpg)
 
 > "Para pintar as coisas de Cristo, é preciso viver com Cristo."
 
@@ -38,6 +38,12 @@ Sua beatificação reconheceu o culto imemorial e a fama de santidade que o acom
 2.  **Túmulo:** Está sepultado na Basílica de Santa Maria sopra Minerva, em Roma.
 3.  **Apelido:** O nome "Angelico" foi dado postumamente devido à beleza espiritual de suas figuras e à sua própria virtude.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Fra Angelico (João de Fiesole) Original](imagens/original.jpg) | ![Beato Fra Angelico (João de Fiesole) Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Fra Angelico viveu e trabalhou nos principais centros da Itália renascentista.

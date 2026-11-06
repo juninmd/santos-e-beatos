@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Francisco de Paula
 
 # São Francisco de Paula
 
-![São Francisco de Paula](imagens/portrait.jpg)
+![São Francisco de Paula](imagens/restaurada_4k.jpg)
 
 > "A quem ama a Deus, tudo é possível."
 
@@ -39,6 +39,13 @@ A vida de São Francisco de Paula é repleta de relatos de milagres. Um dos mais
 1.  **Padroeiro:** É o padroeiro dos marinheiros e oficiais da marinha italiana, devido ao milagre de cruzar o estreito de Messina em seu manto.
 2.  **Lema:** O emblema da Ordem dos Mínimos carrega a palavra "Charitas" envolvida em raios de luz, que Francisco teria visto no céu, trazida pelo Arcanjo Miguel.
 3.  **Longevidade:** Apesar de sua vida de extrema penitência e jejum rigoroso (incluindo a abstinência perpétua de produtos de origem animal), ele viveu até os 91 anos de idade.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Francisco de Paula Original](imagens/original.jpg) | ![São Francisco de Paula Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Isabel Cristina.
 
 # Beata Isabel Cristina
 
-![Beata Isabel Cristina](imagens/isabel-cristina.jpg)
+![Beata Isabel Cristina](imagens/restaurada_4k.jpg)
 
 > "Mártir da Castidade e do Respeito à Mulher"
 
@@ -37,6 +37,12 @@ O processo de beatificação foi aberto em 2001. O Papa Francisco reconheceu seu
 1.  **Mártir da Castidade:** Assim como Santa Maria Goretti e a Beata Benigna, Isabel Cristina é venerada por defender a pureza até o fim.
 2.  **Lírios:** É frequentemente representada com lírios brancos (pureza) e a palma (martírio).
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Isabel Cristina Original](imagens/original.jpg) | ![Beata Isabel Cristina Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 O mapa abaixo reúne os lugares ligados a Beata Isabel Cristina: nascimento, morte, milagres e locais de devoção.

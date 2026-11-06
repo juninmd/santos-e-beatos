@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Brás.
 
 # São Brás
 
-![São Brás](imagens/portrait.jpg)
+![São Brás](imagens/restaurada_4k.jpg)
 
 > "Ó glorioso São Brás, que restituístes com uma breve oração a perfeita saúde a um menino que, por uma espinha de peixe atravessada na garganta, estava prestes a expirar, obtende para nós todos a graça de experimentarmos a eficácia do vosso patrocínio."
 
@@ -38,6 +38,13 @@ Outro relato milagroso conta que uma pobre mulher teve seu único porco roubado 
 *   **Padroeiro:** Além de ser invocado contra males da garganta, é padroeiro dos otorrinolaringologistas, veterinários, cardadores de lã e de diversas cidades ao redor do mundo.
 *   **Iconografia:** É frequentemente representado com trajes episcopais (mitra e báculo), segurando duas velas cruzadas ou um pente de ferro (instrumento de seu martírio). Às vezes, aparece abençoando um menino ou cercado por animais.
 *   **Os 14 Santos Auxiliares:** São Brás faz parte do grupo dos Catorze Santos Auxiliares, invocados na Idade Média contra a Peste Negra e outras calamidades.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Brás Original](imagens/original.jpg) | ![São Brás Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

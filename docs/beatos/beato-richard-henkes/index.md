@@ -5,7 +5,7 @@ description: Conheça a história e o martírio de Beato Richard Henkes, sacerdo
 
 # Beato Richard Henkes
 
-![Beato Richard Henkes](imagens/portrait.jpg)
+![Beato Richard Henkes](imagens/restaurada_4k.jpg)
 
 > "A cruz é a nossa salvação."
 
@@ -36,6 +36,12 @@ Demonstrando heroica caridade, ele dedicou as últimas semanas de sua vida alime
 - Durante o seu tempo em cativeiro em Dachau, ele fez grandes amizades, incluindo a do futuro cardeal tcheco Josef Beran. A amizade deles foi tão forte que Henkes dedicou-se a estudar o tcheco para poder servir melhor os prisioneiros dessa origem.
 - Foi beatificado em 2019 na Catedral de Limburgo, Alemanha, em uma cerimônia que celebrou seu testemunho como "Mártir da Caridade".
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Richard Henkes Original](imagens/original.jpg) | ![Beato Richard Henkes Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Ruppach-Goldhausen, Alemanha:** Cidade de seu nascimento.

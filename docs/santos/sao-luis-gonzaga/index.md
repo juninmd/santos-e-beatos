@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Luís Gonzaga.
 
 # São Luís Gonzaga
 
-![São Luís Gonzaga](imagens/portrait.png)
+![São Luís Gonzaga](imagens/restaurada_4k.jpg)
 
 > "Como os outros, não."
 
@@ -33,6 +33,13 @@ Sua espiritualidade era marcada por uma profunda humildade e amor à Eucaristia.
 - **Padroeiro da Juventude:** Foi declarado Padroeiro da Juventude Cristã pelo Papa Bento XIII.
 - **Primeira Comunhão:** Recebeu a Primeira Comunhão das mãos de São Carlos Borromeu.
 - **Milagres:** Muitos milagres de cura foram atribuídos à sua intercessão logo após sua morte.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Luís Gonzaga Original](imagens/original.jpg) | ![São Luís Gonzaga Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

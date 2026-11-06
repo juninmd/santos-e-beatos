@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pio X.
 
 # São Pio X
 
-![São Pio X](imagens/portrait.jpg)
+![São Pio X](imagens/restaurada_colorida_4k.jpg)
 
 > "Renovar todas as coisas em Cristo."
 
@@ -43,6 +43,13 @@ Durante sua vida, e especialmente após a sua morte, muitos milagres foram atrib
 1. **O Papa da Eucaristia:** São Pio X é frequentemente lembrado como o "Papa da Eucaristia" por ter encorajado a recepção frequente e diária da Comunhão.
 2. **Primeira Comunhão:** Reduziu a idade para a Primeira Comunhão para a "idade da razão" (cerca de 7 anos), uma prática que continua até hoje na Igreja.
 3. **Morte:** Morreu em 1914, profundamente abalado pelo início da Primeira Guerra Mundial, tendo afirmado que oferecia sua vida para deter a guerra.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Pio X Original](imagens/original.jpg) | ![São Pio X Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

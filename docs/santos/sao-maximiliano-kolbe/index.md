@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Maximiliano Kolbe.
 
 # São Maximiliano Kolbe
 
-![São Maximiliano Kolbe](imagens/maximiliano.jpg)
+![São Maximiliano Kolbe](imagens/restaurada_colorida_4k.jpg)
 
 > "O ódio não é força criativa: só o amor é criativo."
 
@@ -51,6 +51,13 @@ Para sua beatificação e canonização, foram reconhecidos milagres de cura ine
 1.  **As Duas Coroas:** Quando criança, teve uma visão de Nossa Senhora, que lhe ofereceu duas coroas: uma branca (pureza) e uma vermelha (martírio). O pequeno Rajmund aceitou as duas.
 2.  **Padroeiro:** É considerado padroeiro das famílias, dos jornalistas, dos radioamadores e dos dependentes químicos.
 3.  **Radioamadorismo:** Sua estação de rádio tinha o indicativo SP3RN.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Maximiliano Kolbe Original](imagens/original.jpg) | ![São Maximiliano Kolbe Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

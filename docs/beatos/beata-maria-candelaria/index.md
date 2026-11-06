@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Beata Maria Candelária
 
 # Beata Maria Candelária de São José
 
-![Beata Maria Candelária de São José](imagens/retrato.svg)
+![Beata Maria Candelária de São José](imagens/restaurada_4k.jpg)
 
 > "Consoladora dos Abandonados"
 
@@ -36,6 +36,12 @@ O milagre que lhe abriu o caminho para a beatificação ocorreu em 1995, na Vene
 2. **Humildade e Paz:** Embora tenha sido a fundadora da congregação, a sua humildade e vida simples levavam a que por vezes não se distinguisse das demais irmãs perante visitantes, insistindo sempre em realizar as tarefas mais humildes e pesadas.
 3. **Pioneira na Venezuela:** Tornou-se na segunda mulher venezuelana a ser elevada à glória dos altares na história da Igreja.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Candelária de São José Original](imagens/original.jpg) | ![Beata Maria Candelária de São José Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 A ação de Maria Candelária ocorreu fundamentalmente no seu país natal.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Rosa de Lima.
 
 # Santa Rosa de Lima
 
-![Santa Rosa de Lima](imagens/portrait.jpg)
+![Santa Rosa de Lima](imagens/restaurada_4k.jpg)
 
 > "Fora da Cruz não existe outra escada por onde subir ao céu."
 
@@ -41,6 +41,13 @@ Muitos milagres são atribuídos à sua intercessão, tanto em vida quanto após
 1.  **Mudança de Nome:** Embora batizada como Isabel, o nome Rosa se impôs. Ela mesma acrescentou "de Santa Maria" mais tarde.
 2.  **Coroa de Espinhos:** Usava uma coroa de prata sob o véu, que continha espinhos em seu interior, como forma de penitência oculta.
 3.  **Padroeira:** É padroeira da América Latina, do Peru, das Filipinas, dos jardineiros e dos floristas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Rosa de Lima Original](imagens/original.jpg) | ![Santa Rosa de Lima Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

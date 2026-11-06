@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Roque.
 
 # São Roque
 
-![São Roque](imagens/portrait.jpg)
+![São Roque](imagens/restaurada_4k.jpg)
 
 > "O Peregrino e Protetor contra as Pestes"
 
@@ -40,6 +40,13 @@ Os milagres de São Roque estão profundamente ligados à cura da peste.
 - **O Santo do Cão:** Na arte sacra, São Roque é quase sempre representado como um peregrino mostrando uma ferida na perna (símbolo da peste), acompanhado de um cão com um pão na boca.
 - **Patrono contra Epidemias:** Ele é um dos santos mais invocados no mundo durante pandemias, epidemias e doenças infecciosas. Voltou a ser intensamente evocado durante a pandemia de COVID-19.
 - **Padroeiro dos Cães:** Devido à história do animal que salvou sua vida, São Roque também é considerado padroeiro dos cães.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Roque Original](imagens/original.jpg) | ![São Roque Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

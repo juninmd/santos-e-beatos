@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Bronislaw Markiew
 
 # Beato Bronislaw Markiewicz
 
-![Beato Bronislaw Markiewicz](imagens/retrato.jpg)
+![Beato Bronislaw Markiewicz](imagens/restaurada_colorida_4k.jpg)
 
 > "Desejo reunir milhões de jovens abandonados e alimentar seus corpos e almas."
 
@@ -55,6 +55,6 @@ Hoje, as Congregações de São Miguel Arcanjo continuam a missão do Beato Bron
 
 ## Galeria de Imagens e Restaurações
 
-| Imagem Original |
-| :---: |
-| ![Asilo e Obra Social](imagens/obra.jpg) |
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Bronislaw Markiewicz Original](imagens/original.jpg) | ![Beato Bronislaw Markiewicz Restaurada](imagens/restaurada_colorida_4k.jpg) |

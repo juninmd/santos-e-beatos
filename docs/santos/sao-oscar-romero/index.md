@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Oscar Romero.
 
 # São Oscar Romero
 
-![São Oscar Romero](imagens/portrait.jpg)
+![São Oscar Romero](imagens/restaurada_4k.jpg)
 
 > "Se me matam, ressuscitarei no povo salvadorenho."
 
@@ -43,6 +43,13 @@ A canonização ocorreu após a confirmação de outros milagres e da contínua 
 1.  **Última Homilia:** Em sua última homilia dominical, um dia antes de sua morte, Romero fez um apelo direto aos soldados para que parassem a repressão: "Em nome de Deus e deste povo sofredor, cujos lamentos sobem até o céu cada dia mais tumultuosos, suplico-lhes, rogo-lhes, ordeno-lhes em nome de Deus: cessem a repressão!".
 2.  **Mártir da Missa:** Ele foi assassinado com um tiro no coração enquanto celebrava a Santa Missa na capela do Hospital da Divina Providência, logo após a homilia, no momento do ofertório.
 3.  **Santo das Américas:** É o primeiro santo nativo da América Central e é carinhosamente chamado de "San Romero de América".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Oscar Romero Original](imagens/original.jpg) | ![São Oscar Romero Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

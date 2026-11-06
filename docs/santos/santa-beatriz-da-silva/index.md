@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Beatriz da Silva,
 
 # Santa Beatriz da Silva
 
-![Santa Beatriz da Silva](imagens/portrait.jpg)
+![Santa Beatriz da Silva](imagens/restaurada_4k.jpg)
 
 > "Nossa Senhora ordenou-me que eu fundasse uma ordem em sua honra, com vestes brancas e azuis."
 
@@ -45,6 +45,13 @@ Para sua canonização em 1976, o milagre reconhecido pelo Papa Paulo VI foi a c
 ## Impacto Hoje
 
 Santa Beatriz da Silva é lembrada por seu profundo amor e devoção à Imaculada Conceição de Maria, muito antes de o dogma ser oficialmente proclamado pela Igreja. A Ordem da Imaculada Conceição que ela fundou espalhou-se rapidamente e ainda hoje existem centenas de mosteiros concepcionistas pelo mundo, dedicados à oração contemplativa e à honra da pureza de Maria.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Beatriz da Silva Original](imagens/original.jpg) | ![Santa Beatriz da Silva Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

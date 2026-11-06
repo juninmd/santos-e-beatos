@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Catarina de Sena.
 
 # Santa Catarina de Sena
 
-![Santa Catarina de Sena](imagens/portrait.jpg)
+![Santa Catarina de Sena](imagens/restaurada_4k.jpg)
 
 > "Sejais quem Deus quis que fôsseis e incendiareis o mundo."
 
@@ -43,6 +43,13 @@ Um dos eventos mais marcantes foi o recebimento dos estigmas (as chagas de Crist
 1.  **Doutora da Igreja:** Em 1970, o Papa Paulo VI a declarou Doutora da Igreja, título dado a santos cuja doutrina é eminente e segura. Foi uma das primeiras mulheres a receber este título, junto com Santa Teresa de Ávila.
 2.  **Padroeira:** É Padroeira da Itália (junto com São Francisco de Assis) e Padroeira da Europa.
 3.  **Cabeça de Santa Catarina:** Sua cabeça está preservada como relíquia na Basílica de São Domingos, em Siena.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Catarina de Sena Original](imagens/original.jpg) | ![Santa Catarina de Sena Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

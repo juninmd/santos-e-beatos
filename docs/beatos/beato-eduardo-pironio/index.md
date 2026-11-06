@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Eduardo Pironio.
 
 # Beato Eduardo Pironio
 
-![Beato Eduardo Pironio](imagens/portrait.jpg)
+![Beato Eduardo Pironio](imagens/restaurada_colorida_4k.jpg)
 
 > "Eu vos saúdo, ó Cruz, única esperança. E a carrego com alegria, como Jesus."
 
@@ -41,6 +41,12 @@ O Cardeal Pironio faleceu em Roma após lutar contra um doloroso câncer de pró
 - **O Cardeal dos Jovens:** Foi o responsável prático por dar vida ao grande sonho das JMJs, organizando os primeiros eventos (Roma 1985, Buenos Aires 1987, Santiago de Compostela 1989, Czestochowa 1991, Denver 1993, Manila 1995).
 - **Testamento Espiritual:** Em seu testamento, Pironio expressou gratidão por tudo: pelo dom da vida, pelo sacerdócio, pela Igreja, pelas alegrias e pelas dores, pedindo para ser recordado simplesmente como alguém que buscou, apesar de suas fraquezas, amar e servir.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Eduardo Pironio Original](imagens/original.jpg) | ![Beato Eduardo Pironio Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 1. **Nueve de Julio, Argentina:** A cidade onde ele nasceu e cresceu, moldando sua fé profunda.
 2. **La Plata, Argentina:** Onde foi ordenado bispo auxiliar.

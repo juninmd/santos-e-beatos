@@ -5,7 +5,7 @@ description: Biografia, martírio, curiosidades e mapa do Beato Inácio Maloyan,
 
 # Beato Inácio Maloyan
 
-![Beato Inácio Maloyan](imagens/portrait.jpg)
+![Beato Inácio Maloyan](imagens/restaurada_colorida_4k.jpg)
 
 > "Meu sangue eu derramo pela minha fé. Que Deus salve o meu povo."
 
@@ -39,6 +39,12 @@ Em 11 de junho, os prisioneiros foram levados para o deserto para as "marchas da
 - **Relatos Documentados:** Os detalhes de seu martírio foram narrados por testemunhas oculares, incluindo missionários e sobreviventes escondidos, o que fortaleceu a robustez de sua causa de beatificação no Vaticano.
 - **Última Eucaristia:** Sem acesso ao vinho e às hóstias, seu último ato espiritual junto a seu rebanho no deserto foi a consagração e a partilha do pão de seus poucos mantimentos.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Inácio Maloyan Original](imagens/original.jpg) | ![Beato Inácio Maloyan Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Inácio Maloyan passou a maior parte de sua vida entre Mardin (seu local de nascimento e sé episcopal) e o Líbano.

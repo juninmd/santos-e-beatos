@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Chiara Luce Badan
 
 # Beata Chiara Luce Badano
 
-![Beata Chiara Luce Badano](imagens/portrait.jpg)
+![Beata Chiara Luce Badano](imagens/restaurada_4k.jpg)
 
 > "Eu não tenho mais nada, mas ainda tenho o meu coração com o qual posso amar a Jesus."
 
@@ -46,6 +46,12 @@ Incontáveis graças, tanto espirituais quanto físicas, têm sido creditadas à
 2.  **A Causa de Canonização:** O processo de canonização de Chiara começou apenas nove anos após a sua morte, devido à rápida e extensa reputação de santidade em todo o mundo.
 3.  **Jovens e o Papa:** Na ocasião da sua beatificação em 2010, quase 25 mil pessoas, em sua maioria jovens de todas as partes do mundo, se reuniram em Roma, confirmando seu status como modelo incontestável para as novas gerações da Igreja.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Chiara Luce Badano Original](imagens/original.jpg) | ![Beata Chiara Luce Badano Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Anacleto Gonzále
 
 # Beato Anacleto González Flores
 
-![Beato Anacleto González Flores](imagens/portrait.jpg)
+![Beato Anacleto González Flores](imagens/restaurada_colorida_4k.jpg)
 
 > "Mártir da Guerra Cristera"
 
@@ -44,6 +44,12 @@ Ele é reconhecido como mártir pela Igreja, tendo derramado seu sangue em ódio
 2.  **Educação:** Tinha uma mente brilhante e, antes de se formar em Direito, ensinou literatura, história e religião.
 3.  **Filme:** Sua vida e martírio são retratados no filme *For Greater Glory* (Cristiada), onde é interpretado pelo ator Eduardo Verástegui.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Anacleto González Flores Original](imagens/original.jpg) | ![Beato Anacleto González Flores Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

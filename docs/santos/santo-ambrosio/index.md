@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Ambrósio.
 
 # Santo Ambrósio
 
-![Santo Ambrósio](imagens/portrait.jpg)
+![Santo Ambrósio](imagens/restaurada_4k.jpg)
 
 > "Nenhum dever é mais urgente do que aquele de devolver um agradecimento."
 
@@ -37,6 +37,13 @@ Sua pregação foi vital para a conversão de Santo Agostinho de Hipona, a quem 
 - Um dos quatro Padres originais da Igreja Latina, juntamente com Agostinho, Jerônimo e Gregório Magno.
 - Introduziu o canto antifonal na Igreja Ocidental, cantando salmos alternando entre dois coros, e compôs vários hinos litúrgicos (Hinos Ambrosianos), alguns dos quais ainda são usados hoje, como "Te Deum" e "Veni redemptor gentium".
 - Confrontou o imperador Teodósio I após o Massacre de Tessalônica em 390, exigindo que o imperador fizesse penitência pública antes de receber a Eucaristia, o que Teodósio obedeceu, demonstrando a autoridade moral da Igreja sobre o Estado.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Ambrósio Original](imagens/original.jpg) | ![Santo Ambrósio Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

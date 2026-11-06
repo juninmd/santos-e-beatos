@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José Gregório He
 
 # São José Gregório Hernández
 
-![São José Gregório Hernández](imagens/portrait.jpg)
+![São José Gregório Hernández](imagens/restaurada_4k.jpg)
 
 > "O dinheiro é o sangue do pobre. Servi-lo é servir a Deus."
 
@@ -56,7 +56,14 @@ A beatificação foi aprovada pelo Papa Francisco após o reconhecimento de um m
 
 São José Gregório Hernández é um ícone nacional na Venezuela e um símbolo de esperança em tempos de crise na saúde. Sua figura transcende barreiras religiosas, sendo admirado por ateus e crentes por sua ética e bondade. Sua beatificação trouxe grande alegria e união ao povo venezuelano.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São José Gregório Hernández Original](imagens/original.jpg) | ![São José Gregório Hernández Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | :---: | :--- |

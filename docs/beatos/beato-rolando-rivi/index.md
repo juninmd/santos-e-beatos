@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Rolando Rivi.
 
 # Beato Rolando Rivi
 
-![Beato Rolando Rivi](imagens/retrato.svg)
+![Beato Rolando Rivi](imagens/restaurada_colorida_4k.jpg)
 
 > "Eu sou de Jesus."
 
@@ -41,6 +41,12 @@ Foi reconhecido mártir *in odium fidei* — o decreto foi assinado por Bento XV
 3. **Reconhecimento tardio:** por décadas o caso permaneceu silenciado por razões políticas locais; a causa só foi aberta em 2006.
 4. **Padroeiro:** invocado pelos seminaristas e pela pastoral vocacional.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Rolando Rivi Original](imagens/original.jpg) | ![Beato Rolando Rivi Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Nasceu e viveu em San Valentino di Castellarano, estudou no seminário de Marola e foi morto em Piane di Monchio, todas na região da Emília-Romanha, na Itália.

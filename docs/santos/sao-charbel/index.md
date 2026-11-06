@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Charbel Makhlouf.
 
 # São Charbel Makhlouf
 
-![São Charbel Makhlouf](imagens/portrait.jpg)
+![São Charbel Makhlouf](imagens/restaurada_4k.jpg)
 
 > "O Eremita do Líbano"
 
@@ -56,7 +56,14 @@ São Charbel viveu toda a sua vida no Líbano, movendo-se apenas entre mosteiros
 
 Hoje, o Santuário de São Charbel em Annaya é um dos locais de peregrinação mais visitados do Oriente Médio, recebendo milhões de peregrinos anualmente. Sua devoção cresceu exponencialmente nas Américas, especialmente no Brasil e México, onde há grandes comunidades libanesas. Ele é invocado como o "Santo dos Milagres Impossíveis" e um poderoso intercessor pela paz no Oriente Médio e pela unidade dos cristãos.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Charbel Makhlouf Original](imagens/original.jpg) | ![São Charbel Makhlouf Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

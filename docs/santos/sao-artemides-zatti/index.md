@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Artêmides Zatti, 
 
 # São Artêmides Zatti
 
-![São Artêmides Zatti](imagens/portrait.jpg)
+![São Artêmides Zatti](imagens/restaurada_4k.jpg)
 
 > "Acreditei, prometi, sarei"
 
@@ -43,6 +43,13 @@ O milagre reconhecido para a sua canonização ocorreu em agosto de 2016, nas Fi
 1. **Primeiro Irmão Salesiano Não Mártir Canonizado:** Zatti é o primeiro coadjutor (irmão consagrado) salesiano que não foi mártir a ser proclamado santo pela Igreja.
 2. **Bicicleta Inseparável:** Ele viajava por toda Viedma e arredores na sua bicicleta em qualquer condição climática para visitar os seus doentes à noite e aos finais de semana, sempre com os medicamentos necessários.
 3. **Sorriso Curativo:** Os moradores locais diziam que "apenas ver Zatti sorrir e ouvi-lo falar já começava a curar". Sua presença levava paz e esperança a todas as camas do hospital.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Artêmides Zatti Original](imagens/original.jpg) | ![São Artêmides Zatti Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

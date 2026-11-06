@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Teresa de S
 
 # Beata Maria Teresa de São José
 
-![Beata Maria Teresa de São José](imagens/portrait.jpg)
+![Beata Maria Teresa de São José](imagens/restaurada_4k.jpg)
 
 > "Mãe dos Desamparados"
 
@@ -44,6 +44,12 @@ Em vida, seu maior milagre foi a própria fundação e expansão da sua obra em 
 2.  **Conversão Corajosa:** A conversão do Luteranismo para o Catolicismo foi um ato de imensa coragem na Alemanha do século XIX, que lhe custou sua família e seu meio de sustento, mas que ela abraçou com alegria pela verdade.
 3.  **Providência Divina:** Ela confiava tanto na Providência Divina que, em momentos de extrema necessidade de alimentos para os órfãos, ela orava com fé e frequentemente recebia doações inesperadas no mesmo dia.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Teresa de São José Original](imagens/original.jpg) | ![Beata Maria Teresa de São José Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Beata Maria Teresa viajou incansavelmente para fundar e visitar as diversas casas de sua Congregação.

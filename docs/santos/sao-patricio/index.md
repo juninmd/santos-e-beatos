@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Patrício.
 
 # São Patrício
 
-![São Patrício](imagens/portrait.jpg)
+![São Patrício](imagens/restaurada_4k.jpg)
 
 > "Cristo comigo, Cristo à minha frente, Cristo atrás de mim, Cristo em mim."
 
@@ -65,7 +65,14 @@ Muitos milagres são atribuídos a São Patrício:
 
 O legado de São Patrício é imenso e global. Ele é o santo padroeiro da Irlanda e sua festa, o "St. Patrick's Day" (17 de março), é celebrada em todo o mundo com desfiles, festas e o uso da cor verde. Além da celebração cultural, ele é venerado como o homem que trouxe a luz da fé cristã para um povo pagão, transformando a Irlanda na "Ilha dos Santos e Eruditos", que por sua vez enviou missionários para reevangelizar a Europa após a queda do Império Romano.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Patrício Original](imagens/original.jpg) | ![São Patrício Restaurada](imagens/restaurada_4k.jpg) |
+
+### Outras Imagens
 
 | Imagem | Descrição |
 | --- | --- |

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luigi Beltrame Qu
 
 # Beato Luigi Beltrame Quattrocchi
 
-![Beato Luigi Beltrame Quattrocchi](imagens/portrait.jpg)
+![Beato Luigi Beltrame Quattrocchi](imagens/restaurada_colorida_4k.jpg)
 
 > "Um modelo de santidade na vida conjugal e familiar."
 
@@ -38,6 +38,12 @@ O milagre que abriu caminho para a beatificação conjunta de Luigi e sua esposa
 - **Participação dos Filhos:** Em um evento raro, três dos quatro filhos do casal (os padres Filippo e Cesare, e a filha Enrichetta) estavam vivos e presentes na missa de beatificação de seus pais no Vaticano em 2001.
 - O sobrenome composto "Beltrame Quattrocchi" ocorreu porque Luigi foi adotado por seus tios que não tinham filhos, acrescentando o sobrenome deles (Quattrocchi) ao seu original (Beltrame).
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Luigi Beltrame Quattrocchi Original](imagens/original.jpg) | ![Beato Luigi Beltrame Quattrocchi Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - **Catânia, Itália:** Sua cidade natal na Sicília.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pedro Canísio, Ap
 
 # São Pedro Canísio
 
-![São Pedro Canísio](imagens/portrait.jpg)
+![São Pedro Canísio](imagens/restaurada_4k.jpg)
 
 > "Apóstolo da Alemanha e Doutor da Igreja"
 
@@ -37,6 +37,13 @@ Numerosos milagres foram relatados por sua intercessão, especialmente relaciona
 1.  **Catecismos:** Seus catecismos foram tão populares e bem-sucedidos que o termo "Canísio" passou a ser sinônimo de "catecismo" em várias regiões da Europa.
 2.  **Educação:** Ele fundou os primeiros colégios jesuítas na Alemanha, influenciando grandemente o sistema educacional do país.
 3.  **Doutor da Igreja:** O Papa Pio XI não apenas o canonizou em 1925, como também lhe conferiu o título de Doutor da Igreja simultaneamente.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Pedro Canísio Original](imagens/original.jpg) | ![São Pedro Canísio Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

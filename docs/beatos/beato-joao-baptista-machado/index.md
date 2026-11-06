@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato João Baptista Ma
 
 # Beato João Baptista Machado
 
-![Beato João Baptista Machado](imagens/portrait.jpg)
+![Beato João Baptista Machado](imagens/restaurada_4k.jpg)
 
 > "Mártir jesuíta português no Japão"
 
@@ -35,6 +35,12 @@ Apesar do decreto e das graves perseguições, o Padre João Baptista Machado es
 2. **O Santo de Angra:** Ele é o padroeiro secundário de sua terra natal, Angra do Heroísmo (Açores), e seu exemplo continua sendo muito celebrado na diocese local.
 3. **Cartas Finais:** Durante sua prisão em Omura, escreveu cartas comoventes aos seus superiores e familiares, onde expressou sua alegria indescritível por ter sido achado digno de sofrer e morrer por Cristo.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato João Baptista Machado Original](imagens/original.jpg) | ![Beato João Baptista Machado Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Da Ilha Terceira no Atlântico até as remotas ilhas do Japão.

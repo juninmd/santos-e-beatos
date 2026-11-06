@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Bolognesi.
 
 # Beata Maria Bolognesi
 
-![Beata Maria Bolognesi](imagens/portrait.jpg)
+![Beata Maria Bolognesi](imagens/restaurada_4k.jpg)
 
 > "A Mística dos Pobres e Sofredores"
 
@@ -36,6 +36,12 @@ Inúmeros relatos de graças e favores celestes cercaram sua vida, incluindo cap
 - **Transpiração de Sangue:** Relatos atestam que, assim como Jesus no Jardim do Getsêmani, Maria teve episódios documentados de suor de sangue durante suas agonias espirituais.
 - **Dificuldade de Alfabetização:** Devido à extrema pobreza, frequentou apenas as duas primeiras séries do ensino primário, no entanto, seus escritos espirituais impressionaram teólogos pela sua profundidade.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Bolognesi Original](imagens/original.jpg) | ![Beata Maria Bolognesi Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Bosaro, Itália:** Cidade natal, onde passou sua infância marcada por dificuldades e onde começou a ter suas primeiras experiências místicas.

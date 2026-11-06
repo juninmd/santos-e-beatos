@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Venerável Nicola D'Ono
 
 # Venerável Nicola D'Onofrio
 
-![Venerável Nicola D'Onofrio](imagens/portrait.jpg)
+![Venerável Nicola D'Onofrio](imagens/restaurada_colorida_4k.jpg)
 
 > "Eu serei padre Camiliano custe o que custar!"
 
@@ -53,6 +53,12 @@ A causa de beatificação e canonização de Nicola D'Onofrio foi impulsionada p
 *   O quarto voto dos Camilianos, servir os doentes mesmo correndo risco de vida, ressoou profundamente no coração do jovem Nicola, e ele o vivenciou no sacrifício do seu próprio corpo enfraquecido pela doença.
 *   Seus restos mortais repousam em Bucchianico, a cidade de São Camilo de Léllis, um local que se tornou meta constante de peregrinações e de oração de doentes e jovens seminaristas.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Venerável Nicola D'Onofrio Original](imagens/original.jpg) | ![Venerável Nicola D'Onofrio Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 *   **Villamagna (Itália):** Cidade onde nasceu, cresceu e onde lutou por sua vocação.

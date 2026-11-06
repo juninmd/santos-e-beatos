@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Benedito.
 
 # São Benedito
 
-![São Benedito](imagens/portrait.jpg)
+![São Benedito](imagens/restaurada_4k.jpg)
 
 > "Um coração puro e humilde atrai a graça de Deus."
 
@@ -40,6 +40,13 @@ Embora não soubesse ler nem escrever e trabalhasse a maior parte do tempo como 
 
 1.  **Devoção no Brasil:** No Brasil, São Benedito é um dos santos mais populares, especialmente entre a comunidade negra. Há inúmeras irmandades de São Benedito e a festa da congada, uma manifestação cultural afro-brasileira, é frequentemente celebrada em sua homenagem.
 2.  **Padroeiro de Palermo:** Em 1611, o rei Filipe III de Espanha escolheu Benedito como o santo padroeiro de Palermo, antes mesmo de sua canonização.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Benedito Original](imagens/original.jpg) | ![São Benedito Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

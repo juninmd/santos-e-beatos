@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João Bosco.
 
 # São João Bosco
 
-![São João Bosco](imagens/dom-bosco.jpg)
+![São João Bosco](imagens/restaurada_4k.jpg)
 
 > "Pai e Mestre da Juventude"
 
@@ -43,6 +43,13 @@ Entre seus milagres, relata-se a multiplicação de pães e hóstias, curas inex
 1.  **Padroeiro de Brasília:** Dom Bosco profetizou a construção de uma grande cidade no planalto central do Brasil, localizada entre os paralelos 15 e 20, onde haveria uma riqueza inconcebível. Brasília foi construída exatamente nessa região e o tem como padroeiro.
 2.  **Multitarefa:** Além de padre e educador, foi escritor, editor e ilusionista (usava mágica para atrair a atenção dos jovens para a catequese). É o padroeiro dos mágicos.
 3.  **Cão Grigio:** Muitas vezes, quando corria perigo de vida (sofria atentados por causa de seu trabalho), aparecia um misterioso cão cinzento, a quem chamava de "Grigio", que o protegia e depois desaparecia.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João Bosco Original](imagens/original.jpg) | ![São João Bosco Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Antonio Rosmini.
 
 # Beato Antonio Rosmini
 
-![Beato Antonio Rosmini](imagens/cover.jpg)
+![Beato Antonio Rosmini](imagens/restaurada_colorida_4k.jpg)
 
 > "Adorar, Calar, Gozar."
 
@@ -44,6 +44,12 @@ Sua reabilitação doutrinal, iniciada pelo Papa João XXIII e continuada por Pa
 2.  **As Cinco Chagas:** Sua obra mais famosa e polêmica, *Das Cinco Chagas da Santa Igreja*, propunha reformas corajosas para a Igreja de seu tempo, muitas das quais foram adotadas no Concílio Vaticano II (como a maior participação dos leigos na liturgia).
 3.  **Filósofo:** É considerado um dos maiores filósofos italianos do século XIX.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Antonio Rosmini Original](imagens/original.jpg) | ![Beato Antonio Rosmini Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 O mapa abaixo reúne os lugares ligados a Beato Antonio Rosmini: nascimento, morte, milagres e locais de devoção.

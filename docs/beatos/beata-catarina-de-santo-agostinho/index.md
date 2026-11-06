@@ -5,7 +5,7 @@ description: Religiosa francesa e uma das fundadoras da Igreja no Canadá, dedic
 
 # Beata Catarina de Santo Agostinho
 
-![Cover da Beata Catarina de Santo Agostinho](imagens/portrait.jpg)
+![Cover da Beata Catarina de Santo Agostinho](imagens/restaurada_colorida_4k.jpg)
 
 <div class="saint-header">
   <div class="saint-image-container">
@@ -46,6 +46,12 @@ Os milagres atribuídos à Beata Catarina frequentemente envolvem curas inexplic
 - **Fundadora:** Ela é considerada, junto com figuras como São Francisco de Laval, Santa Maria da Encarnação e os Santos Mártires Canadenses, uma das grandes mães e pais fundadores da Igreja Católica no Canadá.
 - **Visões:** Seus escritos espirituais revelam que ela teve visões místicas onde dialogava com as almas do purgatório e os santos e anjos protetores.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beata Catarina de Santo Agostinho Original](imagens/original.jpg) | ![Beata Catarina de Santo Agostinho Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - **Saint-Sauveur-le-Vicomte, França:** Sua cidade natal, onde nasceu e cresceu, sentindo o chamado para a vida religiosa.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Joana de Chantal.
 
 # Santa Joana de Chantal
 
-![Santa Joana de Chantal](imagens/portrait.jpg)
+![Santa Joana de Chantal](imagens/restaurada_4k.jpg)
 
 > "Fundadora da Ordem da Visitação e Mãe de Família"
 
@@ -35,6 +35,13 @@ Numerosos milagres foram atribuídos à sua intercessão, especialmente relacion
 - **Amizade Espiritual:** A profunda amizade espiritual entre Santa Joana de Chantal e São Francisco de Sales é uma das mais famosas da história da Igreja, evidenciada por inúmeras cartas que os dois trocaram ao longo dos anos.
 - **Avó Famosa:** Ela é a avó materna da famosa escritora francesa Madame de Sévigné.
 - **Voto Incomum:** Durante sua viuvez, antes de encontrar São Francisco de Sales, ela fez um voto de permanecer casta e dedicou sua vida a Deus, gravando o nome de Jesus em seu peito com um ferro quente como sinal de seu compromisso (um ato extremo refletindo a intensidade da sua devoção na época).
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Joana de Chantal Original](imagens/original.jpg) | ![Santa Joana de Chantal Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

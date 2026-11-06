@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Estevão.
 
 # São Estevão
 
-![São Estevão](imagens/portrait.jpg)
+![São Estevão](imagens/restaurada_4k.jpg)
 
 > "Senhor Jesus, recebe o meu espírito."
 
@@ -43,6 +43,13 @@ Estêvão é o protomártir — o primeiro cristão a morrer pela fé. Sua morte
 2. **Boxing Day e Santo Estêvão:** em vários países europeus, o 26 de dezembro é feriado com o seu nome; a tradição de distribuir donativos nesse dia liga-se ao seu papel de diácono encarregado dos pobres.
 3. **As pedras:** é representado em dalmática de diácono, com pedras sobre os ombros ou na cabeça e a palma do martírio.
 4. **Padroeiro:** dos diáconos, dos pedreiros e canteiros, invocado contra dores de cabeça.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Estevão Original](imagens/original.jpg) | ![São Estevão Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

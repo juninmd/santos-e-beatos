@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Manuel Gómez Gon
 
 # Beato Manuel Gómez González
 
-![Beato Manuel Gómez González](imagens/portrait.jpg)
+![Beato Manuel Gómez González](imagens/restaurada_colorida_4k.jpg)
 
 > "Mártir do Brasil"
 
@@ -43,6 +43,12 @@ O milagre formalmente reconhecido para a sua beatificação não envolveu uma cu
 - **Relíquias Ocultas:** Inicialmente, os corpos do Padre Manuel e de Adílio foram enterrados às pressas pelos habitantes locais para protegê-los de profanações posteriores pelos revolucionários. Somente muito tempo depois seus restos mortais foram solenemente transferidos.
 - **Beatificação no Brasil:** A cerimônia de beatificação de Manuel e Adílio em 2007 foi um marco histórico, sendo a primeira beatificação a ocorrer na região sul do Brasil, celebrada na cidade de Frederico Westphalen.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Manuel Gómez González Original](imagens/original.jpg) | ![Beato Manuel Gómez González Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - **San José de Ribarteme e Tuy, Espanha:** Local de nascimento e ordenação sacerdotal.

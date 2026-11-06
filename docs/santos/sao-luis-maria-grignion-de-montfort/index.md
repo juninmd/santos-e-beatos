@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Luís Maria Grigni
 
 # São Luís Maria Grignion de Montfort
 
-![São Luís Maria Grignion de Montfort](imagens/portrait.jpg)
+![São Luís Maria Grignion de Montfort](imagens/restaurada_4k.jpg)
 
 > "O Escravo de Jesus em Maria"
 
@@ -41,6 +41,13 @@ Para a sua canonização, foram aceitos dois milagres: a cura inexplicável de u
 1.  **O "Tratado" Oculto:** O manuscrito original do *Tratado da Verdadeira Devoção* ficou escondido e esquecido por mais de 130 anos após sua morte, sendo descoberto por acaso em 1842. Ele havia profetizado que isso aconteceria para protegê-lo dos seus inimigos.
 2.  **Devoção de Papas:** Vários papas recomendaram a espiritualidade monfortina, mas foi São João Paulo II quem a tornou mais conhecida. O lema do pontificado de João Paulo II, "Totus Tuus" (Todo Teu), foi retirado do *Tratado* de São Luís Maria.
 3.  **Andarilho:** Estima-se que ele tenha caminhado milhares de quilômetros a pé pela França, de paróquia em paróquia, pregando o Evangelho e promovendo o Rosário.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Luís Maria Grignion de Montfort Original](imagens/original.jpg) | ![São Luís Maria Grignion de Montfort Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

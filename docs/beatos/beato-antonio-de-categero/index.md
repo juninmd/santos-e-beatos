@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Antônio de Categ
 
 # Beato Antônio de Categeró
 
-![Beato Antônio de Categeró](imagens/cover.jpg)
+![Beato Antônio de Categeró](imagens/restaurada_4k.jpg)
 
 > "Servir ao Senhor na pobreza e na humildade."
 
@@ -36,6 +36,12 @@ Os devotos começaram a relatar diversos milagres e curas operadas por sua inter
 2. **Relíquia em São Paulo:** O bispo de Noto doou, em 1978, uma relíquia óssea do braço do Beato à Paróquia Nossa Senhora da Expectação, na Freguesia do Ó, em São Paulo.
 3. **Múltiplos Nomes:** Também é conhecido na Itália como António de Noto ou Antônio Etíope.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Antônio de Categeró Original](imagens/original.jpg) | ![Beato Antônio de Categeró Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Barca (Cirenaica/Líbia):** Local de nascimento e sua juventude antes de ser escravizado.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Edmundo Rice.
 
 # Beato Edmundo Rice
 
-![Beato Edmundo Rice](imagens/portrait.jpg)
+![Beato Edmundo Rice](imagens/restaurada_4k.jpg)
 
 > "Fundador dos Irmãos Cristãos e dos Irmãos da Apresentação"
 
@@ -36,6 +36,12 @@ A causa para a beatificação de Edmundo Rice incluiu o reconhecimento de um mil
 2. **Homem de Negócios:** Diferente de muitos fundadores que foram sacerdotes ou viveram a vida monástica desde a juventude, Edmundo teve um enorme sucesso em negócios marítimos e de abastecimento antes de se dedicar à vida religiosa.
 3. **Escolas pelo Mundo:** O modelo de educação de Edmundo se baseava em oferecer instrução sem custos para meninos que não tinham outra oportunidade, sendo que hoje há dezenas de escolas "Edmundo Rice" estabelecidas nos cinco continentes.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Edmundo Rice Original](imagens/original.jpg) | ![Beato Edmundo Rice Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 O Beato Edmundo desenvolveu sua missão primeiramente em Waterford, mas a expansão de suas congregações o levou a várias cidades da Irlanda para fundar novas escolas.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Albertina Berkenb
 
 # Beata Albertina Berkenbrock
 
-![Beata Albertina Berkenbrock](imagens/retrato.svg)
+![Beata Albertina Berkenbrock](imagens/restaurada_4k.jpg)
 
 > "A 'Maria Goretti' brasileira."
 
@@ -41,6 +41,12 @@ Por ter sido reconhecida como mártir, sua beatificação dispensou a comprovaç
 3. **Comparação com Maria Goretti:** sua história é frequentemente aproximada da de Santa Maria Goretti, martirizada em circunstância semelhante três décadas antes, na Itália.
 4. **Padroeira:** invocada pelas crianças, adolescentes e vítimas de violência sexual.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Albertina Berkenbrock Original](imagens/original.jpg) | ![Beata Albertina Berkenbrock Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Toda a sua vida transcorreu em São Luís, distrito de Imaruí, no litoral sul de Santa Catarina, onde nasceu, morreu e onde hoje repousa.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Isidoro de Sevilh
 
 # Santo Isidoro de Sevilha
 
-![Santo Isidoro de Sevilha](imagens/portrait.jpg)
+![Santo Isidoro de Sevilha](imagens/restaurada_4k.jpg)
 
 > "O estudo purifica a alma, eleva o pensamento e afasta a mente das paixões mundanas."
 
@@ -30,6 +30,13 @@ Embora lembrado principalmente por seu legado intelectual, há relatos de milagr
 - **Padroeiro da Internet:** Embora ainda não seja oficial por decreto papal formal, o Papa João Paulo II designou Santo Isidoro como o padroeiro da Internet e dos programadores em 1997. Isso se deve à sua monumental enciclopédia "Etimologias", que tentou estruturar todo o conhecimento de forma semelhante a um banco de dados gigantesco, antecipando a essência da internet.
 - **Doutor da Igreja:** O Papa Inocêncio XIII declarou Santo Isidoro um Doutor da Igreja em 1722, reconhecendo o valor profundo de sua contribuição teológica e educacional.
 - **Influência monástica:** Ele escreveu uma regra monástica que teve forte impacto no monaquismo ibérico antes da difusão generalizada da Regra de São Bento.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Isidoro de Sevilha Original](imagens/original.jpg) | ![Santo Isidoro de Sevilha Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 A vida e o trabalho de Santo Isidoro estavam concentrados na Península Ibérica.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Filipe Neri.
 
 # São Filipe Neri
 
-![São Filipe Neri](imagens/portrait.jpg)
+![São Filipe Neri](imagens/restaurada_4k.jpg)
 
 > "Prefiro o paraíso!"
 
@@ -39,6 +39,13 @@ Durante sua vida, muitos milagres foram atribuídos à sua intercessão. Um dos 
 1.  **Coração Dilatado:** A autópsia realizada após sua morte revelou que duas de suas costelas estavam quebradas e arqueadas para dar espaço ao seu coração, que era significativamente maior que o normal, resultado de sua experiência mística.
 2.  **Santo da Alegria:** É frequentemente chamado de "Santo da Alegria" ou "O Bobo de Deus" por seu bom humor.
 3.  **Amizade com Santos:** Foi amigo pessoal de Santo Inácio de Loyola e São Carlos Borromeu.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Filipe Neri Original](imagens/original.jpg) | ![São Filipe Neri Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

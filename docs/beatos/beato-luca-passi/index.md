@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Luca Passi, funda
 
 # Beato Luca Passi
 
-![Beato Luca Passi](imagens/portrait.jpg)
+![Beato Luca Passi](imagens/restaurada_colorida_4k.jpg)
 
 > "Pai e Apóstolo da Juventude"
 
@@ -38,6 +38,12 @@ Mais além de fatos extraordinários, o grande milagre de Luca Passi foi a obra 
 2.  **Amigo de Santos:** Luca Passi encontrava-se e mantinha correspondência com várias figuras proeminentes que mais tarde seriam canonizadas ou beatificadas, incluindo São João Bosco e Santa Paula Frassinetti, exercendo enorme influência na fundação das congregações desta última.
 3.  **Tia Madre:** A tia de Luca, Maria e suas próprias raízes familiares foram vitais, já que a casa da família se transformou frequentemente no primeiro centro logístico para suas missões.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Luca Passi Original](imagens/original.jpg) | ![Beato Luca Passi Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 O Beato Luca Passi focou seu apostolado nas cidades italianas, percorrendo-as para evangelizar as populações locais.

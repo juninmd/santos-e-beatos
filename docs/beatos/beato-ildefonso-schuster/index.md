@@ -5,7 +5,7 @@ description: Biografia, vida pessoal, milagres, curiosidades, cidades e impacto 
 
 # Beato Ildefonso Schuster
 
-![Beato Ildefonso Schuster](imagens/portrait.jpg)
+![Beato Ildefonso Schuster](imagens/restaurada_4k.jpg)
 
 > "A paz na verdade; no carinho, o amor."
 
@@ -51,6 +51,12 @@ Após os médicos declararem que a perda de visão seria inevitável, ela rezou 
 
 O Beato Ildefonso Schuster é lembrado como um verdadeiro "Pai dos Pobres" e um pastor que defendeu seu rebanho contra regimes totalitários de extrema-direita e extrema-esquerda. Seu exemplo de combinar erudição teológica, espiritualidade monástica e corajosa liderança pastoral em tempos de guerra e perseguição continua a inspirar o clero e os líderes eclesiásticos modernos.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Ildefonso Schuster Original](imagens/original.jpg) | ![Beato Ildefonso Schuster Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

@@ -5,7 +5,7 @@ description: Uma jovem eslovaca mártir da pureza, que sacrificou sua vida para 
 
 # Beata Anna Kolesárová
 
-![Beata Anna Kolesárová](imagens/portrait.png)
+![Beata Anna Kolesárová](imagens/restaurada_colorida_4k.jpg)
 
 > "Mais vale a morte do que o pecado."
 
@@ -39,6 +39,12 @@ No entanto, o impacto de seu sacrifício tem gerado inúmeros "milagres espiritu
 * **Peregrinações Jovem:** O Domček (A Casinha), um centro para jovens em Vysoká nad Uhom, organiza regularmente peregrinações e encontros juvenis focados na espiritualidade e no legado de Anna, atraindo milhares de participantes.
 * **Processo de Beatificação:** O processo diocesano para sua beatificação começou apenas em 2004, após a queda do regime comunista na Checoslováquia, que durante décadas havia suprimido histórias como a dela.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beata Anna Kolesárová Original](imagens/original.jpg) | ![Beata Anna Kolesárová Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 A breve vida de Anna Kolesárová foi centrada em sua terra natal:

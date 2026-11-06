@@ -5,13 +5,13 @@ description: Biografia, milagres, curiosidades e mapa do Beato Adílio Daronch.
 
 # Beato Adílio Daronch
 
-![Beato Adílio Daronch](imagens/retrato.svg)
+![Beato Adílio Daronch](imagens/restaurada_4k.jpg)
 
 > "Mártir da juventude."
 
 - **Nascimento:** 25 de outubro de 1908, Dona Francisca, Brasil
 - **Morte:** 21 de maio de 1924, Três Passos, Brasil
-- **Beatificação:** 2007, pelo Papa Bento XVI
+- **Beatificação:** 21 de outubro de 2007, pelo Papa Bento XVI
 - **Festa Litúrgica:** 21 de maio
 
 <TextToSpeech />
@@ -28,7 +28,7 @@ Em maio de 1924, o Rio Grande do Sul vivia uma revolta armada, e grupos de revol
 
 ## Vida Pessoal e Espiritualidade
 
-Adílio é lembrado como o adolescente comum de uma colônia do interior — ajudava na roça, gostava de cavalos, servia no altar. A Igreja reconheceu seu martírio *in odium fidei* junto com o do padre Manuel Gómez González, e ambos foram beatificados em Frederico Westphalen (RS), em 21 de maio de 2013, no aniversário exato da morte.
+Adílio é lembrado como o adolescente comum de uma colônia do interior — ajudava na roça, gostava de cavalos, servia no altar. A Igreja reconheceu seu martírio *in odium fidei* junto com o do padre Manuel Gómez González, e ambos foram beatificados em Frederico Westphalen (RS), em 21 de outubro de 2007, pelo Papa Bento XVI.
 
 ## Milagres
 
@@ -41,6 +41,12 @@ Por serem mártires, a beatificação dispensou milagre. A comunidade registra d
 3. **Escoteiro:** integrava o escotismo católico local, e grupos escoteiros gaúchos o adotaram como patrono.
 4. **Padroeiro:** invocado pelos coroinhas, acólitos e jovens do meio rural.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Adílio Daronch Original](imagens/original.jpg) | ![Beato Adílio Daronch Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Nasceu em Dona Francisca (RS), viveu em Nonoai e na região das missões do norte gaúcho, e foi martirizado nas proximidades de Nonoai.

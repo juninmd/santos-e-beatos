@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Urbano V.
 
 # Beato Urbano V
 
-![Beato Urbano V](imagens/portrait.jpg)
+![Beato Urbano V](imagens/restaurada_colorida_4k.jpg)
 
 > "A Igreja e a fé são construídas não em muros e ouro, mas em corações firmes em Cristo."
 
@@ -38,6 +38,12 @@ Ele conseguiu retornar a Roma em 1367, onde começou a restaurar as basílicas d
 * Ele foi um grande patrono da educação superior; fundou universidades na Europa Central e doou enormes somas de dinheiro para estudantes universitários pobres, pagando pelos estudos de milhares deles.
 * É considerado um dos papas mais sagrados do período turbulento de Avignon.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Urbano V Original](imagens/original.jpg) | ![Beato Urbano V Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 O Beato Urbano V dividiu sua vida entre estudos na França e seus deveres diplomáticos e papais.

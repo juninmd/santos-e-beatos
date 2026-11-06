@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Eurosia Fabris.
 
 # Beata Eurosia Fabris
 
-![Beata Eurosia Fabris](imagens/portrait.jpg)
+![Beata Eurosia Fabris](imagens/restaurada_4k.jpg)
 
 > "Fazer o bem aos outros não custa nada."
 
@@ -45,6 +45,12 @@ Para sua beatificação, a Igreja reconheceu milagres alcançados por sua interc
 - Eurosia amava as crianças e frequentemente as reunia para ensinar catecismo, utilizando uma simplicidade tocante e eficaz.
 - Todos a chamavam carinhosamente de "Mamma Rosa" devido ao seu extraordinário calor maternal que transbordava além dos limites de sua própria família biológica.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Eurosia Fabris Original](imagens/original.jpg) | ![Beata Eurosia Fabris Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 <br>

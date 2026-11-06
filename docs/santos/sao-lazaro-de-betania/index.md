@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Lázaro de Betâni
 
 # São Lázaro de Betânia
 
-![São Lázaro](imagens/portrait.jpg)
+![São Lázaro](imagens/restaurada_4k.jpg)
 
 > "Senhor, aquele que amas está doente." (Jo 11,3)
 

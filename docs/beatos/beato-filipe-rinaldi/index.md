@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Filipe Rinaldi.
 
 # Beato Filipe Rinaldi
 
-![Beato Filipe Rinaldi](imagens/portrait.jpg)
+![Beato Filipe Rinaldi](imagens/restaurada_4k.jpg)
 
 > "A nossa força reside na nossa união com Deus e na nossa fidelidade ao espírito de Dom Bosco."
 
@@ -39,6 +39,12 @@ Para sua beatificação em 1990 pelo Papa João Paulo II, foi reconhecido um mil
 - Ele teve a difícil tarefa de guiar a Congregação Salesiana durante a turbulenta época pós-Primeira Guerra Mundial, conseguindo estabilizar e expandir a missão.
 - Apesar de ser muito focado em trabalho e organização, era conhecido por passar longas horas em oração profunda diante do Santíssimo Sacramento.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Filipe Rinaldi Original](imagens/original.jpg) | ![Beato Filipe Rinaldi Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Lu Monferrato, Itália:** Cidade natal onde passou os primeiros anos de vida.

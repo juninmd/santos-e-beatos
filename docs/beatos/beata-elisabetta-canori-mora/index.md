@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Elisabetta Canori
 
 # Beata Elisabetta Canori Mora
 
-![Beata Elisabetta Canori Mora](imagens/portrait.jpg)
+![Beata Elisabetta Canori Mora](imagens/restaurada_4k.jpg)
 
 > "Senhor, que a vossa vontade seja feita em mim."
 
@@ -40,6 +40,12 @@ O milagre aprovado para sua beatificação foi a cura inexplicável de uma pesso
 - **Profecias:** Ela teve diversas visões proféticas sobre o futuro da Igreja, muitas das quais se realizaram, prevendo tempos de grande tribulação e perseguição.
 - **Modelo para as Famílias:** O Papa João Paulo II a propôs como modelo para as famílias e para os cônjuges, destacando sua fidelidade inabalável ao sacramento do matrimônio mesmo diante de circunstâncias extremas.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Elisabetta Canori Mora Original](imagens/original.jpg) | ![Beata Elisabetta Canori Mora Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Roma, Itália:** Viveu toda a sua vida em Roma, onde suportou os sofrimentos de seu casamento e onde desenvolveu sua intensa vida mística.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Ivan Merz.
 
 # Beato Ivan Merz
 
-![Beato Ivan Merz](imagens/portrait.jpg)
+![Beato Ivan Merz](imagens/restaurada_4k.jpg)
 
 > "A vida não tem sentido sem Cristo; com Ele, tudo ganha uma dimensão de eternidade e amor infinito."
 
@@ -40,6 +40,12 @@ Apesar de sua juventude, sua saúde era frágil, possivelmente devido às duras 
 - **O Leigo como Farol:** Diferente de muitos beatos da época que eram padres ou freiras, Ivan foi um professor leigo, mostrando que a santidade é acessível e necessária no meio secular e acadêmico.
 - **O Papa da Liturgia:** Sua paixão pela Liturgia era tão profunda que ele dizia que "A Liturgia é a obra de arte mais esplêndida que existe no mundo".
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Ivan Merz Original](imagens/original.jpg) | ![Beato Ivan Merz Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Banja Luka, Bósnia e Herzegovina:** Sua cidade natal, onde cresceu e fez seus primeiros estudos.

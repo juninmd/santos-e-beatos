@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria Pierina De 
 
 # Beata Maria Pierina De Micheli
 
-![Beata Maria Pierina De Micheli](imagens/portrait.jpg)
+![Beata Maria Pierina De Micheli](imagens/restaurada_4k.jpg)
 
 > "Quero que o meu Rosto, que reflete as penas íntimas do meu ânimo, a dor e o amor do meu Coração, seja mais honrado. Quem me contempla, me consola."
 
@@ -40,6 +40,12 @@ A devoção à Sagrada Face, propagada pela Beata Maria Pierina, é associada a 
 2.  **Santo Sudário:** A imagem da medalha foi inspirada na fotografia do Santo Sudário de Turim, tirada por Secondo Pia, que revelou pela primeira vez a face de Cristo em negativo.
 3.  **Apoio Papal:** O Papa Pio XII aprovou a medalha e a devoção em 1958, estabelecendo a festa da Sagrada Face na Terça-feira de Carnaval (terça-feira antes da Quarta-feira de Cinzas).
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria Pierina De Micheli Original](imagens/original.jpg) | ![Beata Maria Pierina De Micheli Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Sua missão a levou da Itália à América do Sul e de volta, espalhando a devoção onde quer que fosse.

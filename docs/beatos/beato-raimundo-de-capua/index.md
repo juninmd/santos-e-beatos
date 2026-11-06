@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Raimundo de Cápu
 
 # Beato Raimundo de Cápua
 
-![Beato Raimundo de Cápua](imagens/portrait.jpg)
+![Beato Raimundo de Cápua](imagens/restaurada_colorida_4k.jpg)
 
 > "A verdade deve ser amada por si mesma, porque é a própria face de Deus."
 
@@ -43,6 +43,12 @@ Os milagres atribuídos ao Beato Raimundo de Cápua estão intimamente ligados �
 - **"Segundo Fundador":** Devido ao seu papel crucial no Movimento da Observância, que revitalizou a Ordem dos Pregadores em um de seus momentos mais críticos de decadência, muitos historiadores dominicanos o consideram um "segundo fundador" da ordem.
 - **Amizades Espirituais:** Seu profundo relacionamento espiritual de colaboração mútua e respeito com Santa Catarina de Sena é frequentemente citado como um dos grandes exemplos de amizade e direção espiritual na história da Igreja.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Raimundo de Cápua Original](imagens/original.jpg) | ![Beato Raimundo de Cápua Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - Cápua, Itália (Nascimento)

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Tomás de Vilanova
 
 # São Tomás de Vilanova
 
-![São Tomás de Vilanova](imagens/portrait.jpg)
+![São Tomás de Vilanova](imagens/restaurada_4k.jpg)
 
 > "Pai dos Pobres"
 
@@ -33,6 +33,13 @@ Durante e após sua vida, vários milagres foram atribuídos à sua intercessão
 1. **Vestimenta:** Ele se recusava a usar roupas luxuosas, preferindo um hábito remendado que ele mesmo costurava, mesmo sendo arcebispo.
 2. **Pregação:** Tomás foi um pregador exímio e muitos vinham de longe apenas para ouvir seus sermões. Seus discursos sobre a caridade eram tão vívidos que muitas vezes deixavam os ouvintes em prantos.
 3. **Conselheiro Real:** Carlos V (Imperador do Sacro Império Romano-Germânico) costumava ouvi-lo em questões de estado e caridade, confiando plenamente nele.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Tomás de Vilanova Original](imagens/original.jpg) | ![São Tomás de Vilanova Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

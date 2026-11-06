@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São João XXIII.
 
 # São João XXIII
 
-![São João XXIII](imagens/portrait.jpg)
+![São João XXIII](imagens/restaurada_4k.jpg)
 
 > "A paz é um dom de Deus e, ao mesmo tempo, um projeto a ser construído."
 
@@ -32,6 +32,13 @@ João XXIII escreveu encíclicas importantes, como a *Mater et Magistra* (sobre 
 - **Discurso da Lua:** Um dos momentos mais emocionantes de seu pontificado foi o discurso improvisado na noite de abertura do Concílio, onde pediu à multidão na Praça de São Pedro: "Ide para casa, encontrai vossos filhos. Acariciai vossos filhos e dizei: esta é a carícia do Papa."
 - **Visitas Surpresa:** Ele costumava sair do Vaticano para visitar hospitais e prisões, algo inédito para os papas da época, ganhando o apelido de "João fora dos muros".
 - **Humildade:** Certa vez, quando perguntado quantas pessoas trabalhavam no Vaticano, respondeu com humor: "Acho que cerca de metade."
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São João XXIII Original](imagens/original.jpg) | ![São João XXIII Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Domingos Sávio.
 
 # São Domingos Sávio
 
-![São Domingos Sávio](imagens/portrait.jpg)
+![São Domingos Sávio](imagens/restaurada_4k.jpg)
 
 > "A morte, mas não o pecado!"
 
@@ -43,6 +43,13 @@ Sua intercessão é invocada especialmente para partos difíceis, devido a um ep
 1.  **Santo Jovem:** Foi o primeiro santo jovem não mártir a ser canonizado na história da Igreja.
 2.  **Padroeiro:** É padroeiro dos coroinhas, dos adolescentes e das gestantes.
 3.  **Influência:** Sua vida inspirou a criação dos "Pequenos Cantores de São Domingos Sávio" e diversas obras juvenis ao redor do mundo.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Domingos Sávio Original](imagens/original.jpg) | ![São Domingos Sávio Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

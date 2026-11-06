@@ -5,7 +5,7 @@ description: A mulher piedosa que enxugou o rosto de Jesus a caminho do Calvári
 
 # Santa Verônica
 
-![Santa Verônica](imagens/portrait.jpg)
+![Santa Verônica](imagens/restaurada_4k.jpg)
 
 > "Verdadeira Imagem do Salvador."
 
@@ -38,6 +38,13 @@ A tradição relata que apenas olhar para o "Volto Santo" (Face Santa) concedeu 
 - Ela é a padroeira dos fotógrafos e trabalhadores de lavanderia, devido ao tecido no qual a imagem do rosto de Cristo foi impressa.
 - A devoção à Santa Face tem o seu fundamento no gesto compassivo de Santa Verônica.
 - O Santo Rosto de Manoppello, uma imagem incrivelmente detalhada num tecido translúcido, é muitas vezes considerado o verdadeiro Véu de Verônica.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Verônica Original](imagens/original.jpg) | ![Santa Verônica Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

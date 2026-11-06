@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Stefan Wyszyński
 
 # Beato Stefan Wyszyński
 
-![Beato Stefan Wyszyński](imagens/portrait.jpg)
+![Beato Stefan Wyszyński](imagens/restaurada_4k.jpg)
 
 > "Soli Deo" (Somente a Deus)"
 
@@ -41,6 +41,12 @@ A beatificação do Cardeal Stefan Wyszyński foi possibilitada pelo reconhecime
 - **Prisão heroica:** Durante os três anos de prisão, ele não guardou rancor contra os comunistas, afirmando que o ódio não deveria ter lugar no coração, e escreveu obras teológicas e espirituais significativas.
 - **Títulos Póstumos:** É reverenciado na Polônia como "o Primaz do Milênio" e um dos maiores heróis nacionais do século XX.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Stefan Wyszyński Original](imagens/original.jpg) | ![Beato Stefan Wyszyński Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 - **Zuzela, Polônia:** Seu local de nascimento.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Dimas.
 
 # São Dimas
 
-![São Dimas](imagens/portrait.jpg)
+![São Dimas](imagens/restaurada_colorida_4k.jpg)
 
 > "Hoje estarás comigo no Paraíso." (Lc 23,43)"
 
@@ -47,6 +47,13 @@ São Dimas não é conhecido por milagres em vida, além do seu próprio arrepen
 * **O Nome Dimas:** O nome "Dimas" (Dismas em latim) não aparece na Bíblia; ele surgiu no Evangelho de Nicodemos (Atos de Pilatos), um texto apócrifo do século IV.
 * **Padroeiro:** É venerado como padroeiro dos prisioneiros, criminosos arrependidos, condenados à morte, agentes penitenciários, agentes funerários e arrependidos em geral.
 * **A Cruz Russa:** Na Igreja Ortodoxa Russa, a barra inferior inclinada da cruz tradicional representa os dois ladrões: o lado que aponta para cima simboliza Dimas, que ascendeu ao céu, e o lado que aponta para baixo simboliza o mau ladrão, que foi para a condenação.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![São Dimas Original](imagens/original.jpg) | ![São Dimas Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

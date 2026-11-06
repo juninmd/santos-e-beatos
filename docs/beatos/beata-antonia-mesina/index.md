@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Antônia Mesina.
 
 # Beata Antônia Mesina
 
-![Beata Antônia Mesina](imagens/portrait.jpg)
+![Beata Antônia Mesina](imagens/restaurada_4k.jpg)
 
 > "Mártir da pureza"
 
@@ -40,6 +40,12 @@ A beatificação de Antônia Mesina não exigiu a comprovação de um milagre es
 2.  **Membro da Ação Católica:** Antônia era membro ativo da Ação Católica Jovem de sua paróquia. O distintivo da Ação Católica foi encontrado perto de seu corpo.
 3.  **Beatificação ao Ar Livre:** A cerimônia de sua beatificação, presidida por São João Paulo II, foi realizada na Praça de São Pedro e ela foi elevada aos altares juntamente com o Beato Marcel Callo e a Beata Pierina Morosini.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Antônia Mesina Original](imagens/original.jpg) | ![Beata Antônia Mesina Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Antônia viveu e morreu no mesmo local:

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Maria de San Jos�
 
 # Beata Maria de San José Alvarado
 
-![Beata Maria de San José Alvarado](imagens/portrait.jpg)
+![Beata Maria de San José Alvarado](imagens/restaurada_4k.jpg)
 
 > "Fundadora dedicada aos necessitados da Venezuela."
 
@@ -33,6 +33,12 @@ O milagre que abriu as portas à sua beatificação foi o da Irmã Teresa Silva.
 2. **Corpo Incorrupto:** Os seus restos mortais encontram-se expostos num relicário de cristal no Santuário da Madre Maria de São José em Maracay, onde milhares de peregrinos acorrem todos os anos.
 3. **Mãe dos Órfãos:** Ao longo de sua vida, Maria acolheu e educou milhares de meninas desfavorecidas que a consideravam a sua verdadeira mãe.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Maria de San José Alvarado Original](imagens/original.jpg) | ![Beata Maria de San José Alvarado Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 A sua vida foi dedicada sobretudo à Venezuela, tendo fundado casas em diversas regiões:
 

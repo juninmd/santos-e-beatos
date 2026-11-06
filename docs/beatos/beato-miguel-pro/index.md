@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Miguel Pro.
 
 # Beato Miguel Pro
 
-![Beato Miguel Pro](imagens/portrait.jpg)
+![Beato Miguel Pro](imagens/restaurada_colorida_4k.jpg)
 
 > "Viva Cristo Rei!"
 
@@ -42,6 +42,12 @@ Sua beatificação foi impulsionada pela fama de santidade e martírio, e muitos
 2.  **Fotos do Martírio:** É um dos poucos santos cuja morte foi fotografada passo a passo. Ele segura um crucifixo numa mão e um rosário na outra.
 3.  **Jesuíta:** Entrou para a Companhia de Jesus em 1911 e estudou em vários países (EUA, Espanha, Nicarágua, Bélgica) devido ao exílio, antes de retornar ao México para servir.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Miguel Pro Original](imagens/original.jpg) | ![Beato Miguel Pro Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 Nasceu em Guadalupe (Zacatecas), estudou na Europa e foi martirizado na Cidade do México.

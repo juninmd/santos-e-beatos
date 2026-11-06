@@ -5,7 +5,7 @@ description: Biografia, vida pessoal, milagres, curiosidades, cidades e impacto 
 
 # São Luís Orione
 
-![São Luís Orione](imagens/portrait.jpg)
+![São Luís Orione](imagens/restaurada_4k.jpg)
 
 > "Só a caridade salvará o mundo."
 
@@ -56,6 +56,13 @@ O milagre para sua canonização (2004) ocorreu em 1990 e envolveu Pierino Penic
 Hoje, a "Família Orionita", que inclui os Filhos da Divina Providência, as Pequenas Irmãs Missionárias da Caridade, o Instituto Secular Orionita e o Movimento Laical Orionita, está presente em mais de 30 países.
 
 Os "Pequenos Cotolengos" espalhados pelo mundo continuam a ser refúgios de amor e cuidado para pessoas com deficiências graves e necessidades especiais, mantendo viva a visão de Dom Orione de que nestas pessoas brilha a imagem de Cristo de forma especial.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Luís Orione Original](imagens/original.jpg) | ![São Luís Orione Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

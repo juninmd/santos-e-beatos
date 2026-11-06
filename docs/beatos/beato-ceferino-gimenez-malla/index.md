@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Ceferino Giménez
 
 # Beato Ceferino Giménez Malla
 
-![Beato Ceferino Giménez Malla](imagens/portrait.jpg)
+![Beato Ceferino Giménez Malla](imagens/restaurada_colorida_4k.jpg)
 
 > "O Mártir Cigano."
 
@@ -32,6 +32,12 @@ Ceferino Giménez Malla, carinhosamente conhecido como "El Pelé", nasceu na Esp
 - **Participação na Missa:** Participava com devoção da missa diária e frequentava a comunhão com assiduidade.
 - **Apreço pela Ordem Terceira:** Ingressou como terciário na Ordem Franciscana (Ordem Terceira de São Francisco), assumindo o compromisso de vida penitente, oração e caridade.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Ceferino Giménez Malla Original](imagens/original.jpg) | ![Beato Ceferino Giménez Malla Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - **Fraga, Espanha:** Sua cidade natal.

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Rupert Mayer.
 
 # Beato Rupert Mayer
 
-![Beato Rupert Mayer](imagens/portrait.jpg)
+![Beato Rupert Mayer](imagens/restaurada_colorida_4k.jpg)
 
 > "Senhor, seja feita a tua vontade."
 
@@ -41,6 +41,12 @@ A vida singular do Beato Rupert Mayer revela aspectos notáveis sobre seu carát
 - **Opositor Formidável:** A firmeza inabalável do Padre Mayer em suas convicções morais e religiosas representou um enorme desafio para as autoridades nazistas, as quais o viam como uma ameaça real à sua propaganda e às suas agendas destrutivas. Suas prisões repetidas, os silenciamentos impostos a ele, as restrições e, por fim, o confinamento no campo de concentração evidenciam o pavor que o regime de Hitler nutria pela influência e pela coragem que este homem exercia sobre o povo alemão.
 - **Condecorado por Bravura Militar:** O fato de ter sido condecorado com a Cruz de Ferro de Primeira Classe é extremamente incomum para um capelão católico e sublinha seu grau excepcional de heroísmo e de dedicação incondicional àqueles a quem servia nas trincheiras, colocando sua própria vida em grave e constante perigo sem hesitação, em nome do amor a Deus e ao próximo.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Rupert Mayer Original](imagens/original.jpg) | ![Beato Rupert Mayer Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - Stuttgart, Alemanha (Nascimento)

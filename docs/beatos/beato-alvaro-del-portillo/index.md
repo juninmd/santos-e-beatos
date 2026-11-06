@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Álvaro del Porti
 
 # Beato Álvaro del Portillo
 
-![Beato Álvaro del Portillo](imagens/portrait.png)
+![Beato Álvaro del Portillo](imagens/restaurada_4k.jpg)
 
 > "Servo bom e fiel."
 
@@ -43,6 +43,12 @@ O milagre reconhecido para a beatificação foi a cura de José Ignacio Ureta Wi
 3. **Peregrino até o fim:** morreu na madrugada seguinte ao retorno de uma peregrinação à Terra Santa; João Paulo II foi rezar diante de seu corpo no mesmo dia.
 4. **Obras sociais:** impulsionou a criação de hospitais, escolas profissionais e universidades em países da África, da Ásia e da América Latina.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Álvaro del Portillo Original](imagens/original.jpg) | ![Beato Álvaro del Portillo Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Nasceu em Madri, atravessou os Pirineus durante a Guerra Civil, viveu em Roma a partir de 1946 e morreu na capital italiana, onde está sepultado na igreja prelatícia de Santa Maria da Paz.

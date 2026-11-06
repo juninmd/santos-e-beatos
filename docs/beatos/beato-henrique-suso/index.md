@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Henrique Suso.
 
 # Beato Henrique Suso
 
-![Beato Henrique Suso](imagens/portrait.jpg)
+![Beato Henrique Suso](imagens/restaurada_colorida_4k.jpg)
 
 > "O Minnesänger da Sabedoria Divina"
 
@@ -44,6 +44,12 @@ Seus milagres após a morte estão principalmente ligados a curas espirituais e 
 2.  **O Amigo de Deus:** Ele fazia parte de um grupo informal de místicos conhecidos como "Os Amigos de Deus" (Gottesfreunde), que buscavam uma profunda renovação espiritual da Igreja de seu tempo.
 3.  **Filha Espiritual:** Ele mantinha uma intensa correspondência espiritual com Elsbeth Stagel, uma monja dominicana. Foi ela quem secretamente começou a transcrever suas cartas e ensinamentos, material que ele mais tarde revisou e publicou como sua autobiografia espiritual ("A Vida do Servo").
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada em 4K |
+| :---: | :---: |
+| ![Beato Henrique Suso Original](imagens/original.jpg) | ![Beato Henrique Suso Restaurada](imagens/restaurada_colorida_4k.jpg) |
 ## Cidades por onde passou
 
 - Constança, Alemanha (Nascimento, ingresso na Ordem Dominicana e grande parte de sua vida)

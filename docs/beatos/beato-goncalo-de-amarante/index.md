@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Gonçalo de Amara
 
 # Beato Gonçalo de Amarante
 
-![Beato Gonçalo de Amarante](imagens/portrait.png)
+![Beato Gonçalo de Amarante](imagens/restaurada_4k.jpg)
 
 > "O santo casamenteiro e construtor de pontes."
 
@@ -43,6 +43,12 @@ Muitos milagres são atribuídos à sua intercessão, tanto em vida quanto após
 2.  **Bolos de São Gonçalo:** Em Amarante, durante suas festas, são tradicionais os "doces fálicos" ou "colhões de São Gonçalo", uma tradição que remonta a antigos ritos de fertilidade e que foi assimilada pela cultura popular local.
 3.  **Culto:** Embora seja tecnicamente um Beato (seu culto foi aprovado em 1561), é venerado como Santo pelo povo ("São Gonçalo") e tem uma devoção massiva no Norte de Portugal e no Brasil.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Gonçalo de Amarante Original](imagens/original.jpg) | ![Beato Gonçalo de Amarante Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Justino Mártir.
 
 # São Justino Mártir
 
-![São Justino Mártir](./imagens/portrait.jpg)
+![São Justino Mártir](imagens/restaurada_4k.jpg)
 
 > "Nós podemos ser mortos, mas não podemos ser feridos."
 
@@ -44,6 +44,13 @@ Muitas conversões ao longo dos séculos são atribuídas à leitura de suas obr
 1.  **O "Logos":** Justino desenvolveu o conceito de "Logos espermático", argumentando que a razão (Logos) ilumina cada pessoa e que Jesus é o Logos encarnado, harmonizando a fé com a razão filosófica.
 2.  **Registro Litúrgico:** Sua "Primeira Apologia" contém a descrição mais antiga e detalhada que sobreviveu sobre a celebração da Eucaristia no domingo, oferecendo um vislumbre único da liturgia da Igreja Primitiva.
 3.  **Patrono dos Filósofos:** Ele é frequentemente invocado como o padroeiro dos filósofos e apologistas cristãos.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Justino Mártir Original](imagens/original.jpg) | ![São Justino Mártir Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Giuseppe Toniolo.
 
 # Beato Giuseppe Toniolo
 
-![Beato Giuseppe Toniolo](imagens/portrait.jpg)
+![Beato Giuseppe Toniolo](imagens/restaurada_4k.jpg)
 
 > "Um leigo católico pioneiro da Doutrina Social da Igreja."
 
@@ -44,6 +44,12 @@ A beatificação do Beato Giuseppe Toniolo foi impulsionada pelo reconhecimento 
 * **A Rerum Novarum:** Ajudou diretamente a estruturar e revisar os rascunhos da encíclica *Rerum Novarum*, a pedra angular da Doutrina Social da Igreja.
 * **Economia Humana:** Cunhou o conceito de uma "economia a serviço do homem e não o homem a serviço da economia", princípio frequentemente reiterado pelos Papas até os dias atuais (como o Papa Francisco).
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Giuseppe Toniolo Original](imagens/original.jpg) | ![Beato Giuseppe Toniolo Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

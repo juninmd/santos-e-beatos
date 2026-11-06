@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Francisco de Assis
 
 # São Francisco de Assis
 
-![São Francisco de Assis](imagens/sao-francisco.jpg)
+![São Francisco de Assis](imagens/restaurada_4k.jpg)
 
 > "Senhor, fazei-me instrumento de vossa paz."
 
@@ -38,6 +38,13 @@ São muitos os relatos de milagres em vida, incluindo a cura de doentes, a profe
 
 1.  **Presépio:** Foi o criador do primeiro presépio vivo, em Greccio, no ano de 1223, para celebrar o Natal.
 2.  **Padroeiro:** É o padroeiro da ecologia e dos animais.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Francisco de Assis Original](imagens/original.jpg) | ![São Francisco de Assis Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

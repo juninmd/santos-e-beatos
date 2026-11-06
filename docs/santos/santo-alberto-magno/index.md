@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Alberto Magno.
 
 # Santo Alberto Magno
 
-![Santo Alberto Magno](imagens/portrait.jpg)
+![Santo Alberto Magno](imagens/restaurada_4k.jpg)
 
 > "Nos assuntos da fé e da moral, Santo Agostinho é a nossa autoridade; na medicina, Galeno; na filosofia, Aristóteles."
 
@@ -40,6 +40,13 @@ Sua velhice foi marcada por uma profunda dedicação espiritual. Nos últimos an
 - **Padroeiro dos Cientistas:** Em 1941, o Papa Pio XII declarou Santo Alberto Magno o padroeiro dos estudantes e pesquisadores de ciências naturais.
 - **Alquimista:** Atribuem-se a ele diversos tratados de alquimia. Diz a lenda que ele descobriu a Pedra Filosofal, embora a crítica histórica moderna rejeite que muitos dos textos alquímicos sejam de sua autoria. Ele foi, contudo, um pioneiro da química, tendo descoberto o elemento arsênio em 1250.
 - **Defensor de Tomás de Aquino:** Ele sobreviveu a seu famoso aluno e amigo. Ao saber da morte de São Tomás de Aquino em 1274, Santo Alberto comentou com tristeza: "A luz da Igreja se apagou". E viajou para Paris em 1277 para defender com sucesso a ortodoxia dos escritos de Tomás quando estes sofreram ataques.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Alberto Magno Original](imagens/original.jpg) | ![Santo Alberto Magno Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 Santo Alberto foi um grande viajante a pé pela Europa medieval (nunca andava a cavalo, seguindo a regra original dos frades dominicanos).

@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Paulo da Cruz.
 
 # São Paulo da Cruz
 
-![São Paulo da Cruz](imagens/cover.jpg)
+![São Paulo da Cruz](imagens/restaurada_4k.jpg)
 
 > "A oração é a chave de ouro que abre o céu."
 
@@ -42,6 +42,13 @@ A vida e o túmulo de São Paulo da Cruz são associados a inúmeros milagres, t
 *   O hábito dos Passionistas, adotado por Paulo, é uma túnica negra com o emblema característico: um coração encimado por uma cruz branca e a inscrição "Jesu XPI Passio" (A Paixão de Jesus Cristo).
 *   Seu irmão mais novo, João Batista, foi seu companheiro inseparável na fundação e obra missionária até o seu falecimento.
 *   O Papa São João Paulo II o chamou de "um dos maiores místicos do século XVIII".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Paulo da Cruz Original](imagens/original.jpg) | ![São Paulo da Cruz Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

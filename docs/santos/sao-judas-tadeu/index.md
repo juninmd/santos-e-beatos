@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Judas Tadeu.
 
 # São Judas Tadeu
 
-![São Judas Tadeu](imagens/sao-judas.jpg)
+![São Judas Tadeu](imagens/restaurada_4k.jpg)
 
 > "O Santo das Causas Impossíveis"
 
@@ -36,6 +36,13 @@ Conhecido como o "Santo das Causas Impossíveis" ou "Causas Desesperadas", títu
 
 1.  **Chama:** É representado com uma chama de fogo sobre a cabeça, significando a presença do Espírito Santo em Pentecostes.
 2.  **Devoção Popular:** É extremamente venerado no Brasil, com grandes procissões e festas em sua honra.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Judas Tadeu Original](imagens/original.jpg) | ![São Judas Tadeu Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

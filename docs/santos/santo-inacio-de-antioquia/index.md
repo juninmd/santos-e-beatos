@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Inácio de Antioq
 
 # Santo Inácio de Antioquia
 
-![Santo Inácio de Antioquia](imagens/portrait.jpg)
+![Santo Inácio de Antioquia](imagens/restaurada_4k.jpg)
 
 > "Sou trigo de Deus e devo ser moído pelos dentes das feras, para tornar-me pão puro de Cristo."
 
@@ -39,6 +39,13 @@ Como mártir da Igreja primitiva, os "milagres" associados a Santo Inácio são 
 - Inácio foi o primeiro autor cristão a usar o termo "Igreja Católica" (ekklesia katholikos), significando a igreja "universal" ou "completa", em sua Epístola aos Esmirnenses.
 - O apelido "Teóforo" levou a uma lenda de que ele foi a criança que Jesus tomou nos braços quando ensinou aos discípulos sobre a humildade (Mateus 18).
 - Suas cartas oferecem a primeira defesa clara do episcopado triplo (bispo, presbíteros e diáconos).
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Inácio de Antioquia Original](imagens/original.jpg) | ![Santo Inácio de Antioquia Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

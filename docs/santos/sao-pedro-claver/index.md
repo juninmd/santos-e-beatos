@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São Pedro Claver.
 
 # São Pedro Claver
 
-![São Pedro Claver](imagens/portrait.jpg)
+![São Pedro Claver](imagens/restaurada_4k.jpg)
 
 > "O Escravo dos Escravos para Sempre"
 
@@ -42,6 +42,13 @@ Ele era frequentemente visto cercado por um halo de luz quando orava ou administ
 - **Batismos em Massa:** Para batizar grandes multidões de africanos que falavam línguas diferentes, Pedro organizava os intérpretes (ele chegou a ter uma equipe de mais de doze intérpretes) e usava imagens vívidas para explicar o céu e o inferno, o pecado e a redenção.
 - **Roupas Especiais:** Ele tinha um manto que colocava sobre os enfermos que visitava. Dizia-se que este manto cheirava a flores mesmo depois de cobrir pessoas com as doenças mais repulsivas, e muitas lendas dizem que pessoas foram curadas ao tocá-lo.
 - **Isolamento Final:** Apesar de ter servido a centenas de milhares, nos seus últimos anos, quando estava paralisado, os moradores de Cartagena o negligenciaram, e ele viveu em um pequeno quarto escuro, frequentemente esquecido até pelo homem encarregado de cuidar dele.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Pedro Claver Original](imagens/original.jpg) | ![São Pedro Claver Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

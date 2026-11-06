@@ -36,6 +36,13 @@ Já o caminho para sua canonização pelo Papa Francisco, em 2015, seguiu um per
 2. **Declaração de Direitos:** Em 1773, Serra viajou até a Cidade do México para pleitear um conjunto de regulamentos ("Representación") junto ao vice-rei. Esse documento é frequentemente chamado de "A Primeira Declaração de Direitos" ('Bill of Rights') da Califórnia, pois estabeleceu regras para proteger os indígenas nativos das ações opressoras dos militares e governadores espanhóis.
 3. **Pai da Califórnia:** Ele é amplamente reconhecido como o fundador do estado da Califórnia. Uma de suas estátuas está na Sala Nacional das Estátuas do Capitólio dos Estados Unidos, representando a Califórnia. A rodovia 280 da Califórnia possui trechos com o nome de *Junipero Serra Freeway*.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Retrato Original](imagens/original.jpg) | ![Retrato Restaurada](imagens/restaurada_4k.jpg) |
+
 ## Cidades por onde passou
 
 - Petra (Maiorca, Espanha)
@@ -64,6 +71,6 @@ Embora sua figura tenha sido alvo de controvérsias contemporâneas em relação
 
 ## Galeria
 
-| ![Retrato](imagens/portrait.jpg) | ![São Junípero Serra no oeste](./imagens/cover.jpg) |
+| ![Retrato](imagens/restaurada_4k.jpg) | ![São Junípero Serra no oeste](./imagens/cover.jpg) |
 | :---: | :---: |
 | *Retrato de São Junípero Serra.* | *São Junípero Serra e as missões.* |

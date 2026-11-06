@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de São José.
 
 # São José
 
-![São José](imagens/portrait.jpg)
+![São José](imagens/restaurada_4k.jpg)
 
 > "Ide a José."
 
@@ -37,6 +37,13 @@ Inúmeros milagres são atribuídos à intercessão de São José ao longo da hi
 1.  **Silêncio:** São José não profere nenhuma palavra nos Evangelhos, sendo conhecido como o "Santo do Silêncio".
 2.  **Lírios:** É frequentemente representado com um ramo de lírios, símbolo de sua pureza e castidade.
 3.  **Nome:** O nome José significa "Deus acrescentará" ou "Aquele que acrescenta".
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São José Original](imagens/original.jpg) | ![São José Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

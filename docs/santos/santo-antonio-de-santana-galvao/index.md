@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santo Antônio de Sant'
 
 # Santo Antônio de Sant'Ana Galvão
 
-![Santo Antônio de Sant'Ana Galvão](imagens/portrait.jpg)
+![Santo Antônio de Sant'Ana Galvão](imagens/restaurada_4k.jpg)
 
 > "O primeiro santo nascido no Brasil"
 
@@ -40,6 +40,13 @@ Outro caso similar aconteceu com um homem que sofria de fortes dores causadas po
 - **Abolicionismo:** Ele era conhecido por comprar a liberdade de escravos, demonstrando desde aquela época uma visão contrária à escravidão.
 - **O Mosteiro Hoje:** O Mosteiro da Luz, construído por ele, foi declarado Patrimônio Cultural da Humanidade pela UNESCO, devido à sua importância histórica e arquitetônica.
 - **Primeiro Santo Brasileiro:** Frei Galvão é o primeiro santo nascido em solo brasileiro a ser canonizado pela Igreja Católica.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santo Antônio de Sant'Ana Galvão Original](imagens/original.jpg) | ![Santo Antônio de Sant'Ana Galvão Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

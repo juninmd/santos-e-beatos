@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Luísa de Marilla
 
 # Santa Luísa de Marillac
 
-![Santa Luísa de Marillac](imagens/portrait.jpg)
+![Santa Luísa de Marillac](imagens/restaurada_4k.jpg)
 
 > "A caridade de Jesus Cristo Crucificado nos impele."
 
@@ -40,6 +40,13 @@ Os milagres atribuídos à intercessão de Santa Luísa de Marillac frequentemen
 
 - O Papa João XXIII a declarou a padroeira dos assistentes sociais e de todos os que trabalham nesse campo.
 - Suas relíquias estão guardadas na Capela de Nossa Senhora da Medalha Milagrosa em Paris, a mesma igreja onde estão os restos de São Vicente de Paulo e Santa Catarina Labouré.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Luísa de Marillac Original](imagens/original.jpg) | ![Santa Luísa de Marillac Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

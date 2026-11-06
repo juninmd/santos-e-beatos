@@ -5,7 +5,7 @@ description: Um rei justo que uniu seu povo e dedicou sua vida a Deus e aos nece
 
 # Santo Eduardo, o Confessor
 
-![Cover](imagens/cover.jpg)
+![Cover](imagens/restaurada_colorida_4k.jpg)
 
 > "Rei justo, pai dos pobres e construtor da fé."
 
@@ -37,6 +37,13 @@ Ainda em vida e após a morte, a fama de santidade de Eduardo se espalhou, atrai
 - O título de "Confessor" não significa que ele confessava muitos pecados, mas que "confessou" a fé cristã através de sua vida virtuosa, sem precisar do martírio.
 - Eduardo, o Confessor, foi o único rei canonizado na história da Inglaterra medieval e era o santo padroeiro da Inglaterra até ser substituído por São Jorge no século XIV.
 - O local de seu túmulo na Abadia de Westminster tornou-se um grande centro de peregrinação, que perdurou ao longo dos séculos.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Cover Original](imagens/original.jpg) | ![Cover Restaurada](imagens/restaurada_colorida_4k.jpg) |
 
 ## Cidades por onde passou
 

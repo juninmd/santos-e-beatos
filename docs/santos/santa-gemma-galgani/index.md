@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Gemma Galgani.
 
 # Santa Gemma Galgani
 
-![Santa Gemma Galgani](imagens/portrait.jpg)
+![Santa Gemma Galgani](imagens/restaurada_colorida_4k.jpg)
 
 > "Jesus, eu quero ser toda tua, toda tua, sem reserva alguma."
 
@@ -66,7 +66,14 @@ Santa Gemma Galgani continua a ser uma fonte de inspiração para jovens e sofre
 
 Ela é a padroeira dos estudantes (junto com São Gabriel de Nossa Senhora das Dores), dos farmacêuticos e daqueles que sofrem de dores nas costas e dores de cabeça. Seu santuário em Lucca atrai milhares de peregrinos anualmente. A Congregação das Irmãs Missionárias de Santa Gemma foi fundada em sua honra para propagar sua espiritualidade.
 
-## Galeria de Imagens
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada/Colorizada |
+| :---: | :---: |
+| ![Santa Gemma Galgani Original](imagens/original.jpg) | ![Santa Gemma Galgani Restaurada](imagens/restaurada_colorida_4k.jpg) |
+
+### Outras Imagens
 
 | Casa em Lucca |
 | --- |

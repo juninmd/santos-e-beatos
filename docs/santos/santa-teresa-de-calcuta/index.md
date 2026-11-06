@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa de Santa Teresa de Calcut�
 
 # Santa Teresa de Calcutá
 
-![Santa Teresa de Calcutá](imagens/portrait.jpg)
+![Santa Teresa de Calcutá](imagens/restaurada_4k.jpg)
 
 > "Não podemos fazer grandes coisas, mas podemos fazer pequenas coisas com grande amor."
 
@@ -41,6 +41,13 @@ Para sua canonização, a Igreja reconheceu dois milagres atribuídos à sua int
 *   **Banquete do Nobel:** Ao receber o Prêmio Nobel da Paz, ela recusou o tradicional banquete cerimonial e pediu que o dinheiro (cerca de 192.000 dólares) fosse doado aos pobres da Índia.
 *   **Cidadanias:** Recebeu a cidadania indiana em 1948 e foi feita Cidadã Honorária dos Estados Unidos em 1996.
 *   **Estatura:** Era fisicamente pequena, medindo cerca de 1,50m, mas possuía uma energia e determinação gigantescas.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Santa Teresa de Calcutá Original](imagens/original.jpg) | ![Santa Teresa de Calcutá Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

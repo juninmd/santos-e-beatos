@@ -5,7 +5,7 @@ description: Biografia, milagres e ensinamentos de São Leão Magno.
 
 # São Leão Magno
 
-![São Leão Magno](imagens/portrait.png)
+![São Leão Magno](imagens/restaurada_4k.jpg)
 
 > "Quem ignora a divindade de Cristo ignora também a sua humanidade."
 
@@ -43,6 +43,13 @@ São Leão morreu em 10 de novembro de 461, deixando um legado impressionante de
 - É um dos primeiros Doutores da Igreja.
 - Ele deixou 96 sermões e 143 cartas que até hoje são fundamentais para a teologia católica e a compreensão da época.
 - Seus sermões sobre a encarnação e a liturgia moldaram profundamente os ciclos do Ano Litúrgico como os conhecemos hoje.
+
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![São Leão Magno Original](imagens/original.jpg) | ![São Leão Magno Restaurada](imagens/restaurada_4k.jpg) |
 
 ## Cidades por onde passou
 

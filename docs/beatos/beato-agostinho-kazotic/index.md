@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa do Beato Agostinho Kazoti�
 
 # Beato Agostinho Kazotić
 
-![Beato Agostinho Kazotić](imagens/portrait.jpg)
+![Beato Agostinho Kazotić](imagens/restaurada_4k.jpg)
 
 > "O Defensor da Fé nos Balcãs"
 
@@ -36,6 +36,12 @@ Segundo a tradição, durante uma grande seca em Zagreb, o bispo Agostinho cavou
 2. **Saúde Pública:** Durante sua gestão, implementou algumas das primeiras medidas de saúde e higiene na cidade de Zagreb para evitar doenças.
 3. **Escritos:** Embora muitos de seus sermões tenham se perdido, alguns tratados sobre questões pastorais sobreviveram, mostrando-o como um teólogo incisivo.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beato Agostinho Kazotić Original](imagens/original.jpg) | ![Beato Agostinho Kazotić Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 <MiracleMap :items='[

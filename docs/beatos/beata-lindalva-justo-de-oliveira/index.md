@@ -5,7 +5,7 @@ description: Biografia, milagres, curiosidades e mapa da Beata Lindalva Justo de
 
 # Beata Lindalva Justo de Oliveira
 
-![Beata Lindalva Justo de Oliveira](imagens/retrato.svg)
+![Beata Lindalva Justo de Oliveira](imagens/restaurada_4k.jpg)
 
 > "Mártir da caridade."
 
@@ -43,6 +43,12 @@ Por ser mártir, sua beatificação não exigiu milagre. Desde a morte, o abrigo
 3. **Vocação tardia:** entrou na vida religiosa aos 33 anos, depois de mais de uma década sustentando a família.
 4. **Padroeira:** invocada pelos cuidadores de idosos, pelas religiosas e pelas vítimas de violência de gênero.
 
+
+## Galeria de Imagens e Restaurações
+
+| Original | Restaurada em 4K |
+| :---: | :---: |
+| ![Beata Lindalva Justo de Oliveira Original](imagens/original.jpg) | ![Beata Lindalva Justo de Oliveira Restaurada](imagens/restaurada_4k.jpg) |
 ## Cidades por onde passou
 
 Nasceu em Açu, no Rio Grande do Norte, formou-se para a vida religiosa em Recife e no Rio de Janeiro, e viveu seus últimos anos em Salvador, onde foi martirizada e onde repousa.
