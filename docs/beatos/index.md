@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 200 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 201 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -59,6 +59,7 @@ Esta seção reúne 200 beatos e veneráveis da Igreja Católica, com biografia,
 - [Beata Concepción Cabrera de Armida (Conchita)](beata-maria-da-conceicao/index.md)
 - [Beato Contardo Ferrini](beato-contardo-ferrini/index.md)
 - [Beato Crispino de Viterbo](beato-crispino-de-viterbo/index.md)
+- [Beato Daudi Okelo](beato-daudi-okelo/index.md)
 - [Beata Dina Bélanger](beata-dina-belanger/index.md)
 - [Beato Diogo José de Cádis](beato-diogo-jose-de-cadiz/index.md)
 - [Beato Domingos da Mãe de Deus](beato-domingos-da-mae-de-deus/index.md)

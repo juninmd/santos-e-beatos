@@ -6,7 +6,7 @@ Este sistema reúne biografias, mapas, milagres e curiosidades sobre santos e be
 
 ## Lista de Santos e Beatos
 
-São 200 beatos e 215 santos catalogados.
+São 201 beatos e 216 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -67,6 +67,7 @@ São 200 beatos e 215 santos catalogados.
 | [Beata Concepción Cabrera de Armida (Conchita)](docs/beatos/beata-maria-da-conceicao/index.md) | ![Beata Concepción Cabrera de Armida (Conchita)](docs/beatos/beata-maria-da-conceicao/imagens/portrait.jpg) |
 | [Beato Contardo Ferrini](docs/beatos/beato-contardo-ferrini/index.md) | ![Beato Contardo Ferrini](docs/beatos/beato-contardo-ferrini/imagens/portrait.jpg) |
 | [Beato Crispino de Viterbo](docs/beatos/beato-crispino-de-viterbo/index.md) | ![Beato Crispino de Viterbo](docs/beatos/beato-crispino-de-viterbo/imagens/portrait.jpg) |
+| [Beato Daudi Okelo](docs/beatos/beato-daudi-okelo/index.md) | ![Beato Daudi Okelo](docs/beatos/beato-daudi-okelo/imagens/retrato.svg) |
 | [Beata Dina Bélanger](docs/beatos/beata-dina-belanger/index.md) | ![Beata Dina Bélanger](docs/beatos/beata-dina-belanger/imagens/portrait.jpg) |
 | [Beato Diogo José de Cádis](docs/beatos/beato-diogo-jose-de-cadiz/index.md) | ![Beato Diogo José de Cádis](docs/beatos/beato-diogo-jose-de-cadiz/imagens/portrait.jpg) |
 | [Beato Domingos da Mãe de Deus](docs/beatos/beato-domingos-da-mae-de-deus/index.md) | ![Beato Domingos da Mãe de Deus](docs/beatos/beato-domingos-da-mae-de-deus/imagens/portrait.jpg) |
@@ -325,6 +326,7 @@ São 200 beatos e 215 santos catalogados.
 | [São João Diego Cuauhtlatoatzin](docs/santos/sao-joao-diego/index.md) | ![São João Diego Cuauhtlatoatzin](docs/santos/sao-joao-diego/imagens/portrait.jpg) |
 | [São João Eudes](docs/santos/sao-joao-eudes/index.md) | ![São João Eudes](docs/santos/sao-joao-eudes/imagens/portrait.jpg) |
 | [São João Evangelista](docs/santos/sao-joao-evangelista/index.md) | ![São João Evangelista](docs/santos/sao-joao-evangelista/imagens/portrait.jpg) |
+| [São João Gualberto](docs/santos/sao-joao-gualberto/index.md) | ![São João Gualberto](docs/santos/sao-joao-gualberto/imagens/retrato.svg) |
 | [São João Macías](docs/santos/sao-joao-macias/index.md) | ![São João Macías](docs/santos/sao-joao-macias/imagens/portrait.jpg) |
 | [São João Maria Vianney](docs/santos/sao-joao-maria-vianney/index.md) | ![São João Maria Vianney](docs/santos/sao-joao-maria-vianney/imagens/portrait.png) |
 | [São João Nepomuceno](docs/santos/sao-joao-nepomuceno/index.md) | ![São João Nepomuceno](docs/santos/sao-joao-nepomuceno/imagens/retrato.svg) |
