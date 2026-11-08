@@ -6,7 +6,7 @@ Este sistema reúne biografias, mapas, milagres e curiosidades sobre santos e be
 
 ## Lista de Santos e Beatos
 
-São 201 beatos e 216 santos catalogados.
+São 202 beatos e 217 santos catalogados.
 
 | Nome | Imagem |
 | --- | --- |
@@ -177,6 +177,7 @@ São 201 beatos e 216 santos catalogados.
 | [Venerável Nicola D'Onofrio](docs/beatos/beato-nicola-donofrio/index.md) | ![Venerável Nicola D'Onofrio](docs/beatos/beato-nicola-donofrio/imagens/portrait.jpg) |
 | [Beato Nicolau Steno](docs/beatos/beato-nicolau-steno/index.md) | ![Beato Nicolau Steno](docs/beatos/beato-nicolau-steno/imagens/portrait.jpg) |
 | [Beato Odoardo Focherini](docs/beatos/beato-odoardo-focherini/index.md) | ![Beato Odoardo Focherini](docs/beatos/beato-odoardo-focherini/imagens/portrait.jpg) |
+| [Beato Odorico de Pordenone](docs/beatos/beato-odorico-de-pordenone/index.md) | ![Beato Odorico de Pordenone](docs/beatos/beato-odorico-de-pordenone/imagens/retrato.svg) |
 | [Padre Donizetti Tavares de Lima](docs/beatos/padre-donizetti/index.md) | ![Padre Donizetti Tavares de Lima](docs/beatos/padre-donizetti/imagens/padre_restaurada_colorida.jpg) |
 | [Beato Padre Eustáquio](docs/beatos/beato-padre-eustaquio/index.md) | ![Beato Padre Eustáquio](docs/beatos/beato-padre-eustaquio/imagens/portrait.jpg) |
 | [Beato Padre Victor](docs/beatos/padre-victor/index.md) | ![Beato Padre Victor](docs/beatos/padre-victor/imagens/padre-victor.jpg) |
@@ -296,6 +297,7 @@ São 201 beatos e 216 santos catalogados.
 | [São Geraldo Majella](docs/santos/sao-geraldo-majella/index.md) | ![São Geraldo Majella](docs/santos/sao-geraldo-majella/imagens/portrait.jpg) |
 | [Santa Gertrudes, a Grande](docs/santos/santa-gertrudes/index.md) | ![Santa Gertrudes, a Grande](docs/santos/santa-gertrudes/imagens/portrait.jpg) |
 | [Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/index.md) | ![Santa Gianna Beretta Molla](docs/santos/santa-gianna-beretta-molla/imagens/portrait.jpg) |
+| [São Gregório de Nissa](docs/santos/sao-gregorio-de-nissa/index.md) | ![São Gregório de Nissa](docs/santos/sao-gregorio-de-nissa/imagens/retrato.svg) |
 | [São Gregório Magno](docs/santos/sao-gregorio-magno/index.md) | ![São Gregório Magno](docs/santos/sao-gregorio-magno/imagens/portrait.jpg) |
 | [Santa Helena](docs/santos/santa-helena/index.md) | ![Santa Helena](docs/santos/santa-helena/imagens/portrait.jpg) |
 | [Santa Hildegarda de Bingen](docs/santos/santa-hildegarda-de-bingen/index.md) | ![Santa Hildegarda de Bingen](docs/santos/santa-hildegarda-de-bingen/imagens/portrait.jpg) |
