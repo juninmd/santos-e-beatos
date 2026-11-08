@@ -1,6 +1,6 @@
 # Beatos
 
-Esta seção reúne 201 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
+Esta seção reúne 202 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
@@ -169,6 +169,7 @@ Esta seção reúne 201 beatos e veneráveis da Igreja Católica, com biografia,
 - [Venerável Nicola D'Onofrio](beato-nicola-donofrio/index.md)
 - [Beato Nicolau Steno](beato-nicolau-steno/index.md)
 - [Beato Odoardo Focherini](beato-odoardo-focherini/index.md)
+- [Beato Odorico de Pordenone](beato-odorico-de-pordenone/index.md)
 - [Padre Donizetti Tavares de Lima](padre-donizetti/index.md)
 - [Beato Padre Eustáquio](beato-padre-eustaquio/index.md)
 - [Beato Padre Victor](padre-victor/index.md)
