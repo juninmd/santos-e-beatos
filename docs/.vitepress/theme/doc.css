@@ -1,55 +1,79 @@
-/* Páginas de santos: tipografia de manuscrito e molduras */
-.vp-doc h1, .vp-doc h2, .vp-doc h3 { font-family: var(--sb-display); letter-spacing: 0.02em; }
+/* Biografias: leitura imersiva. O cabeçalho do markdown (título, retrato, citação e
+   ficha) vira o <SaintHero>; aqui ele é escondido só quando o hero existe. */
+.VPDoc:has(.sb-hero) .vp-doc > div > h1:first-of-type,
+.VPDoc:has(.sb-hero) .vp-doc > div > p:first-of-type:has(img),
+.VPDoc:has(.sb-hero) .vp-doc > div > blockquote:first-of-type,
+.VPDoc:has(.sb-hero) .vp-doc > div > ul:first-of-type,
+.VPDoc:has(.sb-hero) .vp-doc > div > hr:first-of-type { display: none; }
 
-.vp-doc h1 { text-align: center; }
+.VPDoc:has(.sb-hero) { padding-top: 24px !important; }
 
-.vp-doc h1::after {
-  content: '✠ ✦ ✠';
-  display: block;
-  margin-top: 0.6rem;
-  font-size: 1rem;
-  letter-spacing: 0.6em;
+.vp-doc h1, .vp-doc h2, .vp-doc h3 { font-family: var(--sb-display); letter-spacing: 0; }
+.vp-doc h2 {
+  margin-top: 64px; padding-top: 0; border-top: 0;
+  font-size: clamp(32px, 4vw, 44px); line-height: 1.1; font-weight: 600;
+}
+.vp-doc h2::before {
+  content: ''; display: block; width: 48px; height: 2px; margin-bottom: 18px;
+  background: linear-gradient(90deg, var(--sb-gold), transparent);
+}
+.vp-doc h3 { font-size: 26px; }
+
+.vp-doc p, .vp-doc li {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: var(--sb-read-size); line-height: 1.75;
+}
+
+/* Capitular no primeiro parágrafo da biografia */
+.vp-doc h2[id^='biografia'] + p::first-letter {
+  float: left; padding: 8px 12px 0 0;
+  font: 600 calc(var(--sb-read-size) * 4.6) / 0.8 var(--sb-display);
   color: var(--sb-gold);
 }
 
-.vp-doc h2 { border-top: 1px solid var(--vp-c-divider); }
-
-.vp-doc p, .vp-doc li { font-size: 1.12rem; line-height: 1.8; }
-
-.vp-doc > div > p:nth-of-type(2)::first-letter {
-  font-family: var(--sb-display);
-  float: left;
-  font-size: 3.4rem;
-  line-height: 0.9;
-  padding: 0.3rem 0.5rem 0 0;
-  color: var(--sb-wine);
-}
-
-.dark .vp-doc > div > p:nth-of-type(2)::first-letter { color: var(--sb-gold-soft); }
-
 .vp-doc img {
-  display: block;
-  margin: 1rem auto;
-  max-height: 460px;
-  border-radius: 6px;
-  border: 6px solid var(--sb-parchment);
-  outline: 2px solid var(--sb-gold);
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  display: block; margin: 1.5rem auto; max-height: 460px; border-radius: 20px;
+  border: 1px solid var(--sb-line); box-shadow: 0 20px 50px -20px rgba(0, 0, 0, 0.45);
 }
 
 .vp-doc blockquote {
-  border-left: 4px solid var(--sb-gold);
-  background: var(--vp-c-brand-soft);
-  border-radius: 0 12px 12px 0;
-  font-style: italic;
-  font-size: 1.2rem;
+  margin: 36px 0; padding: 24px 28px; border: 0; border-radius: 24px;
+  background: linear-gradient(135deg, var(--vp-c-brand-soft), rgba(155, 44, 78, 0.1));
+}
+.vp-doc blockquote p {
+  font: italic 500 calc(var(--sb-read-size) * 1.35) / 1.35 var(--sb-display);
+  color: var(--sb-text);
 }
 
-.miracle-map-container {
-  height: 400px;
-  width: 100%;
-  margin: 1rem 0;
-  border-radius: 12px;
-  border: 2px solid var(--sb-gold);
-  z-index: 1; /* mantém o mapa abaixo da navbar */
+/* Curiosidades em cartões numerados */
+.vp-doc h2[id^='curiosidades'] + ol {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 14px; padding: 0; list-style: none; counter-reset: cur;
 }
+.vp-doc h2[id^='curiosidades'] + ol > li {
+  counter-increment: cur; margin: 0; padding: 22px; border-radius: 20px;
+  border: 1px solid var(--sb-line); background: var(--sb-surface);
+  font-size: calc(var(--sb-read-size) * 0.9); line-height: 1.6;
+}
+.vp-doc h2[id^='curiosidades'] + ol > li::before {
+  content: counter(cur, upper-roman); display: block; margin-bottom: 6px;
+  font: 600 28px var(--sb-display); color: var(--sb-gold);
+}
+
+.vp-doc a { color: var(--sb-gold); text-underline-offset: 3px; }
+
+/* Modo pergaminho: tons de papel mesmo no tema escuro */
+.sb-pergaminho .VPDoc { background: #f6eed9; transition: background 0.5s; }
+.sb-pergaminho .VPDoc .vp-doc {
+  --sb-text: #2a2118; --sb-gold: #7b1e3a; --sb-surface: #efe3c4; --sb-line: rgba(143, 100, 22, 0.3);
+  --vp-c-text-1: #2a2118; --vp-c-text-2: #5e5242; color: #2a2118;
+}
+.sb-pergaminho .VPDoc .aside, .sb-pergaminho .VPDocFooter { --vp-c-text-1: #2a2118; --vp-c-text-2: #5e5242; }
+
+/* Sumário lateral */
+.VPDocAsideOutline .outline-title { font: 500 11px var(--sb-caps); letter-spacing: 0.2em; color: var(--sb-gold); }
+.VPDocAsideOutline .outline-link { font-family: var(--sb-ui); }
+
+/* Anterior / próximo */
+.VPDocFooter .pager-link { border-radius: 20px; padding: 18px 22px; }
+.VPDocFooter .pager-link .title { font: 600 22px var(--sb-display); }

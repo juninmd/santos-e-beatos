@@ -1,0 +1,83 @@
+/* Base global: navbar de vidro, utilitários e animações compartilhadas. */
+body { background: var(--sb-bg); }
+
+.VPNav, .VPNavBar { backdrop-filter: blur(18px); }
+.VPNavBar.has-sidebar .content-body,
+.VPNavBar:not(.home) .content-body,
+.VPNavBar .content-body { background: var(--sb-glass) !important; }
+.VPNavBar .divider-line { background-color: var(--sb-line) !important; }
+.VPNavBarTitle .title { font-family: var(--sb-caps); letter-spacing: 0.12em; font-size: 15px; }
+.VPNavBarMenuLink { font-family: var(--sb-ui); font-weight: 500; }
+
+/* Botões e chips */
+.sb-btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 10px;
+  min-height: 48px; padding: 0 22px; border-radius: 14px; border: 0; cursor: pointer;
+  background: var(--sb-cta); color: var(--sb-cta-text) !important;
+  font: 600 15px var(--sb-ui); text-decoration: none !important;
+  transition: transform 0.25s var(--sb-ease), box-shadow 0.25s;
+}
+.sb-btn:hover { transform: translateY(-2px); box-shadow: 0 14px 30px -12px var(--sb-glow); }
+.sb-btn.ghost { background: transparent; color: var(--sb-text) !important; border: 1px solid var(--sb-line); }
+.sb-btn.ghost:hover { border-color: var(--sb-gold); }
+.sb-icon-btn {
+  width: 48px; height: 48px; display: grid; place-items: center; flex: none;
+  border-radius: 999px; border: 1px solid var(--sb-line); background: transparent;
+  color: var(--sb-gold); cursor: pointer; transition: border-color 0.2s, background 0.2s;
+}
+.sb-icon-btn:hover, .sb-icon-btn[aria-pressed='true'] { border-color: var(--sb-gold); background: var(--vp-c-brand-soft); }
+.sb-chip {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 16px;
+  border-radius: 999px; border: 1px solid var(--sb-line); background: transparent;
+  color: var(--sb-text) !important; font: 500 14px var(--sb-ui); cursor: pointer;
+  text-decoration: none !important; transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+.sb-chip:hover { border-color: var(--sb-gold); }
+.sb-chip[aria-pressed='true'], .sb-chip.on {
+  background: var(--vp-c-brand-soft); border-color: var(--sb-gold); color: var(--sb-gold) !important;
+}
+.sb-eyebrow { margin: 0; font: 500 13px var(--sb-caps); letter-spacing: 0.26em; text-transform: uppercase; color: var(--sb-gold); }
+.sb-title { margin: 0; font: 600 clamp(36px, 4.5vw, 60px) / 1.02 var(--sb-display); color: var(--sb-text); }
+.sb-title em { color: var(--sb-gold); }
+.sb-card {
+  border-radius: 28px; border: 1px solid var(--sb-line); background: var(--sb-surface);
+  transition: transform 0.35s var(--sb-ease), border-color 0.35s, box-shadow 0.35s;
+}
+a.sb-card:hover, .sb-card.hover:hover {
+  transform: translateY(-6px); border-color: var(--sb-gold);
+  box-shadow: 0 24px 60px -24px var(--sb-glow);
+}
+.sb-wrap { max-width: 1280px; margin: 0 auto; padding: 0 24px; }
+.sb-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Animações */
+@keyframes sb-spin { to { transform: rotate(360deg); } }
+@keyframes sb-rise { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: none; } }
+@keyframes sb-float { 50% { transform: translateY(-14px); } }
+@keyframes sb-glow { 50% { opacity: 1; } }
+@keyframes sb-ping { 0% { transform: scale(0.6); opacity: 0.9; } 100% { transform: scale(2.6); opacity: 0; } }
+@keyframes sb-shimmer { to { background-position: 200% 0; } }
+@keyframes sb-wave { 0%, 100% { transform: scaleY(0.3); } 50% { transform: scaleY(1); } }
+.sb-rise { animation: sb-rise 0.9s var(--sb-ease) both; }
+.sb-ping { position: relative; display: inline-block; width: 10px; height: 10px; flex: none; }
+.sb-ping::before, .sb-ping::after {
+  content: ''; position: absolute; inset: 0; border-radius: 999px; background: currentColor;
+}
+.sb-ping::before { animation: sb-ping 2.4s ease-out infinite; }
+.sb-gold-text {
+  background: linear-gradient(90deg, var(--sb-gold-bright), var(--sb-gold), var(--sb-accent), var(--sb-gold-bright));
+  background-size: 200% 100%; -webkit-background-clip: text; background-clip: text; color: transparent;
+  animation: sb-shimmer 6s linear infinite;
+}
+
+/* Páginas customizadas (layout: page) ocupam a tela inteira. */
+.VPPage { padding-bottom: 96px; }
+.VPContent.is-home, .VPContent:has(.sb-full) { padding-top: var(--vp-nav-height); }
+
+@media (max-width: 767px) {
+  .VPContent { padding-bottom: 96px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

@@ -1,22 +1,66 @@
+// Em GitHub Pages o site fica em /<repo>/; o workflow informa via BASE_PATH.
+const base = process.env.BASE_PATH || '/'
+
 export default {
   title: 'Santos e Beatos da Igreja Católica',
-  description: 'Histórias e conteúdo sobre santos e beatos.',
+  description: 'Biografias, milagres, mapas e laços de santos e beatos da Igreja Católica.',
+  lang: 'pt-BR',
+  base,
   cleanUrls: true,
+  appearance: 'dark',
+  lastUpdated: false,
+  head: [
+    ['meta', { name: 'theme-color', content: '#0b0a1a' }],
+    ['link', { rel: 'icon', href: `${base}banner.svg` }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }]
+  ],
   vite: {
     ssr: {
       noExternal: ['leaflet']
     }
   },
   themeConfig: {
-    outline: { label: 'Nesta página' },
+    siteTitle: 'Santos & Beatos',
+    outline: { label: 'Nesta página', level: [2, 3] },
     docFooter: { prev: 'Anterior', next: 'Próximo' },
     darkModeSwitchLabel: 'Tema',
+    lightModeSwitchTitle: 'Mudar para o tema claro',
+    darkModeSwitchTitle: 'Mudar para o tema escuro',
+    sidebarMenuLabel: 'Menu',
+    returnToTopLabel: 'Voltar ao topo',
+    langMenuLabel: 'Idioma',
+    notFound: {
+      title: 'PÁGINA NÃO ENCONTRADA',
+      quote: 'Buscai e achareis. Esta página, porém, não está aqui.',
+      linkLabel: 'Ir para o início',
+      linkText: 'Voltar ao início'
+    },
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: { buttonText: 'Buscar', buttonAriaLabel: 'Buscar' },
+          modal: {
+            displayDetails: 'Mostrar detalhes',
+            resetButtonTitle: 'Limpar busca',
+            backButtonTitle: 'Fechar busca',
+            noResultsText: 'Nada encontrado para',
+            footer: { selectText: 'abrir', navigateText: 'navegar', closeText: 'fechar' }
+          }
+        }
+      }
+    },
     nav: [
       { text: 'Início', link: '/' },
-      { text: 'Beatos', link: '/beatos/' },
+      { text: 'Explorar', link: '/explorar' },
       { text: 'Santos', link: '/santos/' },
-      { text: 'Grafo', link: '/grafo' }
+      { text: 'Beatos', link: '/beatos/' },
+      { text: 'Calendário', link: '/calendario' },
+      { text: 'Mapa', link: '/mapa' },
+      { text: 'Constelação', link: '/grafo' }
     ],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/juninmd/santos-e-beatos' }],
     sidebar: {
       '/beatos/': [
         {

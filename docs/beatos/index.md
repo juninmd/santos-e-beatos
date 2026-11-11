@@ -2,6 +2,10 @@
 
 Esta seção reúne 202 beatos e veneráveis da Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
+<SaintsExplorer tipo="beato" embutido />
+
+## Lista completa (A–Z)
+
 - [Beato Adílio Daronch](beato-adilio-daronch/index.md)
 - [Beato Agostinho Kazotić](beato-agostinho-kazotic/index.md)
 - [Beato Alano de la Roche](beato-alano-de-la-roche/index.md)

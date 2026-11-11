@@ -48,8 +48,10 @@ novoConfig = trocarSecao(novoConfig, 'santos', santos)
 fs.writeFileSync(path.join(DOCS, '.vitepress/config.js'), novoConfig)
 
 // --- páginas de índice ---
+// O catálogo interativo vem primeiro; a lista A–Z fica logo abaixo (útil para busca e leitores de tela).
 const paginaIndice = (tipo, lista, titulo, intro) =>
-  `# ${titulo}\n\n${intro}\n\n` +
+  `# ${titulo}\n\n${intro}\n\n<SaintsExplorer tipo="${tipo === 'santos' ? 'santo' : 'beato'}" embutido />\n\n` +
+  `## Lista completa (A–Z)\n\n` +
   lista.map((p) => `- [${p.titulo}](${p.slug}/index.md)`).join('\n') +
   '\n'
 
