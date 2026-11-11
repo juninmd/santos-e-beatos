@@ -1,0 +1,47 @@
+/* Mapas (Leaflet). Fora do escopo dos componentes porque o Leaflet cria o DOM. */
+.miracle-map-wrapper { margin: 24px 0; }
+.miracle-map-wrapper h3 { margin: 0 0 14px; font: 600 24px var(--sb-display); }
+.miracle-map-container, .sb-world-map {
+  position: relative; z-index: 0; width: 100%; height: 440px;
+  border-radius: 28px; overflow: hidden; border: 1px solid var(--sb-line);
+  background: #0e1022;
+}
+.sb-world-map { height: min(72vh, 720px); }
+.sb-mapa-escuro .leaflet-tile { filter: invert(1) hue-rotate(200deg) brightness(0.8) contrast(0.95) saturate(0.6); }
+
+.miracle-map-legend {
+  display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 0; padding: 0; list-style: none;
+}
+.miracle-map-legend li {
+  display: flex; align-items: center; gap: 8px; margin: 0; padding: 6px 12px;
+  border-radius: 999px; background: var(--sb-surface); border: 1px solid var(--sb-line);
+  font: 500 13px var(--sb-ui); color: var(--sb-muted);
+}
+.miracle-map-legend .dot { width: 10px; height: 10px; border-radius: 50%; }
+
+.miracle-map-pin span {
+  position: relative; display: block; width: 18px; height: 18px; border-radius: 50%;
+  border: 2px solid #fff; box-shadow: 0 0 14px currentColor;
+}
+.miracle-map-pin span::after {
+  content: ''; position: absolute; inset: -2px; border-radius: 50%;
+  background: currentColor; animation: sb-ping 2.4s ease-out infinite; opacity: 0.6;
+}
+
+.sb-route {
+  stroke-dasharray: 8 10;
+  animation: sb-route 1.4s linear infinite;
+}
+@keyframes sb-route { to { stroke-dashoffset: -36; } }
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: var(--sb-surface-2); color: var(--sb-text);
+  border: 1px solid var(--sb-line); border-radius: 14px;
+}
+.leaflet-popup-content { font: 400 14px/1.5 var(--sb-ui); }
+.leaflet-popup-content b { font: 600 17px var(--sb-display); }
+.leaflet-popup-content a { color: var(--sb-gold); font-weight: 600; }
+.leaflet-container a.leaflet-popup-close-button { color: var(--sb-muted); }
+.leaflet-control-zoom a { background: var(--sb-surface-2) !important; color: var(--sb-text) !important; }
+.leaflet-control-attribution { background: rgba(11, 10, 26, 0.6) !important; color: #b9b2c9 !important; }
+.leaflet-control-attribution a { color: #e9c46a !important; }

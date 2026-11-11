@@ -1,177 +1,79 @@
-<script setup>
-import { data } from '../../saints.data.js'
-import { onMounted, ref } from 'vue'
-import { inBrowser } from 'vitepress'
-
-// O build renomeia as imagens para /assets com hash; este mapa liga o caminho
-// de origem à URL final. Sem ele, a foto do santo do dia quebra em produção.
-const imagens = import.meta.glob('../../{santos,beatos}/*/imagens/*.{jpg,jpeg,png,webp,svg}', {
-  eager: true,
-  query: '?url',
-  import: 'default'
-})
-
-const resolverImagem = (caminho) => {
-  if (!caminho) return ''
-  if (/^https?:/.test(caminho)) return caminho
-  return imagens[`../../${caminho}`] || ''
-}
-
-const featuredSaint = ref(null)
-const imageSrc = ref('')
-
-const months = {
-  'janeiro': 0,
-  'fevereiro': 1,
-  'março': 2,
-  'abril': 3,
-  'maio': 4,
-  'junho': 5,
-  'julho': 6,
-  'agosto': 7,
-  'setembro': 8,
-  'outubro': 9,
-  'novembro': 10,
-  'dezembro': 11
-}
-
-const parseDate = (dateStr) => {
-  if (!dateStr) return null
-  // "12 de outubro"
-  const parts = dateStr.toLowerCase().split(' de ')
-  if (parts.length < 2) return null
-
-  const day = parseInt(parts[0], 10)
-  const monthName = parts[1].split(',')[0].trim() // Handle "outubro, (notes)" if any
-  const month = months[monthName]
-
-  return { day, month }
-}
-
-onMounted(() => {
-  if (!inBrowser) return
-
-  const today = new Date()
-  const currentDay = today.getDate()
-  const currentMonth = today.getMonth() // 0-indexed
-
-  // 1. Try to find exact match
-  const matches = data.filter(saint => {
-    const d = parseDate(saint.feastDay)
-    return d && d.day === currentDay && d.month === currentMonth
-  })
-
-  let saint = null
-  if (matches.length > 0) {
-    saint = { ...matches[0], label: 'Santo do Dia' }
-  } else {
-    // 2. If no match, pick a "Featured" one based on day of year to rotate
-    const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24)
-    const index = dayOfYear % data.length
-    saint = { ...data[index], label: 'Santo em Destaque' }
-  }
-
-  featuredSaint.value = saint
-  imageSrc.value = resolverImagem(saint?.image)
-})
-
-</script>
-
 <template>
-  <div v-if="featuredSaint" class="saint-of-day">
-    <h3>{{ featuredSaint.label }}</h3>
-    <div class="content">
-      <div v-if="imageSrc" class="image-container">
-        <img :src="imageSrc" :alt="featuredSaint.title" />
-      </div>
-      <div class="info">
-        <h4>{{ featuredSaint.title }}</h4>
-        <p v-if="featuredSaint.feastDay"><strong>Festa Litúrgica:</strong> {{ featuredSaint.feastDay }}</p>
-        <p v-if="featuredSaint.birth"><strong>Nascimento:</strong> {{ featuredSaint.birth }}</p>
-        <p v-if="featuredSaint.death"><strong>Morte:</strong> {{ featuredSaint.death }}</p>
-        <a :href="featuredSaint.url" class="read-more">Ler História Completa</a>
-      </div>
-    </div>
-  </div>
+  <section id="hoje" class="sb-wrap dia">
+    <article class="sb-card destaque" :class="{ carregando: !saint }">
+      <template v-if="saint">
+        <div class="foto">
+          <div class="aro" aria-hidden="true"></div>
+          <div class="moldura"><SaintPortrait :saint="saint" shape="round" alt /></div>
+        </div>
+        <div class="corpo">
+          <p class="rotulo"><span class="sb-ping" aria-hidden="true"></span>{{ rotulo }}</p>
+          <h2>{{ saint.title }}</h2>
+          <p v-if="saint.quote" class="quote">“{{ saint.quote }}”</p>
+          <div class="pills">
+            <span v-if="saint.feastDay">Festa · {{ saint.feastDay }}</span>
+            <span v-if="saint.birth">{{ saint.birth }}</span>
+          </div>
+          <div class="acoes">
+            <a class="sb-btn" :href="link(saint.url)">Ler a história completa</a>
+            <a class="sb-btn ghost" :href="link('/calendario')">Calendário</a>
+          </div>
+        </div>
+      </template>
+    </article>
+    <WeekFeasts />
+  </section>
 </template>
 
-<style scoped>
-.saint-of-day {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 3rem 1.75rem 1.75rem;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 200px 200px 16px 16px / 60px 60px 16px 16px;
-  border-top: 4px solid var(--sb-gold);
-  background: linear-gradient(180deg, var(--vp-c-brand-soft), var(--vp-c-bg-soft));
-  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
-}
+<script setup>
+import { ref, computed, onMounted } from 'vue'
+import { inBrowser } from 'vitepress'
+import { data } from '../../saints.data.js'
+import { link, festaEm, MESES } from '../utils/saints.js'
+import SaintPortrait from './SaintPortrait.vue'
+import WeekFeasts from './home/WeekFeasts.vue'
 
-.saint-of-day h3 {
-  margin-top: 0;
-  color: var(--vp-c-brand-1);
-  text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: 0.95rem;
-  font-family: var(--sb-display);
-  margin-bottom: 1.5rem;
-}
+const saint = ref(null)
+const exato = ref(false)
+const hoje = ref(null)
 
-.content {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  align-items: center;
-}
+const rotulo = computed(() =>
+  exato.value ? `Santo do dia · ${hoje.value.getDate()} de ${MESES[hoje.value.getMonth()]}` : 'Santo em destaque'
+)
 
-@media (min-width: 640px) {
-  .content {
-    flex-direction: row;
-    align-items: flex-start;
+// A data depende do visitante: calcula só no navegador.
+onMounted(() => {
+  if (!inBrowser) return
+  const d = new Date()
+  hoje.value = d
+  const doDia = festaEm(data, d.getDate(), d.getMonth())
+  if (doDia.length) {
+    exato.value = true
+    saint.value = doDia[0]
+  } else {
+    // Sem festa no dia, gira pelo acervo conforme o dia do ano.
+    const diaDoAno = Math.floor((d - new Date(d.getFullYear(), 0, 0)) / 86400000)
+    saint.value = data[diaDoAno % data.length]
   }
-}
+})
+</script>
 
-.image-container {
-  flex-shrink: 0;
-  width: 100%;
-  max-width: 200px;
+<style scoped>
+.dia { display: flex; flex-wrap: wrap; gap: 24px; padding-top: 40px; padding-bottom: 40px; }
+.destaque {
+  flex: 999 1 620px; min-width: 0; min-height: 380px; display: flex; flex-wrap: wrap; overflow: hidden;
+  background: linear-gradient(135deg, var(--sb-surface), var(--sb-surface-2));
 }
-
-.image-container img {
-  border: 4px solid var(--sb-parchment);
-  outline: 2px solid var(--sb-gold);
-  margin: 0;
-  width: 100%;
-  height: auto;
-  border-radius: 12px;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
-}
-
-.info {
-  flex-grow: 1;
-}
-
-.info h4 {
-  margin-top: 0;
-  font-size: 1.5rem;
-  margin-bottom: 0.5rem;
-}
-
-.read-more {
-  display: inline-block;
-  margin-top: 1rem;
-  padding: 0.55rem 1.2rem;
-  background-color: var(--vp-c-brand-1);
-  color: white !important; /* Force white text */
-  text-decoration: none;
-  border-radius: 999px;
-  transition: background-color 0.2s;
-  font-weight: 500;
-}
-
-.read-more:hover {
-  background-color: var(--vp-c-brand-2);
-  text-decoration: none;
-}
+.carregando { animation: sb-glow 1.6s ease-in-out infinite; opacity: 0.6; }
+.foto { position: relative; flex: 1 1 260px; min-height: 320px; display: grid; place-items: center;
+  background: radial-gradient(circle at 50% 45%, var(--sb-glow), transparent 60%); }
+.aro { position: absolute; width: 230px; height: 230px; border-radius: 999px; border: 2px dashed var(--sb-gold); opacity: 0.6; animation: sb-spin 60s linear infinite; }
+.moldura { width: 190px; height: 190px; border-radius: 999px; overflow: hidden; box-shadow: 0 0 60px var(--sb-glow); }
+.corpo { flex: 2 1 320px; padding: 40px; display: flex; flex-direction: column; gap: 14px; }
+.rotulo { display: flex; align-items: center; gap: 12px; margin: 0; color: var(--sb-gold); font: 500 13px var(--sb-caps); letter-spacing: 0.22em; text-transform: uppercase; }
+h2 { margin: 0; font: 600 clamp(36px, 4vw, 52px) / 1 var(--sb-display); color: var(--sb-text); }
+.quote { margin: 0; font: italic 500 24px / 1.3 var(--sb-display); color: var(--sb-gold); }
+.pills { display: flex; flex-wrap: wrap; gap: 8px; }
+.pills span { padding: 6px 12px; border-radius: 999px; background: var(--vp-c-brand-soft); font: 500 13px var(--sb-ui); color: var(--sb-text); }
+.acoes { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 8px; }
 </style>

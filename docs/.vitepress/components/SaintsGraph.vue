@@ -1,244 +1,127 @@
 <template>
-  <div class="graph-wrap">
-    <div class="graph-toolbar">
-      <input v-model="filtro" type="search" placeholder="Buscar santo ou beato..." />
-      <span class="graph-legend">
-        <span class="dot santo"></span> Santos
-        <span class="dot beato"></span> Beatos
-      </span>
-      <span class="graph-count">{{ nos.length }} nós · {{ arestas.length }} ligações</span>
+  <div class="ceu">
+    <div class="barra">
+      <label class="busca"><span class="sb-sr">Buscar santo ou beato</span>
+        <input v-model="filtro" type="search" placeholder="Buscar na constelação…" @keydown.enter="focarBusca" />
+      </label>
+      <span class="legenda"><span class="dot santo"></span> Santos <span class="dot beato"></span> Beatos</span>
+      <span class="legenda">{{ nos.length }} estrelas · {{ arestas.length }} laços</span>
     </div>
-    <svg
-      ref="svgEl"
-      class="graph-svg"
-      :viewBox="viewBox"
-      @wheel.prevent="onWheel"
-      @pointerdown="onPanStart"
-      @pointermove="onPanMove"
-      @pointerup="onPanEnd"
-      @pointerleave="onPanEnd"
-    >
-      <g>
-        <line
-          v-for="(e, i) in arestasVisiveis"
-          :key="i"
-          :x1="pos[e.source]?.x" :y1="pos[e.source]?.y"
-          :x2="pos[e.target]?.x" :y2="pos[e.target]?.y"
-          class="edge"
-        />
-        <g
-          v-for="n in nosVisiveis"
-          :key="n.id"
-          :transform="`translate(${pos[n.id]?.x || 0}, ${pos[n.id]?.y || 0})`"
-          class="node"
-          :class="[n.type, { dim: filtro && !match(n) }]"
-          @pointerdown.stop="onNodeDragStart(n, $event)"
-          @click="irPara(n)"
-        >
-          <circle :r="raio(n)" />
-          <text :y="raio(n) + 12">{{ n.nome }}</text>
+    <div class="palco">
+      <svg ref="svgEl" class="grafo" :viewBox="viewBox" role="img" aria-label="Grafo de relações entre santos e beatos"
+        @wheel.prevent="onWheel" @pointerdown="onPanStart" @pointermove="onPanMove" @pointerup="onPanEnd" @pointerleave="onPanEnd">
+        <line v-for="(e, i) in arestas" :key="i" :x1="pos[e.source]?.x" :y1="pos[e.source]?.y" :x2="pos[e.target]?.x" :y2="pos[e.target]?.y"
+          class="aresta" :class="{ quente: sel && (e.source === sel || e.target === sel) }" />
+        <g v-for="n in nos" :key="n.id" :transform="`translate(${pos[n.id]?.x || 0}, ${pos[n.id]?.y || 0})`"
+          class="no" :class="[n.type, { apagado: apagado(n), sel: n.id === sel }]"
+          @pointerdown.stop="onNodeDragStart(n, $event)" @click="clicar(n)" @dblclick="router.go(link(n.id))">
+          <circle class="brilho" :r="raio(n) * 2.4" />
+          <circle :r="n.id === sel ? raio(n) * 1.6 : raio(n)" />
+          <text :y="raio(n) + 14">{{ n.nome }}</text>
         </g>
-      </g>
-    </svg>
+      </svg>
+      <GraphPanel class="lado" :no="noSel" :lista="listaVizinhos" @selecionar="(id) => (sel = id)" />
+    </div>
   </div>
 </template>
 
 <script setup>
-import { ref, reactive, computed, onMounted, onBeforeUnmount } from 'vue'
+import { ref, reactive, computed, onMounted } from 'vue'
 import { useRouter } from 'vitepress'
 import { data } from '../../relations.data.js'
+import { link, normalizar } from '../utils/saints.js'
+import { calcularLayout, vizinhos, W, H } from './graph/forceLayout.js'
+import GraphPanel from './graph/GraphPanel.vue'
 
 const router = useRouter()
-const nos = data.nos
-const arestas = data.arestas
-
+const { nos, arestas } = data
+const porId = Object.fromEntries(nos.map((n) => [n.id, n]))
 const filtro = ref('')
+const sel = ref(null)
 const pos = reactive({})
 const svgEl = ref(null)
 
-const grau = computed(() => {
-  const g = {}
-  for (const n of nos) g[n.id] = 0
-  for (const e of arestas) {
-    g[e.source] = (g[e.source] || 0) + 1
-    g[e.target] = (g[e.target] || 0) + 1
-  }
-  return g
-})
+const grau = {}
+for (const e of arestas) { grau[e.source] = (grau[e.source] || 0) + 1; grau[e.target] = (grau[e.target] || 0) + 1 }
+const raio = (n) => 5 + Math.min(10, grau[n.id] || 0)
 
-function raio(n) {
-  return 5 + Math.min(10, (grau.value[n.id] || 0))
+const listaVizinhos = computed(() => (sel.value ? vizinhos(arestas, sel.value).map((v) => ({ ...v, no: porId[v.id] })) : []))
+const proximos = computed(() => new Set([sel.value, ...listaVizinhos.value.map((v) => v.id)]))
+const noSel = computed(() => porId[sel.value] || null)
+
+const casa = (n) => !filtro.value.trim() || normalizar(n.title).includes(normalizar(filtro.value.trim()))
+const apagado = (n) => (sel.value ? !proximos.value.has(n.id) : !casa(n))
+
+function focarBusca() {
+  const alvo = nos.find(casa)
+  if (alvo) { sel.value = alvo.id; centrar(alvo.id) }
 }
 
-function match(n) {
-  const q = filtro.value.trim().toLowerCase()
-  if (!q) return true
-  return n.title.toLowerCase().includes(q)
-}
-
-const nosVisiveis = computed(() => nos)
-const arestasVisiveis = computed(() => arestas)
-
-// Layout: força simples (repulsão entre nós + atração pelas arestas), calculado
-// no cliente uma vez ao montar, sem dependências externas.
-function layout() {
-  const W = 1600, H = 1200
-  for (const n of nos) {
-    pos[n.id] = {
-      x: W / 2 + (Math.random() - 0.5) * W,
-      y: H / 2 + (Math.random() - 0.5) * H
-    }
-  }
-  const vizinhos = {}
-  for (const n of nos) vizinhos[n.id] = []
-  for (const e of arestas) {
-    vizinhos[e.source]?.push(e.target)
-    vizinhos[e.target]?.push(e.source)
-  }
-
-  const ITER = 150
-  for (let it = 0; it < ITER; it++) {
-    const disp = {}
-    for (const n of nos) disp[n.id] = { x: 0, y: 0 }
-
-    // Repulsão (todos contra todos, amostrado por bucket simples para custo aceitável).
-    for (let i = 0; i < nos.length; i++) {
-      for (let j = i + 1; j < nos.length; j++) {
-        const a = nos[i], b = nos[j]
-        let dx = pos[a.id].x - pos[b.id].x
-        let dy = pos[a.id].y - pos[b.id].y
-        let d2 = dx * dx + dy * dy || 0.01
-        if (d2 > 90000) continue // ignora pares distantes: acelera sem mudar o resultado visível
-        const d = Math.sqrt(d2)
-        const force = 1800 / d2
-        dx = (dx / d) * force
-        dy = (dy / d) * force
-        disp[a.id].x += dx; disp[a.id].y += dy
-        disp[b.id].x -= dx; disp[b.id].y -= dy
-      }
-    }
-    // Atração pelas arestas.
-    for (const e of arestas) {
-      const a = pos[e.source], b = pos[e.target]
-      if (!a || !b) continue
-      const dx = a.x - b.x, dy = a.y - b.y
-      const d = Math.sqrt(dx * dx + dy * dy) || 0.01
-      const force = d * 0.01
-      const fx = (dx / d) * force, fy = (dy / d) * force
-      disp[e.source].x -= fx; disp[e.source].y -= fy
-      disp[e.target].x += fx; disp[e.target].y += fy
-    }
-    // Atração leve para o centro (evita nós isolados fugirem do quadro).
-    for (const n of nos) {
-      disp[n.id].x += (W / 2 - pos[n.id].x) * 0.002
-      disp[n.id].y += (H / 2 - pos[n.id].y) * 0.002
-    }
-
-    for (const n of nos) {
-      pos[n.id].x += Math.max(-30, Math.min(30, disp[n.id].x))
-      pos[n.id].y += Math.max(-30, Math.min(30, disp[n.id].y))
-    }
-  }
-}
-
-function irPara(n) {
-  if (dragged) { dragged = false; return }
-  router.go(n.id)
-}
-
-// Arrastar nó individual.
-let draggingNode = null
-function onNodeDragStart(n, ev) {
-  draggingNode = n
-  dragged = false
-  ev.target.setPointerCapture?.(ev.pointerId)
-}
-let dragged = false
-
-// Pan/zoom do canvas.
-const view = reactive({ x: 0, y: 0, w: 1600, h: 1200 })
+// Pan/zoom por viewBox.
+const view = reactive({ x: 0, y: 0, w: W, h: H })
 const viewBox = computed(() => `${view.x} ${view.y} ${view.w} ${view.h}`)
+function centrar(id) { const p = pos[id]; if (p) { view.x = p.x - view.w / 2; view.y = p.y - view.h / 2 } }
+
+let arrastando = null
+let arrastou = false
 let panning = false
-let last = { x: 0, y: 0 }
+let ultimo = { x: 0, y: 0 }
 
-function screenToWorld(ev) {
-  const rect = svgEl.value.getBoundingClientRect()
-  const sx = (ev.clientX - rect.left) / rect.width
-  const sy = (ev.clientY - rect.top) / rect.height
-  return { x: view.x + sx * view.w, y: view.y + sy * view.h }
+function paraMundo(ev) {
+  const r = svgEl.value.getBoundingClientRect()
+  return { x: view.x + ((ev.clientX - r.left) / r.width) * view.w, y: view.y + ((ev.clientY - r.top) / r.height) * view.h }
 }
-
-function onPanStart(ev) {
-  if (draggingNode) return
-  panning = true
-  last = { x: ev.clientX, y: ev.clientY }
-}
+function onNodeDragStart(n, ev) { arrastando = n; arrastou = false; ev.target.setPointerCapture?.(ev.pointerId) }
+function onPanStart(ev) { if (!arrastando) { panning = true; ultimo = { x: ev.clientX, y: ev.clientY } } }
 function onPanMove(ev) {
-  if (draggingNode) {
-    const p = screenToWorld(ev)
-    pos[draggingNode.id] = p
-    dragged = true
-    return
-  }
+  if (arrastando) { pos[arrastando.id] = paraMundo(ev); arrastou = true; return }
   if (!panning) return
-  const rect = svgEl.value.getBoundingClientRect()
-  const dx = (ev.clientX - last.x) / rect.width * view.w
-  const dy = (ev.clientY - last.y) / rect.height * view.h
-  view.x -= dx; view.y -= dy
-  last = { x: ev.clientX, y: ev.clientY }
+  const r = svgEl.value.getBoundingClientRect()
+  view.x -= ((ev.clientX - ultimo.x) / r.width) * view.w
+  view.y -= ((ev.clientY - ultimo.y) / r.height) * view.h
+  ultimo = { x: ev.clientX, y: ev.clientY }
 }
-function onPanEnd() {
-  panning = false
-  draggingNode = null
-}
+function onPanEnd() { panning = false; arrastando = null }
 function onWheel(ev) {
-  const factor = ev.deltaY > 0 ? 1.1 : 0.9
-  const p = screenToWorld(ev)
-  view.x = p.x - (p.x - view.x) * factor
-  view.y = p.y - (p.y - view.y) * factor
-  view.w *= factor
-  view.h *= factor
+  const k = ev.deltaY > 0 ? 1.1 : 0.9
+  const p = paraMundo(ev)
+  view.x = p.x - (p.x - view.x) * k
+  view.y = p.y - (p.y - view.y) * k
+  view.w *= k
+  view.h *= k
+}
+function clicar(n) {
+  if (arrastou) { arrastou = false; return }
+  sel.value = sel.value === n.id ? null : n.id
 }
 
-onMounted(() => {
-  layout()
-})
+onMounted(() => Object.assign(pos, calcularLayout(nos, arestas)))
 </script>
 
 <style scoped>
-.graph-wrap { display: flex; flex-direction: column; gap: 8px; }
-.graph-toolbar { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
-.graph-toolbar input {
-  padding: 4px 10px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 6px;
-  background: var(--vp-c-bg-soft);
-  color: var(--vp-c-text-1);
+.ceu { display: flex; flex-direction: column; gap: 12px; }
+.barra { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; }
+.busca input { min-height: 44px; width: 280px; max-width: 100%; padding: 0 16px; border-radius: 999px; border: 1px solid var(--sb-line); background: var(--sb-surface); color: var(--sb-text); font: 400 14px var(--sb-ui); }
+.legenda { display: inline-flex; align-items: center; gap: 6px; font: 400 13px var(--sb-ui); color: var(--sb-muted); }
+.dot { width: 9px; height: 9px; border-radius: 50%; margin-left: 6px; }
+.dot.santo { background: #e9c46a; }
+.dot.beato { background: #f08aa8; }
+.palco { position: relative; display: flex; flex-wrap: wrap; gap: 16px; }
+.grafo {
+  flex: 999 1 560px; min-width: 0; height: 76vh; border-radius: 28px; border: 1px solid var(--sb-line);
+  background: radial-gradient(900px 600px at 40% 50%, #1b1a3f, #07061a 70%); touch-action: none; cursor: grab;
 }
-.graph-legend { font-size: 12px; color: var(--vp-c-text-2); display: inline-flex; align-items: center; gap: 4px; }
-.graph-count { font-size: 12px; color: var(--vp-c-text-2); }
-.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-left: 8px; }
-.dot.santo { background: #d4a017; }
-.dot.beato { background: #4a7fbf; }
-.graph-svg {
-  width: 100%;
-  height: 78vh;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  background: var(--vp-c-bg-soft);
-  touch-action: none;
-  cursor: grab;
-}
-.edge { stroke: var(--vp-c-divider); stroke-width: 1; opacity: 0.5; }
-.node circle { stroke: var(--vp-c-bg); stroke-width: 1; cursor: pointer; }
-.node.santo circle { fill: #d4a017; }
-.node.beato circle { fill: #4a7fbf; }
-.node text {
-  font-size: 10px;
-  text-anchor: middle;
-  fill: var(--vp-c-text-1);
-  pointer-events: none;
-  user-select: none;
-}
-.node.dim { opacity: 0.15; }
+.lado { flex: 1 1 300px; max-height: 76vh; }
+.aresta { stroke: rgba(180, 170, 230, 0.22); stroke-width: 1; transition: stroke 0.3s; }
+.aresta.quente { stroke: #e9c46a; stroke-width: 2; stroke-dasharray: 6 10; animation: fluxo 1.4s linear infinite; }
+@keyframes fluxo { to { stroke-dashoffset: -32; } }
+.no { cursor: pointer; transition: opacity 0.4s; }
+.no circle { transition: r 0.3s var(--sb-ease); }
+.no.santo circle:not(.brilho) { fill: #e9c46a; }
+.no.beato circle:not(.brilho) { fill: #f08aa8; }
+.brilho { fill: rgba(233, 196, 106, 0.18); opacity: 0; transition: opacity 0.3s; }
+.no:hover .brilho, .no.sel .brilho { opacity: 1; }
+.no.sel .brilho { animation: sb-glow 2.4s ease-in-out infinite; }
+.no text { font: 500 11px var(--sb-ui); text-anchor: middle; fill: #f4eedc; pointer-events: none; user-select: none; paint-order: stroke; stroke: #07061a; stroke-width: 3px; }
+.no.apagado { opacity: 0.14; }
 </style>

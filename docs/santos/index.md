@@ -2,6 +2,10 @@
 
 Esta seção reúne 217 santos canonizados pela Igreja Católica, com biografia, milagres e mapa de nascimento, morte e devoção.
 
+<SaintsExplorer tipo="santo" embutido />
+
+## Lista completa (A–Z)
+
 - [Santo Afonso Maria de Ligório](santo-afonso-maria-de-ligorio/index.md)
 - [Santa Ágata](santa-agata/index.md)
 - [Santo Agostinho](santo-agostinho/index.md)

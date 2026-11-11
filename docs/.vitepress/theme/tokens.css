@@ -1,37 +1,61 @@
-/* Paleta sacra: ouro, vinho e azul-noite de vitral */
+/* Paleta "Vitral Vivo": ouro, vinho e azul-noite. Claro = pergaminho, escuro = vitral à noite. */
 :root {
-  --sb-gold: #b8862b;
-  --sb-gold-soft: #e9c46a;
-  --sb-wine: #7b1e3a;
-  --sb-night: #14122b;
-  --sb-parchment: #fbf6ea;
-  --vp-font-family-base: 'EB Garamond', Georgia, serif;
+  --sb-bg: #fbf6ea;
+  --sb-surface: #f3ead2;
+  --sb-surface-2: #fffaf0;
+  --sb-text: #2a2118;
+  --sb-muted: #5e5242;
+  --sb-gold: #8f6416;
+  --sb-gold-bright: #b8862b;
+  --sb-accent: #7b1e3a;
+  --sb-line: rgba(143, 100, 22, 0.25);
+  --sb-glow: rgba(184, 134, 43, 0.3);
+  --sb-glass: rgba(251, 246, 234, 0.72);
+  --sb-cta: linear-gradient(135deg, #f6dfa0, #b8862b);
+  --sb-cta-text: #1a1406;
+  --sb-display: 'Cormorant Garamond', Georgia, serif;
+  --sb-caps: 'Cinzel', 'Times New Roman', serif;
+  --sb-ui: 'Inter', system-ui, sans-serif;
+  --sb-read-size: 19px;
+  --sb-ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+
+  --vp-font-family-base: var(--sb-ui);
   --vp-font-family-mono: ui-monospace, monospace;
-  --sb-display: 'Cinzel', 'Times New Roman', serif;
   --vp-c-brand-1: #8f6416;
   --vp-c-brand-2: #a87820;
   --vp-c-brand-3: #b8862b;
   --vp-c-brand-soft: rgba(184, 134, 43, 0.14);
-  --vp-c-bg: var(--sb-parchment);
+  --vp-c-bg: var(--sb-bg);
   --vp-c-bg-alt: #f3ead2;
   --vp-c-bg-soft: #f6eed9;
-  --vp-c-text-1: #2a2118;
-  --vp-c-divider: rgba(143, 100, 22, 0.25);
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: linear-gradient(120deg, #8f6416, #7b1e3a);
-  --vp-home-hero-image-background-image: radial-gradient(circle, #e9c46a 0%, transparent 70%);
-  --vp-home-hero-image-filter: blur(60px);
+  --vp-c-text-1: var(--sb-text);
+  --vp-c-text-2: var(--sb-muted);
+  --vp-c-divider: var(--sb-line);
+  --vp-nav-bg-color: var(--sb-glass);
 }
 
 .dark {
-  --vp-c-bg: #0f0e22;
-  --vp-c-bg-alt: #14122b;
-  --vp-c-bg-soft: #1b1838;
-  --vp-c-text-1: #f3ead2;
+  --sb-bg: #0b0a1a;
+  --sb-surface: #15132b;
+  --sb-surface-2: #1b1838;
+  --sb-text: #f4eedc;
+  --sb-muted: #b9b2c9;
+  --sb-gold: #e9c46a;
+  --sb-gold-bright: #f6dfa0;
+  --sb-accent: #f08aa8;
+  --sb-line: rgba(233, 196, 106, 0.18);
+  --sb-glow: rgba(233, 196, 106, 0.35);
+  --sb-glass: rgba(11, 10, 26, 0.68);
+
+  --vp-c-bg: var(--sb-bg);
+  --vp-c-bg-alt: #100e24;
+  --vp-c-bg-soft: var(--sb-surface);
+  --vp-c-bg-elv: var(--sb-surface-2);
+  --vp-c-text-1: var(--sb-text);
+  --vp-c-text-2: var(--sb-muted);
   --vp-c-brand-1: #e9c46a;
   --vp-c-brand-2: #d9ae4e;
   --vp-c-brand-3: #b8862b;
   --vp-c-brand-soft: rgba(233, 196, 106, 0.16);
-  --vp-c-divider: rgba(233, 196, 106, 0.22);
-  --vp-home-hero-name-background: linear-gradient(120deg, #e9c46a, #f4a6c0);
+  --vp-c-divider: var(--sb-line);
 }
