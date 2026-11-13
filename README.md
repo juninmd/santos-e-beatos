@@ -1,5 +1,9 @@
 # Santos e Beatos
 
+<p align="center">
+  <img src="docs/readme/hero.png" alt="Banner ilustrativo do Santos e Beatos (mockup com dados fictícios)" width="100%">
+</p>
+
 **Portal de biografias, milagres e mapas de 419 santos e beatos da Igreja Católica — para ler, ouvir e explorar.**
 
 Site: **[juninmd.github.io/santos-e-beatos](https://juninmd.github.io/santos-e-beatos/)**
@@ -107,6 +111,18 @@ A lista A–Z não é duplicada neste arquivo. O índice canônico fica no próp
 | `dependabot-auto-merge.yml` | Merge automático de PRs do Dependabot quando os checks passam |
 
 Há também um `netlify.toml` com o mesmo build, como alternativa de hospedagem.
+
+## Imagens
+
+> [!NOTE]
+> **Mockups ilustrativos.** As telas abaixo foram geradas em HTML com dados fictícios (Playwright) e não são capturas de uma instalação real.
+
+<p align="center">
+  <img src="docs/readme/profile.png" alt="Perfil de santo — mockup ilustrativo com dados fictícios" width="100%">
+  <br>
+  <sub>Perfil de santo — dados fictícios.</sub>
+</p>
+
 
 ## Licença
 
