@@ -32,6 +32,7 @@ function coletarTexto() {
 
 function falar(aPartirDe) {
   window.speechSynthesis.cancel()
+  if (falar.atual) falar.atual.cancelado = true
   inicio = aPartirDe
   const u = new SpeechSynthesisUtterance(texto.slice(aPartirDe))
   u.lang = 'pt-BR'
@@ -48,7 +49,8 @@ function falar(aPartirDe) {
     narracao.falando = false
     narracao.progresso = 1
   }
-  u.onerror = () => { narracao.falando = false }
+  // cancel() makes Chrome fire onerror('interrupted') on the old utterance, possibly after its replacement started.
+  u.onerror = () => { if (!u.cancelado) narracao.falando = false }
   falar.atual = u
   window.speechSynthesis.speak(u)
   narracao.falando = true
