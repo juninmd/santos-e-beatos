@@ -8,12 +8,13 @@
     </button>
     <div class="info">
       <p class="titulo">{{ narracao.falando ? `Ouvindo · ${narracao.secao}` : 'Ouvir a narração' }}</p>
-      <div class="onda" aria-hidden="true">
-        <span v-for="i in 32" :key="i" :class="{ lida: i / 32 <= narracao.progresso }"
+      <div class="onda" role="progressbar" aria-label="Progresso da narração" aria-valuemin="0" aria-valuemax="100"
+        :aria-valuenow="Math.round(narracao.progresso * 100)">
+        <span v-for="i in 32" :key="i" aria-hidden="true" :class="{ lida: i / 32 <= narracao.progresso }"
           :style="{ height: `${6 + ((i * 7) % 12)}px`, animationDelay: `${(i % 7) * 0.12}s`, animationPlayState: tocando ? 'running' : 'paused' }"></span>
       </div>
     </div>
-    <button type="button" class="vel" aria-label="Velocidade da narração" @click="trocarVelocidade">{{ narracao.velocidade }}×</button>
+    <button type="button" class="vel" :aria-label="`Velocidade da narração: ${narracao.velocidade}×`" @click="trocarVelocidade">{{ narracao.velocidade }}×</button>
     <button v-if="narracao.falando" type="button" class="parar" aria-label="Parar narração" @click="pararNarracao">
       <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="5" y="5" width="14" height="14" rx="2" /></svg>
     </button>
