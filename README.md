@@ -110,8 +110,6 @@ A lista A–Z não é duplicada neste arquivo. O índice canônico fica no próp
 | `sast.yml` | Análise estática com Semgrep, em modo informativo |
 | `dependabot-auto-merge.yml` | Merge automático de PRs do Dependabot quando os checks passam |
 
-Há também um `netlify.toml` com o mesmo build, como alternativa de hospedagem.
-
 ## Imagens
 
 > [!NOTE]
