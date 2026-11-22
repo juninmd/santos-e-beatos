@@ -89,8 +89,8 @@ npm run conteudo:indices     # regenera sidebar e as listas A–Z
 npm run conteudo:retratos    # gera cartões SVG para quem não tem imagem
 ```
 
-> [!WARNING]
-> `conteudo:indices` atualiza a sidebar e as listas A–Z, mas no fim tenta reescrever o `README.md` a partir do cabeçalho `## Lista de Santos e Beatos` e recria a tabela antiga com todos os verbetes. Esta versão do README não tem mais esse cabeçalho, então o script termina com erro depois de atualizar a navegação — o README fica intacto. Rode-o apenas quando precisar regenerar sidebar e listas, ou ajuste o script para não tocar no README.
+> [!NOTE]
+> `conteudo:indices` atualiza a sidebar e as listas A–Z. A tabela do README só é regenerada se existir uma linha `## Lista de Santos e Beatos`; sem ela (caso desta versão), o README não é tocado.
 
 ## Índice completo
 
