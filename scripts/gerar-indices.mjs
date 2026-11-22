@@ -3,6 +3,7 @@
 // esquecidas. Uso: node scripts/gerar-indices.mjs
 import fs from 'node:fs'
 import path from 'node:path'
+import { CABECALHO_LISTA, substituirSecaoLista } from './lib/readme.mjs'
 
 const RAIZ = process.cwd()
 const DOCS = path.join(RAIZ, 'docs')
@@ -75,14 +76,15 @@ const tabela = [
   ...[...beatos, ...santos].map(linhaReadme)
 ].join('\n')
 
-const readme = fs.readFileSync(path.join(RAIZ, 'README.md'), 'utf8')
-const cabecalho = '## Lista de Santos e Beatos'
-const posCabecalho = readme.indexOf(cabecalho)
-if (posCabecalho < 0) throw new Error(`cabeçalho não encontrado no README: ${cabecalho}`)
-const antes = readme.slice(0, posCabecalho)
-fs.writeFileSync(
-  path.join(RAIZ, 'README.md'),
-  `${antes}${cabecalho}\n\nSão ${beatos.length} beatos e ${santos.length} santos catalogados.\n\n${tabela}\n`
+const caminhoReadme = path.join(RAIZ, 'README.md')
+const readme = substituirSecaoLista(
+  fs.readFileSync(caminhoReadme, 'utf8'),
+  `São ${beatos.length} beatos e ${santos.length} santos catalogados.\n\n${tabela}`
 )
+if (readme === null) {
+  console.log(`README sem a seção "${CABECALHO_LISTA}": mantido como está`)
+} else {
+  fs.writeFileSync(caminhoReadme, readme)
+}
 
-console.log(`sidebar, índices e README atualizados: ${santos.length} santos, ${beatos.length} beatos`)
+console.log(`sidebar e índices atualizados: ${santos.length} santos, ${beatos.length} beatos`)
