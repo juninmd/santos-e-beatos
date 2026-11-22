@@ -1,110 +1,45 @@
-<<<<<<< HEAD
-# 🧠 AGENTS.md - Santos E Beatos Intelligence System
+# AGENTS.md
 
-## 👤 AI Personas
+Portal estático (VitePress) com biografias, milagres e mapas de 419 santos e beatos católicos, em português. Sem backend nem banco de dados: o conteúdo é Markdown.
 
-### 1. Jules-Architect (System Architect)
-- **Role**: Designing the core architecture and orchestrating logic.
-- **Focus**: Scalability, process integrity, and high-level design.
-- **Vibe**: Direct, analytical, and strategic.
+## Stack
+- Node.js 20 (`.nvmrc`), npm com `package-lock.json`
+- VitePress 1.6 (site em `docs/`), Leaflet (mapas), Playwright (devDependency)
+- GitHub Pages para publicação
 
-### 2. Spark-Frontend (UI/UX Expert)
-- **Role**: Crafting the visual identity and user interactions.
-- **Focus**: Aesthetics, responsiveness, and accessibility.
-- **Vibe**: Creative, detail-oriented, and user-focused.
+## Commands
+- Setup: `npm ci`
+- Dev: `npm run docs:dev`
+- Build: `npm run docs:build` (o CI passa `BASE_PATH=/<repo>/`)
+- Preview: `npm run docs:preview`
+- Test: `npm test` (valida todas as páginas e roda `node --test scripts/readme.test.mjs`)
+- Só validar conteúdo: `npm run conteudo:verificar`
+- Regenerar: `npm run conteudo:indices` (índices e sidebar), `npm run conteudo:retratos` (cartões SVG)
+- Lint e typecheck: não configurados
 
-### 3. Bolt-Automation (DevOps)
-- **Role**: Managing CI/CD, scripts, and automation.
-- **Focus**: Build pipelines, testing, and deployment.
-- **Vibe**: Fast, technical, and "automation-first".
+## Structure
+- `docs/santos/<slug>/index.md` e `docs/beatos/<slug>/index.md`: um verbete por pessoa, com `imagens/` ao lado
+- `docs/.vitepress/`: `config.js` (navegação e sidebar), `components/`, `theme/` (CSS), `utils/`
+- `docs/*.md` e `docs/*.data.js`: home, explorar, calendário, mapa, grafo e loaders de dados
+- `scripts/`: validador de conteúdo, geradores de índices e retratos, teste do README
+- `docs/readme/`, `docs/prints/`: imagens do README
+- `.github/workflows/`: `pages.yml` (testa, builda, publica), `validate.yml`, `sast.yml`, `security.yml`
 
-## 📜 Development Rules (Antigravity)
+## Conventions
+- Conteúdo e UI em pt-BR; código e comentários seguem os scripts existentes (português)
+- Commits: Conventional Commits, assunto minúsculo (ex.: `fix(favoritos): ...`)
+- Verbete: frontmatter com `title` e `description`, um H1, citação, `<TextToSpeech />`, campos de datas (Nascimento, Morte, Canonização ou Beatificação, Festa Litúrgica), seções Biografia, Cidades por onde passou e Impacto Hoje, Milagres (ou Martírio), e um `<MiracleMap>` com pinos válidos
+- Imagens sempre locais, dentro de `imagens/` do verbete; o validador recusa imagem externa
+- Máximo 150 linhas por arquivo; separe responsabilidades por camada
+- Fluxo Plan -> Act -> Validate; toda mudança passa por `npm test` e `npm run docs:build`
+- Dados sensíveis ficam fora do contexto (chaves, tokens, dados pessoais)
 
-1. **Size Limit**: **Max 150 lines per file**.
-2. **Clean Logic**: Separation of concerns enforced across all layers.
-3. **Validation**: All changes require successful tests and linting.
-4. **Security**: Sensitive data must be excluded from context.
-
-## 🤝 Interaction Protocol
-- Follow the **Plan -> Act -> Validate** cycle for every task.
-- Consult `GEMINI.md` for project-specific instructions.
-=======
-```markdown
-# AGENTS.md File Guidelines
-
-These guidelines are designed to ensure consistent, maintainable, and high-quality code for the AGENTS repository. Adherence to these principles is crucial for collaborative development and long-term project success.
-
-**1. DRY (Don't Repeat Yourself)**
-
-*   All functions, classes, and modules should have single, well-defined responsibilities.
-*   Code should be self-contained and reusable.
-*   Avoid duplicating logic across multiple files.
-*   When necessary, leverage existing components or abstractions to minimize duplication.
-
-**2. KISS (Keep It Simple, Stupid)**
-
-*   Prioritize simplicity and readability.
-*   Favor clear and concise code over complex solutions.
-*   Keep functions and classes short and focused.
-*   Avoid unnecessary complexity.
-
-**3. SOLID Principles**
-
-*   **Single Responsibility Principle:** Each class or module should have one and only one reason to change.
-*   **Open/Closed Principle:** Classes and modules should be open for extension but closed for modification.
-*   **Liskov Substitution Principle:**  Subclasses should be substitutable for their base classes without altering the correctness of the program.
-*   **Interface Segregation Principle:** Client code should not be required to marshal to interfaces they do not use.
-*   **Dependency Inversion Principle:** High-level modules should be dependent on abstractions, not concrete classes.
-
-**4. YAGNI (You Aren't Gonna Need It)**
-
-*   Only implement functionality that is currently required.
-*   Avoid adding features or code without a clear, demonstrable need.
-*   Refactor only when necessary to eliminate existing unnecessary complexity.
-
-**5. Code Structure & Formatting**
-
-*   **File Size Limit:** Each file must not exceed 180 lines of code.
-*   **Comments:**  Provide concise, descriptive comments where necessary, but avoid overly verbose explanations.  Comments should explain *why* the code is doing something, not *what* it is doing (the code itself should be clear).
-*   **Naming Conventions:** Follow established naming conventions (e.g., camelCase for variables and functions, PascalCase for classes).  Consistent naming is crucial for understanding.
-*   **Indentation:** Use 2 spaces for indentation.  Do not use tabs.
-*   **Whitespace:**  Use whitespace strategically to improve readability.
-*   **Blank Lines:**  Use blank lines to separate logical sections of code.
-
-**6. Testing & Coverage**
-
-*   **Unit Tests:** All core functions and classes should have comprehensive unit tests covering all critical paths.
-*   **Test Coverage:**  Aim for at least 80% code coverage.  Tools like `coverage.py` should be used to measure and track coverage.
-*   **Test-Driven Development:** Prioritize writing tests *before* implementing the functionality.
-*   **Test Isolation:** Each test case should focus on a single aspect of the code being tested.
-
-**7. Production-Ready Practices**
-
-*   **Error Handling:** Implement robust error handling to gracefully handle unexpected situations.  Log errors effectively.
-*   **Logging:**  Use a logging framework consistently and effectively to track program state and events.
-*   **Documentation:**  Provide clear and concise documentation, including API documentation where appropriate.
-*   **Versioning:**  Use a version control system (Git) and adhere to established versioning practices.
-*   **Code Reviews:** Conduct regular code reviews to ensure quality and identify potential issues.
-
-**8.  Specific Requirements**
-
-*   **Data Structures:** Utilize appropriate data structures for optimal performance.
-*   **Algorithms:**  Choose efficient algorithms where possible.
-*   **Concurrency/Parallelism:**  Consider concurrency/parallelism using appropriate techniques (e.g., threading, asynchronous programming) only when necessary and with careful consideration of potential race conditions and deadlocks.
-*   **State Management:** Implement state management effectively to avoid state inconsistencies.
-
-**9.  Code Style Guide**
-
-*   [Link to existing coding style guide, if applicable]
-
-**10.  Additional Notes**
-
-*   This document is intended to be a reference, not a rigid set of rules. Adapt and refine these guidelines as needed.
-*   Collaboration is key.  Communicate any challenges or concerns openly.
-*   Regularly review and update these guidelines to reflect evolving best practices.
-
-```
->>>>>>> 3875e2d05e6b7e9c4f3616816000cde6dd02aed6
+## Gotchas
+- `pages.yml` publica só em push para `master`; PRs só testam e buildam
+- Ao criar ou remover um verbete, rode `npm run conteudo:indices`: ele reescreve `docs/.vitepress/config.js`, `docs/santos/index.md`, `docs/beatos/index.md` e a tabela do README. Não edite esses trechos à mão
+- Favoritos ficam no `localStorage` do navegador; não há backend
+- `engines` aceita Node >=18, mas o projeto usa Node 20 (`.nvmrc`)
+- `docs/.vitepress/cache/` e `dist/` são gerados e já estão no `.gitignore`
 
 <!-- base-actions-main-policy -->
 ## GitHub Actions — padrão obrigatório (@main)
