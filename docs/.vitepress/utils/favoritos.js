@@ -26,7 +26,9 @@ let carregado = false
 export function useFavoritos() {
   if (inBrowser && !carregado) {
     carregado = true
-    favoritos.value = ler('sb:favoritos', [])
+    // A value left by another version (null, object) would break every eFavorito call.
+    const salvos = ler('sb:favoritos', [])
+    favoritos.value = Array.isArray(salvos) ? salvos.filter((u) => typeof u === 'string') : []
     watch(favoritos, (v) => gravar('sb:favoritos', v), { deep: true })
   }
   const eFavorito = (url) => favoritos.value.includes(url)
