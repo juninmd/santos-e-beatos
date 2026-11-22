@@ -22,8 +22,11 @@ function coletarTexto() {
   if (!doc) return ''
   secoes = []
   let acumulado = ''
-  for (const el of doc.querySelectorAll('h2, p, li, blockquote')) {
+  const blocos = 'h2, p, li, blockquote'
+  for (const el of doc.querySelectorAll(blocos)) {
     if (el.closest('.sb-player, .miracle-map-wrapper')) continue
+    // <blockquote><p> and <li><p>: the outer block's innerText already has the inner one.
+    if (el.parentElement?.closest(blocos)) continue
     if (el.tagName === 'H2') secoes.push({ pos: acumulado.length, nome: el.textContent.replace(/#$/, '').trim() })
     acumulado += el.innerText.trim() + '\n'
   }
