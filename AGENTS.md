@@ -1,45 +1,45 @@
 # AGENTS.md
 
-Portal estático (VitePress) com biografias, milagres e mapas de 419 santos e beatos católicos, em português. Sem backend nem banco de dados: o conteúdo é Markdown.
+Static site (VitePress) with biographies, miracles and maps of 419 Catholic saints and blesseds, in Portuguese. No backend or database: content is Markdown.
 
 ## Stack
-- Node.js 20 (`.nvmrc`), npm com `package-lock.json`
-- VitePress 1.6 (site em `docs/`), Leaflet (mapas), Playwright (devDependency)
-- GitHub Pages para publicação
+- Node.js 20 (`.nvmrc`), npm with `package-lock.json`
+- VitePress 1.6 (site in `docs/`), Leaflet (maps), Playwright (devDependency)
+- GitHub Pages for publishing
 
 ## Commands
 - Setup: `npm ci`
 - Dev: `npm run docs:dev`
-- Build: `npm run docs:build` (o CI passa `BASE_PATH=/<repo>/`)
+- Build: `npm run docs:build` (CI sets `BASE_PATH=/<repo>/`)
 - Preview: `npm run docs:preview`
-- Test: `npm test` (valida todas as páginas e roda `node --test scripts/readme.test.mjs`)
-- Só validar conteúdo: `npm run conteudo:verificar`
-- Regenerar: `npm run conteudo:indices` (índices e sidebar), `npm run conteudo:retratos` (cartões SVG)
-- Lint e typecheck: não configurados
+- Test: `npm test` (validates every page, then runs `node --test scripts/readme.test.mjs`)
+- Content check only: `npm run conteudo:verificar`
+- Regenerate: `npm run conteudo:indices` (indexes and sidebar), `npm run conteudo:retratos` (SVG cards)
+- Lint and typecheck: not configured
 
 ## Structure
-- `docs/santos/<slug>/index.md` e `docs/beatos/<slug>/index.md`: um verbete por pessoa, com `imagens/` ao lado
-- `docs/.vitepress/`: `config.js` (navegação e sidebar), `components/`, `theme/` (CSS), `utils/`
-- `docs/*.md` e `docs/*.data.js`: home, explorar, calendário, mapa, grafo e loaders de dados
-- `scripts/`: validador de conteúdo, geradores de índices e retratos, teste do README
-- `docs/readme/`, `docs/prints/`: imagens do README
-- `.github/workflows/`: `pages.yml` (testa, builda, publica), `validate.yml`, `sast.yml`, `security.yml`
+- `docs/santos/<slug>/index.md` and `docs/beatos/<slug>/index.md`: one entry per person, with `imagens/` beside it
+- `docs/.vitepress/`: `config.js` (navigation, sidebar), `components/`, `theme/` (CSS), `utils/`
+- `docs/*.md` and `docs/*.data.js`: home, explore, calendar, map, graph pages and data loaders
+- `scripts/`: content validator, index and portrait generators, README test
+- `docs/readme/`, `docs/prints/`: README images
+- `.github/workflows/`: `pages.yml` (test, build, publish), `validate.yml`, `sast.yml`, `security.yml`
 
 ## Conventions
-- Conteúdo e UI em pt-BR; código e comentários seguem os scripts existentes (português)
-- Commits: Conventional Commits, assunto minúsculo (ex.: `fix(favoritos): ...`)
-- Verbete: frontmatter com `title` e `description`, um H1, citação, `<TextToSpeech />`, campos de datas (Nascimento, Morte, Canonização ou Beatificação, Festa Litúrgica), seções Biografia, Cidades por onde passou e Impacto Hoje, Milagres (ou Martírio), e um `<MiracleMap>` com pinos válidos
-- Imagens sempre locais, dentro de `imagens/` do verbete; o validador recusa imagem externa
-- Máximo 150 linhas por arquivo; separe responsabilidades por camada
-- Fluxo Plan -> Act -> Validate; toda mudança passa por `npm test` e `npm run docs:build`
-- Dados sensíveis ficam fora do contexto (chaves, tokens, dados pessoais)
+- Content and UI text in Portuguese (pt-BR); scripts and comments in Portuguese, as they already are
+- Commits: Conventional Commits with a lowercase subject (e.g. `fix(favoritos): ...`)
+- Each entry needs frontmatter with `title` and `description`, one H1, a quote, `<TextToSpeech />`, date fields (Nascimento, Morte, Canonização or Beatificação, Festa Litúrgica), sections Biografia, Cidades por onde passou and Impacto Hoje, Milagres (or Martírio), and a `<MiracleMap>` with valid pins
+- Images are always local, inside the entry's `imagens/`; the validator rejects external images
+- Maximum 150 lines per file; separate responsibilities by layer
+- Workflow: Plan -> Act -> Validate; every change passes `npm test` and `npm run docs:build`
+- Sensitive data (keys, tokens, personal data) stays out of context
 
 ## Gotchas
-- `pages.yml` publica só em push para `master`; PRs só testam e buildam
-- Ao criar ou remover um verbete, rode `npm run conteudo:indices`: ele reescreve `docs/.vitepress/config.js`, `docs/santos/index.md`, `docs/beatos/index.md` e a tabela do README. Não edite esses trechos à mão
-- Favoritos ficam no `localStorage` do navegador; não há backend
-- `engines` aceita Node >=18, mas o projeto usa Node 20 (`.nvmrc`)
-- `docs/.vitepress/cache/` e `dist/` são gerados e já estão no `.gitignore`
+- `pages.yml` publishes only on push to `master`; PRs only test and build
+- After adding or removing an entry, run `npm run conteudo:indices`. It rewrites `docs/.vitepress/config.js`, `docs/santos/index.md`, `docs/beatos/index.md` and the README list. Do not edit those parts by hand
+- Favorites are stored in the browser's `localStorage`; there is no backend
+- `engines` accepts Node >=18, but the project uses Node 20 (`.nvmrc`)
+- `docs/.vitepress/cache/` and `dist/` are generated and already in `.gitignore`
 
 <!-- base-actions-main-policy -->
 ## GitHub Actions — padrão obrigatório (@main)
